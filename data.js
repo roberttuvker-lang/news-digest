@@ -1,0 +1,6 @@
+window.NEWS_DATA = {
+  "version": 1,
+  "updated": "2026-07-23T13:33:28Z",
+  "stories": [],
+  "runs": []
+};

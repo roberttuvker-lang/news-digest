@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News digest</title>
+<style>
+  :root {
+    --bg: #fbfaf8;
+    --card: #ffffff;
+    --ink: #1b1a18;
+    --muted: #6c6862;
+    --line: #e6e2dc;
+    --accent: #b4531f;
+    --chip: #f1eee9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161513;
+      --card: #1f1e1b;
+      --ink: #ece9e4;
+      --muted: #97918a;
+      --line: #302e2a;
+      --accent: #e08a51;
+      --chip: #292723;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0 1rem 4rem;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap { max-width: 46rem; margin: 0 auto; }
+
+  header { padding: 2rem 0 1.25rem; }
+  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -0.02em; }
+  .sub { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.85rem; }
+
+  .controls {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg);
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 1.5rem;
+  }
+  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.6rem; }
+  .chip {
+    border: 1px solid var(--line); background: var(--chip); color: var(--ink);
+    border-radius: 999px; padding: 0.3rem 0.85rem;
+    font-size: 0.82rem; cursor: pointer; font-family: inherit;
+  }
+  .chip[aria-pressed="true"] {
+    background: var(--accent); border-color: var(--accent); color: #fff;
+  }
+  #search {
+    width: 100%; padding: 0.5rem 0.7rem; font: inherit; font-size: 0.9rem;
+    border: 1px solid var(--line); border-radius: 0.4rem;
+    background: var(--card); color: var(--ink);
+  }
+
+  .day { margin-bottom: 2.25rem; }
+  .day > h2 {
+    font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--muted); font-weight: 600;
+    margin: 0 0 0.75rem; padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .run { margin-bottom: 1.25rem; }
+  .badge {
+    display: inline-block; font-size: 0.68rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.07em;
+    padding: 0.16rem 0.5rem; border-radius: 0.25rem;
+    background: var(--chip); color: var(--muted);
+    margin-bottom: 0.6rem;
+  }
+  .badge.ai { background: var(--accent); color: #fff; }
+
+  .cat {
+    font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--muted);
+    margin: 1rem 0 0.5rem;
+  }
+
+  article {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 0.5rem;
+    padding: 0.9rem 1rem;
+    margin-bottom: 0.6rem;
+  }
+  article h3 { margin: 0 0 0.35rem; font-size: 1rem; line-height: 1.35; }
+  article p { margin: 0 0 0.5rem; font-size: 0.92rem; color: var(--ink); }
+  article a.src {
+    font-size: 0.8rem; color: var(--accent); text-decoration: none;
+    word-break: break-word;
+  }
+  article a.src:hover { text-decoration: underline; }
+
+  /* `display:block` beats the hidden attribute's UA rule — without this the
+     button stays on screen when there is nothing more to show. */
+  .more[hidden] { display: none; }
+  .more {
+    display: block; width: 100%; margin-top: 1rem;
+    padding: 0.7rem; font: inherit; font-size: 0.88rem;
+    background: var(--chip); color: var(--ink);
+    border: 1px solid var(--line); border-radius: 0.4rem; cursor: pointer;
+  }
+  .empty { color: var(--muted); padding: 2rem 0; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>News digest</h1>
+    <p class="sub" id="meta"></p>
+  </header>
+
+  <div class="controls">
+    <div class="chips" id="filters">
+      <button class="chip" data-filter="all" aria-pressed="true">All</button>
+      <button class="chip" data-filter="ai" aria-pressed="false">AI</button>
+      <button class="chip" data-filter="good" aria-pressed="false">Good news</button>
+    </div>
+    <input id="search" type="search" placeholder="Search headlines and sources…"
+           autocomplete="off" spellcheck="false">
+  </div>
+
+  <main id="out"></main>
+  <button class="more" id="more" hidden>Show everything</button>
+</div>
+
+<!-- data.js, not fetch('data.json'): a <script src> works from file:// too,
+     fetch does not. The local clone has to open by double-click. -->
+<script src="data.js"></script>
+<script>
+(function () {
+  var DATA = window.NEWS_DATA || { stories: [], runs: [], updated: null };
+  var RECENT_DAYS = 60;
+
+  var RUN_LABEL = {
+    ai: "Weekly AI roundup",
+    morning: "Morning",
+    midday: "Midday",
+    afternoon: "Afternoon"
+  };
+  var CAT_ORDER = ["Models", "Tools", "Companies", "Policy"];
+
+  var filter = "all";
+  var query = "";
+  var showAll = false;
+
+  var out = document.getElementById("out");
+  var moreBtn = document.getElementById("more");
+
+  function cutoff() {
+    var d = new Date();
+    d.setDate(d.getDate() - RECENT_DAYS);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function prettyDate(iso) {
+    var d = new Date(iso + "T12:00:00Z");
+    if (isNaN(d)) return iso;
+    // Pinned to en-GB: the system locale here is Hebrew, which is not what
+    // these briefings are written in.
+    return d.toLocaleDateString("en-GB", {
+      weekday: "long", day: "numeric", month: "long", year: "numeric"
+    });
+  }
+
+  function matches(s) {
+    if (filter === "ai" && s.stream !== "ai") return false;
+    if (filter === "good" && s.stream === "ai") return false;
+    if (query) {
+      var hay = (s.headline + " " + (s.blurb || "") + " " + (s.source || "")).toLowerCase();
+      if (hay.indexOf(query) === -1) return false;
+    }
+    return true;
+  }
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+
+  function card(s) {
+    var a = el("article");
+    a.appendChild(el("h3", null, s.headline));
+    if (s.blurb) a.appendChild(el("p", null, s.blurb));
+    var link = el("a", "src", s.source || s.url);
+    link.href = s.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    a.appendChild(link);
+    return a;
+  }
+
+  function render() {
+    out.innerHTML = "";
+
+    var stories = DATA.stories.filter(matches);
+    if (!showAll) {
+      var since = cutoff();
+      stories = stories.filter(function (s) { return s.date >= since; });
+    }
+
+    var hiddenByWindow = DATA.stories.filter(matches).length - stories.length;
+    moreBtn.hidden = showAll || hiddenByWindow <= 0;
+    moreBtn.textContent = "Show everything (" + hiddenByWindow + " older)";
+
+    if (!stories.length) {
+      out.appendChild(el("p", "empty",
+        DATA.stories.length ? "Nothing matches." : "Nothing logged yet."));
+      return;
+    }
+
+    // Group by date, then by STREAM within the date — not by run. The morning
+    // routine uses one run name for both of its branches, so grouping by run
+    // files the Sunday AI roundup and the weekday good news together.
+    var days = {};
+    var dayOrder = [];
+    stories.forEach(function (s) {
+      if (!days[s.date]) { days[s.date] = {}; dayOrder.push(s.date); }
+      var g = days[s.date];
+      if (!g[s.stream]) g[s.stream] = [];
+      g[s.stream].push(s);
+    });
+    dayOrder.sort().reverse();
+
+    dayOrder.forEach(function (date) {
+      var day = el("section", "day");
+      day.appendChild(el("h2", null, prettyDate(date)));
+
+      Object.keys(days[date]).forEach(function (stream) {
+        var items = days[date][stream];
+        var run = el("div", "run");
+        var badge = el("span", "badge" + (stream === "ai" ? " ai" : ""),
+                       RUN_LABEL[stream] || stream);
+        run.appendChild(badge);
+
+        var categorised = items.some(function (s) { return s.category; });
+        if (categorised) {
+          CAT_ORDER.forEach(function (cat) {
+            var inCat = items.filter(function (s) { return s.category === cat; });
+            if (!inCat.length) return;                 // omit empty groups
+            run.appendChild(el("div", "cat", cat));
+            inCat.forEach(function (s) { run.appendChild(card(s)); });
+          });
+          var uncat = items.filter(function (s) { return CAT_ORDER.indexOf(s.category) === -1; });
+          uncat.forEach(function (s) { run.appendChild(card(s)); });
+        } else {
+          items.forEach(function (s) { run.appendChild(card(s)); });
+        }
+
+        day.appendChild(run);
+      });
+
+      out.appendChild(day);
+    });
+  }
+
+  document.getElementById("filters").addEventListener("click", function (e) {
+    var btn = e.target.closest(".chip");
+    if (!btn) return;
+    filter = btn.dataset.filter;
+    Array.prototype.forEach.call(this.querySelectorAll(".chip"), function (c) {
+      c.setAttribute("aria-pressed", String(c === btn));
+    });
+    render();
+  });
+
+  document.getElementById("search").addEventListener("input", function () {
+    query = this.value.trim().toLowerCase();
+    render();
+  });
+
+  moreBtn.addEventListener("click", function () {
+    showAll = true;
+    render();
+  });
+
+  document.getElementById("meta").textContent =
+    DATA.stories.length + " stories" +
+    (DATA.updated ? " · updated " + DATA.updated.replace("T", " ").replace("Z", " UTC") : "");
+
+  render();
+})();
+</script>
+</body>
+</html>
