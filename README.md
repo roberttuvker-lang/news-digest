@@ -4,7 +4,7 @@ Where the three Claude Code cloud routines put their briefings, so there is some
 open instead of a session transcript that vanishes — and so the same story never gets
 reported twice.
 
-**Read it:** https://dovid.github.io/news-digest/ *(replace with the real username)*
+**Read it:** https://roberttuvker-lang.github.io/news-digest/
 **Local clone:** `C:\Users\dovid\news-digest\index.html` — opens by double-click, offline.
 
 ## The routines

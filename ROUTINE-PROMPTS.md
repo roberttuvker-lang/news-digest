@@ -4,7 +4,7 @@ Ready to apply to the existing cloud routines via the `schedule` skill (`update`
 so the IDs and run history survive). The content briefs below are the originals, unchanged;
 everything around them is new.
 
-Attach this repo to all three: `https://github.com/USERNAME/news-digest`
+Attach this repo to all three: `https://github.com/roberttuvker-lang/news-digest`
 `allowed_tools` already includes everything needed (`Bash`, `Read`, `Write`, `WebSearch`,
 `WebFetch`). Model stays `claude-sonnet-5`.
 
