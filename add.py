@@ -157,7 +157,10 @@ def cmd_add(args):
         return 1
 
     data = load()
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today = args.date or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", today):
+        print("--date must be YYYY-MM-DD, got %r" % today, file=sys.stderr)
+        return 1
     window = (datetime.now(timezone.utc) - timedelta(days=TITLE_WINDOW_DAYS)).strftime("%Y-%m-%d")
 
     existing_urls = {s["url_key"] for s in data["stories"]}
@@ -298,6 +301,8 @@ def main():
     p.add_argument("--run", required=True)
     p.add_argument("--max", type=int, default=3)
     p.add_argument("--in", dest="infile", default="candidates.json")
+    p.add_argument("--date", default=None,
+                   help="YYYY-MM-DD to backdate a historical briefing; defaults to today")
     p.set_defaults(func=cmd_add)
 
     p = sub.add_parser("verify", help="check the store is intact")
