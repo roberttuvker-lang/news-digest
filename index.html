@@ -95,6 +95,9 @@
   }
   article h3 { margin: 0 0 0.35rem; font-size: 1rem; line-height: 1.35; }
   article p { margin: 0 0 0.5rem; font-size: 0.92rem; color: var(--ink); }
+  article ul.bullets { margin: 0.35rem 0 0.55rem; padding-left: 1.1rem; }
+  article ul.bullets li { font-size: 0.9rem; margin-bottom: 0.3rem; }
+  article .srcs { display: flex; flex-wrap: wrap; gap: 0.3rem 0.8rem; }
   article a.src {
     font-size: 0.8rem; color: var(--accent); text-decoration: none;
     word-break: break-word;
@@ -143,7 +146,7 @@
   var RECENT_DAYS = 60;
 
   var RUN_LABEL = {
-    ai: "Weekly AI roundup",
+    ai: "AI",
     morning: "Morning",
     midday: "Midday",
     afternoon: "Afternoon"
@@ -190,15 +193,34 @@
     return n;
   }
 
+  function srcLink(text, href) {
+    var link = el("a", "src", text);
+    link.href = href;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    return link;
+  }
+
   function card(s) {
     var a = el("article");
     a.appendChild(el("h3", null, s.headline));
     if (s.blurb) a.appendChild(el("p", null, s.blurb));
-    var link = el("a", "src", s.source || s.url);
-    link.href = s.url;
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-    a.appendChild(link);
+
+    // A briefing-style entry carries a bulleted item list...
+    if (s.bullets && s.bullets.length) {
+      var ul = el("ul", "bullets");
+      s.bullets.forEach(function (b) { ul.appendChild(el("li", null, b)); });
+      a.appendChild(ul);
+    }
+
+    // ...and may cite several sources rather than one.
+    if (s.links && s.links.length) {
+      var row = el("div", "srcs");
+      s.links.forEach(function (l) { row.appendChild(srcLink(l.text || l.url, l.url)); });
+      a.appendChild(row);
+    } else {
+      a.appendChild(srcLink(s.source || s.url, s.url));
+    }
     return a;
   }
 

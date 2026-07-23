@@ -1,7 +1,1326 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-23T17:58:23Z",
+  "updated": "2026-07-23T18:05:37Z",
   "stories": [
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-24",
+      "headline": "AI briefing — 24 Jun",
+      "blurb": "",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-06-24",
+      "title_key": "ai briefing 24 jun 2026 06 24",
+      "bullets": [
+        "Anthropic Fable 5 goes paywalled — As of June 23, Fable 5 is no longer included in Pro/Max/Team/Enterprise subscriptions; now requires usage credits at $10/$50 per million input/output tokens (2x the cost of Opus 4.8). Relevant for any client deployments relying on subscription access.",
+        "Google Gemini 3.5 Pro — Still in limited Vertex AI enterprise preview; GA window is June 23–30. Features a 2M-token context window (largest in production) and a Deep Think reasoning mode.",
+        "US government export restriction — Washington pulled Anthropic's top models (Fable 5, Mythos 5) from international availability ~10 days ago; China retaliated by blacklisting 56 US tech firms. Watch for client impact in non-US deployments.",
+        "Apple unveiled Siri AI at WWDC 2026 (June 8) — Rebuilt Siri powered by Google Gemini, launching in the US later this year. Not available in EU or China at launch.",
+        "GitHub Copilot went GA for macOS/Windows/Linux, plus new Agent Finder for discovering ranked agent tools and MCP servers.",
+        "Microsoft Copilot Cowork hit general availability as an AI coworker layer in Microsoft 365.",
+        "SpaceX acquired Cursor (Anysphere) for $60B in all-stock — largest AI dev-tools acquisition to date; closing expected Q3 2026.",
+        "OpenAI filing for IPO confidentially with Goldman Sachs/Morgan Stanley, targeting September 2026 at $1T+ valuation.",
+        "Anthropic confidentially filed for IPO following its $65B Series H (post-money valuation: ~$965B).",
+        "Oracle cut 21,000 jobs (~13% of workforce) directly attributed to AI deployment; CapEx up 162% on AI infrastructure. Signal: enterprise AI adoption is accelerating headcount reductions.",
+        "Trump EO 14409 (June 2) — Promotes AI innovation, reduces federal constraints on AI developers, preempts state-level AI regulation.",
+        "Colorado SB 26-189 — State repealed its sweeping AI governance law and replaced it with a narrower automated decision-making statute, effective January 1, 2027.",
+        "Meta paused an employee-tracking AI program after a security breach exposed sensitive laptop data used to train the model — a cautionary data governance case."
+      ],
+      "links": [
+        {
+          "text": "AI News Today June 23 2026: 15 Biggest Stories",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026"
+        },
+        {
+          "text": "Claude Fable 5 Paywall June 22, 2026",
+          "url": "https://andrew.ooo/answers/claude-fable-5-credits-paywall-june-22-2026/"
+        },
+        {
+          "text": "Claude Fable 5 Pricing & Benchmarks",
+          "url": "https://claudefa.st/blog/models/claude-fable-5-mythos-5"
+        },
+        {
+          "text": "Apple unveils next generation of Apple Intelligence, Siri AI",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/"
+        },
+        {
+          "text": "WWDC 2026: Everything announced",
+          "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+        },
+        {
+          "text": "June 2026 AI Launch Wave",
+          "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
+        },
+        {
+          "text": "Promoting Advanced AI Innovation and Security — White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "AI Startup Funding News Today",
+          "url": "https://aifundingtracker.com/ai-startup-funding-news-today/"
+        },
+        {
+          "text": "New Models Today — Last 24 Hours",
+          "url": "https://pricepertoken.com/news/model-releases"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-25",
+      "headline": "AI briefing — 25 Jun",
+      "blurb": "",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-06-25",
+      "title_key": "ai briefing 25 jun 2026 06 25",
+      "bullets": [
+        "Gemini 3.5 Pro — Google's most capable model expected to launch imminently; Sundar Pichai confirmed \"give us until next month\" at Google I/O in May. Watch for announcement any day.",
+        "Gemini 3.5 Flash — Now GA and the default model powering the Gemini app and Google's AI Mode in Search.",
+        "GLM-5.2 — Zhipu AI released June 13 under MIT license; 1M token context window, open-source and competitive with top-tier proprietary models.",
+        "Codestral — Mistral's new code-focused model released this month; worth evaluating for dev workflow integrations.",
+        "SpaceX acquired Cursor (Anysphere) for $60B all-stock (June 16) — largest AI tool acquisition to date. Cursor had reached ~$4B annualized revenue. Major signal on the value of AI coding tools.",
+        "Andrej Karpathy joined Anthropic to return to frontier LLM R&D — significant talent signal for Anthropic's research trajectory.",
+        "Anthropic + Microsoft — Early talks to run Claude inference on Microsoft's custom Maia 200 AI chips via Azure. Could shift enterprise Claude pricing/availability.",
+        "OpenAI acquired uv and ruff — Python's most popular package installer and linter. Consolidating developer toolchain control.",
+        "Reflection AI raised $2B at $8B valuation — focused on AI-automated software development. Former DeepMind founders.",
+        "Shield AI raised $1.5B Series G ($12.7B valuation) — autonomous pilot platform selected by U.S. Air Force. Defense AI accelerating.",
+        "DeepInfra raised $107M Series B — inference cloud processing ~5 trillion tokens/week, revenue tripled in H1 2026.",
+        "Amazon custom silicon surpassed $20B ARR, growing 100%+ YoY — major commitments from OpenAI, Anthropic, Meta, Uber.",
+        "Google paying SpaceX $920M/month for compute — Starlink/Starshield infrastructure becoming a serious AI compute play.",
+        "Qualcomm in early talks to acquire Tenstorrent for $8–10B — RISC-V AI chip company led by Jim Keller; could reshape edge AI silicon.",
+        "NAVER + NVIDIA announced sovereign AI data center expansion in South Korea using NVIDIA DSX, starting at 55MW scaling to gigawatt capacity.",
+        "Trump EO (June 2) — \"Promoting Advanced AI Innovation and Security\": AI developers must share new models with the federal government 30 days before other partners. National security agencies building AI risk evaluation framework.",
+        "Colorado AI Act goes live June 30 — Requires reasonable care to prevent algorithmic discrimination. Applies to developers and deployers. First comprehensive state AI law in the U.S. to take effect.",
+        "Federal vs. State tension escalating — White House AG AI litigation task force announced to challenge state AI laws deemed inconsistent with federal policy. Colorado in the crosshairs.",
+        "NYC DOE bias review mandate — All AI tools must pass bias and equity review before deployment across 1.1M students. Compliance playbook coming this month.",
+        "OpenAI, Google, Anthropic midterm prep — All three published plans for handling 2026 U.S. midterm elections; content policies and synthetic media safeguards in focus.",
+        "The Colorado AI Act compliance deadline (June 30) is 5 days away — clients deploying AI in CO need to act now.",
+        "Cursor's acquisition by SpaceX may disrupt enterprise dev tool procurement decisions.",
+        "The 30-day federal pre-clearance requirement in Trump's EO creates new enterprise risk when adopting cutting-edge models at launch."
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today – llm-stats.com",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "Promoting Advanced AI Innovation and Security – White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "Q1 2026 Shatters Venture Funding Records – Crunchbase",
+          "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+        },
+        {
+          "text": "Google will pay SpaceX $920M/month – TechCrunch",
+          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+        },
+        {
+          "text": "Anthropic expands Google/Broadcom compute partnership",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+        },
+        {
+          "text": "2026 AI Laws Update – Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "Battle for AI Governance – Vorys",
+          "url": "https://www.vorys.com/publication-battle-for-ai-governance-white-houses-plan-to-centralize-ai-regulation-and-states-continuous-opposition"
+        },
+        {
+          "text": "June 2026 AI Launch Wave – WaveSpeed",
+          "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-26",
+      "headline": "AI briefing — 26 Jun",
+      "blurb": "",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "techcrunch.com",
+      "url_key": "ai-brief-2026-06-26",
+      "title_key": "ai briefing 26 jun 2026 06 26",
+      "bullets": [
+        "OpenAI + Broadcom unveil \"Jalapeño\" — OpenAI's first custom AI inference chip, co-developed in just 9 months (claimed fastest ASIC cycle ever). Built to reduce Nvidia dependency; targets better performance-per-watt for ChatGPT serving. Initial deployment end of 2026, full ramp 2027-28. Direct Nvidia challenger. (TechCrunch · CNBC)",
+        "Qualcomm acquires Modular (~$4B) — Bolsters Qualcomm's AI software stack and data center ambitions. Deal expected to close H2 2026. (CNBC)",
+        "Anthropic files confidential S-1 — IPO process officially started after closing $65B Series H at a $965B valuation. Run-rate revenue now above $30B. (Anthropic)",
+        "Figma major AI update — New code layers, motion/shader support, custom AI plugin creation. Accelerates design-to-code workflows. (TechCrunch)",
+        "Meta \"AI Mode\" on Facebook — AI-powered search across public posts now rolling out. (TechCrunch)",
+        "Gemini 3.5 Pro — Imminent Google release confirmed by Sundar Pichai; no exact date yet. (llm-stats.com)",
+        "EU AI Act transparency rules — Take effect August 2026. Includes mandatory labeling of AI-generated content; Code of Practice published this month. (EU Digital Strategy)",
+        "Great American AI Act (GAAIA) — Bipartisan draft bill proposes first federal AI framework covering frontier AI governance, cybersecurity, and workforce. Includes 3-year preemption of state AI laws. (McDonald Hopkins)",
+        "Colorado AI law revised — Original comprehensive law repealed; replaced with narrower automated decision-making statute, now effective Jan 1, 2027. (Verifywise)",
+        "Engineering jobs data — New analysis shows engineering roles are the most resilient job category despite AI, making up 55% of major tech hires in 2025 vs. 46% in 2019. Counternarrative worth having for client conversations. (TechCrunch)"
+      ],
+      "links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html"
+        },
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+        },
+        {
+          "text": "llm-stats.com",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "EU Digital Strategy",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        },
+        {
+          "text": "McDonald Hopkins",
+          "url": "https://www.mcdonaldhopkins.com/insights/news/the-great-american-ai-act-what-businesses-need-to-know"
+        },
+        {
+          "text": "Verifywise",
+          "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-27",
+      "headline": "AI briefing — 27 Jun",
+      "blurb": "The dual story this week is U.S. government restriction of frontier models creating an opening for Chinese alternatives (Zhipu especially), while the Colorado AI Act creates immediate compliance urgency for clients. The DeepMind brain drain and Big Tech market pressure are worth watching for knock-on effects on model pricing and roadmaps.",
+      "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+      "source": "cnbc.com",
+      "url_key": "ai-brief-2026-06-27",
+      "title_key": "ai briefing 27 jun 2026 06 27",
+      "bullets": [
+        "OpenAI quietly limited access to its GPT-5.6 models following a U.S. government request — mirrors Anthropic's earlier Fable 5/Mythos 5 pullback",
+        "Both restrictions stem from the June 12 export-control directive barring frontier model access for foreign nationals; Anthropic disabled both models globally after being unable to filter users in real time",
+        "Zhipu's GLM-5.2 (MIT license, 1M token context) is now within 1 percentage point of Anthropic's Opus 4.8 on key agentic benchmarks — at roughly 1/5 the cost; OpenRouter traffic climbing faster than post-DeepSeek",
+        "U.S. export restrictions are giving Chinese labs room to run while frontier labs throttle access",
+        "Nobel laureate John Jumper departing Google DeepMind for Anthropic — latest in a string of senior researcher defections raising questions about DeepMind's long-term trajectory",
+        "Big Tech's AI infrastructure bet is under pressure: Magnificent Seven + Broadcom + Oracle have shed ~$2.7 trillion in market cap in June as investors scrutinize ROI on data center spend",
+        "Anthropic confirmed a confidential IPO filing (Series H valued at ~$965B); targeting profitability in Q2 2026 (~$559M operating profit); OpenAI targeting September 2026 IPO",
+        "Colorado AI Act takes effect June 30 — algorithmic discrimination duties, risk management programs, and impact assessments required for AI deployers; worth flagging to any clients operating in the state",
+        "EU transparency requirements for high-risk AI systems kick in August 2, 2026",
+        "Google launched Gemini Enterprise Agent Platform with native plug-ins from Adobe, Atlassian, Salesforce, ServiceNow, and Workday",
+        "Apple confirmed next-gen Siri will be Gemini-powered, with Claude available as an alternative — first time Anthropic's models are an iPhone option"
+      ],
+      "links": [
+        {
+          "text": "CNBC — China's Zhipu closing in on top U.S. AI models",
+          "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html"
+        },
+        {
+          "text": "AI News Recap: June 26, 2026 — NeuralBuddies",
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-26-2026"
+        },
+        {
+          "text": "Google DeepMind talent departures — Fortune",
+          "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+        },
+        {
+          "text": "White House EO on AI Innovation and Security",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "2026 AI Laws Update — Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "Big Tech's $2.7T AI bill — Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html"
+        },
+        {
+          "text": "AI Updates Today — LLM Stats",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "New Models Last 24 Hours — Price Per Token",
+          "url": "https://pricepertoken.com/news/model-releases"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-28",
+      "headline": "AI briefing — 28 Jun",
+      "blurb": "",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-06-28",
+      "title_key": "ai briefing 28 jun 2026 06 28",
+      "bullets": [
+        "GPT-4.5 retired from ChatGPT as of June 27; all conversations migrated to GPT-5.5 equivalents",
+        "GPT-5.5 Pro / Instant now OpenAI's current lineup; GPT-5.6, Gemini 3.5 Pro, and Grok 5 all slipped to July",
+        "OpenAI's Jalapeño chip (custom AI inference silicon, built with Broadcom) unveiled this week — targeting 50% lower inference costs",
+        "Microsoft MAI suite — 7 in-house models launched June 2, including MAI-Thinking-1 (flagship reasoning model), competing directly with OpenAI and Anthropic on enterprise",
+        "SpaceX acquired Cursor (Anysphere) for $60B — largest VC-backed startup exit in history; gives SpaceX an enterprise AI coding foothold",
+        "Anthropic surpassed OpenAI in private valuation ($965B vs ~$852B) after closing Series H; also filed confidentially for IPO",
+        "OpenAI also filed a confidential S-1 for its IPO, following its March $852B private valuation",
+        "ChatGPT fell below 50% global market share for the first time — now at 46.4%; Gemini at 27.7%, Claude at 10.3%",
+        "Google DeepMind talent exodus — 4 senior departures in 6 days: Nobel laureate John Jumper and Jonas Adler/Alexander Pritzel to Anthropic; Noam Shazeer (Gemini co-lead) to OpenAI",
+        "Baseten raised $1.5B Series F (AI inference infrastructure)",
+        "Colorado AI Act (SB 24-205) takes effect June 30 — first U.S. comprehensive \"high-risk AI\" statute; relevant if any clients operate in Colorado",
+        "EU AI Act high-risk enforcement now ~5 weeks away — final push for compliance",
+        "Five Eyes intelligence alliance warned this week that AI could breach government/enterprise defenses within months (CNN, June 23)",
+        "AI CEOs sent joint letter to Congress demanding mandatory DNA synthesis screening — signals growing biosecurity concern in the AI community",
+        "Anthropic sent letter to Senate accusing Alibaba of 28.8M fraudulent model distillation exchanges",
+        "The Cursor/SpaceX deal validates AI coding tools as enterprise infrastructure — clients asking about AI coding copilots should be briefed",
+        "Anthropic's market share growth (10.3%) and IPO prep make Claude a serious enterprise conversation; the DeepMind talent drain further validates this",
+        "Colorado's law is active in 2 days — any client with CO operations and AI in \"high-risk\" categories (hiring, lending, insurance) needs immediate attention",
+        "EU AI Act high-risk deadline is the near-term compliance priority for any EU-facing clients"
+      ],
+      "links": [
+        {
+          "text": "AI News Today June 27 2026 – BuildFastWithAI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026"
+        },
+        {
+          "text": "John Jumper to leave Google DeepMind for Anthropic – CNBC",
+          "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html"
+        },
+        {
+          "text": "Google Poised to Lose Two More High-Profile AI Staffers to A",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
+        },
+        {
+          "text": "Anthropic and Google DeepMind CEOs at G7 – CNBC",
+          "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
+        },
+        {
+          "text": "AI Five Eyes Cyber Warning – CNN",
+          "url": "https://www.cnn.com/2026/06/23/world/ai-five-eyes-warning-cyber-threat-intl-hnk"
+        },
+        {
+          "text": "AI Biggest Funding Rounds – Crunchbase",
+          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+        },
+        {
+          "text": "AI Legislative Update June 26 – Transparency Coalition",
+          "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june26-2026"
+        },
+        {
+          "text": "LLM Updates June 2026 – LLM Stats",
+          "url": "https://llm-stats.com/llm-updates"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-29",
+      "headline": "AI briefing — 29 Jun",
+      "blurb": "The DeepMind brain drain and ChatGPT's market share drop are the most strategically significant signals this week — the competitive model landscape is reshuffling fast. The EU AI Act August deadline is an immediate compliance trigger for any EU-facing client work.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-06-29",
+      "title_key": "ai briefing 29 jun 2026 06 29",
+      "bullets": [
+        "Frontier delays across the board — GPT-5.6, Gemini 3.5 Pro, and Grok 5 all slipped from June into July. Worth flagging to clients expecting timeline-dependent deployments.",
+        "ChatGPT market share dropped below 50% for the first time, signaling a genuinely competitive multi-model landscape.",
+        "GPT-4.5 is gone from ChatGPT as of June 26; all conversations have migrated to GPT-5.5.",
+        "OpenAI unveiled \"Jalapeño\", a custom inference chip built with Broadcom targeting 50% lower inference costs.",
+        "Google DeepMind talent exodus accelerating — four senior departures in six days: Noam Shazeer (Transformer co-author, Gemini co-lead) → OpenAI; Nobel laureate John Jumper (AlphaFold) → Anthropic; Jonas Adler (Gemini coding lead) → Anthropic; Alexander Pritzel (Gemini pretraining) → Anthropic. DeepMind's top models now rank outside the top 5 on key benchmarks.",
+        "OpenAI IPO prep — confidentially filing in coming weeks with Goldman Sachs and Morgan Stanley; potential September 2026 listing.",
+        "xAI → Anthropic compute deal revealed — xAI is renting Anthropic 300MW of compute capacity for $1.25B/month through May 2029 (surfaced via SpaceX SEC filing).",
+        "Anthropic/Microsoft chip talks — early-stage discussions to run Claude inference on Microsoft's Maia 200 chips (claims 30%+ better perf/dollar vs. rivals).",
+        "SpaceX acquired Cursor for $60B — largest VC-backed startup acquisition in history; major signal of AI coding tool valuations.",
+        "EU AI Act high-risk enforcement is 5 weeks out (August 2 deadline) — critical infrastructure, employment, education systems must comply. Relevant for any client deployments in those categories.",
+        "Five Eyes intelligence warning — US and allied agencies stated AI-enabled cyberattacks capable of breaching government and enterprise defenses are \"months away, not years.\"",
+        "White House AI Executive Order (June 2) — directs OMB/CISA to redirect federal grant funding toward AI vulnerability detection within 30 days.",
+        "Arizona Governor vetoed all three AI bills passed by the legislature.",
+        "California legislature passed a ban on AI teachers in public schools; awaiting Governor Newsom's signature.",
+        "Rhode Island Governor signed a chatbot therapy ban into law."
+      ],
+      "links": [
+        {
+          "text": "AI News Today June 27 2026 — buildfastwithai.com",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026"
+        },
+        {
+          "text": "AI News Briefs Bulletin Board June 2026 — Radical Data Scien",
+          "url": "https://radicaldatascience.wordpress.com/2026/06/27/ai-news-briefs-bulletin-board-for-june-2026/"
+        },
+        {
+          "text": "White House EO: Promoting Advanced AI Innovation and Securit",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "Google DeepMind departures raise doubts — Fortune",
+          "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+        },
+        {
+          "text": "AI Could Breach Government Defenses in Months — CNN",
+          "url": "https://www.cnn.com/2026/06/23/world/ai-five-eyes-warning-cyber-threat-intl-hnk"
+        },
+        {
+          "text": "OpenAI IPO and company news — OpenAI",
+          "url": "https://openai.com/news/"
+        },
+        {
+          "text": "LLM Updates June 2026 — llm-stats.com",
+          "url": "https://llm-stats.com/llm-updates"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-06-30",
+      "headline": "AI briefing — 30 Jun",
+      "blurb": "",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "releasebot.io",
+      "url_key": "ai-brief-2026-06-30",
+      "title_key": "ai briefing 30 jun 2026 06 30",
+      "bullets": [
+        "OpenAI GPT-5.5 launched — Major capability leap with state-of-the-art scores on agentic coding and computer-use benchmarks. API not yet available; priced at $5/$30 per 1M tokens (2x GPT-5.4). Runs on NVIDIA GB200 infrastructure.",
+        "OpenAI GPT-5.6 family (Sol/Terra/Luna) announced but restricted to \"trusted partners\" at U.S. government request — part of a new pre-release national security review pattern. Sol is the flagship tier for coding, agentic, and scientific research tasks.",
+        "Gemini 3.5 Pro missed its June deadline — Google now targeting July GA. A slip worth noting if clients are waiting to evaluate it.",
+        "Anthropic filed confidentially for IPO at a reported ~$965B valuation following a $65B Series H — now valued above OpenAI.",
+        "Anthropic disclosed a Claude quality regression — internal investigation confirmed three changes between March–April (lower reasoning effort defaults, a cache bug, a system prompt revision) collectively degraded output quality. Now resolved, but worth flagging to clients who noticed degraded Claude Code performance.",
+        "Lindy (AI startup) moved 100% of traffic from Claude to DeepSeek citing cost — a high-profile signal of enterprise cost pressure mounting on Anthropic.",
+        "Alphabet raising $80B for AI compute infrastructure via stock offerings + Berkshire Hathaway private investment.",
+        "Colorado AI Act revised and delayed — Governor signed SB 189 in May, pushing the effective date to January 1, 2027 and replacing the original bias audit/risk management framework with a lighter transparency/disclosure model. High-risk AI deployers now mainly face notification requirements for adverse automated decisions. Major relief for enterprise clients who were scrambling.",
+        "White House EO on AI Innovation & Security (June 2) — Voluntary 30-day pre-release review window for frontier models with the federal government for national security cybersecurity assessment. Sets precedent for how new frontier models reach market going forward.",
+        "EU \"Digital Omnibus\" update to AI Act reached provisional agreement in May — simplifies compliance requirements for businesses; still in effect but less burdensome than original text.",
+        "Enterprise users are shifting from high-token usage (\"tokenmaxxing\") to efficiency-first AI workflows — cost optimization is now the dominant enterprise buying signal, not raw capability.",
+        "DeepSeek gaining meaningful market share from cost-sensitive enterprise workloads."
+      ],
+      "links": [
+        {
+          "text": "OpenAI Release Notes - June 2026 | Releasebot",
+          "url": "https://releasebot.io/updates/openai"
+        },
+        {
+          "text": "OpenAI limits new AI models to 'trusted partners' at request",
+          "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html"
+        },
+        {
+          "text": "OpenAI and Anthropic face new AI reality as users shift to e",
+          "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html"
+        },
+        {
+          "text": "It's not about Anthropic vs. OpenAI anymore | TechCrunch",
+          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
+        },
+        {
+          "text": "Promoting Advanced AI Innovation and Security | White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "Colorado AI Act Amended and Effective Date Delayed | Hunton",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed"
+        },
+        {
+          "text": "Colorado Legislature Passes Bill to Repeal and Replace Color",
+          "url": "https://www.troutmanprivacy.com/2026/05/colorado-legislature-passes-bill-to-repeal-and-replace-colorado-ai-act/"
+        },
+        {
+          "text": "AI Brief: June 2026 | Lexology",
+          "url": "https://www.lexology.com/library/detail.aspx?g=c35fb8c9-f3b3-45a6-a475-1f5c967fe3a9"
+        },
+        {
+          "text": "LLM News Today (June 2026) | llm-stats.com",
+          "url": "https://llm-stats.com/ai-news"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-01",
+      "headline": "AI briefing — 1 Jul",
+      "blurb": "",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "source": "pricepertoken.com",
+      "url_key": "ai-brief-2026-07-01",
+      "title_key": "ai briefing 1 jul 2026 07 01",
+      "bullets": [
+        "Claude Sonnet 5 launched by Anthropic (June 30) — latest frontier release, focus on coding and agentic tasks",
+        "Anthropic Opus class also upgraded with stronger performance across professional and agentic workloads",
+        "Gemini 3.1 Flash Image + Gemini 3 Pro Image available in Google AI Studio (mid-June rollout, now widely accessible)",
+        "GPT-5.6 Sol previewed by OpenAI (June 26) — next-gen inference-optimized model",
+        "Anthropic confidentially filed IPO (S-1 draft) — follows $65B Series H at ~$965B valuation, surpassing OpenAI's private market cap for the first time",
+        "Google's top AI talent exodus: Noam Shazeer (Gemini co-lead) departing to OpenAI; John Jumper (AlphaFold creator) joining Anthropic; Anthropic also held an \"AI for Science\" event around Jumper's arrival",
+        "Anthropic secured compute deal at SpaceX/xAI's Colossus 1 datacenter in Tennessee — 300MW, 220k+ Nvidia GPUs",
+        "Helix Infrastructure Partners launched (KKR + Nvidia-backed, led by ex-AWS CEO Adam Selipsky) to acquire AI datacenters — signals continued infrastructure land-grab",
+        "Qualcomm in talks to acquire Tenstorrent for $8–10B — Tenstorrent makes RISC-V AI chips; signals Qualcomm's serious push into AI silicon beyond mobile",
+        "OpenAI + Broadcom chip partnership announced for LLM-optimized inference",
+        "Colorado AI Act: original June 30 effective date was pre-empted — Colorado replaced its comprehensive AI law with SB 26-189, a narrower automated decision-making law now effective Jan 1, 2027; net effect is reduced compliance burden for most AI products",
+        "California SB 1119 (chatbot safety bill) hearing scheduled today (July 1) — watch for outcomes affecting AI customer-facing products",
+        "Arizona Gov. Hobbs vetoed all three AI bills passed by the legislature",
+        "Rhode Island Gov. signed a chatbot therapy ban into law",
+        "Federal vs. state tension: Trump DOJ's AI Litigation Task Force is actively challenging state AI laws it deems innovation-limiting — preemption battle ongoing",
+        "Sonnet 5 is live — update client stack assessments and benchmarks",
+        "Anthropic's IPO filing + Colossus compute deal signals aggressive enterprise push; expect new enterprise offerings soon",
+        "Google talent drain to OpenAI/Anthropic is worth watching — potential Gemini roadmap disruption",
+        "Colorado compliance deadlines shifted to 2027; still track California SB 1119 closely for client advisory impact"
+      ],
+      "links": [
+        {
+          "text": "New Models Today — AI & LLM Releases Last 24 Hours | Price P",
+          "url": "https://pricepertoken.com/news/model-releases"
+        },
+        {
+          "text": "AI Updates Today (June 2026) – Latest AI Model Releases | LL",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "June 2026 AI Launch Wave: A Builder's Decision Map | WaveSpe",
+          "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
+        },
+        {
+          "text": "OpenAI vs Google DeepMind vs Anthropic: The 2026 AI Model Ar",
+          "url": "https://qverlabs.com/blog/openai-vs-google-deepmind-vs-anthropic-2026"
+        },
+        {
+          "text": "Firms Discover AI's Limit Is Infrastructure | PYMNTS.com",
+          "url": "https://www.pymnts.com/news/payments-innovation/2026/firms-discover-ais-limit-is-infrastructure/"
+        },
+        {
+          "text": "Google Loses Two Top AI Researchers To OpenAI & Anthropic | ",
+          "url": "https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/"
+        },
+        {
+          "text": "AI Legislative Update: June 26, 2026 | Transparency Coalitio",
+          "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june26-2026"
+        },
+        {
+          "text": "US AI Regulations 2026: The State Laws You Must Comply With ",
+          "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026"
+        },
+        {
+          "text": "Battle for AI Governance | Vorys",
+          "url": "https://www.vorys.com/publication-battle-for-ai-governance-white-houses-plan-to-centralize-ai-regulation-and-states-continuous-opposition"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-02",
+      "headline": "AI briefing — 2 Jul",
+      "blurb": "The Sonnet 5 pricing drop is immediately actionable for client cost modeling. Colorado AI Act is live — any Colorado-based clients need a compliance check now. EU transparency deadline August 2 is urgent. Anthropic's enterprise momentum shift vs. OpenAI is worth flagging in client conversations.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-07-02",
+      "title_key": "ai briefing 2 jul 2026 07 02",
+      "bullets": [
+        "Claude Sonnet 5 (Anthropic) — Launched June 30, now the default for all Free/Pro users. Near-Opus 4.8 performance at $2/$10 per million tokens (introductory pricing through Aug 31). Most capable Sonnet for agentic workflows.",
+        "Gemini 3.1 Flash Image & Gemini 3 Pro Image (Google) — Two new image-gen models released June 30 via Google AI Studio/API. Flash at $0.50/$3.00 per million tokens; Pro at $2.00/$12.00.",
+        "Claude Fable 5 — Returned to global availability July 1.",
+        "New models arriving ~every 2 days across the industry per tracking data.",
+        "Claude Tag (Anthropic) — Agentic AI coworker for Slack; builds context, delegates multi-step tasks asynchronously. In beta for Team/Enterprise.",
+        "Claude Science Workbench (Anthropic) — Connects Opus 4.8 to 60+ scientific databases (genomics, proteomics, cheminformatics). High-value for life sciences clients.",
+        "GeneBench-Pro (OpenAI) — 129-problem computational biology benchmark; GPT-5.6 Sol Pro hit 31.5%. Signals growing AI push into scientific research.",
+        "SWE-Together (Meta) — Open-sourced 109-task multi-turn coding agent benchmark using real user sessions.",
+        "Anthropic passes OpenAI in business adoption — Reported for the first time per recent tracking data. Significant shift for enterprise clients.",
+        "Baseten raised $1.5B Series F — AI inference/serving infrastructure. Fourth raise in 18 months.",
+        "Groq closed $650M for AI inference cloud scaling.",
+        "Nebius acquires Eigen AI for ~$643M — inference and model optimization.",
+        "DigitalOcean acquires Katanemo Labs — agentic AI infrastructure (multi-agent observability and deployment).",
+        "Anthropic + Google + Broadcom expanded partnership for multiple gigawatts of next-gen compute.",
+        "Q1 2026: $242B went to AI companies — 80% of all global VC for the quarter.",
+        "Colorado AI Act — Took effect June 30. Requires algorithmic discrimination prevention, risk management policies, impact assessments. Affects AI developers and deployers operating in Colorado.",
+        "EU AI Act transparency obligations (Article 50) — Active from August 2, 2026. Deadline is one month out; clients using AI-facing customer systems need to be ready.",
+        "CREATE AI Act — Bipartisan bill moving through Congress; covers AI R&D infrastructure access. Worth monitoring.",
+        "Trump admin pressures Meta — Only major U.S. AI lab without a voluntary pre-release safety review pact; administration pushing for compliance.",
+        "Industry jailbreak severity framework — Anthropic, Google, Microsoft, Amazon proposing a shared scoring standard for AI safety incidents.",
+        "California \"Poppy\" AI assistant — Statewide rollout on track for July for 2,800+ state workers across 67 departments. Signal of accelerating government AI adoption."
+      ],
+      "links": [
+        {
+          "text": "AI News Today July 1 2026 — BuildFastWithAI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
+        },
+        {
+          "text": "Anthropic Newsroom",
+          "url": "https://www.anthropic.com/news"
+        },
+        {
+          "text": "Anthropic x Google x Broadcom compute partnership",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+        },
+        {
+          "text": "EU AI Act Transparency Obligations — Sidley",
+          "url": "https://datamatters.sidley.com/2026/06/24/eu-ai-act-transparency-obligations-preparing-for-compliance-by-2-august-2026/"
+        },
+        {
+          "text": "White House AI Executive Order",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "Colorado AI Act — Wilson Sonsini",
+          "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html"
+        },
+        {
+          "text": "Baseten $1.5B raise — Crunchbase",
+          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+        },
+        {
+          "text": "Q1 2026 VC records — Crunchbase",
+          "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+        },
+        {
+          "text": "AI Model Release Tracker",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "CREATE AI Act — Fortune",
+          "url": "https://fortune.com/2026/07/01/create-ai-act-bipartisan-deserves-to-pass-cognizant/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-03",
+      "headline": "AI briefing — 3 Jul",
+      "blurb": "Sonnet 5 is the new default recommendation for most client use cases. The Fable 5 export control situation resolved cleanly. The EU AI Act chatbot disclosure deadline is weeks away — clients with EU exposure need urgent attention.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-03",
+      "title_key": "ai briefing 3 jul 2026 07 03",
+      "bullets": [
+        "Claude Sonnet 5 launched and is now the default for all Free/Pro Claude users (claude.ai). Hits 63.2% on agentic coding benchmarks, 1M token context window, intro pricing at $2/M input tokens through Aug 31.",
+        "Fable 5 (Anthropic) fully restored globally July 1 after US Commerce Dept. lifted the June 12 export control order on June 30. Accessible via Claude.ai, Claude Platform, Claude Code, and Cowork.",
+        "Google Gemini image models dropped June 30: Gemini 3.1 Flash Image ($0.50/M input, $3/M output) and Gemini 3 Pro Image ($2/M input, $12/M output) — available now via Google AI Studio and API.",
+        "GPT-5.6 rolling out to select trusted partners via API and Codex; broader rollout pending.",
+        "California signs Claude deal — Gov. Newsom inked a deal giving all CA state agencies, cities, and counties access to Claude at 50% discount. Big signal for government AI procurement.",
+        "Anthropic AI for Science: Deterministic tool use pushed AI biology accuracy from 16.9% → 92.8%, per their June 30 research event.",
+        "Together AI raised $800M Series C at $8.3B valuation (open-source AI infra).",
+        "Baseten closed $1.5B Series F; Groq closed $650M for AI inference infra.",
+        "Nebius acquiring inference/optimization startup Eigen AI for ~$643M.",
+        "EU AI Act transparency obligations (chatbot disclosure, AI-generated content labeling) take effect August 2026 — clients deploying AI-facing products need to be ready now.",
+        "Colorado repealed its original AI Act and replaced it with narrower SB 26-189 (regulating automated decision-making in consequential decisions), effective Jan 1, 2027.",
+        "UN Global Dialogue on AI Governance opens in Geneva on July 6 — international regulatory framework discussions beginning."
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today – LLM Stats",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "AI News July 2026 – AIToolsRecap",
+          "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+        },
+        {
+          "text": "AI News Today July 1 2026 – BuildFastWithAI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
+        },
+        {
+          "text": "The Week's Biggest Funding Rounds – Crunchbase",
+          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/"
+        },
+        {
+          "text": "2026 AI Laws Update – Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "AI Regulation 2026 – Holistic AI",
+          "url": "https://www.holisticai.com/blog/ai-regulation-in-2026-navigating-an-uncertain-landscape"
+        },
+        {
+          "text": "UN AI Governance Dialogue",
+          "url": "https://news.un.org/en/story/2026/07/1167848"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-04",
+      "headline": "AI briefing — 4 Jul",
+      "blurb": "Regulators are now actively gatekeeping frontier model access. If your clients use or build on frontier models, EU Act compliance (Aug 2) and U.S. export control eligibility are immediate action items.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-04",
+      "title_key": "ai briefing 4 jul 2026 07 04",
+      "bullets": [
+        "OpenAI GPT-5.6 \"Sol\" launched with a new \"ultra mode\" using subagents for complex tasks and a new max reasoning tier — benchmark scores on biosecurity evals notably elevated (~9pts above GPT-5.5), prompting government scrutiny",
+        "Claude Sonnet 5 (released June 30) now broadly available — strong on long-context writing, coding, and agentic business workflows",
+        "GPT-5.6 public rollout partially deferred at government request; regulators increasingly treating frontier model access as a national security lever",
+        "Cursor launched a native iOS app (public beta, paid plans) — lets devs launch cloud coding agents, review diffs, and merge PRs from mobile",
+        "Alteryx Agent Studio + MCP Server announced at Inspire 2026 — converts existing data workflows into autonomous agents without IT dependency (relevant for enterprise clients)",
+        "Willow.ai Atlas-1 launched — advanced speech-to-text layer for sales calls, support, and compliance recording",
+        "Meta laying off ~8,000 (~10% of workforce) and reassigning 7,000 to AI-focused teams — major AI-first restructuring underway",
+        "Anthropic-Pentagon fallout: Anthropic refused autonomous weapons/surveillance use; DoD labeled them a \"supply chain risk,\" effectively ending federal contracts beyond Pentagon",
+        "Anthropic + Microsoft in early talks to run Claude inference on Azure's Maia 200 custom chips (TSMC 3nm, claims 30%+ cost efficiency vs. rivals)",
+        "EU AI Act full compliance deadline: August 2, 2026 — high-risk AI system rules and transparency requirements take effect in 4 weeks",
+        "19 new AI laws enacted across 11 U.S. states + Congress in a 2-week window ending late June — compliance complexity rising fast",
+        "U.S. federal AI spending hit $7.2B obligated in 2026 (up 966% from 2024); potential awards at $91.8B — massive procurement opportunity",
+        "Anthropic Fable 5 / Mythos 5 export controls: Fable 5 suspended, Mythos 5 partially reinstated for ~100 approved companies under undisclosed criteria"
+      ],
+      "links": [
+        {
+          "text": "LLM News Today – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news"
+        },
+        {
+          "text": "AI Governance Weekly – July 3, 2026",
+          "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+        },
+        {
+          "text": "OpenAI Release Notes – Releasebot",
+          "url": "https://releasebot.io/updates/openai"
+        },
+        {
+          "text": "AI Product Launches – July 2026",
+          "url": "https://blog.mean.ceo/ai-product-launches-news-july-2026/"
+        },
+        {
+          "text": "2026 AI Laws Update – Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "Federal AI Spending – Brookings",
+          "url": "https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026/"
+        },
+        {
+          "text": "White House AI Executive Order",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-05",
+      "headline": "AI briefing — 5 Jul",
+      "blurb": "The EU AI Act deadline (Aug 2) and the wave of US state laws are the most urgent client conversation to have this month. On the model side, the GPT-5.6 / Sonnet 5 pricing drops meaningfully change cost modeling for any production AI build.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-05",
+      "title_key": "ai briefing 5 jul 2026 07 05",
+      "bullets": [
+        "OpenAI GPT-5.6 family previewed June 26 — three tiers: Sol (flagship, $5/$30 per M tokens), Terra (balanced, $2.50/$15), Luna (fast, $1/$6). Currently API-only for ~20 trusted orgs; government access secured first.",
+        "Claude Sonnet 5 became Anthropic's new default model June 30 — intro pricing $2/$10 per M tokens through Aug 31, then $3/$15. Strong writing benchmark results.",
+        "Claude Fable 5 redeployed July 1 after US government lifted a June 12 export-control hold that had kept it offline for ~3 weeks.",
+        "Gemini 3.5 Pro cleared for general availability in July after slipping from June. Strong multimodal focus.",
+        "Cursor iOS app launched in public beta for paid users — remote agent control, voice input, diff review, PR merging from mobile. 75% off Composer 2.5 runs through today.",
+        "Google Gemini Spark macOS app rolling out — automates desktop tasks, adds Canva/Dropbox/Zillow integrations + custom MCP server support.",
+        "Anthropic + California partnership announced — Claude available to state agencies at 50% discount for cybersecurity use cases.",
+        "EU AI Act fully applicable August 2, 2026 — last month for compliance prep; GPAI model obligations already active since Aug 2025.",
+        "19 new US AI laws enacted across 11 states + Congress in late June — fragmented compliance landscape now a real operational burden.",
+        "Colorado AI Act (effective June 30) requires algorithmic discrimination protections and impact assessments from AI developers and deployers.",
+        "June 2026 White House EO mandates up to 30-day advance government access to covered frontier models before public release.",
+        "OpenAI and Anthropic both advancing toward mega-IPOs.",
+        "Market shift away from \"tokenmaxxing\" — enterprise buyers now optimizing AI spend for efficiency over raw volume."
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today (July 2026)",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "Anthropic Release Notes - July 2026",
+          "url": "https://releasebot.io/updates/anthropic"
+        },
+        {
+          "text": "OpenAI Release Notes - July 2026",
+          "url": "https://releasebot.io/updates/openai"
+        },
+        {
+          "text": "AI Governance Weekly - July 3, 2026",
+          "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+        },
+        {
+          "text": "AI News Today July 4 2026: 15 Biggest Stories",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "EU AI Act - European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        },
+        {
+          "text": "2026 AI Laws Update - Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "White House EO on AI Innovation and Security",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-06",
+      "headline": "AI briefing — 6 Jul",
+      "blurb": "The GPT-5.6 access restriction and Anthropic export control pattern signal a tightening government-mediated frontier model access regime — clients in regulated industries should be briefed on this. The EU August deadline is now weeks away.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-07-06",
+      "title_key": "ai briefing 6 jul 2026 07 06",
+      "bullets": [
+        "Claude Sonnet 5 (launched July 1) is now the default for Free/Pro plans — 63.2% on agentic coding benchmarks vs 58.1% for Sonnet 4.6, 1M context window, $2/M input tokens (introductory through Aug 31)",
+        "GPT-5.6 Sol/Terra/Luna remains restricted to ~20 government-vetted orgs; Sol tops Terminal-Bench 2.1 SOTA, Terra matches GPT-5.5 at 2x lower cost — broad release timeline still unclear",
+        "Grok 4.5 entered private beta at SpaceX and Tesla; xAI targeting monthly model releases through end of 2026",
+        "Gemini 3.5 Pro expected to launch later in July with advanced coding/agentic capabilities",
+        "Meituan LongCat-2.0 (open, MIT) — 1.6T params, 1M context, trained entirely on Chinese domestic ASICs (no Nvidia hardware)",
+        "Anthropic Claude Science — beta workbench with 60+ preconfigured research tools; deterministic tool integration reportedly pushes AI biology accuracy from 16.9% → 92.8%",
+        "Cursor iOS app now in public beta for paid users — launch cloud coding agents, review diffs, merge PRs from phone",
+        "White House finalizing voluntary frontier model release standards; announcement expected week of July 7 — watch for compliance implications",
+        "Anthropic Fable 5 / Mythos 5 remain under export controls since June 12; Mythos 5 partially reinstated for ~100 approved companies — regulators treating frontier model access as a national security tool",
+        "19 new AI laws enacted across 11 states + Congress in a 2-week window ending late June",
+        "EU Digital Omnibus sets August 2026 as effective compliance deadline for high-risk AI systems under the AI Act",
+        "UN Global Dialogue on AI Governance opened today in Geneva"
+      ],
+      "links": [
+        {
+          "text": "AI News Today July 4-6 2026 — BuildFastWithAI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "LLM Updates July 2026 — llm-stats.com",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "OpenAI GPT-5.6 Release — Axios",
+          "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump"
+        },
+        {
+          "text": "AI Regulation News July 2026 — mean.ceo",
+          "url": "https://blog.mean.ceo/ai-regulation-news-july-2026/"
+        },
+        {
+          "text": "AI Governance Weekly July 3 2026 — AI Governance Institute",
+          "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+        },
+        {
+          "text": "Latest AI News — AIToolsRecap",
+          "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+        },
+        {
+          "text": "UN AI Governance Dialogue — UN News",
+          "url": "https://news.un.org/en/story/2026/07/1167848"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-07",
+      "headline": "AI briefing — 7 Jul",
+      "blurb": "",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-07",
+      "title_key": "ai briefing 7 jul 2026 07 07",
+      "bullets": [
+        "Anthropic Fable 5 is now globally available on Claude.ai, the API, Claude Code, and Cowork. Claude Sonnet 5 is the new default in Claude Code with a native 1M-token context window; promotional pricing ($2/$10/Mtok) runs through Aug 31.",
+        "OpenAI GPT-5.6 (Sol/Terra/Luna) remains gated to ~20 government-vetted partners. Broad public access expected mid-to-late July.",
+        "Meta \"Watermelon\" (unreleased frontier model in training) reportedly matches GPT-5.5 performance and uses an order of magnitude more compute than Meta's previous frontier model — per Meta's Chief AI Officer in a closed briefing.",
+        "Google Gemini 3.5 Pro (advanced coding model) expected to release this month; Google is among companies in active talks with the White House on frontier standards.",
+        "White House frontier standards framework announcement expected this week — would set benchmarks, release timelines, and domestic/foreign access rules for frontier models. OpenAI, Anthropic, and Google all in advanced talks.",
+        "OpenAI IPO move: OpenAI is reportedly offering the US government a 5% equity stake as part of its September 2026 IPO strategy, tied to participation in the voluntary standards framework.",
+        "Colorado AI Act took effect June 30 — requires AI developers/deployers to conduct impact assessments, maintain risk management policies, and avoid algorithmic discrimination. Compliance now mandatory.",
+        "Anthropic × California: State agencies and local governments get discounted Claude access plus training/support under a new state agreement.",
+        "Joint jailbreak severity standard: Anthropic, Amazon, Microsoft, and Google published a shared standard for classifying jailbreak severity — significant for enterprise procurement and compliance teams.",
+        "Hugging Face × Amazon SageMaker: Deep-link integration lets developers go from model discovery to hands-on experimentation in SageMaker Studio in one click.",
+        "GPT-5.6 broad release timeline — gating is already causing competitive pressure from Anthropic and Google.",
+        "White House framework details: if voluntary standards include foreign-access restrictions, it could affect international AI service delivery.",
+        "Colorado AI Act enforcement posture — first major US state AI law now live; other states watching closely."
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today – July 2026 – LLM Stats",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "OpenAI offers feds a stake, Anthropic gets out of AI model j",
+          "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/"
+        },
+        {
+          "text": "Sam Altman seeks new world order for AI – Fortune",
+          "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
+        },
+        {
+          "text": "Promoting Advanced AI Innovation and Security – White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "text": "2026 AI Laws Update – Gunderson Dettmer",
+          "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+        },
+        {
+          "text": "Anthropic Release Notes July 2026 – Releasebot",
+          "url": "https://releasebot.io/updates/anthropic"
+        },
+        {
+          "text": "OpenAI Release Notes July 2026 – Releasebot",
+          "url": "https://releasebot.io/updates/openai"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-08",
+      "headline": "AI briefing — 8 Jul",
+      "blurb": "GPT-5.6 vs. Claude Sonnet 5 is the immediate model choice story — Terra/Luna look compelling on cost. State-level AI compliance (Illinois joins CA/NY) is becoming a real client risk surface, especially the annual audit requirement.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-08",
+      "title_key": "ai briefing 8 jul 2026 07 08",
+      "bullets": [
+        "Claude Sonnet 5 launched by Anthropic — stronger coding, tool use, and debugging; priced at $2/$10 per M tokens (input/output), rising to $3/$15 after Aug 31",
+        "GPT-5.6 series (OpenAI) in limited preview for trusted partners — three sub-models: Sol (highest capability), Terra (GPT-5.5 quality at 2x lower cost), Luna (fastest/cheapest); government-mandated phased rollout, case-by-case access approval required",
+        "Meta Watermelon reportedly matches GPT-5.5-class performance using ~10x more compute than Meta's prior frontier run",
+        "NVIDIA Nemotron-Labs TwoTower open-weight diffusion LLM released — 2.42x throughput improvement at 98.7% baseline quality",
+        "Anthropic signed a $19B data center lease with TeraWulf, adding to 12+ US leases totaling 1+ gigawatt of capacity",
+        "OpenAI proposed giving the US government a 5% equity stake (~$42.6B at current $852B valuation)",
+        "Anthropic/Google DeepMind/Meta are actively recruiting philosophers and consciousness researchers to study model welfare",
+        "Fable 5 (Anthropic) access partially reinstated for ~100 approved companies after June 12 export control suspension",
+        "Illinois Gov. Pritzker signed the AI Safety Measures Act (July 6) — up to $1M fine first offense, $3M+ subsequent; adds mandatory annual third-party audits (stricter than CA/NY versions)",
+        "FTC issued a proposed policy statement on AI accuracy requirements; public comment open until July 31",
+        "Five Eyes intelligence alliance warned frontier AI will \"fundamentally transform\" offensive/defensive cyber capabilities within months, not years",
+        "UN Global Dialogue on AI Governance (Geneva, July 6-7) addressed international AI management frameworks",
+        "Export controls on frontier models are now being used as an active national security lever — worth monitoring for client deployments"
+      ],
+      "links": [
+        {
+          "text": "LLM Updates Today — July 2026",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "New Models Today — Last 24 Hours",
+          "url": "https://pricepertoken.com/news/model-releases"
+        },
+        {
+          "text": "AI News Today July 7 2026",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-7-2026"
+        },
+        {
+          "text": "OpenAI offers feds a stake, Anthropic gets out of AI model j",
+          "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/"
+        },
+        {
+          "text": "OpenAI rumored to launch GPT-5.6 timing Fable 5 limit expira",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262016012-opanai-ipo-gpt-ai-anthropic-ipo-fable5-tradingkey"
+        },
+        {
+          "text": "Pritzker Signs Illinois AI Regulation Bill",
+          "url": "https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks"
+        },
+        {
+          "text": "FTC Seeks Public Comment on AI Accuracy Policy",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        },
+        {
+          "text": "UN Global Dialogue on AI Governance",
+          "url": "https://news.un.org/en/story/2026/07/1167862"
+        },
+        {
+          "text": "AI Governance Weekly — July 3, 2026",
+          "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+        },
+        {
+          "text": "How OpenAI, Google, and Anthropic plan for 2026 US Midterms",
+          "url": "https://www.techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-09",
+      "headline": "AI briefing — 9 Jul",
+      "blurb": "The GPT-5.6 Terra tier is the pricing story to watch — near-frontier performance at half cost accelerates client ROI conversations. Microsoft's MAI pivot signals enterprise buyers should audit vendor lock-in risk. Illinois's law is a preview of what other states will copy — advise clients to start documenting their AI risk frameworks now.",
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "source": "engadget.com",
+      "url_key": "ai-brief-2026-07-09",
+      "title_key": "ai briefing 9 jul 2026 07 09",
+      "bullets": [
+        "OpenAI GPT-5.6 launches today in three tiers: Sol (flagship, $5/$30 per M tokens), Terra (GPT-5.5 parity at half the cost, $2.50/$15), Luna (budget tier, $1/$6). US government requested early access + oversight before full public rollout.",
+        "Anthropic Claude Sonnet 5 launched recently — near-Opus 4.8 performance at introductory $2/$10/M pricing through Aug 31.",
+        "Base44 Base 1 — first vibe-coding platform to ship its own internal LLM, trained on real app-building sessions.",
+        "Google NanoBanana 2 Lite — image generation under 4 seconds at $0.034/1K images.",
+        "Anthropic passes OpenAI in self-reported revenue, on track for $47B; projects profitability by 2029 (a year ahead of OpenAI). ChatGPT dropped below majority market share in monthly visits for first time in May.",
+        "Microsoft replacing OpenAI/Anthropic in Excel and Outlook with its own MAI models to cut third-party spend. Mustafa Suleyman confirmed the shift is intentional and accelerating.",
+        "AI startup cost deflation continues: Lindy's CEO moved 100% of traffic from Claude to DeepSeek citing collapsing cost curves.",
+        "Illinois signs Artificial Intelligence Safety Measures Act — one of the most comprehensive US state AI laws: mandates safety disclosures, incident reporting, and \"catastrophic risk\" frameworks (50+ deaths or $1M+ property damage threshold).",
+        "UN Global AI Governance Dialogue held July 6-7 in Geneva — governments, tech cos, and civil society aligned on urgency; no binding framework yet.",
+        "FTC opens public comment on AI accuracy policy (deadline July 31) — focused on state laws that may require altering \"truthful\" AI outputs."
+      ],
+      "links": [
+        {
+          "text": "OpenAI GPT-5.6 launch — Engadget",
+          "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/"
+        },
+        {
+          "text": "ThursdAI July 2026 releases",
+          "url": "https://thursdai.news/releases/2026-07"
+        },
+        {
+          "text": "Sam Altman / OpenAI market position — Fortune",
+          "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
+        },
+        {
+          "text": "Microsoft replacing OpenAI/Anthropic — Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html"
+        },
+        {
+          "text": "Illinois AI Safety Measures Act — WTTW",
+          "url": "https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks"
+        },
+        {
+          "text": "UN AI Governance Dialogue — UN News",
+          "url": "https://news.un.org/en/story/2026/07/1167862"
+        },
+        {
+          "text": "FTC AI Accuracy Policy — FTC.gov",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-10",
+      "headline": "AI briefing — 10 Jul",
+      "blurb": "The GPT-5.6 / Claude Sonnet 5 / Grok 4.5 pile-up reshapes the competitive model landscape overnight — pricing and capability comparisons will be critical for client recommendations. The Illinois audit law and EU transparency deadline are both near-term compliance triggers worth flagging to any clients in those markets.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-9-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-07-10",
+      "title_key": "ai briefing 10 jul 2026 07 10",
+      "bullets": [
+        "Historic same-day launches (July 9): For the first time, three frontier labs shipped new models simultaneously — OpenAI, Anthropic, and SpaceXAI all dropped on the same day.",
+        "OpenAI GPT-5.6 — Three variants: Sol, Terra, Luna. Sol Ultra tops Terminal-Bench 2.1 at 91.9%. Bundled with new ChatGPT Work, an agent product powered by Codex aimed at enterprise.",
+        "Anthropic Claude Sonnet 5 — Positioned as the most cost-effective agentic coding model. Introductory pricing: $2/$10 per M tokens (input/output) through Aug 31, then $3/$15.",
+        "Anthropic Claude Fable 5 — Restored July 1, now broadly available via credits.",
+        "SpaceXAI Grok 4.5 — Launched July 9, no detailed benchmarks yet public.",
+        "NVIDIA Nemotron-Labs-TwoTower — Open-weight diffusion LM generating text in parallel; claims 2.42x throughput vs. baseline at 98.7% quality, trained on ~2.1T tokens.",
+        "Google — Quiet by comparison; Gemini 2.5 Pro with Deep Think still leads science/reasoning benchmarks; Gemini 3.5 Pro not yet public.",
+        "Anthropic × Microsoft: Early-stage talks to run Claude inference on Azure's Maia 200 AI chips — claimed 30%+ performance-per-dollar advantage over competing silicon.",
+        "OpenAI GPT-5.6 wider rollout paused: US government requested a controlled release; access currently limited to approved partners while a vetting framework is developed. Watch this for enterprise sales implications.",
+        "Illinois AI Safety Measures Act signed (July 6): First US state to require annual independent third-party audits of AI systems. IL + CA + NY together represent ~40% of US AI market — effectively a de facto national standard.",
+        "FTC AI accuracy comment period: FTC is taking public comment on a policy statement covering AI accuracy and state-level model-alteration laws. Deadline: July 31, 2026.",
+        "EU AI Act transparency obligations: Core Article 50 requirements (disclosures for AI-generated content, chatbots, etc.) take effect August 2, 2026. If you have EU clients, this is imminent.",
+        "UK AI Growth Lab launched (June 8): Regulator coalition providing practical AI deployment guidance; initial focus on legal tech and conveyancing."
+      ],
+      "links": [
+        {
+          "text": "AI News Today July 9 2026 — BuildFastWithAI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-9-2026"
+        },
+        {
+          "text": "New AI Model Releases — Price Per Token",
+          "url": "https://pricepertoken.com/news/model-releases"
+        },
+        {
+          "text": "LLM Updates Today July 2026 — llm-stats.com",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "FTC Seeks Public Comment on AI Accuracy Policy",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        },
+        {
+          "text": "Illinois AI Regulation — Capitol News Illinois",
+          "url": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/"
+        },
+        {
+          "text": "EU AI Act — European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        },
+        {
+          "text": "AI Governance Weekly July 3 2026 — AI Governance Institute",
+          "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-11",
+      "headline": "AI briefing — 11 Jul",
+      "blurb": "Pricing pressure is intensifying from Chinese open-source models. The SpaceX/Cursor acquisition signals non-AI infrastructure players making aggressive moves. The August 1 governance deadline is worth tracking for enterprise compliance advice.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-11",
+      "title_key": "ai briefing 11 jul 2026 07 11",
+      "bullets": [
+        "xAI Grok 4.5 launched July 8 — most recent frontier release heading into this week",
+        "OpenAI GPT-5.6 series now available in three tiers: Sol ($5/1M in), Terra ($2.50/1M in), Luna ($1/1M in)",
+        "Claude Fable 5 (Anthropic) now live — 1M token context, reasoning-focused",
+        "324+ total LLM releases tracked in 2026; efficiency models delivering GPT-4-level quality at 60–90% lower cost",
+        "SpaceX acquired Cursor/Anysphere for $60B — largest startup acquisition on record",
+        "Together AI raised $800M Series C (Aramco Ventures, NVIDIA, General Catalyst)",
+        "Kling AI closed $2B at an $18B valuation (Chinese video AI)",
+        "Qualcomm acquired Modular (AI chip startup) for $4B; Salesforce acquired Fin (AI customer experience)",
+        "Global H1 2026 VC hit $510B record — OpenAI + Anthropic alone = 43% of all US/Canada startup funding",
+        "Chinese AI models now 30–46% of enterprise API token usage on US platforms — OpenRouter crossed 30% share every week since Feb 8",
+        "Open-source Chinese models undercutting Anthropic/OpenAI on price by 60–90%",
+        "Illinois signed the AI Safety Measures Act (July 6) — requires risk frameworks, 72-hr incident reporting; 109 state AI laws now enacted across the US",
+        "FTC seeking public comment (through July 31) on AI accuracy/output truthfulness policy",
+        "EU delayed high-risk AI rules: standalone systems now December 2027, embedded systems August 2028",
+        "NSA/CISA deadline August 1 to deliver classified frontier model benchmarking under Trump's June 2 executive order — flagged as most consequential governance window in frontier AI history"
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "AI News Today July 8 2026: 15 Biggest Stories",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-8-2026"
+        },
+        {
+          "text": "North American Startup Funding Shattered Records In H1 2026",
+          "url": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/"
+        },
+        {
+          "text": "Global Startup Investment Hit Record $510B In H1 2026",
+          "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/"
+        },
+        {
+          "text": "Pritzker Signs Landmark AI Regulation Bill",
+          "url": "https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks"
+        },
+        {
+          "text": "FTC Seeks Public Comment on AI Accuracy Policy",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        },
+        {
+          "text": "EU AI Act Simplification – Council Green Light",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/"
+        },
+        {
+          "text": "Where State AI Legislation Stands – Mid-2026",
+          "url": "https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-12",
+      "headline": "AI briefing — 12 Jul",
+      "blurb": "The OpenAI/Anthropic IPO filings are the biggest strategic signal of the week — expect enterprise procurement scrutiny to increase. The Illinois and NY laws create immediate compliance advisory opportunities.",
+      "url": "https://medium.com/@davidakpovi/ai-news-week-of-july-6-to-july-12-2026-f81a26c49c55",
+      "source": "medium.com",
+      "url_key": "ai-brief-2026-07-12",
+      "title_key": "ai briefing 12 jul 2026 07 12",
+      "bullets": [
+        "OpenAI GPT-5.6 Sol Ultra proved the Cycle Double Cover Conjecture in under an hour using 64 parallel subagents — a major math/reasoning milestone",
+        "OpenAI has delayed broader GPT-5.6 rollout at US government request; currently limited to vetted partners while a vetting framework is built",
+        "Meta Muse Spark 1.1 launched — targeted at autonomous agents, software development, and advanced tool use",
+        "Mistral Leanstral 1.5 released — goes beyond code gen to produce formal mathematical proofs of software correctness using Lean 4 (big for critical systems clients)",
+        "Anthropic launched a Claude beta reflection dashboard — usage tracking, quiet hours, and intentional AI usage insights",
+        "OpenAI and Anthropic both filed for IPOs, targeting ~$1T and ~$965B valuations respectively — signals a major market maturation moment",
+        "Anthropic launched Claude Corps — a paid 12-month fellowship placing AI professionals in nonprofits",
+        "Google opened the Africa Applied AI Lab in Accra, offering early model access and technical guidance to African researchers and startups",
+        "Illinois signed the AI Safety Measures Act — companies with >$500M revenue must undergo regular independent third-party safety audits",
+        "New York passed a bundle of AI laws: kids chatbot safety, AI training data transparency, FAIR News Act, data center moratorium, ban on AI-assisted surveillance pricing",
+        "FTC seeking public comment (due July 31) on a new AI accuracy policy statement",
+        "EU AI Act reaches full applicability August 2 — core transparency obligations (Article 50) kick in; relevant if you have EU clients"
+      ],
+      "links": [
+        {
+          "text": "AI NEWS: Week of July 6–12, 2026 (Medium)",
+          "url": "https://medium.com/@davidakpovi/ai-news-week-of-july-6-to-july-12-2026-f81a26c49c55"
+        },
+        {
+          "text": "LLM News Today – July 2026",
+          "url": "https://llm-stats.com/ai-news"
+        },
+        {
+          "text": "Illinois Drops the Hammer on AI Companies (Gizmodo)",
+          "url": "https://gizmodo.com/illinois-drops-the-hammer-on-ai-companies-2000781932"
+        },
+        {
+          "text": "FTC Seeks Comment on AI Accuracy Policy",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        },
+        {
+          "text": "AI Legislative Update July 10, 2026 (Transparency Coalition)",
+          "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-july10-2026"
+        },
+        {
+          "text": "EU AI Act – European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        },
+        {
+          "text": "Sam Altman / OpenAI competitive landscape (Fortune)",
+          "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-13",
+      "headline": "AI briefing — 13 Jul",
+      "blurb": "The market is shifting from \"best model\" to \"best fit\" — price, latency, on-device capability, and agentic workflow integration now matter as much as benchmark scores. GPT-5.6's tiered pricing and the Claude/ChatGPT Work launches signal that enterprise workflow automation is the primary battleground this half.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com",
+      "url_key": "ai-brief-2026-07-13",
+      "title_key": "ai briefing 13 jul 2026 07 13",
+      "bullets": [
+        "OpenAI GPT-5.6 launched as a three-tier lineup: Sol (high-end reasoning/coding, $5/$30 per 1M tokens), Terra, and Luna — Sol notably proved a 50-year-old math conjecture (Cycle Double Cover) using 64 parallel subagents",
+        "Grok 4.5 (SpaceX AI) went public with Opus-class performance claims and lower token costs",
+        "Gemini 3.5 + Gemini Omni (Google) pushed further into agentic use cases",
+        "Muse Spark 1.1 launched with 1M-token context and strong computer-use/agent benchmarks",
+        "Claude Cowork (Anthropic, launched July 7) — async email/calendar/file task execution that runs offline; targets knowledge worker automation",
+        "ChatGPT Work (OpenAI, announced July 9) — Codex-backed tool letting non-technical users build docs, spreadsheets, and web apps",
+        "Meta cutting ~8,000 employees (~10% of workforce) in AI restructuring; 7,000 reassigned to AI-focused teams",
+        "Anthropic signed a $19B data center lease with TeraWulf; now holds 12+ US leases totaling >1 GW capacity",
+        "Anthropic launched Claude Corps — paid 12-month fellowship training AI professionals within nonprofits",
+        "Cloudflare launched granular AI bot controls (Search/Agent/Training separately), defaulting to block Agent+Training bots on ad-supported pages starting Sept 15",
+        "EU AI Act: Council finalized rule streamlining; bans non-consensual nude image generators from Dec 2026; high-risk AI compliance deadlines pushed to late 2027–2028",
+        "FTC opened public comment on a policy statement re: state laws that alter AI model outputs (deadline July 31)",
+        "UN Global Dialogue on AI Governance concluded July 6–7 in Geneva without binding agreement",
+        "US states have now enacted 109 AI laws total as of July 1"
+      ],
+      "links": [
+        {
+          "text": "AI Updates Today (July 2026) – LLM Stats",
+          "url": "https://llm-stats.com/llm-updates"
+        },
+        {
+          "text": "Latest AI News July 13 2026 – ZoneTechify",
+          "url": "https://www.zonetechify.com/blog/latest-ai-news-july-13-2026"
+        },
+        {
+          "text": "AI NEWS: Week of July 6–12, 2026 – Medium",
+          "url": "https://medium.com/@davidakpovi/ai-news-week-of-july-6-to-july-12-2026-f81a26c49c55"
+        },
+        {
+          "text": "AI Regulation News July 2026 – Mean.CEO",
+          "url": "https://blog.mean.ceo/ai-regulation-news-july-2026/"
+        },
+        {
+          "text": "EU AI Act Council Approval – Consilium",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/"
+        },
+        {
+          "text": "FTC AI Accuracy Policy Statement",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
+        },
+        {
+          "text": "UN AI Governance Dialogue",
+          "url": "https://news.un.org/en/story/2026/07/1167862"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-14",
+      "headline": "AI briefing — 14 Jul",
+      "blurb": "",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "source": "cnbc.com",
+      "url_key": "ai-brief-2026-07-14",
+      "title_key": "ai briefing 14 jul 2026 07 14",
+      "bullets": [
+        "Apple sued OpenAI and two former Apple employees (including OpenAI's hardware chief Tang Tan) over alleged trade-secret theft tied to OpenAI's hardware push; OpenAI denies the claims. The suit reignited a public Musk–Altman feud on X over the weekend, with both trading \"scam\" accusations. CNBC · Fortune",
+        "Anthropic extended free access to Claude Fable 5 for subscribers through July 19 — the second extension in a week, seen as a direct competitive response to OpenAI's GPT-5.6 Sol launch. Usage-credit pricing ($10/M input, $50/M output) kicks in July 20 for anyone over the limit. Forbes · Anthropic",
+        "OpenAI granted a free \"banked reset\" to ~500K ChatGPT Work and Codex users after a bug caused resets to not apply correctly for under 10% of users during a 2-hour window — fallout from the July 9 ChatGPT Work launch and GPT-5.6 Sol's July 11 rollout straining systems. source (X/Tibo)",
+        "For context (last week, still highly relevant to consultancy positioning): OpenAI's GPT-5.6 family (Sol/Terra/Luna) went GA July 9, and SpaceXAI (Musk) shipped Grok 4.5 — its first model built with Cursor — the same week, pricing itself as an \"Opus-class\" competitor at lower cost. Worth watching if your clients are picking a frontier-model vendor right now.",
+        "Nothing new in AI regulation surfaced in the last 24 hours specifically — the EU AI Act simplification (high-risk deadlines pushed to Dec 2027/Aug 2028) was finalized in late June and remains the operative guidance."
+      ],
+      "links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
+        },
+        {
+          "text": "Fortune",
+          "url": "https://fortune.com/2026/07/13/elon-musk-sam-altman-feud-scam-accusations-spacex-openai-ipos-grok-gpt-apple-lawsuit/"
+        },
+        {
+          "text": "Forbes",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/"
+        },
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5"
+        },
+        {
+          "text": "source (X/Tibo)",
+          "url": "https://x.com/thsottiaux/status/2076418567143408112"
+        },
+        {
+          "text": "Apple sues OpenAI over trade secret theft — TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+        }
+      ]
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-15",
+      "headline": "AI briefing — 15 Jul",
+      "blurb": "",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "anthropic.com",
+      "url_key": "ai-brief-2026-07-15",
+      "title_key": "ai briefing 15 jul 2026 07 15",
+      "bullets": [
+        "Anthropic launched Claude for Teachers, giving verified U.S. K-12 educators free access to premium Claude features and a library of curriculum-mapped teaching skills — part of the escalating fight among AI labs for influence in classrooms. Anthropic | Chalkbeat",
+        "Anthropic committed $10M CAD in Claude API credits to eight Canadian research institutions (Mila, Vector, Amii, U of T, CAMH, CHEO, and others) for AI research in healthcare, agriculture, and quantum computing. Anthropic | BetaKit",
+        "Google, Microsoft, Salesforce, Snowflake, and ServiceNow agreed to back a shared AI agent backend protocol, an enterprise coalition move widely read as an effort to blunt Anthropic and OpenAI's growing lead in agentic enterprise tooling. The Information",
+        "China's new AI \"anthropomorphic interaction\" law took effect today, forcing ByteDance's Doubao and Alibaba's Qwen to shut down personalized/humanlike AI agent features nationwide; affected users now face short, unequal windows to export chat data before it's deleted. Notably, the rules spare workplace/productivity agents — only companion-style bots are hit. Bloomberg | TechNode",
+        "Worth noting for planning purposes (not past-24h, but imminent): Google's Gemini 3.5 Pro is expected to launch July 17, alongside Xi Jinping's first in-person appearance at Shanghai's World AI Conference — shaping up as the year's biggest AI news day."
+      ],
+      "links": [
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-for-teachers"
+        },
+        {
+          "text": "Chalkbeat",
+          "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/"
+        },
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news/canadian-ai-research"
+        },
+        {
+          "text": "BetaKit",
+          "url": "https://betakit.com/anthropic-commits-10-million-to-canadian-institutions-for-ai-research/"
+        },
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/newsletters/applied-ai/google-microsoft-team-beat-back-anthropic-openai"
+        },
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules"
+        },
+        {
+          "text": "TechNode",
+          "url": "https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/"
+        }
+      ]
+    },
     {
       "stream": "afternoon",
       "run": "afternoon-1514",
@@ -188,6 +1507,50 @@ window.NEWS_DATA = {
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260713084855.htm",
       "title_key": "nasa funded 41 new technologies living moon mars"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-07-19",
+      "headline": "Weekly AI roundup — 13–19 Jul",
+      "blurb": "",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-17-2026",
+      "source": "buildfastwithai.com",
+      "url_key": "ai-brief-2026-07-19",
+      "title_key": "weekly ai roundup 13 19 jul 2026 07 19",
+      "bullets": [
+        "Kimi K3 (Moonshot AI) hits the frontier tier — 2.8T-param MoE, 1M-token context, beats leading US models on some benchmarks at much lower cost; open weights due July 27. buildfastwithai.com",
+        "Google delays Gemini 3.5 Pro several months after it underperformed internally on coding/reasoning. buildfastwithai.com",
+        "White House nears voluntary frontier-model deal with OpenAI, Anthropic, Google — 30-day pre-release review window for federal agencies; Meta excluded. CNBC",
+        "OpenAI kills Atlas, folding it into ChatGPT as a single super app. buildfastwithai.com",
+        "Thinking Machines ships Inkling, its first open-weight model. buildfastwithai.com",
+        "China launches WAICO, a 29-nation AI cooperation bloc pushing open-source AI. Al Jazeera",
+        "Apple sues OpenAI over trade secrets tied to hiring 400+ ex-Apple staff. techstartups.com",
+        "200+ economists (16 Nobel laureates) warn policymakers to prepare now for AI's economic impact. Al Jazeera",
+        "AI startups took $355.9B of $412.7B H1 2026 US VC funding, up 30% over all of 2025. techstartups.com"
+      ],
+      "links": [
+        {
+          "text": "buildfastwithai.com",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-17-2026"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
+        },
+        {
+          "text": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it"
+        },
+        {
+          "text": "techstartups.com",
+          "url": "https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/"
+        },
+        {
+          "text": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact"
+        }
+      ]
     },
     {
       "stream": "afternoon",
