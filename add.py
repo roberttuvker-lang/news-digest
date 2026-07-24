@@ -116,6 +116,23 @@ def _atomic_write(path, text):
     os.replace(tmp, path)
 
 
+def _stamp_index(version):
+    """Point index.html at data.js?v=<version>.
+
+    Without this the browser serves yesterday's data.js from cache and the page
+    silently shows stale news — it looks like the routine failed when it didn't.
+    Query strings work from file:// as well as over HTTP, so this fixes the
+    local clone and GitHub Pages alike.
+    """
+    if not os.path.exists(INDEX):
+        return
+    with open(INDEX, encoding="utf-8") as fh:
+        html = fh.read()
+    new = re.sub(r'src="data\.js(?:\?v=[^"]*)?"', 'src="data.js?v=%s"' % version, html)
+    if new != html:
+        _atomic_write(INDEX, new)
+
+
 def save(data):
     """Write data.json and data.js together. They must never drift."""
     data["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -124,6 +141,7 @@ def save(data):
     # data.js exists so the local clone works from file:// — fetch() is blocked
     # there by CORS, a <script src> tag is not.
     _atomic_write(DATA_JS, JS_PREFIX + body + JS_SUFFIX)
+    _stamp_index(re.sub(r"[^0-9]", "", data["updated"]))
 
 
 # ---------------------------------------------------------------- commands
@@ -274,6 +292,17 @@ def cmd_verify(args):
 
     if not os.path.exists(INDEX):
         problems.append("index.html missing")
+    else:
+        with open(INDEX, encoding="utf-8") as fh:
+            html = fh.read()
+        want = re.sub(r"[^0-9]", "", data.get("updated") or "")
+        m = re.search(r'src="data\.js\?v=([^"]*)"', html)
+        if not m:
+            problems.append("index.html has no cache-busting ?v= on data.js "
+                            "(the page will serve stale news from cache)")
+        elif m.group(1) != want:
+            problems.append("index.html ?v=%s does not match data updated=%s"
+                            % (m.group(1), want))
 
     if problems:
         print("FAIL", file=sys.stderr)
