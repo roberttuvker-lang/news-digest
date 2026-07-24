@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-24T15:57:42Z",
+  "updated": "2026-07-24T16:07:40Z",
   "stories": [
     {
       "stream": "ai",
@@ -1837,6 +1837,39 @@
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260717033046.htm",
       "title_key": "fluoride free gel regrows tooth enamel"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-24",
+      "headline": "Orcas discovered a new party trick: exploding sunfish for fun",
+      "blurb": "Scientists in the Gulf of California filmed killer whales doing something never documented before — one orca gripped a dead sunfish by the fin while a podmate rammed it at full speed, blasting it into confetti. The sunfish was already dead; researchers think it's just orcas showing calves how to portion a meal, or possibly just having a blast. Either way, it's the best 'wait, that's amazing' clip of the week.",
+      "url": "https://www.cnn.com/2026/07/23/science/orcas-ramming-sunfish",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/07/23/science/orcas-ramming-sunfish",
+      "title_key": "orcas discovered new party trick exploding sunfish fun"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-24",
+      "headline": "Two drivers crashed, then had the most Brazilian reaction possible",
+      "blurb": "A fender-bender in Camboriú, Brazil went nothing like the script: the two men got out, sized up the damage, shook hands — then broke into a long, back-patting bear hug in the middle of the road. The clip went viral for all the right reasons, and the story gets better: the strangers have since become actual friends.",
+      "url": "https://www.sunnyskyz.com/good-news/6262/Instead-of-Anger-This-Driver-Gave-the-Man-Who-Hit-Him-a-Hug",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6262/instead-of-anger-this-driver-gave-the-man-who-hit-him-a-hug",
+      "title_key": "two drivers crashed then had most brazilian reaction possible"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-24",
+      "headline": "A dog swam half a mile out into San Francisco Bay. It's home now.",
+      "blurb": "Missing since the Fourth of July, a small dog was spotted paddling in the bay, seagulls circling overhead — so firefighters sent trucks, a boat, an airboat, and a drone after it. They toweled it off, handed it to the SPCA, and tracked down the owner for a full reunion. A whole-fleet rescue mission, for one very determined swimmer.",
+      "url": "https://news.cgtn.com/news/2026-07-22/Dog-rescued-from-San-Francisco-Bay-after-weeks-missing-1OZrPKpI1r2/p.html",
+      "source": "news.cgtn.com",
+      "url_key": "news.cgtn.com/news/2026-07-22/dog-rescued-from-san-francisco-bay-after-weeks-missing-1ozrpkpi1r2/p.html",
+      "title_key": "dog swam half mile out into san francisco bay s home now"
     }
   ],
   "runs": [
@@ -1958,6 +1991,13 @@
       "at": "2026-07-24T15:57:42Z",
       "accepted": 3,
       "rejected": 0
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-24T16:07:40Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
