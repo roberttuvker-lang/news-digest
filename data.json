@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-23T18:05:37Z",
+  "updated": "2026-07-24T15:57:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -1804,6 +1804,39 @@
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260722032108.htm",
       "title_key": "scientists revived dead antibiotic against superbugs"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-24",
+      "headline": "The first atmosphere found on a rocky world in the habitable zone",
+      "blurb": "LHS 1140 b, 48 light-years away, gave itself away by leaking helium into space — the first confirmed atmosphere on a rocky planet in its star's habitable zone, and it may have held on to it for billions of years.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260721000825.htm",
+      "title_key": "first atmosphere found rocky world habitable zone"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-24",
+      "headline": "Webb found a giant planet hiding in one of astronomy's most-studied systems",
+      "blurb": "Beta Pictoris d had been concealed by a bright dust disk for years. Webb picked it out by its atmospheric chemistry — carbon monoxide, water vapour and methane — a promising new way to find elusive planets.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260722032111.htm",
+      "title_key": "webb found giant planet hiding one astronomy s most studied systems"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-24",
+      "headline": "A fluoride-free gel that regrows tooth enamel",
+      "blurb": "University of Nottingham researchers built a gel that mimics the proteins guiding enamel formation in infancy: it fills microscopic cracks and pulls calcium and phosphate from saliva to grow a new mineral layer.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033046.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260717033046.htm",
+      "title_key": "fluoride free gel regrows tooth enamel"
     }
   ],
   "runs": [
@@ -1918,6 +1951,13 @@
       "at": "2026-07-23T17:58:23Z",
       "accepted": 1,
       "rejected": 1
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-24T15:57:42Z",
+      "accepted": 3,
+      "rejected": 0
     }
   ]
 }
