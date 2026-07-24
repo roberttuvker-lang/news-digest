@@ -47,10 +47,33 @@ Run: python add.py verify
 Non-zero exit means the store is damaged. Stop there and commit NOTHING.
 
 STEP 7 — publish.
-Run: git add -A && git commit -m "RUN $(date +%F)" && git push
+Run: git add -A && git commit -m "RUN $(date +%F)"
+Then: git pull --rebase origin main && git push origin HEAD:main
+The `git pull --rebase` is not optional. This repo is also pushed to from a laptop and
+by the other two routines, so the remote may have moved since this session cloned.
+Without the rebase a concurrent push is rejected and this run's work is thrown away.
+If the rebase reports a conflict in data.json or data.js, do NOT merge them by hand:
+`git rebase --abort`, then `git reset --hard origin/main`, then redo STEP 4 and STEP 6
+on the fresh checkout and push again. add.py is the only thing allowed to write them.
 If nothing was accepted there may be nothing to commit — that is fine, skip the push.
 Then report what was accepted and what was rejected, and stop.
 ```
+
+## The 403 that cost a day — read this before debugging push failures
+
+Cloud runs failed `git push` with a hard 403 four times. The cause was **the Claude
+GitHub App being authorized but never installed**. On github.com/settings/installations
+those are two different tabs:
+
+- **Authorized GitHub Apps** — shows only a *Revoke* button. Grants **no** repository
+  permissions. This is where it was.
+- **Installed GitHub Apps** — has *Configure* → Repository access. This is what matters.
+
+Authorized-without-installed produces exactly this symptom: the sandbox clones the repo
+fine (it is public, anyone can) and then 403s on push. Fixed by installing at
+**https://github.com/apps/claude/installations/new** and selecting `news-digest`.
+claude.ai's *organization* settings page is a red herring — that is Team/Enterprise only
+and unrelated.
 
 ---
 
