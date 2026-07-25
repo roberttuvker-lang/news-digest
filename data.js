@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-25T07:05:44Z",
+  "updated": "2026-07-25T12:17:22Z",
   "stories": [
     {
       "stream": "ai",
@@ -1936,6 +1936,39 @@ window.NEWS_DATA = {
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/24/lotto-illinois-lottery-birthday-win/1991784910552",
       "title_key": "illinois man scratches off ultimate birthday present 1 million"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-25",
+      "headline": "Starship's 'Lucky 13' nails it — SpaceX's giant rocket sticks the landing",
+      "blurb": "On July 24, SpaceX's next-gen Starship V3 flew its most successful test yet: the booster splashed down on target, the ship re-lit an engine in space, and all 20 new Starlink V3 satellites checked in healthy. Every flight like this pushes humanity closer to routine, reusable trips beyond Earth orbit.",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-24-2026",
+      "source": "space.com",
+      "url_key": "space.com/news/live/spacex-starship-flight-13-launch-updates-july-24-2026",
+      "title_key": "starship s lucky 13 nails spacex s giant rocket sticks landing"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-25",
+      "headline": "A pill that stops measles in its tracks — before it even spreads",
+      "blurb": "Georgia State University researchers showed an oral antiviral, GHP-88310, completely blocked airborne and contact transmission of a measles-like virus in ferrets, even when given after exposure. Published in Nature Microbiology, it points toward a future where outbreaks can be stopped mid-spread, not just prevented by vaccination alone.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260724061431.htm",
+      "title_key": "pill stops measles tracks before even spreads"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-25",
+      "headline": "Scientists find a scalable path to quantum computers — hiding in ordinary zinc oxide",
+      "blurb": "A Sungkyunkwan University team identified a defect in zinc oxide that behaves as a high-performance 'spin qubit,' with millisecond-scale coherence and compatibility with existing chip manufacturing. Because ZnO is already mass-produced, this could be the shortcut that finally makes quantum computers buildable at scale.",
+      "url": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
+      "title_key": "scientists find scalable path quantum computers hiding ordinary zinc oxide"
     }
   ],
   "runs": [
@@ -2076,6 +2109,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-25T07:05:44Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-25T12:17:22Z",
       "accepted": 3,
       "rejected": 2
     }
