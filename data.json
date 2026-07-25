@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-25T01:53:34Z",
+  "updated": "2026-07-25T07:05:44Z",
   "stories": [
     {
       "stream": "ai",
@@ -1903,6 +1903,39 @@
       "source": "aljazeera.com",
       "url_key": "aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
       "title_key": "amazon deforestation just hit 10 year low"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-25",
+      "headline": "Traffic cameras catch a real-life Spider-Man saving the day",
+      "blurb": "In Jonesboro, Arkansas, 20-year-old Christopher Hellenthal had just clocked out of his trampoline-park job in full Spider-Man costume for 'superhero day' when he spotted a man in a wheelchair stranded mid-crossing across six lanes of traffic. He leapt out of his idling Jeep and rolled the man to safety with seconds to spare before the light changed — all caught on intersection cameras. Police called it 'a little web of kindness' and gave him a public thank-you.",
+      "url": "https://www.upi.com/Odd_News/2026/07/24/Spider-Man-Jonesboro-Arkansas/1871784914332/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/24/spider-man-jonesboro-arkansas/1871784914332",
+      "title_key": "traffic cameras catch real life spider man saving day"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-25",
+      "headline": "A stuffed donkey named Churro went on the adventure of a lifetime — then came home",
+      "blurb": "A pink stuffed donkey belonging to a 5-year-old turned up lost on a British Columbia ferry, so the crew did the only reasonable thing: gave 'Churro the Burro' a full VIP tour of the bridge, the engine room and the gift shop, photographing every stop for social media. The internet fell in love, and Churro was reunited with its very happy owner. Peak wholesome chaos, executed perfectly.",
+      "url": "https://www.upi.com/Odd_News/2026/07/23/canada-Ferries-Churro-the-Burro-stuffed-donkey/9921784826162/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/23/canada-ferries-churro-the-burro-stuffed-donkey/9921784826162",
+      "title_key": "stuffed donkey named churro went adventure lifetime then came home"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-25",
+      "headline": "Illinois man scratches off the ultimate birthday present: $1 million",
+      "blurb": "Just days before his birthday, an Illinois man bought a scratch-off ticket that turned into a cool $1 million win — about as good as pre-birthday gifts get. He called it the best present he's ever received, and honestly, hard to argue.",
+      "url": "https://www.upi.com/Odd_News/2026/07/24/lotto-Illinois-Lottery-birthday-win/1991784910552/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/24/lotto-illinois-lottery-birthday-win/1991784910552",
+      "title_key": "illinois man scratches off ultimate birthday present 1 million"
     }
   ],
   "runs": [
@@ -2036,6 +2069,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-07-25T01:53:34Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-25T07:05:44Z",
       "accepted": 3,
       "rejected": 2
     }
