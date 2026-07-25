@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-24T16:11:31Z",
+  "updated": "2026-07-25T01:53:34Z",
   "stories": [
     {
       "stream": "ai",
@@ -1870,6 +1870,39 @@
       "source": "news.cgtn.com",
       "url_key": "news.cgtn.com/news/2026-07-22/dog-rescued-from-san-francisco-bay-after-weeks-missing-1ozrpkpi1r2/p.html",
       "title_key": "dog swam half mile out into san francisco bay s home now"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-25",
+      "headline": "A sulfur compound could supercharge aging muscle repair",
+      "blurb": "Scientists found that a trisulfide compound called LASSS restores a key muscle-repair protein's ability to bind its receptor, more than doubling its effectiveness in mice. It's early animal research, but it points toward real treatments for age-related muscle wasting.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260724061432.htm",
+      "title_key": "sulfur compound could supercharge aging muscle repair"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-25",
+      "headline": "The 'longevity gene' that shields the brain from Alzheimer's",
+      "blurb": "Researchers at the Buck Institute showed the protective APOE2 gene variant helps neurons repair their own DNA and bounce back faster from stress, explaining why carriers tend to live longer with lower dementia risk. The finding opens a path toward drugs that mimic that defense.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260723084856.htm",
+      "title_key": "longevity gene shields brain alzheimer s"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-25",
+      "headline": "Amazon deforestation just hit a 10-year low",
+      "blurb": "Clearing in the Brazilian Amazon dropped 38% in the first half of 2026 versus a year earlier, the lowest level in a decade, as President Lula's crackdown continues to bite. Real progress on the world's largest rainforest, even with threats like illegal mining still looming.",
+      "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
+      "source": "aljazeera.com",
+      "url_key": "aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
+      "title_key": "amazon deforestation just hit 10 year low"
     }
   ],
   "runs": [
@@ -1996,6 +2029,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-24T16:07:40Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-25T01:53:34Z",
       "accepted": 3,
       "rejected": 2
     }
