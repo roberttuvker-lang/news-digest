@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-26T01:53:25Z",
+  "updated": "2026-07-26T07:05:25Z",
   "stories": [
     {
       "stream": "ai",
@@ -2065,6 +2065,39 @@
       "url_key": "cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
       "title_key": "openai anthropic set lobbying record ai policy fights heat up",
       "category": "Companies"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-26",
+      "headline": "200 people kicked socks into washing machines for a world record (and Down syndrome awareness)",
+      "blurb": "Chorley FC lined up 21 washing machines at their stadium and let a crowd of 200-plus loose to hurl as many mismatched socks into them as possible in one hour, chasing an official Guinness title. It was silly, it was chaotic, and it raised money and awareness for Down Syndrome International — proof the best fundraisers are the ones that make you laugh first.",
+      "url": "https://www.chorleyfc.com/blogs/news/chorley-fc-and-currys-to-host-official-guinness-world-record-attempt-in-support-of-down-syndrome-awareness",
+      "source": "chorleyfc.com",
+      "url_key": "chorleyfc.com/blogs/news/chorley-fc-and-currys-to-host-official-guinness-world-record-attempt-in-support-of-down-syndrome-awareness",
+      "title_key": "200 people kicked socks into washing machines world record down syndrome awareness"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-26",
+      "headline": "Meet Verne the Patriot: the 65-foot nutcracker trying to become the tallest on Earth",
+      "blurb": "A small Minnesota town just unveiled a gigantic, googly-eyed nutcracker named Verne the Patriot, built to smash a Guinness World Record that's stood since 2008. The whole thing traces back to a 96-year-old local woman's personal collection of over 7,500 nutcrackers — small-town charm, taken to spectacular extremes.",
+      "url": "https://www.upi.com/Odd_News/2026/07/22/Guinness-World-Records-largest-nutcracker/3401784735575/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/22/guinness-world-records-largest-nutcracker/3401784735575",
+      "title_key": "meet verne patriot 65 foot nutcracker trying become tallest earth"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-26",
+      "headline": "Japan built a walk-in refrigerator for overheated humans, and it works in 5 minutes",
+      "blurb": "Meet the Do Hiemon Box: a one-person cooling booth that looks like a vending machine, holds a chilly 15°C, and blasts 5°C air right at your head and shoulders. It's aimed at outdoor workers battling brutal summer heat, and early users say it genuinely cools you down in minutes flat — delightfully literal problem-solving.",
+      "url": "https://www.upi.com/Odd_News/2026/07/23/japan-human-refrigerator-Do-Hiemon-Box/2511784823146/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/23/japan-human-refrigerator-do-hiemon-box/2511784823146",
+      "title_key": "japan built walk refrigerator overheated humans works 5 minutes"
     }
   ],
   "runs": [
@@ -2220,6 +2253,13 @@
       "stream": "ai",
       "at": "2026-07-26T01:53:25Z",
       "accepted": 8,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-26T07:05:25Z",
+      "accepted": 3,
       "rejected": 2
     }
   ]
