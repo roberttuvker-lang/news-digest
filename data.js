@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-26T07:05:25Z",
+  "updated": "2026-07-26T12:16:57Z",
   "stories": [
     {
       "stream": "ai",
@@ -2098,6 +2098,39 @@ window.NEWS_DATA = {
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/23/japan-human-refrigerator-do-hiemon-box/2511784823146",
       "title_key": "japan built walk refrigerator overheated humans works 5 minutes"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-26",
+      "headline": "Reliable fusion just cleared a huge engineering hurdle",
+      "blurb": "LLNL and Pacific Fusion pushed their Sirius pulsed-power prototype past 3,000 test shots at 95% energy efficiency, each delivering 60 gigawatts in a 100-nanosecond pulse. It's exactly the unglamorous, repeatable engineering that turns 'fusion works in the lab' into 'fusion works every day' — a real step toward power plants that run on the same reaction as the sun.",
+      "url": "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/",
+      "source": "ans.org",
+      "url_key": "ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype",
+      "title_key": "reliable fusion just cleared huge engineering hurdle"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-26",
+      "headline": "A silicon chip just learned to write DNA with electricity and water",
+      "blurb": "Harvard scientists built a chip that synthesizes 64 different DNA strands at once using electric currents and water-based enzymes, ditching the toxic solvents conventional DNA manufacturing has needed for decades. They already used it to encode a text message in DNA — a small proof of a future where gene therapies and DNA data storage are cheap, clean, and portable.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260708022202.htm",
+      "title_key": "silicon chip just learned write dna electricity water"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-26",
+      "headline": "Your body may already make a natural Ozempic — scientists just found it",
+      "blurb": "Stanford researchers used AI to identify BRP, a tiny 12-amino-acid peptide the body already produces, that cut food intake in animals by up to 50% within an hour by acting directly on the brain's appetite center — without the nausea or muscle loss common to current drugs. Human trials are expected soon, opening the door to gentler, more precise weight and metabolism treatments.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260719230608.htm",
+      "title_key": "your body may already make natural ozempic scientists just found"
     }
   ],
   "runs": [
@@ -2259,6 +2292,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-26T07:05:25Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-26T12:16:57Z",
       "accepted": 3,
       "rejected": 2
     }
