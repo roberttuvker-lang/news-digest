@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-27T01:54:13Z",
+  "updated": "2026-07-27T07:08:09Z",
   "stories": [
     {
       "stream": "ai",
@@ -2164,6 +2164,39 @@
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260726015257.htm",
       "title_key": "scientists find why some brains dodge alzheimer s despite plaques"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-27",
+      "headline": "A bear broke into an SUV, honked the horn all night, and let itself out",
+      "blurb": "A Gold Hill, Colorado man spent a night grumbling about a noisy neighbor — turns out it was a bear that had locked itself inside his SUV and was leaning on the horn. He looped a rope around the door handle, pulled from a safe distance, and the bear sauntered out into the woods completely unbothered, like it had just finished a very loud nap.",
+      "url": "https://www.upi.com/Odd_News/2026/07/22/bear-trapped-SUV-honks-horn-Gold-Hill-Colorado/3221784732774/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/22/bear-trapped-suv-honks-horn-gold-hill-colorado/3221784732774",
+      "title_key": "bear broke into suv honked horn all night let itself out"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-27",
+      "headline": "A python got stuck in a car engine and just... climbed onto the rescuer's arm",
+      "blurb": "A mechanic in Mississauga, Ontario found a large snake wedged under a car's hood — and when an animal services officer reached in, the python calmly slithered right up onto their arm like it had been waiting for a ride. It's recovering at the local shelter, a little dehydrated but otherwise fine, while staff hunt for its owner.",
+      "url": "https://www.upi.com/Odd_News/2026/07/23/canada-Mississauga-Ontario-python-hood-car/9681784816315/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/23/canada-mississauga-ontario-python-hood-car/9681784816315",
+      "title_key": "python got stuck car engine just climbed onto rescuer s arm"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-27",
+      "headline": "He almost gave away a winning $50,000 ticket to settle a $40 debt",
+      "blurb": "A Maryland man was mid-handoff, passing his unscratched lottery ticket to a friend to square a $40 tab, when his wife stepped in and told him to wait. Good call: the ticket turned out to be a $50,000 winner. He's planning a Disney cruise and a dent in the mortgage instead.",
+      "url": "https://www.upi.com/Odd_News/2026/07/22/lotto-Maryland-Lottery-give-away-wife/8951784741677/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/22/lotto-maryland-lottery-give-away-wife/8951784741677",
+      "title_key": "he almost gave away winning 50 000 ticket settle 40 debt"
     }
   ],
   "runs": [
@@ -2339,6 +2372,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-07-27T01:54:13Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-27T07:08:09Z",
       "accepted": 3,
       "rejected": 2
     }
