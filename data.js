@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-27T07:08:09Z",
+  "updated": "2026-07-27T12:20:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -2197,6 +2197,39 @@ window.NEWS_DATA = {
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/22/lotto-maryland-lottery-give-away-wife/8951784741677",
       "title_key": "he almost gave away winning 50 000 ticket settle 40 debt"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-27",
+      "headline": "Astronomers just found the first of 10,000 hidden black holes in a famous star cluster",
+      "blurb": "Hubble and Webb teamed up on 20+ years of archival data to spot a stellar-mass black hole hiding in Omega Centauri, a puzzle that's stumped astronomers for decades. It's proof that patient, creative reuse of old data can crack mysteries hiding in plain sight — with thousands more of these black holes now waiting to be found.",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "source": "science.nasa.gov",
+      "url_key": "science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes",
+      "title_key": "astronomers just found first 10 000 hidden black holes famous star cluster"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-27",
+      "headline": "A Minnesota coal plant is turning into one of the Midwest's biggest solar farms",
+      "blurb": "Xcel Energy just completed Phase 3 of Sherco Solar, reaching 710 megawatts on the site of a retiring coal plant, with a fourth phase planned to power 190,000+ homes by 2029. It's a real, working blueprint for swapping fossil fuel infrastructure for clean power without starting from scratch.",
+      "url": "https://newsroom.xcelenergy.com/news/xcel-energy-completes-sherco-solar-phase-3",
+      "source": "newsroom.xcelenergy.com",
+      "url_key": "newsroom.xcelenergy.com/news/xcel-energy-completes-sherco-solar-phase-3",
+      "title_key": "minnesota coal plant turning into one midwest s biggest solar farms"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-27",
+      "headline": "CRISPR just taught the immune system to see \"invisible\" prostate cancer",
+      "blurb": "Most prostate tumors are immune-cold, hiding from T cells entirely, but scientists used a CRISPR/Cas13 tool to restore a cancer-shortened mRNA, dramatically boosting immunotherapy's power in mice. It's a general trick for unmasking hard-to-treat tumors, not just one cancer type — a genuinely exciting new lever against cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260726015250.htm",
+      "title_key": "crispr just taught immune system see invisible prostate cancer"
     }
   ],
   "runs": [
@@ -2379,6 +2412,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-27T07:08:09Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-27T12:20:15Z",
       "accepted": 3,
       "rejected": 2
     }
