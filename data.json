@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-26T12:16:57Z",
+  "updated": "2026-07-27T01:54:13Z",
   "stories": [
     {
       "stream": "ai",
@@ -2131,6 +2131,39 @@
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260719230608.htm",
       "title_key": "your body may already make natural ozempic scientists just found"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-27",
+      "headline": "Firefighters deliver a newborn in a flood tunnel — and everyone made it",
+      "blurb": "Las Vegas firefighters responding to a woman in labor inside a flood control tunnel found the baby already born and unresponsive. A paramedic cleared the newborn's airway and stabilized the infant on the spot, and both mother and baby reached the hospital in stable condition.",
+      "url": "https://www.fox5atlanta.com/news/las-vegas-firefighters-save-newborn-flood-control-tunnel-birth",
+      "source": "fox5atlanta.com",
+      "url_key": "fox5atlanta.com/news/las-vegas-firefighters-save-newborn-flood-control-tunnel-birth",
+      "title_key": "firefighters deliver newborn flood tunnel everyone made"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-27",
+      "headline": "An 11-year-old's hospital window sign turned into a citywide hug",
+      "blurb": "A leukemia patient in Cincinnati taped a handwritten sign to her hospital window asking for pizza and donuts, just to pass the time. Local businesses saw it circulate online and showed up with cupcakes and pies, and she asked only that everyone be told thanks.",
+      "url": "https://www.sunnyskyz.com/good-news/6264/11-Year-Old-Leukemia-Patient-039-s-Window-Signs-Fill-Hospital-Floor-With-Pizza-Cupcakes-and-Kindness",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6264/11-year-old-leukemia-patient-039-s-window-signs-fill-hospital-floor-with-pizza-cupcakes-and-kindness",
+      "title_key": "11 year old s hospital window sign turned into citywide hug"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-27",
+      "headline": "Scientists find why some brains dodge Alzheimer's despite the plaques",
+      "blurb": "Researchers identified a tipping point in how the brain's immune cells respond to amyloid plaques that separates people who stay sharp from those who slide into dementia. People who kept their memory intact showed an early, contained immune response rather than the runaway later stage tied to tau damage — a new target for treatment.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260726015257.htm",
+      "title_key": "scientists find why some brains dodge alzheimer s despite plaques"
     }
   ],
   "runs": [
@@ -2299,6 +2332,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-07-26T12:16:57Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-27T01:54:13Z",
       "accepted": 3,
       "rejected": 2
     }
