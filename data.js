@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-28T01:53:23Z",
+  "updated": "2026-07-28T07:06:30Z",
   "stories": [
     {
       "stream": "ai",
@@ -2263,6 +2263,39 @@ window.NEWS_DATA = {
       "source": "vocm.com",
       "url_key": "vocm.com/2026/07/27/mother-credits-cbs-mans-quick-thinking-in-saving-young-daughter-at-manuels-river",
       "title_key": "stranger s instant dive pulled young girl newfoundland river"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-28",
+      "headline": "Lost for 5 years and 642 miles, a dog finally sniffs his way home",
+      "blurb": "Chong the dog vanished from his Lincoln, Nebraska yard in 2021 — and turned up this week at a truck stop in Indiana, over 600 miles away. His family's old microchip did the rest: cue the joyful, tail-wagging, camera-caught reunion.",
+      "url": "https://www.upi.com/Odd_News/2026/07/27/missing-dog-Lincoln-Nebraska-Indiana-truck-stop-5-years/6411785161830/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/27/missing-dog-lincoln-nebraska-indiana-truck-stop-5-years/6411785161830",
+      "title_key": "lost 5 years 642 miles dog finally sniffs his way home"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-28",
+      "headline": "'Break-in' suspects turn out to be two extremely unbothered bear cubs",
+      "blurb": "Colorado deputies raced to a reported home invasion in Roxborough and found the culprits: a pair of bear cubs who'd climbed through an open window for a cat-food feast. Wildlife officers walked them out, nobody was hurt, and the internet got its new favorite burglary footage.",
+      "url": "https://www.upi.com/Odd_News/2026/07/27/burglary-bears-Roxborough-Colorado/2771785169223/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/27/burglary-bears-roxborough-colorado/2771785169223",
+      "title_key": "break suspects turn out two extremely unbothered bear cubs"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-28",
+      "headline": "Man juggles flaming torches on a unicycle, sacrifices his eyebrows for glory",
+      "blurb": "Serial record-breaker David Rush pedaled his way to 175 consecutive flaming-torch catches on a unicycle in Boise, more than quadrupling the old record of 37. The forward draft blew the flames right back at him — eyebrows didn't survive, but the Guinness title did.",
+      "url": "https://www.upi.com/Odd_News/2026/07/27/Guinness-World-Records-David-Rush-flaming-torches-unicycle-juggling/2911785166402/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/27/guinness-world-records-david-rush-flaming-torches-unicycle-juggling/2911785166402",
+      "title_key": "man juggles flaming torches unicycle sacrifices his eyebrows glory"
     }
   ],
   "runs": [
@@ -2459,6 +2492,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-07-28T01:53:23Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-28T07:06:30Z",
       "accepted": 3,
       "rejected": 2
     }
