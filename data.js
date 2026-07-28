@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-27T12:20:15Z",
+  "updated": "2026-07-28T01:53:23Z",
   "stories": [
     {
       "stream": "ai",
@@ -2230,6 +2230,39 @@ window.NEWS_DATA = {
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260726015250.htm",
       "title_key": "crispr just taught immune system see invisible prostate cancer"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-28",
+      "headline": "An astronaut who trained cancer researchers in space finally lands",
+      "blurb": "NASA's Chris Williams and two Roscosmos cosmonauts parachuted safely into Kazakhstan after 241 days and 3,856 orbits aboard the ISS, a mission that advanced new cancer-treatment research along the way.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "title_key": "astronaut who trained cancer researchers space finally lands"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-28",
+      "headline": "Scientists just found why the same DNA damage causes cancer in some people, not others",
+      "blurb": "A landmark mouse study shows inherited genetics steer how tumors form and evolve after damage like smoking or UV exposure, a discovery that could let doctors tailor cancer screening to each person.",
+      "url": "https://news.yale.edu/2026/07/27/genetics-influence-how-cancer-arises-and-how-it-evolves",
+      "source": "news.yale.edu",
+      "url_key": "news.yale.edu/2026/07/27/genetics-influence-how-cancer-arises-and-how-it-evolves",
+      "title_key": "scientists just found why same dna damage causes cancer some people not others"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-28",
+      "headline": "A stranger's instant dive pulled a young girl from a Newfoundland river",
+      "blurb": "A passerby at Manuels River saw a little girl going under and jumped in without a second thought. Her mother says she can't imagine what one more minute would have cost.",
+      "url": "https://vocm.com/2026/07/27/mother-credits-cbs-mans-quick-thinking-in-saving-young-daughter-at-manuels-river/",
+      "source": "vocm.com",
+      "url_key": "vocm.com/2026/07/27/mother-credits-cbs-mans-quick-thinking-in-saving-young-daughter-at-manuels-river",
+      "title_key": "stranger s instant dive pulled young girl newfoundland river"
     }
   ],
   "runs": [
@@ -2419,6 +2452,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-07-27T12:20:15Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-28T01:53:23Z",
       "accepted": 3,
       "rejected": 2
     }
