@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-28T07:06:30Z",
+  "updated": "2026-07-28T12:16:56Z",
   "stories": [
     {
       "stream": "ai",
@@ -2296,6 +2296,39 @@
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/guinness-world-records-david-rush-flaming-torches-unicycle-juggling/2911785166402",
       "title_key": "man juggles flaming torches unicycle sacrifices his eyebrows glory"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-28",
+      "headline": "Astronomers just proved they can hunt down 'rogue' black holes with ordinary telescopes",
+      "blurb": "Using a new machine-learning algorithm sifting through years of sky-survey data, scientists confirmed a supermassive black hole roaming free after escaping a galaxy merger — the clearest sighting yet of one of these cosmic wanderers. It's proof that ground-based, visible-light telescopes can now hunt for these elusive objects, cracking open an entirely new way to study how black holes form, grow, and move across the universe.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260727214609.htm",
+      "title_key": "astronomers just proved they can hunt down rogue black holes ordinary telescopes"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-28",
+      "headline": "NASA's robot rescuer is on its way to save a falling space telescope",
+      "blurb": "A briefcase-sized robotic spacecraft named LINK is now working through its first days in orbit, on a mission to dock with the aging Swift Observatory and boost it 300 km higher before it falls back to Earth. It's a genuinely daring first: engineers built a custom three-armed capture system to grab and save a satellite that was never designed to be touched again.",
+      "url": "https://www.cbsnews.com/news/nasa-mission-rescue-falling-swift-telescope/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/news/nasa-mission-rescue-falling-swift-telescope",
+      "title_key": "nasa s robot rescuer way save falling space telescope"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-28",
+      "headline": "Global road deaths have fallen 21% even as a billion more cars hit the streets",
+      "blurb": "New WHO data shows road traffic deaths worldwide dropped 21% since 2011, even as more than a billion additional vehicles joined the roads — proof that smarter infrastructure, in-car tech, and safer design are winning. It's a massive, unglamorous public-health win that's quietly saving hundreds of thousands of lives every year.",
+      "url": "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
+      "source": "who.int",
+      "url_key": "who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
+      "title_key": "global road deaths fallen 21 even billion more cars hit streets"
     }
   ],
   "runs": [
@@ -2499,6 +2532,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-28T07:06:30Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-28T12:16:56Z",
       "accepted": 3,
       "rejected": 2
     }
