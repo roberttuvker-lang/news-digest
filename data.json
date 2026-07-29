@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-28T12:16:56Z",
+  "updated": "2026-07-29T01:53:48Z",
   "stories": [
     {
       "stream": "ai",
@@ -2329,6 +2329,39 @@
       "source": "who.int",
       "url_key": "who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
       "title_key": "global road deaths fallen 21 even billion more cars hit streets"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-29",
+      "headline": "A 16-year-old lifeguard fought 10-foot surf to save a drowning boy",
+      "blurb": "Ryder, a Santa Cruz high schooler, swam into pounding shorebreak and refused to let go of a 10-year-old caught in a rip current until backup arrived. The boy is safe with his family, and the teen was back on duty the very next day.",
+      "url": "https://www.pressdemocrat.com/2026/07/28/california-lifeguard-is-hailed-as-a-hero-after-rescuing-a-boy-from-pounding-surf/",
+      "source": "pressdemocrat.com",
+      "url_key": "pressdemocrat.com/2026/07/28/california-lifeguard-is-hailed-as-a-hero-after-rescuing-a-boy-from-pounding-surf",
+      "title_key": "16 year old lifeguard fought 10 foot surf save drowning boy"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-29",
+      "headline": "NASA's Psyche spacecraft nailed its Mars flyby on the way to a metal world",
+      "blurb": "The probe swung within 2,800 miles of Mars, using the planet's gravity to slingshot toward a 2029 rendezvous with a metal-rich asteroid, and beamed back a stunning timelapse. Mission navigators called the maneuver years in the making and dead on target.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260727214612.htm",
+      "title_key": "nasa s psyche spacecraft nailed mars flyby way metal world"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-29",
+      "headline": "A message in a bottle, sealed 53 years ago, finally reached home",
+      "blurb": "A New Jersey wetlands cleanup turned up a bottle a 9-year-old girl tossed into the surf in 1973, its playful note still legible. Her sister tracked it down and plans to frame it, a small, joyful thread reconnecting a family to her memory.",
+      "url": "https://www.upi.com/Odd_News/2026/07/27/message-bottle-Upper-Township-New-Jersey-53-years/2691785173845/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/27/message-bottle-upper-township-new-jersey-53-years/2691785173845",
+      "title_key": "message bottle sealed 53 years ago finally reached home"
     }
   ],
   "runs": [
@@ -2539,6 +2572,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-07-28T12:16:56Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-29T01:53:48Z",
       "accepted": 3,
       "rejected": 2
     }
