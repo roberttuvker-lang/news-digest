@@ -2,164 +2,447 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>News digest</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Brighter — news for a brighter future</title>
+<meta name="description" content="Good news, three times a day, and the week in AI on Sundays. We don't write the news; every story links to the outlet that reported it.">
+<link rel="canonical" href="https://roberttuvker-lang.github.io/news-digest/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Brighter">
+<meta property="og:title" content="Brighter — news for a brighter future">
+<meta property="og:description" content="Good news, three times a day, and the week in AI on Sundays.">
+<meta property="og:url" content="https://roberttuvker-lang.github.io/news-digest/">
+<meta property="og:image" content="https://roberttuvker-lang.github.io/news-digest/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Brighter — news for a brighter future">
+<meta name="twitter:description" content="Good news, three times a day, and the week in AI on Sundays.">
+<meta name="twitter:image" content="https://roberttuvker-lang.github.io/news-digest/og.png">
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Brighter">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#fbfaf8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141311" media="(prefers-color-scheme: dark)">
+
+<!-- Runs before the first paint. Without it a dark-mode reader gets a white
+     flash on every load, which is the one bug people always notice. -->
+<script>
+(function () {
+  var m = localStorage.getItem("brighter-theme") || "auto";
+  var dark = m === "dark" ||
+             (m === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+  document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+})();
+</script>
+
 <style>
+  /* ---------------------------------------------------------------- tokens
+     One block drives the whole site. Change a value here and the page stays
+     coherent; scatter these and it stops looking designed. */
   :root {
-    --bg: #fbfaf8;
-    --card: #ffffff;
-    --ink: #1b1a18;
-    --muted: #6c6862;
-    --line: #e6e2dc;
-    --accent: #b4531f;
-    --chip: #f1eee9;
+    --paper:  #fbfaf8;
+    --raise:  #ffffff;
+    --ink:    #171614;
+    --body:   #35322e;
+    --muted:  #6b665f;
+    --line:   #e4e0d9;
+    --hair:   #efece7;
+    --accent: #a8481a;
+    --accent-soft: #f4e8e0;
+
+    --serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+    /* Fluid scale. No breakpoints to maintain, no jumps to notice. */
+    --t-display: clamp(2.4rem, 1.5rem + 4.2vw, 3.9rem);
+    --t-lead:    clamp(1.4rem, 1.14rem + 1.2vw, 1.85rem);
+    --t-head:    clamp(1.08rem, 1.0rem + 0.36vw, 1.24rem);
+    --t-body:    1rem;
+    --t-small:   0.83rem;
+    --t-micro:   0.72rem;
+
+    --gap: 4px;
+    --measure: 40rem;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #161513;
-      --card: #1f1e1b;
-      --ink: #ece9e4;
-      --muted: #97918a;
-      --line: #302e2a;
-      --accent: #e08a51;
-      --chip: #292723;
-    }
+
+  html[data-theme="dark"] {
+    --paper:  #141311;
+    --raise:  #1c1b18;
+    --ink:    #f2efe9;
+    --body:   #d6d1c8;
+    --muted:  #9c968d;
+    --line:   #302e2a;
+    --hair:   #262421;
+    --accent: #f0a06a;
+    --accent-soft: #2b241f;
   }
+
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+
   body {
     margin: 0;
-    padding: 0 1rem 4rem;
-    background: var(--bg);
-    color: var(--ink);
-    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    -webkit-text-size-adjust: 100%;
-  }
-  .wrap { max-width: 46rem; margin: 0 auto; }
-
-  header { padding: 2rem 0 1.25rem; }
-  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -0.02em; }
-  .sub { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.85rem; }
-
-  .controls {
-    position: sticky; top: 0; z-index: 5;
-    background: var(--bg);
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--line);
-    margin-bottom: 1.5rem;
-  }
-  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.6rem; }
-  .chip {
-    border: 1px solid var(--line); background: var(--chip); color: var(--ink);
-    border-radius: 999px; padding: 0.3rem 0.85rem;
-    font-size: 0.82rem; cursor: pointer; font-family: inherit;
-  }
-  .chip[aria-pressed="true"] {
-    background: var(--accent); border-color: var(--accent); color: #fff;
-  }
-  #search {
-    width: 100%; padding: 0.5rem 0.7rem; font: inherit; font-size: 0.9rem;
-    border: 1px solid var(--line); border-radius: 0.4rem;
-    background: var(--card); color: var(--ink);
+    background: var(--paper);
+    color: var(--body);
+    font: var(--t-body)/1.6 var(--sans);
+    text-rendering: optimizeLegibility;
+    padding-bottom: calc(var(--gap) * 16);
+    padding-left: max(calc(var(--gap) * 5), env(safe-area-inset-left));
+    padding-right: max(calc(var(--gap) * 5), env(safe-area-inset-right));
   }
 
-  .day { margin-bottom: 2.25rem; }
-  .day > h2 {
-    font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em;
-    color: var(--muted); font-weight: 600;
-    margin: 0 0 0.75rem; padding-bottom: 0.35rem;
-    border-bottom: 1px solid var(--line);
-  }
+  .wrap { max-width: var(--measure); margin: 0 auto; }
+  a { color: var(--accent); }
 
-  .run { margin-bottom: 1.25rem; }
-  .badge {
-    display: inline-block; font-size: 0.68rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: 0.07em;
-    padding: 0.16rem 0.5rem; border-radius: 0.25rem;
-    background: var(--chip); color: var(--muted);
-    margin-bottom: 0.6rem;
-  }
-  .badge.ai { background: var(--accent); color: #fff; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 
-  .cat {
-    font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em;
+  .skip {
+    position: absolute; left: -9999px;
+    background: var(--raise); color: var(--ink);
+    padding: 0.6rem 1rem; border-radius: 6px; z-index: 100;
+  }
+  .skip:focus { left: 50%; transform: translateX(-50%); top: 0.5rem; }
+
+  /* ------------------------------------------------------------- masthead */
+  .masthead { padding: calc(var(--gap) * 14) 0 calc(var(--gap) * 7); text-align: center; }
+  .mark { width: 44px; height: 44px; border-radius: 10px; display: block; margin: 0 auto calc(var(--gap) * 4); }
+  h1 {
+    margin: 0;
+    font-family: var(--serif); font-size: var(--t-display); font-weight: 700;
+    letter-spacing: -0.025em; line-height: 1; color: var(--ink);
+  }
+  .tagline {
+    margin: calc(var(--gap) * 3) 0 0;
+    font-size: var(--t-small); letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--accent);
+  }
+  .issue {
+    margin: calc(var(--gap) * 6) 0 0; padding-top: calc(var(--gap) * 4);
+    border-top: 1px solid var(--line);
+    font-size: var(--t-micro); letter-spacing: 0.1em;
     text-transform: uppercase; color: var(--muted);
-    margin: 1rem 0 0.5rem;
   }
 
-  article {
-    background: var(--card);
-    border: 1px solid var(--line);
-    border-radius: 0.5rem;
-    padding: 0.9rem 1rem;
-    margin-bottom: 0.6rem;
+  /* ---------------------------------------------------------------- topbar
+     Appears only once the masthead has gone, so the brand and the search are
+     never both on screen competing for the same job. */
+  .topbar {
+    position: fixed; inset: 0 0 auto; z-index: 20;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    padding: calc(var(--gap) * 2) calc(var(--gap) * 5);
+    padding-top: max(calc(var(--gap) * 2), env(safe-area-inset-top));
+    transform: translateY(-105%);
+    transition: transform 0.22s ease;
   }
-  article h3 { margin: 0 0 0.35rem; font-size: 1rem; line-height: 1.35; }
-  article p { margin: 0 0 0.5rem; font-size: 0.92rem; color: var(--ink); }
-  article ul.bullets { margin: 0.35rem 0 0.55rem; padding-left: 1.1rem; }
-  article ul.bullets li { font-size: 0.9rem; margin-bottom: 0.3rem; }
-  article .srcs { display: flex; flex-wrap: wrap; gap: 0.3rem 0.8rem; }
-  article a.src {
-    font-size: 0.8rem; color: var(--accent); text-decoration: none;
-    word-break: break-word;
+  @supports (backdrop-filter: blur(1px)) {
+    .topbar {
+      background: color-mix(in srgb, var(--paper) 86%, transparent);
+      backdrop-filter: saturate(1.6) blur(12px);
+    }
   }
-  article a.src:hover { text-decoration: underline; }
+  .topbar[data-shown="true"] { transform: none; }
+  .topbar .row {
+    max-width: var(--measure); margin: 0 auto;
+    display: flex; align-items: center; gap: calc(var(--gap) * 3);
+  }
+  .topbar .name {
+    font-family: var(--serif); font-weight: 700; color: var(--ink);
+    font-size: 1.05rem; letter-spacing: -0.02em; flex: none;
+  }
 
+  /* --------------------------------------------------------------- filters */
+  .tools { margin-bottom: calc(var(--gap) * 8); }
+  .toolrow { display: flex; gap: calc(var(--gap) * 3); align-items: center; }
+
+  .search {
+    display: flex; align-items: center; gap: calc(var(--gap) * 2);
+    border: 1px solid var(--line); border-radius: 999px;
+    background: var(--raise); padding: 0 calc(var(--gap) * 3);
+    flex: 1 1 auto; min-width: 0;
+  }
+  .search svg { flex: none; opacity: 0.5; }
+  .search input {
+    flex: 1 1 auto; min-width: 0; border: 0; background: none;
+    color: var(--ink); font: inherit; font-size: var(--t-small);
+    padding: calc(var(--gap) * 2) 0;
+  }
+  .search input:focus { outline: none; }
+  .search:focus-within { border-color: var(--accent); }
+
+  .topics { display: flex; flex-wrap: wrap; gap: calc(var(--gap) * 2); margin-top: calc(var(--gap) * 3); }
+  .topic {
+    font: inherit; font-size: var(--t-small);
+    border: 1px solid var(--line); background: none; color: var(--muted);
+    border-radius: 999px; padding: calc(var(--gap) * 1.25) calc(var(--gap) * 3);
+    cursor: pointer; white-space: nowrap;
+    transition: color 0.15s, border-color 0.15s, background 0.15s;
+  }
+  .topic:hover { color: var(--ink); border-color: var(--muted); }
+  .topic .n { opacity: 0.55; font-variant-numeric: tabular-nums; }
+  .topic[aria-pressed="true"] {
+    color: var(--accent); border-color: var(--accent); background: var(--accent-soft);
+  }
+
+  .count {
+    margin: calc(var(--gap) * 4) 0 0;
+    font-size: var(--t-micro); color: var(--muted);
+    letter-spacing: 0.06em; text-transform: uppercase;
+  }
+
+  /* ------------------------------------------------------------------ day */
+  .day { margin-bottom: calc(var(--gap) * 14); }
+  .day > h2 {
+    display: flex; align-items: center; gap: calc(var(--gap) * 3);
+    margin: 0 0 calc(var(--gap) * 6);
+    font-family: var(--sans); font-size: var(--t-micro); font-weight: 600;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted);
+  }
+  .day > h2::after { content: ""; flex: 1 1 auto; height: 1px; background: var(--line); }
+
+  .section-title {
+    font-family: var(--serif); font-size: var(--t-lead); color: var(--ink);
+    margin: calc(var(--gap) * 9) 0 calc(var(--gap) * 2);
+    letter-spacing: -0.015em; font-weight: 700;
+  }
+  .cat {
+    font-size: var(--t-micro); font-weight: 700; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--accent);
+    margin: calc(var(--gap) * 7) 0 calc(var(--gap) * 2);
+  }
+
+  /* ---------------------------------------------------------------- entry
+     No boxes. A box round every item says "these are equal records"; a rule
+     and a size step says "this is an article, start here". */
+  .entry { padding: calc(var(--gap) * 6) 0; border-top: 1px solid var(--hair); }
+  .entry.first { border-top: 0; padding-top: 0; }
+
+  .entry h3 {
+    margin: 0;
+    font-family: var(--serif); font-weight: 700;
+    font-size: var(--t-head); line-height: 1.34;
+    letter-spacing: -0.012em; color: var(--ink);
+  }
+  .entry h3 a { color: inherit; text-decoration: none; }
+  .entry h3 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .entry.lead h3 { font-size: var(--t-lead); line-height: 1.24; }
+  .entry.lead { padding-bottom: calc(var(--gap) * 7); }
+
+  .entry p { margin: calc(var(--gap) * 2.5) 0 0; font-size: var(--t-body); color: var(--body); }
+  .entry.lead p { font-size: 1.06rem; }
+
+  .entry ul { margin: calc(var(--gap) * 3) 0 0; padding-left: 1.05rem; }
+  .entry li { margin-bottom: calc(var(--gap) * 1.5); }
+
+  .foot {
+    display: flex; flex-wrap: wrap; align-items: baseline;
+    gap: calc(var(--gap) * 1) calc(var(--gap) * 3);
+    margin-top: calc(var(--gap) * 3);
+    font-size: var(--t-small); color: var(--muted);
+  }
+  .foot a { color: var(--accent); text-decoration: none; }
+  .foot a:hover { text-decoration: underline; }
+  .tag {
+    font: inherit; font-size: var(--t-micro);
+    letter-spacing: 0.1em; text-transform: uppercase;
+    border: 0; background: none; color: var(--muted);
+    padding: 0; cursor: pointer; border-bottom: 1px solid var(--line);
+  }
+  .tag:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* ----------------------------------------------------------------- misc */
+  .more {
+    display: block; width: 100%; margin-top: calc(var(--gap) * 4);
+    padding: calc(var(--gap) * 3.5);
+    font: inherit; font-size: var(--t-small);
+    background: none; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 999px; cursor: pointer;
+  }
+  .more:hover { color: var(--ink); border-color: var(--muted); }
   /* `display:block` beats the hidden attribute's UA rule — without this the
      button stays on screen when there is nothing more to show. */
   .more[hidden] { display: none; }
-  .more {
-    display: block; width: 100%; margin-top: 1rem;
-    padding: 0.7rem; font: inherit; font-size: 0.88rem;
-    background: var(--chip); color: var(--ink);
-    border: 1px solid var(--line); border-radius: 0.4rem; cursor: pointer;
+
+  .empty {
+    padding: calc(var(--gap) * 16) 0; text-align: center;
+    color: var(--muted); font-family: var(--serif); font-size: var(--t-lead);
   }
-  .empty { color: var(--muted); padding: 2rem 0; text-align: center; }
+
+  footer {
+    margin-top: calc(var(--gap) * 16); padding-top: calc(var(--gap) * 6);
+    border-top: 1px solid var(--line);
+    font-size: var(--t-small); color: var(--muted);
+  }
+  footer p { margin: 0 0 calc(var(--gap) * 2); }
+
+  .theme {
+    font: inherit; font-size: var(--t-small);
+    border: 1px solid var(--line); background: none; color: var(--muted);
+    border-radius: 999px; padding: calc(var(--gap) * 1.5) calc(var(--gap) * 3.5);
+    cursor: pointer; flex: none;
+  }
+  .theme:hover { color: var(--ink); border-color: var(--muted); }
+
+  /* iOS has no install prompt, so without a nudge the app is invisible on the
+     one device it matters most on. Shown once, ever. */
+  .a2hs {
+    margin-top: calc(var(--gap) * 6);
+    border: 1px solid var(--line); border-radius: 12px;
+    padding: calc(var(--gap) * 4);
+    font-size: var(--t-small); color: var(--muted);
+    display: flex; gap: calc(var(--gap) * 3); align-items: baseline;
+  }
+  .a2hs[hidden] { display: none; }
+  .a2hs button {
+    font: inherit; font-size: var(--t-small); border: 0; background: none;
+    color: var(--accent); cursor: pointer; padding: 0; flex: none;
+  }
+
+  .fresh {
+    position: fixed; left: 50%; bottom: calc(var(--gap) * 5);
+    transform: translate(-50%, 250%); z-index: 30;
+    background: var(--accent); color: #fff; border: 0; border-radius: 999px;
+    font: inherit; font-size: var(--t-small);
+    padding: calc(var(--gap) * 3) calc(var(--gap) * 6);
+    cursor: pointer; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+    transition: transform 0.25s ease;
+  }
+  .fresh[data-shown="true"] { transform: translate(-50%, 0); }
+  .fresh[hidden] { display: none; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+  }
+
+  /* Black-only printer: colour must not be carrying any meaning. */
+  @media print {
+    :root, html[data-theme="dark"] {
+      --paper: #fff; --raise: #fff; --ink: #000; --body: #000;
+      --muted: #000; --accent: #000; --line: #999; --hair: #ccc;
+      --accent-soft: #fff;
+    }
+    .topbar, .tools, .more, .theme, .a2hs, .fresh, .skip { display: none !important; }
+    .entry { break-inside: avoid; }
+    .foot a { text-decoration: underline; }
+  }
 </style>
 </head>
 <body>
+<a class="skip" href="#stories">Skip to the stories</a>
+
+<div class="topbar" id="topbar" data-shown="false">
+  <div class="row">
+    <span class="name">Brighter</span>
+    <label class="search">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2.4" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path>
+      </svg>
+      <input id="search-top" type="search" placeholder="Search"
+             aria-label="Search stories" autocomplete="off" spellcheck="false">
+    </label>
+    <button class="theme" id="theme-top" type="button">Theme</button>
+  </div>
+</div>
+
 <div class="wrap">
-  <header>
-    <h1>News digest</h1>
-    <p class="sub" id="meta"></p>
+  <header class="masthead">
+    <img class="mark" src="icons/icon-192.png" alt="" width="44" height="44">
+    <h1>Brighter</h1>
+    <p class="tagline">news for a brighter future</p>
+    <p class="issue" id="issue"></p>
   </header>
 
-  <div class="controls">
-    <div class="chips" id="filters">
-      <button class="chip" data-filter="all" aria-pressed="true">All</button>
-      <button class="chip" data-filter="ai" aria-pressed="false">AI</button>
-      <button class="chip" data-filter="good" aria-pressed="false">Good news</button>
+  <div class="tools">
+    <div class="toolrow">
+      <label class="search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2.4" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path>
+        </svg>
+        <input id="search" type="search" placeholder="Search stories, or press /"
+               aria-label="Search stories" autocomplete="off" spellcheck="false">
+      </label>
+      <button class="theme" id="theme" type="button">Theme</button>
     </div>
-    <input id="search" type="search" placeholder="Search headlines and sources…"
-           autocomplete="off" spellcheck="false">
+    <div class="topics" id="topics" role="group" aria-label="Filter by topic"></div>
+    <p class="count" id="count" aria-live="polite"></p>
   </div>
 
-  <main id="out"></main>
-  <button class="more" id="more" hidden>Show everything</button>
+  <main id="stories"></main>
+  <button class="more" id="more" type="button" hidden>Show everything</button>
+
+  <footer>
+    <p>We don&rsquo;t write the news. Every story links to the outlet that reported it.</p>
+    <p id="meta"></p>
+    <div class="a2hs" id="a2hs" hidden>
+      <span id="a2hs-text"></span>
+      <button type="button" id="a2hs-x">Dismiss</button>
+    </div>
+  </footer>
 </div>
+
+<button class="fresh" id="fresh" type="button" data-shown="false" hidden>
+  New stories &mdash; tap to refresh
+</button>
 
 <!-- data.js, not fetch('data.json'): a <script src> works from file:// too,
      fetch does not. The local clone has to open by double-click. -->
-<script src="data.js?v=20260729121850"></script>
+<script src="data.js?v=20260729180420"></script>
 <script>
 (function () {
+  "use strict";
+
   var DATA = window.NEWS_DATA || { stories: [], runs: [], updated: null };
   var RECENT_DAYS = 60;
-
-  var RUN_LABEL = {
-    ai: "AI",
-    morning: "Morning",
-    midday: "Midday",
-    afternoon: "Afternoon"
-  };
+  var TOPICS = ["Science", "Health", "Environment", "Nature", "Space",
+                "Society", "Technology", "AI"];
   var CAT_ORDER = ["Models", "Tools", "Companies", "Policy"];
 
-  var filter = "all";
-  var query = "";
-  var showAll = false;
+  var state = { topic: "All", query: "", showAll: false };
 
-  var out = document.getElementById("out");
+  var out = document.getElementById("stories");
   var moreBtn = document.getElementById("more");
+  var countEl = document.getElementById("count");
+  var topicsEl = document.getElementById("topics");
+  var inputs = [document.getElementById("search"),
+                document.getElementById("search-top")];
 
+  // ------------------------------------------------------------------ theme
+  // The <head> snippet already set the attribute before paint. This only wires
+  // the toggle and keeps the two buttons in step.
+  function applyTheme(mode) {
+    var dark = mode === "dark" ||
+               (mode === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+    document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+    var label = mode === "auto" ? "Auto" : (dark ? "Dark" : "Light");
+    ["theme", "theme-top"].forEach(function (id) {
+      var b = document.getElementById(id);
+      b.textContent = label;
+      b.setAttribute("aria-label", "Colour theme: " + label + ". Activate to change.");
+    });
+  }
+
+  var themeMode = localStorage.getItem("brighter-theme") || "auto";
+  applyTheme(themeMode);
+  ["theme", "theme-top"].forEach(function (id) {
+    document.getElementById(id).addEventListener("click", function () {
+      var order = ["auto", "light", "dark"];
+      themeMode = order[(order.indexOf(themeMode) + 1) % order.length];
+      localStorage.setItem("brighter-theme", themeMode);
+      applyTheme(themeMode);
+    });
+  });
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+    if (themeMode === "auto") applyTheme("auto");
+  });
+
+  // ------------------------------------------------------------------ dates
   function cutoff() {
     var d = new Date();
     d.setDate(d.getDate() - RECENT_DAYS);
@@ -176,16 +459,45 @@
     });
   }
 
+  // ----------------------------------------------------------------- filter
+  function haystack(s) {
+    return [s.headline, s.blurb || "", s.source || "", s.topic || "",
+            (s.bullets || []).join(" ")].join(" ").toLowerCase();
+  }
+
   function matches(s) {
-    if (filter === "ai" && s.stream !== "ai") return false;
-    if (filter === "good" && s.stream === "ai") return false;
-    if (query) {
-      var hay = (s.headline + " " + (s.blurb || "") + " " + (s.source || "")).toLowerCase();
-      if (hay.indexOf(query) === -1) return false;
+    if (state.topic !== "All" && s.topic !== state.topic) return false;
+    if (state.query) {
+      // Every word must appear somewhere, so "science solar" narrows the set
+      // instead of demanding that exact phrase.
+      var hay = haystack(s);
+      var words = state.query.split(/\s+/);
+      for (var i = 0; i < words.length; i++) {
+        if (words[i] && hay.indexOf(words[i]) === -1) return false;
+      }
     }
     return true;
   }
 
+  // -------------------------------------------------------------------- URL
+  function readURL() {
+    var p = new URLSearchParams(location.search);
+    var t = p.get("t");
+    state.topic = (t && TOPICS.indexOf(t) !== -1) ? t : "All";
+    state.query = (p.get("q") || "").trim().toLowerCase();
+    inputs.forEach(function (i) { i.value = p.get("q") || ""; });
+  }
+
+  function writeURL(push) {
+    var p = new URLSearchParams();
+    if (state.topic !== "All") p.set("t", state.topic);
+    if (state.query) p.set("q", state.query);
+    var qs = p.toString();
+    history[push ? "pushState" : "replaceState"](
+      null, "", location.pathname + (qs ? "?" + qs : ""));
+  }
+
+  // ------------------------------------------------------------------ build
   function el(tag, cls, text) {
     var n = document.createElement(tag);
     if (cls) n.className = cls;
@@ -193,61 +505,112 @@
     return n;
   }
 
-  function srcLink(text, href) {
-    var link = el("a", "src", text);
-    link.href = href;
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-    return link;
+  function extLink(text, href) {
+    var a = el("a", null, text);
+    a.href = href;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    return a;
   }
 
-  function card(s) {
-    var a = el("article");
-    a.appendChild(el("h3", null, s.headline));
-    if (s.blurb) a.appendChild(el("p", null, s.blurb));
+  function entry(s, opts) {
+    var cls = "entry" + (opts.lead ? " lead" : "") + (opts.first ? " first" : "");
+    var art = el("article", cls);
+    art.id = s.url_key;
+
+    var h = el("h3");
+    h.appendChild(extLink(s.headline, s.url));
+    art.appendChild(h);
+
+    if (s.blurb) art.appendChild(el("p", null, s.blurb));
 
     // A briefing-style entry carries a bulleted item list...
     if (s.bullets && s.bullets.length) {
-      var ul = el("ul", "bullets");
+      var ul = el("ul");
       s.bullets.forEach(function (b) { ul.appendChild(el("li", null, b)); });
-      a.appendChild(ul);
+      art.appendChild(ul);
     }
 
-    // ...and may cite several sources rather than one.
-    if (s.links && s.links.length) {
-      var row = el("div", "srcs");
-      s.links.forEach(function (l) { row.appendChild(srcLink(l.text || l.url, l.url)); });
-      a.appendChild(row);
-    } else {
-      a.appendChild(srcLink(s.source || s.url, s.url));
+    var foot = el("div", "foot");
+    if (s.topic) {
+      var tag = el("button", "tag", s.topic);
+      tag.type = "button";
+      tag.title = "Show only " + s.topic;
+      tag.addEventListener("click", function () { setTopic(s.topic); });
+      foot.appendChild(tag);
     }
-    return a;
+
+    // ...and may cite several sources rather than one. Credited, not shouted:
+    // we are curating, and the outlet did the work.
+    var links = (s.links && s.links.length)
+      ? s.links
+      : [{ text: s.source || s.url, url: s.url }];
+    links.forEach(function (l, i) {
+      foot.appendChild(extLink((i === 0 ? "via " : "") + (l.text || l.url), l.url));
+    });
+
+    art.appendChild(foot);
+    return art;
+  }
+
+  function renderTopics(all) {
+    var counts = {};
+    all.forEach(function (s) {
+      if (s.topic) counts[s.topic] = (counts[s.topic] || 0) + 1;
+    });
+    topicsEl.innerHTML = "";
+    // "All" plus only the topics that actually have stories. An empty filter is
+    // a dead end, and a wall of them is the mess this replaced.
+    ["All"].concat(TOPICS.filter(function (t) { return counts[t]; }))
+      .forEach(function (t) {
+        var b = el("button", "topic");
+        b.type = "button";
+        b.setAttribute("aria-pressed", String(state.topic === t));
+        b.appendChild(document.createTextNode(t + " "));
+        b.appendChild(el("span", "n", t === "All" ? all.length : counts[t]));
+        b.addEventListener("click", function () { setTopic(t); });
+        topicsEl.appendChild(b);
+      });
+  }
+
+  function setTopic(t) {
+    // Tapping the topic you are already in is how you get back out.
+    state.topic = (state.topic === t && t !== "All") ? "All" : t;
+    writeURL(true);
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   function render() {
     out.innerHTML = "";
 
-    var stories = DATA.stories.filter(matches);
-    if (!showAll) {
+    var all = DATA.stories;
+    renderTopics(all);
+
+    var stories = all.filter(matches);
+    var total = stories.length;
+    if (!state.showAll) {
       var since = cutoff();
       stories = stories.filter(function (s) { return s.date >= since; });
     }
 
-    var hiddenByWindow = DATA.stories.filter(matches).length - stories.length;
-    moreBtn.hidden = showAll || hiddenByWindow <= 0;
+    var hiddenByWindow = total - stories.length;
+    moreBtn.hidden = state.showAll || hiddenByWindow <= 0;
     moreBtn.textContent = "Show everything (" + hiddenByWindow + " older)";
 
+    countEl.textContent = total === all.length
+      ? total + " stories"
+      : total + " of " + all.length + " stories";
+
     if (!stories.length) {
-      out.appendChild(el("p", "empty",
-        DATA.stories.length ? "Nothing matches." : "Nothing logged yet."));
+      out.appendChild(el("p", "empty", all.length ? "Nothing matches." : "Nothing logged yet."));
       return;
     }
 
     // Group by date, then by STREAM within the date — not by run. The morning
     // routine uses one run name for both of its branches, so grouping by run
     // files the Sunday AI roundup and the weekday good news together.
-    var days = {};
-    var dayOrder = [];
+    var days = {}, dayOrder = [];
     stories.forEach(function (s) {
       if (!days[s.date]) { days[s.date] = {}; dayOrder.push(s.date); }
       var g = days[s.date];
@@ -260,59 +623,150 @@
       var day = el("section", "day");
       day.appendChild(el("h2", null, prettyDate(date)));
 
-      Object.keys(days[date]).forEach(function (stream) {
+      // Good news first, the AI briefing after it. The briefing runs long and
+      // would otherwise bury the day's actual stories.
+      var streams = Object.keys(days[date]).sort(function (a, b) {
+        return (a === "ai") - (b === "ai");
+      });
+
+      var placed = 0;
+      streams.forEach(function (stream) {
         var items = days[date][stream];
-        var run = el("div", "run");
-        var badge = el("span", "badge" + (stream === "ai" ? " ai" : ""),
-                       RUN_LABEL[stream] || stream);
-        run.appendChild(badge);
+
+        if (stream === "ai") {
+          day.appendChild(el("h3", "section-title", "The week in AI"));
+        }
 
         var categorised = items.some(function (s) { return s.category; });
         if (categorised) {
           CAT_ORDER.forEach(function (cat) {
             var inCat = items.filter(function (s) { return s.category === cat; });
             if (!inCat.length) return;                 // omit empty groups
-            run.appendChild(el("div", "cat", cat));
-            inCat.forEach(function (s) { run.appendChild(card(s)); });
+            day.appendChild(el("div", "cat", cat));
+            inCat.forEach(function (s, i) {
+              day.appendChild(entry(s, { first: i === 0 }));
+              placed++;
+            });
           });
-          var uncat = items.filter(function (s) { return CAT_ORDER.indexOf(s.category) === -1; });
-          uncat.forEach(function (s) { run.appendChild(card(s)); });
+          items.filter(function (s) { return CAT_ORDER.indexOf(s.category) === -1; })
+               .forEach(function (s) { day.appendChild(entry(s, {})); placed++; });
         } else {
-          items.forEach(function (s) { run.appendChild(card(s)); });
+          items.forEach(function (s) {
+            // One lead per day: a flat list has no entry point, so the eye has
+            // nowhere to land and people bounce.
+            day.appendChild(entry(s, { lead: placed === 0, first: placed === 0 }));
+            placed++;
+          });
         }
-
-        day.appendChild(run);
       });
 
       out.appendChild(day);
     });
+
+    // Deep link from a shared URL.
+    if (location.hash.length > 1) {
+      var target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (target) target.scrollIntoView();
+    }
   }
 
-  document.getElementById("filters").addEventListener("click", function (e) {
-    var btn = e.target.closest(".chip");
-    if (!btn) return;
-    filter = btn.dataset.filter;
-    Array.prototype.forEach.call(this.querySelectorAll(".chip"), function (c) {
-      c.setAttribute("aria-pressed", String(c === btn));
+  // -------------------------------------------------------------- listeners
+  inputs.forEach(function (input) {
+    input.addEventListener("input", function () {
+      state.query = input.value.trim().toLowerCase();
+      inputs.forEach(function (o) { if (o !== input) o.value = input.value; });
+      writeURL(false);
+      render();
     });
-    render();
-  });
-
-  document.getElementById("search").addEventListener("input", function () {
-    query = this.value.trim().toLowerCase();
-    render();
   });
 
   moreBtn.addEventListener("click", function () {
-    showAll = true;
+    state.showAll = true;
     render();
   });
 
+  window.addEventListener("popstate", function () {
+    readURL();
+    render();
+  });
+
+  var topbar = document.getElementById("topbar");
+  function isTopbarShown() { return topbar.dataset.shown === "true"; }
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "/" && !/^(INPUT|TEXTAREA)$/.test(e.target.tagName)) {
+      e.preventDefault();
+      (isTopbarShown() ? inputs[1] : inputs[0]).focus();
+    } else if (e.key === "Escape" && e.target.tagName === "INPUT") {
+      state.query = "";
+      inputs.forEach(function (i) { i.value = ""; });
+      writeURL(false);
+      render();
+    }
+  });
+
+  // ----------------------------------------------------------------- topbar
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(function (entries) {
+      topbar.dataset.shown = String(!entries[0].isIntersecting);
+    }, { rootMargin: "-8px 0px 0px 0px" }).observe(document.querySelector(".masthead"));
+  }
+
+  // ----------------------------------------------------------------- chrome
+  var latest = DATA.stories.reduce(function (m, s) {
+    return s.date > m ? s.date : m;
+  }, "");
+  document.getElementById("issue").textContent = latest ? prettyDate(latest) : "";
+
   document.getElementById("meta").textContent =
     DATA.stories.length + " stories" +
-    (DATA.updated ? " · updated " + DATA.updated.replace("T", " ").replace("Z", " UTC") : "");
+    (DATA.updated ? ", last updated " +
+      DATA.updated.replace("T", " ").replace("Z", " UTC") : "");
 
+  readURL();
   render();
+
+  // -------------------------------------------------------------------- PWA
+  // Guarded: service workers only exist over https, and this file must keep
+  // working when opened by double-click from file://.
+  if ("serviceWorker" in navigator && location.protocol === "https:") {
+    navigator.serviceWorker.register("sw.js").then(function (reg) {
+      reg.addEventListener("updatefound", function () {
+        var sw = reg.installing;
+        if (!sw) return;
+        sw.addEventListener("statechange", function () {
+          // A worker installing while another already controls the page means
+          // the news moved on underneath the reader. Say so, rather than
+          // silently serving what is already on screen.
+          if (sw.state === "installed" && navigator.serviceWorker.controller) {
+            var bar = document.getElementById("fresh");
+            bar.hidden = false;
+            requestAnimationFrame(function () { bar.dataset.shown = "true"; });
+          }
+        });
+      });
+    }).catch(function () { /* the offline shell is a bonus, never a requirement */ });
+  }
+  document.getElementById("fresh").addEventListener("click", function () {
+    location.reload();
+  });
+
+  // iOS gets no install prompt from the browser, so it gets a one-time hint.
+  // Without it the app is invisible on the device he actually reads this on.
+  var isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+  var standalone = matchMedia("(display-mode: standalone)").matches ||
+                   navigator.standalone === true;
+  if (isIOS && !standalone && !localStorage.getItem("brighter-a2hs")) {
+    var box = document.getElementById("a2hs");
+    document.getElementById("a2hs-text").textContent =
+      "Add Brighter to your home screen: tap Share, then Add to Home Screen. " +
+      "It opens instantly after that, and works with no signal.";
+    box.hidden = false;
+    document.getElementById("a2hs-x").addEventListener("click", function () {
+      localStorage.setItem("brighter-a2hs", "1");
+      box.hidden = true;
+    });
+  }
 })();
 </script>
 </body>

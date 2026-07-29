@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-29T12:18:50Z",
+  "updated": "2026-07-29T18:04:20Z",
   "stories": [
     {
       "stream": "ai",
@@ -64,7 +64,8 @@ window.NEWS_DATA = {
           "text": "New Models Today — Last 24 Hours",
           "url": "https://pricepertoken.com/news/model-releases"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -134,7 +135,8 @@ window.NEWS_DATA = {
           "text": "June 2026 AI Launch Wave – WaveSpeed",
           "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -203,7 +205,8 @@ window.NEWS_DATA = {
           "text": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -261,7 +264,8 @@ window.NEWS_DATA = {
           "text": "New Models Last 24 Hours — Price Per Token",
           "url": "https://pricepertoken.com/news/model-releases"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -327,7 +331,8 @@ window.NEWS_DATA = {
           "text": "LLM Updates June 2026 – LLM Stats",
           "url": "https://llm-stats.com/llm-updates"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -385,7 +390,8 @@ window.NEWS_DATA = {
           "text": "LLM Updates June 2026 — llm-stats.com",
           "url": "https://llm-stats.com/llm-updates"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -448,7 +454,8 @@ window.NEWS_DATA = {
           "text": "LLM News Today (June 2026) | llm-stats.com",
           "url": "https://llm-stats.com/ai-news"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -518,7 +525,8 @@ window.NEWS_DATA = {
           "text": "Battle for AI Governance | Vorys",
           "url": "https://www.vorys.com/publication-battle-for-ai-governance-white-houses-plan-to-centralize-ai-regulation-and-states-continuous-opposition"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -594,7 +602,8 @@ window.NEWS_DATA = {
           "text": "CREATE AI Act — Fortune",
           "url": "https://fortune.com/2026/07/01/create-ai-act-bipartisan-deserves-to-pass-cognizant/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -649,7 +658,8 @@ window.NEWS_DATA = {
           "text": "UN AI Governance Dialogue",
           "url": "https://news.un.org/en/story/2026/07/1167848"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -705,7 +715,8 @@ window.NEWS_DATA = {
           "text": "White House AI Executive Order",
           "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -765,7 +776,8 @@ window.NEWS_DATA = {
           "text": "White House EO on AI Innovation and Security",
           "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -820,7 +832,8 @@ window.NEWS_DATA = {
           "text": "UN AI Governance Dialogue — UN News",
           "url": "https://news.un.org/en/story/2026/07/1167848"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -876,7 +889,8 @@ window.NEWS_DATA = {
           "text": "OpenAI Release Notes July 2026 – Releasebot",
           "url": "https://releasebot.io/updates/openai"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -944,7 +958,8 @@ window.NEWS_DATA = {
           "text": "How OpenAI, Google, and Anthropic plan for 2026 US Midterms",
           "url": "https://www.techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -997,7 +1012,8 @@ window.NEWS_DATA = {
           "text": "FTC AI Accuracy Policy — FTC.gov",
           "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1053,7 +1069,8 @@ window.NEWS_DATA = {
           "text": "AI Governance Weekly July 3 2026 — AI Governance Institute",
           "url": "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1115,7 +1132,8 @@ window.NEWS_DATA = {
           "text": "Where State AI Legislation Stands – Mid-2026",
           "url": "https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1170,7 +1188,8 @@ window.NEWS_DATA = {
           "text": "Sam Altman / OpenAI competitive landscape (Fortune)",
           "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1227,7 +1246,8 @@ window.NEWS_DATA = {
           "text": "UN AI Governance Dialogue",
           "url": "https://news.un.org/en/story/2026/07/1167862"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1271,7 +1291,8 @@ window.NEWS_DATA = {
           "text": "Apple sues OpenAI over trade secret theft — TechCrunch",
           "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1319,7 +1340,8 @@ window.NEWS_DATA = {
           "text": "TechNode",
           "url": "https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "afternoon",
@@ -1330,7 +1352,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260709160655.htm",
-      "title_key": "frog gut microbe wiped out tumours mice single dose"
+      "title_key": "frog gut microbe wiped out tumours mice single dose",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1341,7 +1364,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/06/260626125712.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/06/260626125712.htm",
-      "title_key": "metamaterial antenna makes mris sharper faster"
+      "title_key": "metamaterial antenna makes mris sharper faster",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1352,7 +1376,8 @@ window.NEWS_DATA = {
       "url": "https://www.euronews.com/2026/07/14/solar-generated-record-25-of-eu-power-in-june-with-germany-spain-and-poland-leading-the-ra",
       "source": "euronews.com",
       "url_key": "euronews.com/2026/07/14/solar-generated-record-25-of-eu-power-in-june-with-germany-spain-and-poland-leading-the-ra",
-      "title_key": "solar became eu s single biggest power source june"
+      "title_key": "solar became eu s single biggest power source june",
+      "topic": "Environment"
     },
     {
       "stream": "morning",
@@ -1363,7 +1388,8 @@ window.NEWS_DATA = {
       "url": "https://www.worldwildlife.org/news/stories/indus-river-dolphins-benefit-from-new-protected-area-in-pakistan/",
       "source": "worldwildlife.org",
       "url_key": "worldwildlife.org/news/stories/indus-river-dolphins-benefit-from-new-protected-area-in-pakistan",
-      "title_key": "five river sanctuary protects pakistan s rarest dolphin"
+      "title_key": "five river sanctuary protects pakistan s rarest dolphin",
+      "topic": "Nature"
     },
     {
       "stream": "morning",
@@ -1374,7 +1400,8 @@ window.NEWS_DATA = {
       "url": "https://patch.com/illinois/tinleypark/show-mercy-community-rallies-save-life-dog-found-injured-along-i-355",
       "source": "patch.com",
       "url_key": "patch.com/illinois/tinleypark/show-mercy-community-rallies-save-life-dog-found-injured-along-i-355",
-      "title_key": "grieving couple injured dog healed each other"
+      "title_key": "grieving couple injured dog healed each other",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1385,7 +1412,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260712011755.htm",
-      "title_key": "exercise literally rewires your heart s nervous system"
+      "title_key": "exercise literally rewires your heart s nervous system",
+      "topic": "Health"
     },
     {
       "stream": "midday",
@@ -1396,7 +1424,8 @@ window.NEWS_DATA = {
       "url": "https://www.cbsnews.com/news/roman-butzlaff-loneliness-north-carolina-community/",
       "source": "cbsnews.com",
       "url_key": "cbsnews.com/news/roman-butzlaff-loneliness-north-carolina-community",
-      "title_key": "lonely 4 year old s daily wave built whole neighbourhood"
+      "title_key": "lonely 4 year old s daily wave built whole neighbourhood",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -1407,7 +1436,8 @@ window.NEWS_DATA = {
       "url": "https://www.detroitnews.com/story/news/local/oakland-county/2026/07/15/detroit-zoo-welcomes-baby-gorilla-girl/90926177007/",
       "source": "detroitnews.com",
       "url_key": "detroitnews.com/story/news/local/oakland-county/2026/07/15/detroit-zoo-welcomes-baby-gorilla-girl/90926177007",
-      "title_key": "baby gorilla joined detroit zoo"
+      "title_key": "baby gorilla joined detroit zoo",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1418,7 +1448,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/10/lotto-Virginia-Lottery-winning-ticket-truck/6371783705627/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/10/lotto-virginia-lottery-winning-ticket-truck/6371783705627",
-      "title_key": "100k lottery ticket rode around truck weeks"
+      "title_key": "100k lottery ticket rode around truck weeks",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -1429,7 +1460,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260701205006.htm",
-      "title_key": "ai cracks open superconductor search"
+      "title_key": "ai cracks open superconductor search",
+      "topic": "Science"
     },
     {
       "stream": "afternoon",
@@ -1440,7 +1472,8 @@ window.NEWS_DATA = {
       "url": "https://www.statnews.com/2026/07/13/pancreatic-cancer-daraxonrasib-opportunities-challenges/",
       "source": "statnews.com",
       "url_key": "statnews.com/2026/07/13/pancreatic-cancer-daraxonrasib-opportunities-challenges",
-      "title_key": "drug nearly doubles survival undruggable pancreatic cancer"
+      "title_key": "drug nearly doubles survival undruggable pancreatic cancer",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1451,7 +1484,8 @@ window.NEWS_DATA = {
       "url": "https://www.engineering.columbia.edu/about/news/new-method-unlock-vast-lithium-stores",
       "source": "engineering.columbia.edu",
       "url_key": "engineering.columbia.edu/about/news/new-method-unlock-vast-lithium-stores",
-      "title_key": "cleaner way unlock world s lithium"
+      "title_key": "cleaner way unlock world s lithium",
+      "topic": "Environment"
     },
     {
       "stream": "morning",
@@ -1462,7 +1496,8 @@ window.NEWS_DATA = {
       "url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "source": "who.int",
       "url_key": "who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
-      "title_key": "el salvador wipes out leading cause infectious blindness"
+      "title_key": "el salvador wipes out leading cause infectious blindness",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1473,7 +1508,8 @@ window.NEWS_DATA = {
       "url": "https://www.mobileworldlive.com/europe/uk-teens-report-wellbeing-gains-from-social-media-curbs",
       "source": "mobileworldlive.com",
       "url_key": "mobileworldlive.com/europe/uk-teens-report-wellbeing-gains-from-social-media-curbs",
-      "title_key": "month social media limits uk teens sleep better"
+      "title_key": "month social media limits uk teens sleep better",
+      "topic": "Technology"
     },
     {
       "stream": "afternoon",
@@ -1484,7 +1520,8 @@ window.NEWS_DATA = {
       "url": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/",
       "source": "cleantechnica.com",
       "url_key": "cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026",
-      "title_key": "california s grid ran almost fully clean hours"
+      "title_key": "california s grid ran almost fully clean hours",
+      "topic": "Environment"
     },
     {
       "stream": "afternoon",
@@ -1495,7 +1532,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260715083542.htm",
-      "title_key": "scientists smuggled cancer killer into brain using sugar"
+      "title_key": "scientists smuggled cancer killer into brain using sugar",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1506,7 +1544,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260713084855.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260713084855.htm",
-      "title_key": "nasa funded 41 new technologies living moon mars"
+      "title_key": "nasa funded 41 new technologies living moon mars",
+      "topic": "Space"
     },
     {
       "stream": "ai",
@@ -1550,7 +1589,8 @@ window.NEWS_DATA = {
           "text": "Al Jazeera",
           "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact"
         }
-      ]
+      ],
+      "topic": "AI"
     },
     {
       "stream": "afternoon",
@@ -1561,7 +1601,8 @@ window.NEWS_DATA = {
       "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
       "source": "space.com",
       "url_key": "space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
-      "title_key": "india joins private orbital launch club"
+      "title_key": "india joins private orbital launch club",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -1572,7 +1613,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260711010118.htm",
-      "title_key": "repurposed drug may fight alzheimer s root"
+      "title_key": "repurposed drug may fight alzheimer s root",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1583,7 +1625,8 @@ window.NEWS_DATA = {
       "url": "https://ember-energy.org/latest-updates/solar-overtakes-coal-in-us-electricity-for-the-first-month-on-record/",
       "source": "ember-energy.org",
       "url_key": "ember-energy.org/latest-updates/solar-overtakes-coal-in-us-electricity-for-the-first-month-on-record",
-      "title_key": "solar out produced coal america first time"
+      "title_key": "solar out produced coal america first time",
+      "topic": "Environment"
     },
     {
       "stream": "morning",
@@ -1594,7 +1637,8 @@ window.NEWS_DATA = {
       "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
       "source": "news.yale.edu",
       "url_key": "news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "title_key": "remarkable new monkey species introduced itself congo"
+      "title_key": "remarkable new monkey species introduced itself congo",
+      "topic": "Nature"
     },
     {
       "stream": "morning",
@@ -1605,7 +1649,8 @@ window.NEWS_DATA = {
       "url": "https://ember-energy.org/latest-insights/solar-is-eus-biggest-power-source-for-the-first-time-ever/",
       "source": "ember-energy.org",
       "url_key": "ember-energy.org/latest-insights/solar-is-eus-biggest-power-source-for-the-first-time-ever",
-      "title_key": "solar quietly became europe s main power plant"
+      "title_key": "solar quietly became europe s main power plant",
+      "topic": "Environment"
     },
     {
       "stream": "morning",
@@ -1616,7 +1661,8 @@ window.NEWS_DATA = {
       "url": "https://www.arise.tv/uk-study-finds-social-media-restrictions-improve-teen-sleep-wellbeing-focus/",
       "source": "arise.tv",
       "url_key": "arise.tv/uk-study-finds-social-media-restrictions-improve-teen-sleep-wellbeing-focus",
-      "title_key": "little room breathe helps teenagers thrive"
+      "title_key": "little room breathe helps teenagers thrive",
+      "topic": "Technology"
     },
     {
       "stream": "afternoon",
@@ -1627,7 +1673,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260716023603.htm",
-      "title_key": "ai blood test spots heart disease up 15 years early"
+      "title_key": "ai blood test spots heart disease up 15 years early",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1638,7 +1685,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260713084858.htm",
-      "title_key": "robot ran marathon mars"
+      "title_key": "robot ran marathon mars",
+      "topic": "Space"
     },
     {
       "stream": "morning",
@@ -1649,7 +1697,8 @@ window.NEWS_DATA = {
       "url": "https://uknow.uky.edu/research/two-hours-sleep-restored-uk-researchers-make-alzheimer-s-breakthrough",
       "source": "uknow.uky.edu",
       "url_key": "uknow.uky.edu/research/two-hours-sleep-restored-uk-researchers-make-alzheimer-s-breakthrough",
-      "title_key": "way give alzheimer s afflicted brains their sleep back"
+      "title_key": "way give alzheimer s afflicted brains their sleep back",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1660,7 +1709,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260719040000.htm",
-      "title_key": "ordinary laptop cracked quantum only physics problem"
+      "title_key": "ordinary laptop cracked quantum only physics problem",
+      "topic": "Science"
     },
     {
       "stream": "morning",
@@ -1671,7 +1721,8 @@ window.NEWS_DATA = {
       "url": "https://www.cleveland19.com/2026/07/18/good-samaritan-rescues-three-burning-boat-ottawa-river/",
       "source": "cleveland19.com",
       "url_key": "cleveland19.com/2026/07/18/good-samaritan-rescues-three-burning-boat-ottawa-river",
-      "title_key": "stranger pulled three people burning boat"
+      "title_key": "stranger pulled three people burning boat",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -1682,7 +1733,8 @@ window.NEWS_DATA = {
       "url": "https://www.sunnyskyz.com/good-news/6258/Firefighters-Spend-4-5-Hours-Carrying-Exhausted-100-Pound-Dog-Down-Mountain-to-Safety",
       "source": "sunnyskyz.com",
       "url_key": "sunnyskyz.com/good-news/6258/firefighters-spend-4-5-hours-carrying-exhausted-100-pound-dog-down-mountain-to-safety",
-      "title_key": "six firefighters carried tired 100 lb dog down mountain"
+      "title_key": "six firefighters carried tired 100 lb dog down mountain",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1693,7 +1745,8 @@ window.NEWS_DATA = {
       "url": "https://www.fox13seattle.com/news/caught-camera-pierce-county-man-uses-car-stop-runaway-suv",
       "source": "fox13seattle.com",
       "url_key": "fox13seattle.com/news/caught-camera-pierce-county-man-uses-car-stop-runaway-suv",
-      "title_key": "stranger used his own car stop runaway suv"
+      "title_key": "stranger used his own car stop runaway suv",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -1704,7 +1757,8 @@ window.NEWS_DATA = {
       "url": "https://www.washingtonpost.com/nation/2026/07/18/litters-red-wolves-born-nc-boosting-critically-endangered-population/",
       "source": "washingtonpost.com",
       "url_key": "washingtonpost.com/nation/2026/07/18/litters-red-wolves-born-nc-boosting-critically-endangered-population",
-      "title_key": "nearly two dozen wild red wolf pups joined one earth s rarest species"
+      "title_key": "nearly two dozen wild red wolf pups joined one earth s rarest species",
+      "topic": "Nature"
     },
     {
       "stream": "morning",
@@ -1715,7 +1769,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010151.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260718010151.htm",
-      "title_key": "fully human antibody stops deadliest prostate cancer mice"
+      "title_key": "fully human antibody stops deadliest prostate cancer mice",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1726,7 +1781,8 @@ window.NEWS_DATA = {
       "url": "https://www.goodnewsnetwork.org/global-mangrove-loss-slowed-now-reversing-with-more-denser-forests-than-20-years-ago/",
       "source": "goodnewsnetwork.org",
       "url_key": "goodnewsnetwork.org/global-mangrove-loss-slowed-now-reversing-with-more-denser-forests-than-20-years-ago",
-      "title_key": "world s mangrove forests are growing again"
+      "title_key": "world s mangrove forests are growing again",
+      "topic": "Nature"
     },
     {
       "stream": "morning",
@@ -1737,7 +1793,8 @@ window.NEWS_DATA = {
       "url": "https://localnewsmatters.org/2026/06/19/injured-bald-eagle-rehabilitated-and-released-into-the-wild-after-six-months-in-monterey-county/",
       "source": "localnewsmatters.org",
       "url_key": "localnewsmatters.org/2026/06/19/injured-bald-eagle-rehabilitated-and-released-into-the-wild-after-six-months-in-monterey-county",
-      "title_key": "badly injured bald eagle flying free again"
+      "title_key": "badly injured bald eagle flying free again",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1748,7 +1805,8 @@ window.NEWS_DATA = {
       "url": "https://www.ktvq.com/news/montana-teen-uses-rodeo-lasso-to-rescue-drowning-man-on-yellowstone-river",
       "source": "ktvq.com",
       "url_key": "ktvq.com/news/montana-teen-uses-rodeo-lasso-to-rescue-drowning-man-on-yellowstone-river",
-      "title_key": "14 year old lassoed drowning man first throw"
+      "title_key": "14 year old lassoed drowning man first throw",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -1759,7 +1817,8 @@ window.NEWS_DATA = {
       "url": "https://www.wtvr.com/news/local-news/richmond/dave-whitlow-volunteer-cuddler-comforts-nicu-babies-childrens-hospital-of-richmond-april-30-2026",
       "source": "wtvr.com",
       "url_key": "wtvr.com/news/local-news/richmond/dave-whitlow-volunteer-cuddler-comforts-nicu-babies-childrens-hospital-of-richmond-april-30-2026",
-      "title_key": "grandpa whispered blessing nicu babies 8 years"
+      "title_key": "grandpa whispered blessing nicu babies 8 years",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1770,7 +1829,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260718010149.htm",
-      "title_key": "chip can control speed light demand"
+      "title_key": "chip can control speed light demand",
+      "topic": "Science"
     },
     {
       "stream": "morning",
@@ -1781,7 +1841,8 @@ window.NEWS_DATA = {
       "url": "https://www.gpb.org/news/2026/07/09/okefenokee-land-saved-mining-will-open-the-public",
       "source": "gpb.org",
       "url_key": "gpb.org/news/2026/07/09/okefenokee-land-saved-mining-will-open-the-public",
-      "title_key": "swamp size small nation saved good"
+      "title_key": "swamp size small nation saved good",
+      "topic": "Nature"
     },
     {
       "stream": "morning",
@@ -1792,7 +1853,8 @@ window.NEWS_DATA = {
       "url": "https://www.fanamc.com/english/ethiopias-green-legacy-sets-course-for-65-billion-trees-before-hosting-cop32-in-2027-pm-abiy/",
       "source": "fanamc.com",
       "url_key": "fanamc.com/english/ethiopias-green-legacy-sets-course-for-65-billion-trees-before-hosting-cop32-in-2027-pm-abiy",
-      "title_key": "ethiopia pace plant 56 billionth tree year"
+      "title_key": "ethiopia pace plant 56 billionth tree year",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -1803,7 +1865,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260722032108.htm",
-      "title_key": "scientists revived dead antibiotic against superbugs"
+      "title_key": "scientists revived dead antibiotic against superbugs",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1814,7 +1877,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260721000825.htm",
-      "title_key": "first atmosphere found rocky world habitable zone"
+      "title_key": "first atmosphere found rocky world habitable zone",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -1825,7 +1889,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260722032111.htm",
-      "title_key": "webb found giant planet hiding one astronomy s most studied systems"
+      "title_key": "webb found giant planet hiding one astronomy s most studied systems",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -1836,7 +1901,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260717033046.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260717033046.htm",
-      "title_key": "fluoride free gel regrows tooth enamel"
+      "title_key": "fluoride free gel regrows tooth enamel",
+      "topic": "Science"
     },
     {
       "stream": "midday",
@@ -1847,7 +1913,8 @@ window.NEWS_DATA = {
       "url": "https://www.cnn.com/2026/07/23/science/orcas-ramming-sunfish",
       "source": "cnn.com",
       "url_key": "cnn.com/2026/07/23/science/orcas-ramming-sunfish",
-      "title_key": "orcas discovered new party trick exploding sunfish fun"
+      "title_key": "orcas discovered new party trick exploding sunfish fun",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1858,7 +1925,8 @@ window.NEWS_DATA = {
       "url": "https://www.sunnyskyz.com/good-news/6262/Instead-of-Anger-This-Driver-Gave-the-Man-Who-Hit-Him-a-Hug",
       "source": "sunnyskyz.com",
       "url_key": "sunnyskyz.com/good-news/6262/instead-of-anger-this-driver-gave-the-man-who-hit-him-a-hug",
-      "title_key": "two drivers crashed then had most brazilian reaction possible"
+      "title_key": "two drivers crashed then had most brazilian reaction possible",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1869,7 +1937,8 @@ window.NEWS_DATA = {
       "url": "https://news.cgtn.com/news/2026-07-22/Dog-rescued-from-San-Francisco-Bay-after-weeks-missing-1OZrPKpI1r2/p.html",
       "source": "news.cgtn.com",
       "url_key": "news.cgtn.com/news/2026-07-22/dog-rescued-from-san-francisco-bay-after-weeks-missing-1ozrpkpi1r2/p.html",
-      "title_key": "dog swam half mile out into san francisco bay s home now"
+      "title_key": "dog swam half mile out into san francisco bay s home now",
+      "topic": "Technology"
     },
     {
       "stream": "morning",
@@ -1880,7 +1949,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260724061432.htm",
-      "title_key": "sulfur compound could supercharge aging muscle repair"
+      "title_key": "sulfur compound could supercharge aging muscle repair",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1891,7 +1961,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260723084856.htm",
-      "title_key": "longevity gene shields brain alzheimer s"
+      "title_key": "longevity gene shields brain alzheimer s",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -1902,7 +1973,8 @@ window.NEWS_DATA = {
       "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
       "source": "aljazeera.com",
       "url_key": "aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
-      "title_key": "amazon deforestation just hit 10 year low"
+      "title_key": "amazon deforestation just hit 10 year low",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -1913,7 +1985,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/24/Spider-Man-Jonesboro-Arkansas/1871784914332/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/24/spider-man-jonesboro-arkansas/1871784914332",
-      "title_key": "traffic cameras catch real life spider man saving day"
+      "title_key": "traffic cameras catch real life spider man saving day",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -1924,7 +1997,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/23/canada-Ferries-Churro-the-Burro-stuffed-donkey/9921784826162/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/23/canada-ferries-churro-the-burro-stuffed-donkey/9921784826162",
-      "title_key": "stuffed donkey named churro went adventure lifetime then came home"
+      "title_key": "stuffed donkey named churro went adventure lifetime then came home",
+      "topic": "Technology"
     },
     {
       "stream": "midday",
@@ -1935,7 +2009,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/24/lotto-Illinois-Lottery-birthday-win/1991784910552/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/24/lotto-illinois-lottery-birthday-win/1991784910552",
-      "title_key": "illinois man scratches off ultimate birthday present 1 million"
+      "title_key": "illinois man scratches off ultimate birthday present 1 million",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -1946,7 +2021,8 @@ window.NEWS_DATA = {
       "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-24-2026",
       "source": "space.com",
       "url_key": "space.com/news/live/spacex-starship-flight-13-launch-updates-july-24-2026",
-      "title_key": "starship s lucky 13 nails spacex s giant rocket sticks landing"
+      "title_key": "starship s lucky 13 nails spacex s giant rocket sticks landing",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -1957,7 +2033,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260724061431.htm",
-      "title_key": "pill stops measles tracks before even spreads"
+      "title_key": "pill stops measles tracks before even spreads",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -1968,7 +2045,8 @@ window.NEWS_DATA = {
       "url": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
       "source": "phys.org",
       "url_key": "phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
-      "title_key": "scientists find scalable path quantum computers hiding ordinary zinc oxide"
+      "title_key": "scientists find scalable path quantum computers hiding ordinary zinc oxide",
+      "topic": "Science"
     },
     {
       "stream": "ai",
@@ -1980,7 +2058,8 @@ window.NEWS_DATA = {
       "source": "techcrunch.com",
       "url_key": "techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
       "title_key": "pre release openai model escaped sandbox hacked hugging face",
-      "category": "Policy"
+      "category": "Policy",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -1992,7 +2071,8 @@ window.NEWS_DATA = {
       "source": "venturebeat.com",
       "url_key": "venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
       "title_key": "black forest labs ships flux 3 first multimodal frontier model",
-      "category": "Models"
+      "category": "Models",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2004,7 +2084,8 @@ window.NEWS_DATA = {
       "source": "digitalapplied.com",
       "url_key": "digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
       "title_key": "seven flagship model releases landed seven days",
-      "category": "Models"
+      "category": "Models",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2016,7 +2097,8 @@ window.NEWS_DATA = {
       "source": "techtimes.com",
       "url_key": "techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm",
       "title_key": "china s ai companion law forces doubao qwen shut down agents",
-      "category": "Policy"
+      "category": "Policy",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2028,7 +2110,8 @@ window.NEWS_DATA = {
       "source": "blog.modelcontextprotocol.io",
       "url_key": "blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate",
       "title_key": "biggest mcp spec rewrite yet ships july 28",
-      "category": "Tools"
+      "category": "Tools",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2040,7 +2123,8 @@ window.NEWS_DATA = {
       "source": "businesswire.com",
       "url_key": "businesswire.com/news/home/20260716264405/en/fireworks-raises-a-$1.5-billion-series-d-to-lead-the-specialized-intelligence-revolution",
       "title_key": "fireworks ai raises 1 5b enterprise inference demand explodes",
-      "category": "Companies"
+      "category": "Companies",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2052,7 +2136,8 @@ window.NEWS_DATA = {
       "source": "hpcwire.com",
       "url_key": "hpcwire.com/aiwire/2026/07/21/microsoft-and-mistral-expand-ai-partnership-with-sovereign-cloud-and-azure-integration",
       "title_key": "microsoft mistral deepen ties sovereign cloud ai",
-      "category": "Tools"
+      "category": "Tools",
+      "topic": "AI"
     },
     {
       "stream": "ai",
@@ -2064,7 +2149,8 @@ window.NEWS_DATA = {
       "source": "cnbc.com",
       "url_key": "cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
       "title_key": "openai anthropic set lobbying record ai policy fights heat up",
-      "category": "Companies"
+      "category": "Companies",
+      "topic": "AI"
     },
     {
       "stream": "midday",
@@ -2075,7 +2161,8 @@ window.NEWS_DATA = {
       "url": "https://www.chorleyfc.com/blogs/news/chorley-fc-and-currys-to-host-official-guinness-world-record-attempt-in-support-of-down-syndrome-awareness",
       "source": "chorleyfc.com",
       "url_key": "chorleyfc.com/blogs/news/chorley-fc-and-currys-to-host-official-guinness-world-record-attempt-in-support-of-down-syndrome-awareness",
-      "title_key": "200 people kicked socks into washing machines world record down syndrome awareness"
+      "title_key": "200 people kicked socks into washing machines world record down syndrome awareness",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -2086,7 +2173,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/22/Guinness-World-Records-largest-nutcracker/3401784735575/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/22/guinness-world-records-largest-nutcracker/3401784735575",
-      "title_key": "meet verne patriot 65 foot nutcracker trying become tallest earth"
+      "title_key": "meet verne patriot 65 foot nutcracker trying become tallest earth",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -2097,7 +2185,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/23/japan-human-refrigerator-Do-Hiemon-Box/2511784823146/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/23/japan-human-refrigerator-do-hiemon-box/2511784823146",
-      "title_key": "japan built walk refrigerator overheated humans works 5 minutes"
+      "title_key": "japan built walk refrigerator overheated humans works 5 minutes",
+      "topic": "Technology"
     },
     {
       "stream": "afternoon",
@@ -2108,7 +2197,8 @@ window.NEWS_DATA = {
       "url": "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/",
       "source": "ans.org",
       "url_key": "ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype",
-      "title_key": "reliable fusion just cleared huge engineering hurdle"
+      "title_key": "reliable fusion just cleared huge engineering hurdle",
+      "topic": "Science"
     },
     {
       "stream": "afternoon",
@@ -2119,7 +2209,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260708022202.htm",
-      "title_key": "silicon chip just learned write dna electricity water"
+      "title_key": "silicon chip just learned write dna electricity water",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -2130,7 +2221,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260719230608.htm",
-      "title_key": "your body may already make natural ozempic scientists just found"
+      "title_key": "your body may already make natural ozempic scientists just found",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2141,7 +2233,8 @@ window.NEWS_DATA = {
       "url": "https://www.fox5atlanta.com/news/las-vegas-firefighters-save-newborn-flood-control-tunnel-birth",
       "source": "fox5atlanta.com",
       "url_key": "fox5atlanta.com/news/las-vegas-firefighters-save-newborn-flood-control-tunnel-birth",
-      "title_key": "firefighters deliver newborn flood tunnel everyone made"
+      "title_key": "firefighters deliver newborn flood tunnel everyone made",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2152,7 +2245,8 @@ window.NEWS_DATA = {
       "url": "https://www.sunnyskyz.com/good-news/6264/11-Year-Old-Leukemia-Patient-039-s-Window-Signs-Fill-Hospital-Floor-With-Pizza-Cupcakes-and-Kindness",
       "source": "sunnyskyz.com",
       "url_key": "sunnyskyz.com/good-news/6264/11-year-old-leukemia-patient-039-s-window-signs-fill-hospital-floor-with-pizza-cupcakes-and-kindness",
-      "title_key": "11 year old s hospital window sign turned into citywide hug"
+      "title_key": "11 year old s hospital window sign turned into citywide hug",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2163,7 +2257,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260726015257.htm",
-      "title_key": "scientists find why some brains dodge alzheimer s despite plaques"
+      "title_key": "scientists find why some brains dodge alzheimer s despite plaques",
+      "topic": "Health"
     },
     {
       "stream": "midday",
@@ -2174,7 +2269,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/22/bear-trapped-SUV-honks-horn-Gold-Hill-Colorado/3221784732774/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/22/bear-trapped-suv-honks-horn-gold-hill-colorado/3221784732774",
-      "title_key": "bear broke into suv honked horn all night let itself out"
+      "title_key": "bear broke into suv honked horn all night let itself out",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -2185,7 +2281,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/23/canada-Mississauga-Ontario-python-hood-car/9681784816315/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/23/canada-mississauga-ontario-python-hood-car/9681784816315",
-      "title_key": "python got stuck car engine just climbed onto rescuer s arm"
+      "title_key": "python got stuck car engine just climbed onto rescuer s arm",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -2196,7 +2293,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/22/lotto-Maryland-Lottery-give-away-wife/8951784741677/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/22/lotto-maryland-lottery-give-away-wife/8951784741677",
-      "title_key": "he almost gave away winning 50 000 ticket settle 40 debt"
+      "title_key": "he almost gave away winning 50 000 ticket settle 40 debt",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -2207,7 +2305,8 @@ window.NEWS_DATA = {
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
       "source": "science.nasa.gov",
       "url_key": "science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes",
-      "title_key": "astronomers just found first 10 000 hidden black holes famous star cluster"
+      "title_key": "astronomers just found first 10 000 hidden black holes famous star cluster",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -2218,7 +2317,8 @@ window.NEWS_DATA = {
       "url": "https://newsroom.xcelenergy.com/news/xcel-energy-completes-sherco-solar-phase-3",
       "source": "newsroom.xcelenergy.com",
       "url_key": "newsroom.xcelenergy.com/news/xcel-energy-completes-sherco-solar-phase-3",
-      "title_key": "minnesota coal plant turning into one midwest s biggest solar farms"
+      "title_key": "minnesota coal plant turning into one midwest s biggest solar farms",
+      "topic": "Environment"
     },
     {
       "stream": "afternoon",
@@ -2229,7 +2329,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260726015250.htm",
-      "title_key": "crispr just taught immune system see invisible prostate cancer"
+      "title_key": "crispr just taught immune system see invisible prostate cancer",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2240,7 +2341,8 @@ window.NEWS_DATA = {
       "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
       "source": "space.com",
       "url_key": "space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
-      "title_key": "astronaut who trained cancer researchers space finally lands"
+      "title_key": "astronaut who trained cancer researchers space finally lands",
+      "topic": "Space"
     },
     {
       "stream": "morning",
@@ -2251,7 +2353,8 @@ window.NEWS_DATA = {
       "url": "https://news.yale.edu/2026/07/27/genetics-influence-how-cancer-arises-and-how-it-evolves",
       "source": "news.yale.edu",
       "url_key": "news.yale.edu/2026/07/27/genetics-influence-how-cancer-arises-and-how-it-evolves",
-      "title_key": "scientists just found why same dna damage causes cancer some people not others"
+      "title_key": "scientists just found why same dna damage causes cancer some people not others",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2262,7 +2365,8 @@ window.NEWS_DATA = {
       "url": "https://vocm.com/2026/07/27/mother-credits-cbs-mans-quick-thinking-in-saving-young-daughter-at-manuels-river/",
       "source": "vocm.com",
       "url_key": "vocm.com/2026/07/27/mother-credits-cbs-mans-quick-thinking-in-saving-young-daughter-at-manuels-river",
-      "title_key": "stranger s instant dive pulled young girl newfoundland river"
+      "title_key": "stranger s instant dive pulled young girl newfoundland river",
+      "topic": "Society"
     },
     {
       "stream": "midday",
@@ -2273,7 +2377,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/27/missing-dog-Lincoln-Nebraska-Indiana-truck-stop-5-years/6411785161830/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/missing-dog-lincoln-nebraska-indiana-truck-stop-5-years/6411785161830",
-      "title_key": "lost 5 years 642 miles dog finally sniffs his way home"
+      "title_key": "lost 5 years 642 miles dog finally sniffs his way home",
+      "topic": "Technology"
     },
     {
       "stream": "midday",
@@ -2284,7 +2389,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/27/burglary-bears-Roxborough-Colorado/2771785169223/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/burglary-bears-roxborough-colorado/2771785169223",
-      "title_key": "break suspects turn out two extremely unbothered bear cubs"
+      "title_key": "break suspects turn out two extremely unbothered bear cubs",
+      "topic": "Health"
     },
     {
       "stream": "midday",
@@ -2295,7 +2401,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/27/Guinness-World-Records-David-Rush-flaming-torches-unicycle-juggling/2911785166402/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/guinness-world-records-david-rush-flaming-torches-unicycle-juggling/2911785166402",
-      "title_key": "man juggles flaming torches unicycle sacrifices his eyebrows glory"
+      "title_key": "man juggles flaming torches unicycle sacrifices his eyebrows glory",
+      "topic": "Society"
     },
     {
       "stream": "afternoon",
@@ -2306,7 +2413,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260727214609.htm",
-      "title_key": "astronomers just proved they can hunt down rogue black holes ordinary telescopes"
+      "title_key": "astronomers just proved they can hunt down rogue black holes ordinary telescopes",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -2317,7 +2425,8 @@ window.NEWS_DATA = {
       "url": "https://www.cbsnews.com/news/nasa-mission-rescue-falling-swift-telescope/",
       "source": "cbsnews.com",
       "url_key": "cbsnews.com/news/nasa-mission-rescue-falling-swift-telescope",
-      "title_key": "nasa s robot rescuer way save falling space telescope"
+      "title_key": "nasa s robot rescuer way save falling space telescope",
+      "topic": "Space"
     },
     {
       "stream": "afternoon",
@@ -2328,7 +2437,8 @@ window.NEWS_DATA = {
       "url": "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
       "source": "who.int",
       "url_key": "who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
-      "title_key": "global road deaths fallen 21 even billion more cars hit streets"
+      "title_key": "global road deaths fallen 21 even billion more cars hit streets",
+      "topic": "Health"
     },
     {
       "stream": "morning",
@@ -2339,7 +2449,8 @@ window.NEWS_DATA = {
       "url": "https://www.pressdemocrat.com/2026/07/28/california-lifeguard-is-hailed-as-a-hero-after-rescuing-a-boy-from-pounding-surf/",
       "source": "pressdemocrat.com",
       "url_key": "pressdemocrat.com/2026/07/28/california-lifeguard-is-hailed-as-a-hero-after-rescuing-a-boy-from-pounding-surf",
-      "title_key": "16 year old lifeguard fought 10 foot surf save drowning boy"
+      "title_key": "16 year old lifeguard fought 10 foot surf save drowning boy",
+      "topic": "Society"
     },
     {
       "stream": "morning",
@@ -2350,7 +2461,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260727214612.htm",
-      "title_key": "nasa s psyche spacecraft nailed mars flyby way metal world"
+      "title_key": "nasa s psyche spacecraft nailed mars flyby way metal world",
+      "topic": "Space"
     },
     {
       "stream": "morning",
@@ -2361,7 +2473,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/27/message-bottle-Upper-Township-New-Jersey-53-years/2691785173845/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/message-bottle-upper-township-new-jersey-53-years/2691785173845",
-      "title_key": "message bottle sealed 53 years ago finally reached home"
+      "title_key": "message bottle sealed 53 years ago finally reached home",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -2372,7 +2485,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/28/Rocky-Mountain-Biological-Laboratory-marmot-research-OnlyMarms-OnlyFans/5041785256502/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/28/rocky-mountain-biological-laboratory-marmot-research-onlymarms-onlyfans/5041785256502",
-      "title_key": "broke scientists save marmots internet s favorite way onlyfans"
+      "title_key": "broke scientists save marmots internet s favorite way onlyfans",
+      "topic": "Science"
     },
     {
       "stream": "midday",
@@ -2383,7 +2497,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/28/kangaroo-Roofus-Bloomfield-Missouri/5861785250829/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/28/kangaroo-roofus-bloomfield-missouri/5861785250829",
-      "title_key": "missouri s most wanted kangaroo pulls houdini then just turns up"
+      "title_key": "missouri s most wanted kangaroo pulls houdini then just turns up",
+      "topic": "Nature"
     },
     {
       "stream": "midday",
@@ -2394,7 +2509,8 @@ window.NEWS_DATA = {
       "url": "https://www.upi.com/Odd_News/2026/07/28/hedgehog-train-Ellesmere-England/3491785252243/",
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/28/hedgehog-train-ellesmere-england/3491785252243",
-      "title_key": "one very stuck hedgehog gets full concrete busting rescue crew"
+      "title_key": "one very stuck hedgehog gets full concrete busting rescue crew",
+      "topic": "Nature"
     },
     {
       "stream": "afternoon",
@@ -2405,7 +2521,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260727214601.htm",
-      "title_key": "scientists built electron lighthouse steers current pure light"
+      "title_key": "scientists built electron lighthouse steers current pure light",
+      "topic": "Science"
     },
     {
       "stream": "afternoon",
@@ -2416,7 +2533,8 @@ window.NEWS_DATA = {
       "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
       "source": "sciencedaily.com",
       "url_key": "sciencedaily.com/releases/2026/07/260727214557.htm",
-      "title_key": "twisted laser light can now tell mirror image molecules apart fast"
+      "title_key": "twisted laser light can now tell mirror image molecules apart fast",
+      "topic": "Health"
     },
     {
       "stream": "afternoon",
@@ -2427,7 +2545,8 @@ window.NEWS_DATA = {
       "url": "https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first",
       "source": "today.ucsd.edu",
       "url_key": "today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first",
-      "title_key": "humanoid robots just performed live surgery together no human hands involved"
+      "title_key": "humanoid robots just performed live surgery together no human hands involved",
+      "topic": "Health"
     }
   ],
   "runs": [

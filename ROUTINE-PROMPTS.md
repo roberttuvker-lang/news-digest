@@ -31,7 +31,11 @@ STEP 2 — find the stories.
 [content brief — see below]
 
 STEP 3 — write candidates.json in the repo root: a JSON list, best first.
-[{"headline": "...", "blurb": "...", "url": "https://..."}]
+[{"headline": "...", "blurb": "...", "url": "https://...", "topic": "Science"}]
+
+Every candidate MUST carry a "topic": exactly one of Science, Health, Environment,
+Nature, Space, Society, Technology, AI. Pick the closest fit — this is how readers
+filter and search the site, so a wrong topic is worse than a boring one.
 
 STEP 4 — add them.
 Run: python add.py add --stream STREAM --run RUN --max N
@@ -105,7 +109,9 @@ communities solving hard problems, quiet signs of progress.
 Tone: WARM and OPTIMISTIC — a gentle, hopeful way to start the morning.
 ```
 
-`category` goes in `candidates.json` on Sundays only.
+`category` goes in `candidates.json` on Sundays only. It is the AI briefing's internal
+grouping and is separate from `topic`, which every story on every day must have. On
+Sundays the topic is always `AI`.
 
 ### Midday — `--stream midday --run midday-1002 --max 3`
 

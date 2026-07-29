@@ -10,10 +10,17 @@ Stdlib only. The agent never edits data.json or data.js by hand — it calls thi
 candidates.json is a JSON list of objects:
 
     [{"headline": "...", "blurb": "...", "url": "https://...",
-      "category": "Models"}]
+      "topic": "Science", "category": "Models"}]
+
+`topic` is how the reader filters and searches the site. One of:
+Science, Health, Environment, Nature, Space, Society, Technology, AI.
+Missing or unrecognised topics fall back rather than reject, because the
+routines get one pass with no retries and a formatting slip must not cost a
+real story.
 
 `category` is optional and only used by the Sunday AI stream
-(Models / Tools / Companies / Policy).
+(Models / Tools / Companies / Policy). It is the AI briefing's internal
+grouping and is orthogonal to `topic`.
 """
 
 import argparse
@@ -29,12 +36,21 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_JSON = os.path.join(HERE, "data.json")
 DATA_JS = os.path.join(HERE, "data.js")
 INDEX = os.path.join(HERE, "index.html")
+SW = os.path.join(HERE, "sw.js")
+MANIFEST = os.path.join(HERE, "manifest.webmanifest")
 
 JS_PREFIX = "window.NEWS_DATA = "
 JS_SUFFIX = ";\n"
 
 STREAMS = ("ai", "morning", "midday", "afternoon")
 CATEGORIES = ("Models", "Tools", "Companies", "Policy")
+
+# Closed list on purpose. An open tag vocabulary drifts — the routines invent
+# synonyms, and the filter row grows into an unusable wall.
+TOPICS = ("Science", "Health", "Environment", "Nature", "Space",
+          "Society", "Technology", "AI")
+FALLBACK_TOPIC = {"ai": "AI"}
+DEFAULT_TOPIC = "Society"
 
 # Deliberately small. Stripping too much makes unrelated headlines collide.
 STOPWORDS = {
@@ -133,6 +149,24 @@ def _stamp_index(version):
         _atomic_write(INDEX, new)
 
 
+def _stamp_sw(version):
+    """Point sw.js at a fresh cache name.
+
+    A service worker only takes a new version of the site when its cache name
+    changes. Bumping that by hand gets forgotten, and the failure is silent —
+    the installed app keeps serving yesterday's news and looks like the routine
+    broke. Deriving it from the same timestamp we stamp onto data.js removes
+    the human from the loop.
+    """
+    if not os.path.exists(SW):
+        return
+    with open(SW, encoding="utf-8") as fh:
+        js = fh.read()
+    new = re.sub(r'var CACHE = "[^"]*"', 'var CACHE = "brighter-%s"' % version, js)
+    if new != js:
+        _atomic_write(SW, new)
+
+
 def save(data):
     """Write data.json and data.js together. They must never drift."""
     data["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -141,7 +175,9 @@ def save(data):
     # data.js exists so the local clone works from file:// — fetch() is blocked
     # there by CORS, a <script src> tag is not.
     _atomic_write(DATA_JS, JS_PREFIX + body + JS_SUFFIX)
-    _stamp_index(re.sub(r"[^0-9]", "", data["updated"]))
+    version = re.sub(r"[^0-9]", "", data["updated"])
+    _stamp_index(version)
+    _stamp_sw(version)
 
 
 # ---------------------------------------------------------------- commands
@@ -162,7 +198,10 @@ def cmd_recent(args):
 
 
 def cmd_add(args):
-    raw = sys.stdin.read() if args.infile == "-" else open(args.infile, encoding="utf-8").read()
+    # utf-8-sig, not utf-8: some editors and PowerShell's Out-File prepend a
+    # BOM, and plain utf-8 then fails the whole run on character zero.
+    raw = (sys.stdin.read() if args.infile == "-"
+           else open(args.infile, encoding="utf-8-sig").read())
     try:
         cands = json.loads(raw)
     except json.JSONDecodeError as exc:
@@ -212,6 +251,12 @@ def cmd_add(args):
         if category not in CATEGORIES:
             category = None
 
+        # Fall back rather than reject: a story must never land untagged, but
+        # nor should a bad tag cost us a real story on a single-pass run.
+        topic = cand.get("topic")
+        if topic not in TOPICS:
+            topic = FALLBACK_TOPIC.get(args.stream, DEFAULT_TOPIC)
+
         story = {
             "stream": args.stream,
             "run": args.run,
@@ -222,6 +267,7 @@ def cmd_add(args):
             "source": source_of(url),
             "url_key": ukey,
             "title_key": tkey,
+            "topic": topic,
         }
         if category:
             story["category"] = category
@@ -261,7 +307,8 @@ def cmd_verify(args):
         print("FAIL: data.json does not parse: %s" % exc, file=sys.stderr)
         return 1
 
-    required = ("stream", "run", "date", "headline", "url", "url_key", "title_key")
+    required = ("stream", "run", "date", "headline", "url", "url_key", "title_key",
+                "topic")
     seen = {}
     for i, s in enumerate(data.get("stories", [])):
         missing = [f for f in required if not s.get(f)]
@@ -269,6 +316,8 @@ def cmd_verify(args):
             problems.append("story %d missing %s" % (i, ", ".join(missing)))
         if s.get("stream") not in STREAMS:
             problems.append("story %d has unknown stream %r" % (i, s.get("stream")))
+        if s.get("topic") and s.get("topic") not in TOPICS:
+            problems.append("story %d has unknown topic %r" % (i, s.get("topic")))
         key = s.get("url_key")
         if key in seen:
             problems.append("duplicate url_key %r (stories %d and %d)" % (key, seen[key], i))
@@ -304,13 +353,42 @@ def cmd_verify(args):
             problems.append("index.html ?v=%s does not match data updated=%s"
                             % (m.group(1), want))
 
+    # The installed app is downstream of all of this. If the shell is broken the
+    # phone is the last place to find out, so it is checked here instead.
+    if not os.path.exists(SW):
+        problems.append("sw.js missing (the installed app has no offline shell)")
+    else:
+        with open(SW, encoding="utf-8") as fh:
+            sw = fh.read()
+        m = re.search(r'var CACHE = "brighter-([0-9]*)"', sw)
+        if not m:
+            problems.append("sw.js has no versioned CACHE constant "
+                            "(the installed app will serve stale news forever)")
+        elif m.group(1) != want:
+            problems.append("sw.js cache brighter-%s does not match data updated=%s"
+                            % (m.group(1), want))
+
+    if not os.path.exists(MANIFEST):
+        problems.append("manifest.webmanifest missing (the site is not installable)")
+    else:
+        try:
+            with open(MANIFEST, encoding="utf-8") as fh:
+                mf = json.load(fh)
+            for icon in mf.get("icons", []):
+                src = icon.get("src", "")
+                if src and not os.path.exists(os.path.join(HERE, src.lstrip("./"))):
+                    problems.append("manifest lists a missing icon: %s" % src)
+        except json.JSONDecodeError as exc:
+            problems.append("manifest.webmanifest does not parse: %s" % exc)
+
     if problems:
         print("FAIL", file=sys.stderr)
         for p in problems:
             print("  - " + p, file=sys.stderr)
         return 1
 
-    print("OK: %d stories, %d runs, no duplicates, data.js in sync"
+    print("OK: %d stories, %d runs, no duplicates, all topics valid, "
+          "data.js + index.html + sw.js in sync"
           % (len(data.get("stories", [])), len(data.get("runs", []))))
     return 0
 
