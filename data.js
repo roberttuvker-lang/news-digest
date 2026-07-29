@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-29T01:53:48Z",
+  "updated": "2026-07-29T07:05:34Z",
   "stories": [
     {
       "stream": "ai",
@@ -2362,6 +2362,39 @@ window.NEWS_DATA = {
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/27/message-bottle-upper-township-new-jersey-53-years/2691785173845",
       "title_key": "message bottle sealed 53 years ago finally reached home"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-29",
+      "headline": "Broke scientists save marmots the internet's favorite way: OnlyFans",
+      "blurb": "When federal funding dried up, researchers at the Rocky Mountain Biological Laboratory did what any self-respecting marmot fan would do: they launched \"OnlyMarms,\" an OnlyFans page stuffed with daily photos and videos of wild marmots doing marmot things. Tips are funding real field research. Chonky, sunbathing, science-saving legends.",
+      "url": "https://www.upi.com/Odd_News/2026/07/28/Rocky-Mountain-Biological-Laboratory-marmot-research-OnlyMarms-OnlyFans/5041785256502/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/28/rocky-mountain-biological-laboratory-marmot-research-onlymarms-onlyfans/5041785256502",
+      "title_key": "broke scientists save marmots internet s favorite way onlyfans"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-29",
+      "headline": "Missouri's most wanted kangaroo pulls a Houdini, then just... turns up",
+      "blurb": "Roofus the kangaroo bolted from his Bloomfield, Missouri home last Friday after an excavator spooked him, sparking days of neighborhood hopping and headlines. A FedEx driver spotted him Tuesday morning, safe and unbothered, ending the great kangaroo caper on the happiest possible note.",
+      "url": "https://www.upi.com/Odd_News/2026/07/28/kangaroo-Roofus-Bloomfield-Missouri/5861785250829/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/28/kangaroo-roofus-bloomfield-missouri/5861785250829",
+      "title_key": "missouri s most wanted kangaroo pulls houdini then just turns up"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-29",
+      "headline": "One very stuck hedgehog gets a full concrete-busting rescue crew",
+      "blurb": "A hedgehog wedged itself into an underground drain in Ellesmere, England, and firefighters didn't hesitate — they broke through concrete with hand tools to free the little guy. Small animal, full emergency response, happy prickly ending.",
+      "url": "https://www.upi.com/Odd_News/2026/07/28/hedgehog-train-Ellesmere-England/3491785252243/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/28/hedgehog-train-ellesmere-england/3491785252243",
+      "title_key": "one very stuck hedgehog gets full concrete busting rescue crew"
     }
   ],
   "runs": [
@@ -2579,6 +2612,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-07-29T01:53:48Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-29T07:05:34Z",
       "accepted": 3,
       "rejected": 2
     }
