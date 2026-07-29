@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-29T07:05:34Z",
+  "updated": "2026-07-29T12:18:50Z",
   "stories": [
     {
       "stream": "ai",
@@ -2395,6 +2395,39 @@
       "source": "upi.com",
       "url_key": "upi.com/odd_news/2026/07/28/hedgehog-train-ellesmere-england/3491785252243",
       "title_key": "one very stuck hedgehog gets full concrete busting rescue crew"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-29",
+      "headline": "Scientists built an 'electron lighthouse' that steers current with pure light",
+      "blurb": "University of Michigan physicists fired two colors of laser light into a semiconductor and got a beam of electrons that sweeps in a controllable direction — no electric field required. It's a quantum trick that could lead to faster optical sensors, communications, and information storage, letting future chips run on light instead of wires.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260727214601.htm",
+      "title_key": "scientists built electron lighthouse steers current pure light"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-29",
+      "headline": "Twisted laser light can now tell 'mirror-image' molecules apart, fast",
+      "blurb": "Many drug molecules come in two mirror-image forms that behave totally differently in the body, and separating them has always been slow and finicky. Researchers found that twisted laser beams produce distinct ion signals for each mirror twin, opening a faster, more sensitive way to purify and verify medicines.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260727214557.htm",
+      "title_key": "twisted laser light can now tell mirror image molecules apart fast"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-29",
+      "headline": "Humanoid robots just performed live surgery together, no human hands involved",
+      "blurb": "At UC San Diego, teleoperated humanoid robots — including a pair working as a two-robot surgical team — successfully completed gallbladder procedures in a preclinical trial, using off-the-shelf hardware instead of bulky specialized equipment. It's an early step, but one that points toward high-quality surgical care reaching places that could never afford it today.",
+      "url": "https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first",
+      "source": "today.ucsd.edu",
+      "url_key": "today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first",
+      "title_key": "humanoid robots just performed live surgery together no human hands involved"
     }
   ],
   "runs": [
@@ -2619,6 +2652,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-29T07:05:34Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-29T12:18:50Z",
       "accepted": 3,
       "rejected": 2
     }
