@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-30T01:53:45Z",
+  "updated": "2026-07-30T07:06:23Z",
   "stories": [
     {
       "stream": "ai",
@@ -2583,6 +2583,42 @@
       "url_key": "sunnyskyz.com/good-news/6265/11-year-old-becomes-first-child-to-read-100-volunteer-hours-to-shelter-pets",
       "title_key": "11 year old s bedtime stories shelter pets hit 100 hours",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-30",
+      "headline": "A library got its books back — 116 years late (no fine)",
+      "blurb": "A man in Wales just returned two books his grandfather borrowed from Llanrwst Library all the way back in 1910 — over a century overdue. The librarians didn't blink at the fine; they added the century-old loan slip to their archive and grinned instead. Some stories really do take their time coming home.",
+      "url": "https://www.upi.com/Odd_News/2026/07/29/wales-Conwy-Libraries-Llanrwst-overdue-books-116-years/8181785342421/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/29/wales-conwy-libraries-llanrwst-overdue-books-116-years/8181785342421",
+      "title_key": "library got books back 116 years late no fine",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-30",
+      "headline": "Utah zoo has a baby boom, and it includes leopard cubs",
+      "blurb": "Hogle Zoo just welcomed a wave of newborns — a giraffe calf, warthog piglets, a sand cat kitten, a porcupette, and best of all, critically endangered Amur leopard cubs. Fewer than a hundred Amur leopards remain in the wild, so every healthy cub is a real win for the species. Basically a nursery full of good news.",
+      "url": "https://townlift.com/2026/07/baby-boom-at-utahs-hogle-zoo-new-giraffe-calf-warthog-piglets-and-more-arrive-in-2026/",
+      "source": "townlift.com",
+      "url_key": "townlift.com/2026/07/baby-boom-at-utahs-hogle-zoo-new-giraffe-calf-warthog-piglets-and-more-arrive-in-2026",
+      "title_key": "utah zoo baby boom includes leopard cubs",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-30",
+      "headline": "NASA's next great space telescope is fueled and ready — 9 months early",
+      "blurb": "The Nancy Grace Roman Space Telescope just finished fueling at Kennedy Space Center and is set to launch August 30, a full nine months ahead of schedule. Once up, it'll see a field of view 100 times larger than Hubble's, hunting for dark matter, dark energy, and new worlds. A rare treat: a big space mission that's actually running early.",
+      "url": "https://science.nasa.gov/blogs/roman/2026/07/27/nasa-fuels-roman-space-telescope-for-late-august-launch/",
+      "source": "science.nasa.gov",
+      "url_key": "science.nasa.gov/blogs/roman/2026/07/27/nasa-fuels-roman-space-telescope-for-late-august-launch",
+      "title_key": "nasa s next great space telescope fueled ready 9 months early",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -2821,6 +2857,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-07-30T01:53:45Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-30T07:06:23Z",
       "accepted": 3,
       "rejected": 2
     }
