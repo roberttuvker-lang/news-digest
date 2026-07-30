@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-30T07:06:23Z",
+  "updated": "2026-07-30T13:33:00Z",
   "stories": [
     {
       "stream": "ai",
@@ -2619,6 +2619,42 @@
       "url_key": "science.nasa.gov/blogs/roman/2026/07/27/nasa-fuels-roman-space-telescope-for-late-august-launch",
       "title_key": "nasa s next great space telescope fueled ready 9 months early",
       "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-30",
+      "headline": "Astronomers finally catch Betelgeuse's long-hidden companion star on camera",
+      "blurb": "After a century of guessing why the famous red supergiant flickers, a team using ESO's Very Large Telescope has captured the clearest image yet of Betelgeuse B, the companion star that explains its strange dimming. It's a gorgeous case of patient science paying off exactly on schedule, and a preview of the sharper universe next-generation telescopes are about to reveal.",
+      "url": "https://www.scientificamerican.com/article/scientists-get-best-yet-glimpse-of-betelgeuses-companion-star/",
+      "source": "scientificamerican.com",
+      "url_key": "scientificamerican.com/article/scientists-get-best-yet-glimpse-of-betelgeuses-companion-star",
+      "title_key": "astronomers finally catch betelgeuse s long hidden companion star camera",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-30",
+      "headline": "China's electricity just tipped majority-clean for the first time ever",
+      "blurb": "Coal fell to 49.7% of China's power generation in the first half of 2026 — the first time it has dropped below half in the country's history — while wind and solar alone supplied nearly a quarter of all electricity. The world's biggest coal burner is now crossing the same tipping point the US and EU just hit, which means the global energy transition is accelerating everywhere at once.",
+      "url": "https://www.energyconnects.com/news/renewables/2026/july/china-crosses-energy-milestone-as-coal-falls-below-50-of-power/",
+      "source": "energyconnects.com",
+      "url_key": "energyconnects.com/news/renewables/2026/july/china-crosses-energy-milestone-as-coal-falls-below-50-of-power",
+      "title_key": "china s electricity just tipped majority clean first time ever",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-30",
+      "headline": "A one-minute brush-on liquid could end drilling for kids' cavities",
+      "blurb": "A major US clinical trial of 830 children found that silver diamine fluoride, painted on in seconds with no needles or sedation, stopped decay in more than half of treated baby teeth. It's cheap, it's fast, and it could soon spare millions of terrified toddlers the dentist's drill entirely.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729010719.htm",
+      "title_key": "one minute brush liquid could end drilling kids cavities",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -2864,6 +2900,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-30T07:06:23Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-30T13:33:00Z",
       "accepted": 3,
       "rejected": 2
     }
