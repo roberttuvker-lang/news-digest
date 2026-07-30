@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-29T18:04:20Z",
+  "updated": "2026-07-30T01:53:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -2547,6 +2547,42 @@ window.NEWS_DATA = {
       "url_key": "today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first",
       "title_key": "humanoid robots just performed live surgery together no human hands involved",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-30",
+      "headline": "Strangers with sledgehammers freed three women from a crushed car",
+      "blurb": "When a speeding car flew off a Houston overpass and landed upside down on a freeway below, bystanders didn't wait for rescuers. They swarmed the wreck with sledgehammers, poles, and bare hands until all three trapped women were free. All are expected to recover.",
+      "url": "https://www.click2houston.com/news/local/2026/07/24/houston-comes-together-good-samaritan-shares-moment-strangers-helped-three-trapped-women-after-car-flies-off-overpas/",
+      "source": "click2houston.com",
+      "url_key": "click2houston.com/news/local/2026/07/24/houston-comes-together-good-samaritan-shares-moment-strangers-helped-three-trapped-women-after-car-flies-off-overpas",
+      "title_key": "strangers sledgehammers freed three women crushed car",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-30",
+      "headline": "A former nurse's instincts saved a baby at the post office counter",
+      "blurb": "An 8-month-old stopped breathing while her mom mailed a package at a tiny Arizona post office. The clerk behind the counter, a former nurse of 13 years, recognized the danger instantly and began CPR, buying the seconds that got the baby to surgery and safety.",
+      "url": "https://gilaherald.com/former-nurse-turned-postal-clerk-performs-cpr-to-help-save-infant-at-clifton-post-office/",
+      "source": "gilaherald.com",
+      "url_key": "gilaherald.com/former-nurse-turned-postal-clerk-performs-cpr-to-help-save-infant-at-clifton-post-office",
+      "title_key": "former nurse s instincts saved baby post office counter",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-30",
+      "headline": "An 11-year-old's bedtime stories to shelter pets hit 100 hours",
+      "blurb": "For over two years, Nehemiah Turner has been reading aloud to anxious dogs and cats at the Jacksonville Humane Society, calming them and sharpening his own literacy along the way. He's now the first of 2,000 kids in the program to log 100 volunteer hours.",
+      "url": "https://www.sunnyskyz.com/good-news/6265/11-Year-Old-Becomes-First-Child-to-Read-100-Volunteer-Hours-to-Shelter-Pets",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6265/11-year-old-becomes-first-child-to-read-100-volunteer-hours-to-shelter-pets",
+      "title_key": "11 year old s bedtime stories shelter pets hit 100 hours",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -2778,6 +2814,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-07-29T12:18:50Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-30T01:53:45Z",
       "accepted": 3,
       "rejected": 2
     }
