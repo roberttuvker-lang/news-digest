@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-30T13:33:00Z",
+  "updated": "2026-07-31T01:54:18Z",
   "stories": [
     {
       "stream": "ai",
@@ -2655,6 +2655,42 @@
       "url_key": "sciencedaily.com/releases/2026/07/260729010719.htm",
       "title_key": "one minute brush liquid could end drilling kids cavities",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-31",
+      "headline": "Endangered leopards are quietly bouncing back in West Africa",
+      "blurb": "In Benin's Pendjari National Park, leopard density more than tripled between 2017 and 2023, from 0.62 to 2.08 per 100 square kilometers. Rangers, anti-poaching patrols and community programs get the credit for one of the rarest big cats' first real turnaround.",
+      "url": "https://news.mongabay.com/2026/07/endangered-west-african-leopards-show-signs-of-recovery-despite-odds-its-a-win/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/07/endangered-west-african-leopards-show-signs-of-recovery-despite-odds-its-a-win",
+      "title_key": "endangered leopards are quietly bouncing back west africa",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-31",
+      "headline": "Your stomach may be quietly writing your memories",
+      "blurb": "USC researchers found a gut-to-brain signal, carried by the vagus nerve, that helps turn nutritious meals into lasting memories in rats — sugar alone didn't do it. Understanding that pathway could point toward new ways to protect memory as diets and aging take their toll.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729010713.htm",
+      "title_key": "your stomach may quietly writing your memories",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-07-31",
+      "headline": "A fossil sat forgotten for 80 years. It turned out to be a new predator.",
+      "blurb": "A jackal-sized, 210-million-year-old crocodile relative — reinforced skull, short snout built for big prey — was misfiled in a museum drawer since its discovery at New Mexico's Ghost Ranch. Scientists just gave it a name: Eosphorosuchus lacrimosa.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729010732.htm",
+      "title_key": "fossil sat forgotten 80 years turned out new predator",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -2909,6 +2945,13 @@
       "at": "2026-07-30T13:33:00Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-07-31T01:54:18Z",
+      "accepted": 3,
+      "rejected": 1
     }
   ]
 }
