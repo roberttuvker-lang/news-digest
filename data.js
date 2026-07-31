@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-31T07:06:38Z",
+  "updated": "2026-07-31T12:19:47Z",
   "stories": [
     {
       "stream": "ai",
@@ -2727,6 +2727,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/07/30/escaped-pigs-wantage-township-animal-shelter-frankford-township-new-jersey/8481785423693",
       "title_key": "fifteen pigs staged jailbreak onto new jersey highway chaos minimal",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-31",
+      "headline": "Scientists just got NASA's green light to try photographing an alien continent",
+      "blurb": "NASA funded a concept study for two spacecraft flying in tight formation, combining their light to image an Earth-like exoplanet's actual surface — oceans, continents, weather — from light-years away. It's an audacious blueprint, but it points straight at the day we see another world with our own eyes.",
+      "url": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
+      "source": "nasa.gov",
+      "url_key": "nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging",
+      "title_key": "scientists just got nasa s green light try photographing alien continent",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-31",
+      "headline": "Chemists just broke a rule that's stood since periodic-table basics",
+      "blurb": "Rice University scientists built a tiny molecular \"basket\" that coaxes neodymium — a rare-earth metal never thought capable of it — into a totally new kind of bond with oxygen. It could hand chemists cheap, abundant alternatives to the rare metals biology and industry depend on.",
+      "url": "https://news.rice.edu/news/2026/rice-scientists-discover-new-way-metals-bind-oxygen-possibly-starting-new-chapter-chemistry",
+      "source": "news.rice.edu",
+      "url_key": "news.rice.edu/news/2026/rice-scientists-discover-new-way-metals-bind-oxygen-possibly-starting-new-chapter-chemistry",
+      "title_key": "chemists just broke rule s stood since periodic table basics",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-07-31",
+      "headline": "Clean energy just proved it saves you money on the worst days of the year",
+      "blurb": "During July's brutal heatwave, wind and solar surged exactly when demand peaked, saving the U.S. grid more than $170 million and keeping prices lowest in the regions with the most clean power online. The grid of the future isn't just cleaner — it's cheaper when it matters most.",
+      "url": "https://cleanpower.org/resources/clean-power-heatwaves-july-2026/",
+      "source": "cleanpower.org",
+      "url_key": "cleanpower.org/resources/clean-power-heatwaves-july-2026",
+      "title_key": "clean energy just proved saves you money worst days year",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -2993,6 +3029,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-07-31T07:06:38Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-07-31T12:19:47Z",
       "accepted": 3,
       "rejected": 2
     }
