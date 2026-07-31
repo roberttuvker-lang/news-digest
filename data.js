@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-31T01:54:18Z",
+  "updated": "2026-07-31T07:06:38Z",
   "stories": [
     {
       "stream": "ai",
@@ -2691,6 +2691,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/07/260729010732.htm",
       "title_key": "fossil sat forgotten 80 years turned out new predator",
       "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-31",
+      "headline": "Darwin's daisies pulled the same evolutionary trick five different ways",
+      "blurb": "Galápagos giant daisies kept independently evolving the exact same jagged, heat-beating leaf shape — except each lineage got there through a totally different set of genes. Scientists sequenced every known species to catch evolution basically reinventing the same clever wheel on repeat. Proof nature has more than one way to solve a problem, and it's delightfully show-offy about it.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729051537.htm",
+      "title_key": "darwin s daisies pulled same evolutionary trick five different ways",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-31",
+      "headline": "This 4,000-year-old city got richer AND more equal — take notes, everyone",
+      "blurb": "New research on Mohenjo-daro, one of the world's first great cities, found the gap between its richest and poorest homes actually shrank as the city boomed — while Bronze Age neighbors were busy building palaces and pyramids for the elite. Turns out the secret was boring in the best way: drains, streets, and shared infrastructure for everyone. A 4,000-year-old mic drop on the idea that inequality is just the price of progress.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729010730.htm",
+      "title_key": "4 000 year old city got richer more equal take notes everyone",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-07-31",
+      "headline": "Fifteen pigs staged a jailbreak onto a New Jersey highway, chaos was minimal",
+      "blurb": "About fifteen pigs busted loose and went trotting down a busy New Jersey road, and somehow the whole saga ended with zero injuries and a squad of very patient animal control officers herding oinkers back to safety. Motorists got an unscheduled parade; the pigs got a wild story to tell the coop. Small-town wholesome chaos at its finest.",
+      "url": "https://www.upi.com/Odd_News/2026/07/30/escaped-pigs-Wantage-Township-Animal-Shelter-Frankford-Township-New-Jersey/8481785423693/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/30/escaped-pigs-wantage-township-animal-shelter-frankford-township-new-jersey/8481785423693",
+      "title_key": "fifteen pigs staged jailbreak onto new jersey highway chaos minimal",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -2952,6 +2988,13 @@ window.NEWS_DATA = {
       "at": "2026-07-31T01:54:18Z",
       "accepted": 3,
       "rejected": 1
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-07-31T07:06:38Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
