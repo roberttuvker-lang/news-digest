@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-01T07:05:49Z",
+  "updated": "2026-08-01T12:18:10Z",
   "stories": [
     {
       "stream": "ai",
@@ -2835,6 +2835,42 @@ window.NEWS_DATA = {
       "url_key": "bgr.com/2226335/ocular-implant-vision-restoration-eu-approved-prima",
       "title_key": "chip behind eye just gave blind patients their sight back",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-01",
+      "headline": "Scientists just made an alloy 10 times stronger than steel — and it still bends",
+      "blurb": "Purdue engineers reengineered a notoriously brittle cobalt-aluminum compound at the nanoscale, giving it a yield strength up to 10 times that of high-strength structural steel while it still deforms instead of snapping. Lighter, tougher turbine blades and engines just got a lot closer to reality.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729051524.htm",
+      "title_key": "scientists just made alloy 10 times stronger than steel still bends",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-01",
+      "headline": "Turns out black holes don't just swallow — they give a lot back",
+      "blurb": "Watching a black hole's 2023 feeding frenzy with the Very Large Telescope, astronomers found it flinging out nearly as much gas as it consumed, through jets and winds that kept firing long after the outburst faded. The universe's ultimate vacuum cleaners look more like recyclers.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260731034127.htm",
+      "title_key": "turns out black holes don t just swallow they give lot back",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-01",
+      "headline": "A 60-year mystery inside atomic nuclei just got solved",
+      "blurb": "An international team traced a strange burst of gamma rays from zinc-70 to magnetic shifts deep inside its nucleus, cracking a long-standing puzzle in nuclear physics. The find sharpens our models of exactly how stars and neutron-star collisions forge the heavy elements that make up everything around us.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260727214623.htm",
+      "title_key": "60 year mystery inside atomic nuclei just got solved",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -3122,6 +3158,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-01T07:05:49Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-01T12:18:10Z",
       "accepted": 3,
       "rejected": 2
     }
