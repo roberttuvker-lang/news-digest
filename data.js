@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-07-31T12:19:47Z",
+  "updated": "2026-08-01T01:53:05Z",
   "stories": [
     {
       "stream": "ai",
@@ -2763,6 +2763,42 @@ window.NEWS_DATA = {
       "url_key": "cleanpower.org/resources/clean-power-heatwaves-july-2026",
       "title_key": "clean energy just proved saves you money worst days year",
       "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-01",
+      "headline": "Whale 'supergroups' are throwing feeding parties again in the Southern Ocean",
+      "blurb": "Scientists are watching huge humpback whale gatherings return to Antarctic waters, a sign of just how far the species has rebounded — from under 10,000 whales at the height of whaling to more than 100,000 today. Given the chance, nature comes roaring back.",
+      "url": "https://www.ksat.com/news/world/2026/07/26/whale-supergroups-show-numbers-are-rebounding-from-hunting-but-iran-war-holds-dangers-for-them/",
+      "source": "ksat.com",
+      "url_key": "ksat.com/news/world/2026/07/26/whale-supergroups-show-numbers-are-rebounding-from-hunting-but-iran-war-holds-dangers-for-them",
+      "title_key": "whale supergroups are throwing feeding parties again southern ocean",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-01",
+      "headline": "Physicists just built the first-ever photonic time crystal",
+      "blurb": "A team from École Polytechnique, Collège de France and HZDR created an all-optical crystal that reshapes light itself at extraordinary speed. It could open the door to ultrafast computing, sharper imaging, and a new generation of tunable lasers.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260731034131.htm",
+      "title_key": "physicists just built first ever photonic time crystal",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-01",
+      "headline": "Namibia's rhinos are safer than they've been in a decade",
+      "blurb": "Poaching cases fell 53% year-over-year, the country's lowest total in more than ten years, thanks to communities, park rangers, and conservation groups working the problem together. Patient, coordinated effort is paying off for one of the world's most endangered animals.",
+      "url": "https://www.worldwildlife.org/news/stories/namibia-records-lowest-rhino-poaching-in-more-than-a-decade/",
+      "source": "worldwildlife.org",
+      "url_key": "worldwildlife.org/news/stories/namibia-records-lowest-rhino-poaching-in-more-than-a-decade",
+      "title_key": "namibia s rhinos are safer than they ve been decade",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -3036,6 +3072,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-07-31T12:19:47Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-01T01:53:05Z",
       "accepted": 3,
       "rejected": 2
     }
