@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-01T01:53:05Z",
+  "updated": "2026-08-01T07:05:49Z",
   "stories": [
     {
       "stream": "ai",
@@ -2799,6 +2799,42 @@ window.NEWS_DATA = {
       "url_key": "worldwildlife.org/news/stories/namibia-records-lowest-rhino-poaching-in-more-than-a-decade",
       "title_key": "namibia s rhinos are safer than they ve been decade",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-01",
+      "headline": "You're 1% mystery human — and scientists just proved it",
+      "blurb": "Turns out every one of us is carrying DNA from two 'ghost' ancestors science has never even found a bone from — one who roamed Africa 800,000 years ago, the other who mingled with Homo erectus 1.8 million years back. A wild new genome-scanning trick sniffed out their genetic fingerprints hiding in plain sight inside modern people. Somewhere, an ancient love story wrote itself into your genes.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans",
+      "source": "livescience.com",
+      "url_key": "livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans",
+      "title_key": "you re 1 mystery human scientists just proved",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-01",
+      "headline": "Lightning torched his truck. His 9-year-old handed over everything he owned.",
+      "blurb": "A bolt of lightning turned Casey Pettus's Ford F-150 into ash on a Utah highway, and he walked away stunned but unhurt. That night his 9-year-old son emptied his trash-can-business savings — money he'd been stacking up for a dirt bike — straight into his dad's hands so he could buy new tools. Dad says he's never felt so loved.",
+      "url": "https://www.sunnyskyz.com/good-news/6269/A-Lightning-Strike-Took-Everything-Then-A-Little-Boy-Handed-His-Dad-His-Life-Savings",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6269/a-lightning-strike-took-everything-then-a-little-boy-handed-his-dad-his-life-savings",
+      "title_key": "lightning torched his truck his 9 year old handed over everything he owned",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-01",
+      "headline": "A chip behind the eye just gave blind patients their sight back",
+      "blurb": "Europe just gave the green light to PRIMA, a coin-sized implant plus AR glasses that lets people blinded by macular degeneration read again. In trials, 84% of patients got real functional vision back — letters, faces, words, the works. First patients get plugged in as soon as September.",
+      "url": "https://www.bgr.com/2226335/ocular-implant-vision-restoration-eu-approved-prima/",
+      "source": "bgr.com",
+      "url_key": "bgr.com/2226335/ocular-implant-vision-restoration-eu-approved-prima",
+      "title_key": "chip behind eye just gave blind patients their sight back",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -3079,6 +3115,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-01T01:53:05Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-01T07:05:49Z",
       "accepted": 3,
       "rejected": 2
     }
