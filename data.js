@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-02T10:20:54Z",
+  "updated": "2026-08-02T12:20:22Z",
   "stories": [
     {
       "stream": "ai",
@@ -3011,6 +3011,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/07/30/guinness-world-records-rubiks-cube-blindfolded/3061785433709",
       "title_key": "speedcuber just solved rubik s cube blindfolded 11 56 seconds",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-02",
+      "headline": "A quantum computer just did something no supercomputer on Earth can check",
+      "blurb": "IBM and the University of Chicago ran a 70-logical-qubit circuit with thousands of error-corrected operations in about 15 minutes — a task that would swamp the best classical simulations, with the result independently verified. It's a real marker on the road to quantum computers that are both powerful and trustworthy, not just fast.",
+      "url": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-07-quantum-task-classical-simulations.html",
+      "title_key": "quantum computer just did something no supercomputer earth can check",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-02",
+      "headline": "Scientists found a way to turn a pile of mixed plastic trash straight into clean hydrogen",
+      "blurb": "UCLA and Ewha Womans University engineers built a one-pot process that feeds unsorted PET, PE, and PP plastic waste into high-purity hydrogen fuel, while trapping most of the carbon as a solid instead of releasing it as CO2. No sorting, lower heat than traditional gasification, and a plausible path to make plastic waste actually useful.",
+      "url": "https://phys.org/news/2026-07-plastic-hydrogen-fuel.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-07-plastic-hydrogen-fuel.html",
+      "title_key": "scientists found way turn pile mixed plastic trash straight into clean hydrogen",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-02",
+      "headline": "Doctors may soon spot blood cancer years before you'd ever feel sick",
+      "blurb": "A Wellcome Sanger Institute team tracked 30 patients through 450+ genetic samples over decades and found that the DNA changes behind chronic blood cancers show up years before serious symptoms do. That means future screening could catch and monitor these cancers while they're still quiet — turning a late diagnosis into an early, manageable one.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260729010740.htm",
+      "title_key": "doctors may soon spot blood cancer years before you d ever feel sick",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -3319,6 +3355,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-02T10:20:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-02T12:20:22Z",
       "accepted": 3,
       "rejected": 2
     }
