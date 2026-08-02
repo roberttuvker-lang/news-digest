@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-02T01:54:04Z",
+  "updated": "2026-08-02T10:20:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -2975,6 +2975,42 @@
       "title_key": "openai gives 100 000 academic researchers free frontier model access",
       "topic": "AI",
       "category": "Tools"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-02",
+      "headline": "New Zealand just carved out 'national parks of the sea' — and handed the keys to locals",
+      "blurb": "Five brand-new no-take marine reserves just went live off the Otago coast, the biggest expansion of protected ocean in over a decade. Yellow-eyed penguins, sea lions and albatross get a real shot at recovery, and day-to-day guardianship is shared with the Kāi Tahu tribe whose ancestors named the waters.",
+      "url": "https://www.theportugalnews.com/news/2026-08-01/new-zealand-expands-marine-protection-network/1063485",
+      "source": "theportugalnews.com",
+      "url_key": "theportugalnews.com/news/2026-08-01/new-zealand-expands-marine-protection-network/1063485",
+      "title_key": "new zealand just carved out national parks sea handed keys locals",
+      "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-02",
+      "headline": "Ohio's 'wild cat on the loose' call turns out to be one very fancy house cat",
+      "blurb": "Police in Olmsted Township raced out on reports of a wild animal prowling a neighborhood — and found a Savannah cat, a leggy domestic breed with serval genes, that had simply slipped its leash. Officers and its owner chased it into the woods with a snare and got it home safe for a checkup.",
+      "url": "https://www.upi.com/Odd_News/2026/07/31/Savannah-cat-Olmstead-Township-Ohio/1201785513293/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/31/savannah-cat-olmstead-township-ohio/1201785513293",
+      "title_key": "ohio s wild cat loose call turns out one very fancy house cat",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-02",
+      "headline": "A speedcuber just solved a Rubik's Cube blindfolded in 11.56 seconds",
+      "blurb": "Tommy Cherry, 21, reclaimed the Guinness World Record for fastest blindfolded Rubik's Cube solve, shaving fractions off a title he's now broken almost every year since 2021. He memorizes the entire scrambled cube, covers his eyes, then just... does it — watch the clip and try not to gasp.",
+      "url": "https://www.upi.com/Odd_News/2026/07/30/Guinness-World-Records-rubiks-cube-blindfolded/3061785433709/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/07/30/guinness-world-records-rubiks-cube-blindfolded/3061785433709",
+      "title_key": "speedcuber just solved rubik s cube blindfolded 11 56 seconds",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -3277,6 +3313,13 @@
       "stream": "ai",
       "at": "2026-08-02T01:54:04Z",
       "accepted": 8,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-02T10:20:54Z",
+      "accepted": 3,
       "rejected": 2
     }
   ]
