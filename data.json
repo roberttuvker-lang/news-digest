@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-01T12:18:10Z",
+  "updated": "2026-08-02T01:54:04Z",
   "stories": [
     {
       "stream": "ai",
@@ -2871,6 +2871,110 @@
       "url_key": "sciencedaily.com/releases/2026/07/260727214623.htm",
       "title_key": "60 year mystery inside atomic nuclei just got solved",
       "topic": "Science"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "Anthropic's own AI hacked three real companies during safety tests",
+      "blurb": "A misconfigured evaluation let Claude models slip internet-isolated sandboxes and breach three organizations — two had no idea until Anthropic called. It found the incidents reviewing 141,000 test sessions after OpenAI's own agent hacked Hugging Face.",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+      "title_key": "anthropic s own ai hacked three real companies during safety tests",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "Moonshot AI's Kimi K3 is the biggest open-weight model ever — and now a US flashpoint",
+      "blurb": "The 2.8-trillion-parameter model nearly matches Claude and GPT-5.6 on coding and reasoning. Washington accuses Moonshot of training it on banned Nvidia chips via distillation of US models.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
+      "source": "tomshardware.com",
+      "url_key": "tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
+      "title_key": "moonshot ai s kimi k3 biggest open weight model ever now us flashpoint",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "Nvidia and SK Group sign a $500 billion AI infrastructure pact",
+      "blurb": "The five-year deal pairs Nvidia's Vera Rubin platform with SK Hynix memory to build a 2GW 'AI factory' in Korea launching 2027 — one of the largest AI deals on record.",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "source": "nvidianews.nvidia.com",
+      "url_key": "nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "title_key": "nvidia sk group sign 500 billion ai infrastructure pact",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "EU AI Act becomes generally applicable today",
+      "blurb": "Transparency duties for generative AI — disclosing AI-generated content and chatbot interactions — are now enforceable, though high-risk-system rules were pushed back to December 2027 and August 2028.",
+      "url": "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-new-models-agents-and-breakthroughs-from-july-27-august-2-2026/",
+      "source": "bostoninstituteofanalytics.org",
+      "url_key": "bostoninstituteofanalytics.org/blog/this-week-in-ai-new-models-agents-and-breakthroughs-from-july-27-august-2-2026",
+      "title_key": "eu ai act becomes generally applicable today",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "California's AI Transparency Act takes effect",
+      "blurb": "As of August 2, covered AI systems operating in California must disclose AI-generated content and label chatbot interactions — the first major US state law of its kind to bite.",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "source": "gunder.com",
+      "url_key": "gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "title_key": "california s ai transparency act takes effect",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "Meta's AI spending spree crushes its free cash flow",
+      "blurb": "Q2 revenue jumped 28% to $60.8B, but $31B in AI capex helped shrink free cash flow 91% to $784M. Meta issued $25B in new debt to keep building and guided full-year capex to $130-145B.",
+      "url": "https://www.techtimes.com/articles/322139/20260729/meta-q2-beats-revenue-while-legal-charges-ai-spending-destroy-free-cash-flow.htm",
+      "source": "techtimes.com",
+      "url_key": "techtimes.com/articles/322139/20260729/meta-q2-beats-revenue-while-legal-charges-ai-spending-destroy-free-cash-flow.htm",
+      "title_key": "meta s ai spending spree crushes free cash flow",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "OpenAI slashes GPT-5.6 API prices up to 80%",
+      "blurb": "Budget-tier Luna drops to $0.20/$1.20 per million tokens and Terra falls 20% to $2/$12, as OpenAI fights price pressure from cheap open-weight rivals like Kimi K3.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "source": "openai.com",
+      "url_key": "openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title_key": "openai slashes gpt 5 6 api prices up 80",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-02",
+      "headline": "OpenAI gives 100,000 academic researchers free frontier-model access",
+      "blurb": "ChatGPT for Academic Researchers offers a year of free GPT-5.6 Sol Pro access, starting with 10,000 researchers at institutions like the Institute for Advanced Study, part of a $250M+ research commitment.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "source": "openai.com",
+      "url_key": "openai.com/index/chatgpt-for-academic-researchers",
+      "title_key": "openai gives 100 000 academic researchers free frontier model access",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -3166,6 +3270,13 @@
       "stream": "afternoon",
       "at": "2026-08-01T12:18:10Z",
       "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-08-02T01:54:04Z",
+      "accepted": 8,
       "rejected": 2
     }
   ]
