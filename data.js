@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-03T01:53:13Z",
+  "updated": "2026-08-03T07:07:17Z",
   "stories": [
     {
       "stream": "ai",
@@ -3083,6 +3083,42 @@ window.NEWS_DATA = {
       "url_key": "energiesmedia.com/wind-power-aeroelasticity-bladeless-wind-turbine",
       "title_key": "wobbling pole no blades could reinvent wind power",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-03",
+      "headline": "He said no to $400 million — so his boat company could never be sold again",
+      "blurb": "Eighty-three-year-old Eddie Smith bought Grady-White Boats in 1968 to save it from bankruptcy. This month he turned down a $400 million buyout and handed the whole company to a nonprofit trust instead, locking in employee profit-sharing and sending 95% of future profits to conservation, healthcare, and education — forever, no take-backs.",
+      "url": "https://fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy/",
+      "source": "fortune.com",
+      "url_key": "fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy",
+      "title_key": "he said no 400 million so his boat company could never sold again",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-03",
+      "headline": "Brazil built rope bridges for monkeys — and hit zero roadkill in 15 months",
+      "blurb": "Eight simple rope-and-cable bridges strung above a highway in the Brazilian Amazon have carried 15,000 safe crossings for howler monkeys, capuchins, kinkajous, and a critically endangered titi monkey, with not a single roadkill recorded. Brazil's federal transport department liked the results so much it just made the design the national standard for new highways.",
+      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings",
+      "title_key": "brazil built rope bridges monkeys hit zero roadkill 15 months",
+      "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-03",
+      "headline": "Australia's backyard bug detectives just hit one million sightings",
+      "blurb": "Since October, ordinary Australians have been snapping photos of every spider, snail, and beetle they find and uploading them to a citizen-science app called Bug Hunt. They just crossed one million observations — and the data already helped biosecurity teams catch an invasive Asian honey bee incursion near Brisbane before it could spread.",
+      "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/good-news-this-week-august-1-2026",
+      "title_key": "australia s backyard bug detectives just hit one million sightings",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -3405,6 +3441,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-03T01:53:13Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-03T07:07:17Z",
       "accepted": 3,
       "rejected": 2
     }
