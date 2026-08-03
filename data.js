@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-02T12:20:22Z",
+  "updated": "2026-08-03T01:53:13Z",
   "stories": [
     {
       "stream": "ai",
@@ -3047,6 +3047,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/07/260729010740.htm",
       "title_key": "doctors may soon spot blood cancer years before you d ever feel sick",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-03",
+      "headline": "A hidden immune trigger explains statin muscle pain — and how to stop it",
+      "blurb": "Scientists at McMaster University found statins spark a localized immune response inside muscle cells, causing the aches that make many patients quit the drug. Suppressing that response protected muscle in lab models, pointing toward a fix that keeps the heart benefits without the pain.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/07/260731034152.htm",
+      "title_key": "hidden immune trigger explains statin muscle pain how stop",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-03",
+      "headline": "Japan just recovered 90% of the lithium locked inside old EV batteries",
+      "blurb": "A Tsuruga recycling plant nearly doubled the industry's usual yield by swapping in recovered lithium hydroxide instead of sodium hydroxide, cutting the process's carbon footprint by 40%. Mass production starts in 2027, easing reliance on imported battery minerals.",
+      "url": "https://www.techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html",
+      "source": "techspot.com",
+      "url_key": "techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html",
+      "title_key": "japan just recovered 90 lithium locked inside old ev batteries",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-03",
+      "headline": "A wobbling pole with no blades could reinvent wind power",
+      "blurb": "Spanish startup Vortex Bladeless is scaling its blade-free turbine — a vibrating cylinder that generates power through aeroelasticity — toward a 100-megawatt prototype this year. It's quieter, cheaper to run, and poses zero risk to birds.",
+      "url": "https://energiesmedia.com/wind-power-aeroelasticity-bladeless-wind-turbine/",
+      "source": "energiesmedia.com",
+      "url_key": "energiesmedia.com/wind-power-aeroelasticity-bladeless-wind-turbine",
+      "title_key": "wobbling pole no blades could reinvent wind power",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -3362,6 +3398,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-02T12:20:22Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-03T01:53:13Z",
       "accepted": 3,
       "rejected": 2
     }
