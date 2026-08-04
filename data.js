@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-04T07:09:22Z",
+  "updated": "2026-08-04T12:22:24Z",
   "stories": [
     {
       "stream": "ai",
@@ -3227,6 +3227,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260802223431.htm",
       "title_key": "scientists went looking giant trees taiwan found hidden temple giants",
       "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-04",
+      "headline": "Germany's grid just drank a record 12 billion kWh of sunshine in one month",
+      "blurb": "In July, solar panels fed more electricity into Germany's public grid than ever before in a single month — enough at midday to match the output of 40 nuclear plants. It's a sign that solar isn't just growing, it's becoming the backbone of the grid.",
+      "url": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
+      "source": "pv-magazine.com",
+      "url_key": "pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july",
+      "title_key": "germany s grid just drank record 12 billion kwh sunshine one month",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-04",
+      "headline": "A once-a-week pill just matched daily HIV treatment head-to-head",
+      "blurb": "In a phase 3 trial of over 600 people, a single weekly tablet combining islatravir and lenacapavir kept HIV suppressed just as well as a daily regimen, with zero cases of virological failure. Fewer pills, same protection — a real quality-of-life leap for millions living with HIV.",
+      "url": "https://www.aidsmap.com/news/jul-2026/once-weekly-islatravir-lenacapavir-combination-pill-maintains-hiv-viral-suppression",
+      "source": "aidsmap.com",
+      "url_key": "aidsmap.com/news/jul-2026/once-weekly-islatravir-lenacapavir-combination-pill-maintains-hiv-viral-suppression",
+      "title_key": "once week pill just matched daily hiv treatment head head",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-04",
+      "headline": "Astronomers finally measured the biggest galaxy ever found — and it's staggering",
+      "blurb": "Using the deepest images ever taken of IC 1101, astronomers have now confidently traced its outer edge: 1.7 million light-years across, roughly 17 times the width of the Milky Way. Proof that even century-old cosmic record-holders still have secrets left to reveal.",
+      "url": "https://phys.org/news/2026-07-astronomers-full-size-largest-galaxy.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-07-astronomers-full-size-largest-galaxy.html",
+      "title_key": "astronomers finally measured biggest galaxy ever found s staggering",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -3577,6 +3613,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-04T07:09:22Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-04T12:22:24Z",
       "accepted": 3,
       "rejected": 2
     }
