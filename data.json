@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-04T01:54:52Z",
+  "updated": "2026-08-04T07:09:22Z",
   "stories": [
     {
       "stream": "ai",
@@ -3191,6 +3191,42 @@
       "url_key": "space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026",
       "title_key": "astronomers just spotted first three headed asteroid",
       "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-04",
+      "headline": "One family, one finger each, and a new Guinness World Record",
+      "blurb": "An Idaho dad and his wife and two sons cleared an entire game of Hungry Hungry Hippos in a blistering 3.75 seconds, each using just one finger to send their plastic hippos into a feeding frenzy. It made dad David Rush only the third person ever to hold 200 concurrent Guinness World Records titles at once — talk about a family that plays together.",
+      "url": "https://www.upi.com/Odd_News/2026/08/03/Guinness-World-Records-David-Rush-Hungry-Hungry-Hippos/2001785770970/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/03/guinness-world-records-david-rush-hungry-hungry-hippos/2001785770970",
+      "title_key": "one family one finger each new guinness world record",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-04",
+      "headline": "Lost horse found on a 7,200-foot cliff — and flown home by helicopter",
+      "blurb": "When a horse and rider got separated mid-race during California's grueling 100-mile Tevis Cup, searchers spent two hours combing the wilderness before a GPS tracker on the saddle led a sheriff's helicopter crew straight to the stranded animal. Vets sedated and harnessed the horse for a dramatic airlift — and it walked away completely unhurt, ready to trot into its trailer home.",
+      "url": "https://www.upi.com/Odd_News/2026/08/03/horse-hoisted-helicopter-Nevada-County-Butte-County-Tevis-Cup/8071785782444/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/03/horse-hoisted-helicopter-nevada-county-butte-county-tevis-cup/8071785782444",
+      "title_key": "lost horse found 7 200 foot cliff flown home helicopter",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-04",
+      "headline": "Scientists went looking for giant trees in Taiwan — and found a hidden 'temple of giants'",
+      "blurb": "A decade of LiDAR scans, tips from locals, and death-defying climbs led researchers to Taiwania fir trees soaring over 260 feet tall, including one hectare of forest packing in eleven separate giants over 65 meters high. These ancient groves had been hiding in plain sight for centuries, and they're now ranked among the most carbon-rich forests on Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260802223431.htm",
+      "title_key": "scientists went looking giant trees taiwan found hidden temple giants",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -3534,6 +3570,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-04T01:54:52Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-04T07:09:22Z",
       "accepted": 3,
       "rejected": 2
     }
