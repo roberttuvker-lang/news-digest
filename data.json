@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-05T07:08:34Z",
+  "updated": "2026-08-05T12:19:43Z",
   "stories": [
     {
       "stream": "ai",
@@ -3335,6 +3335,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260802223430.htm",
       "title_key": "meet luffy new beetle genus literally stretches like anime hero",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-05",
+      "headline": "Ethiopia just planted 800 million trees — in a single day",
+      "blurb": "Millions of volunteers fanned out across Ethiopia on August 4 for the country's Green Legacy Initiative, aiming for a record 800 million seedlings in 24 hours as part of a season-long push toward 8 billion trees. It's proof that reforestation at continent-reshaping scale isn't a someday plan — it's happening now, one planting day at a time.",
+      "url": "https://english.news.cn/africa/20260804/2695055ca70e40858c14870adad17403/c.html",
+      "source": "english.news.cn",
+      "url_key": "english.news.cn/africa/20260804/2695055ca70e40858c14870adad17403/c.html",
+      "title_key": "ethiopia just planted 800 million trees single day",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-05",
+      "headline": "A rocket is about to hit the Moon on purpose — and scientists can't wait",
+      "blurb": "A spent SpaceX Falcon 9 upper stage slams into the lunar surface near Einstein Crater today, and researchers worldwide are watching in real time to calibrate how we'll detect and pinpoint future impacts. It's a dry run for protecting the lunar bases and infrastructure humanity is now actively planning to build.",
+      "url": "https://www.cnn.com/2026/08/04/science/spacex-rocket-moon-impact",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/08/04/science/spacex-rocket-moon-impact",
+      "title_key": "rocket about hit moon purpose scientists can t wait",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-05",
+      "headline": "A chewing gum just wiped out 93% of a cancer-causing virus",
+      "blurb": "Penn Dental Medicine researchers engineered a bean-protein chewing gum that cut HPV levels by up to 93% in saliva and nearly eliminated two bacteria linked to head and neck cancer, all while leaving healthy mouth bacteria untouched. A cheap, chewable habit edging toward a real dent in cancer risk is exactly the kind of low-cost medicine the future needs more of.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260803080917.htm",
+      "title_key": "chewing gum just wiped out 93 cancer causing virus",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -3706,6 +3742,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-05T07:08:34Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-05T12:19:43Z",
       "accepted": 3,
       "rejected": 2
     }
