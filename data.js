@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-04T12:22:24Z",
+  "updated": "2026-08-05T01:53:21Z",
   "stories": [
     {
       "stream": "ai",
@@ -3263,6 +3263,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-07-astronomers-full-size-largest-galaxy.html",
       "title_key": "astronomers finally measured biggest galaxy ever found s staggering",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-05",
+      "headline": "Cambodia becomes first country in Asia to hit the UN's HIV target",
+      "blurb": "Cambodia just became the first nation in Asia and the Pacific to reach the UN's 95-95-95 HIV benchmarks — testing, treatment, and viral suppression all cleared. The UN credits peer-led community outreach, not just government programs, for reaching the people who needed it most.",
+      "url": "https://cambodia.un.org/en/317221-cambodia-becomes-first-country-asia-and-pacific-achieve-global-95%E2%80%9395%E2%80%9395-hiv-targets",
+      "source": "cambodia.un.org",
+      "url_key": "cambodia.un.org/en/317221-cambodia-becomes-first-country-asia-and-pacific-achieve-global-95%e2%80%9395%e2%80%9395-hiv-targets",
+      "title_key": "cambodia becomes first country asia hit un s hiv target",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-05",
+      "headline": "Physicists just proved 'negative time' is real — and delightfully strange",
+      "blurb": "In a peer-reviewed quantum experiment, photons appeared to exit a cloud of atoms before they'd even entered it — and the atoms themselves confirmed it wasn't an illusion. A cheerful reminder the universe still has genuine mysteries left to solve.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260803080904.htm",
+      "title_key": "physicists just proved negative time real delightfully strange",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-05",
+      "headline": "A gel injection helped mouse brains regrow after stroke",
+      "blurb": "Duke engineers built an injectable material that recruits the body's own immune cells to rebuild stroke-damaged brain tissue. Treated mice regained motor skills indistinguishable from healthy ones within eight weeks — an early but hopeful step toward human trials.",
+      "url": "https://pratt.duke.edu/news/biomaterial-stroke-repair/",
+      "source": "pratt.duke.edu",
+      "url_key": "pratt.duke.edu/news/biomaterial-stroke-repair",
+      "title_key": "gel injection helped mouse brains regrow after stroke",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -3620,6 +3656,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-04T12:22:24Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-05T01:53:21Z",
       "accepted": 3,
       "rejected": 2
     }
