@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-05T01:53:21Z",
+  "updated": "2026-08-05T07:08:34Z",
   "stories": [
     {
       "stream": "ai",
@@ -3299,6 +3299,42 @@
       "url_key": "pratt.duke.edu/news/biomaterial-stroke-repair",
       "title_key": "gel injection helped mouse brains regrow after stroke",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-05",
+      "headline": "A tortoise pulled a great escape — straight onto the train tracks",
+      "blurb": "A passenger spotted a runaway pet tortoise, believed to be about 50 years old, ambling along the railway near Runcorn station in England and flagged it down before any trains came through. Rail staff scooped up the slow-motion trespasser and reunited it with its very relieved owner — a rare happy ending for a headline that starts with 'tortoise on the tracks.'",
+      "url": "https://www.upi.com/Odd_News/2026/08/04/Avanti-West-Coast-Network-Rail-tortoise/2581785855984/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/04/avanti-west-coast-network-rail-tortoise/2581785855984",
+      "title_key": "tortoise pulled great escape straight onto train tracks",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-05",
+      "headline": "A 518-million-year-old sea critter just solved the mystery of spider fangs",
+      "blurb": "Paleontologists digging through China's famous Chengjiang fossil site found Urokodia, a tiny ancient creature carrying the earliest known blueprint for the fang-like structures that eventually became spider mouths. Half a billion years of evolutionary breadcrumbs, cracked open by one very good fossil.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260803080906.htm",
+      "title_key": "518 million year old sea critter just solved mystery spider fangs",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-05",
+      "headline": "Meet Luffy — the new beetle genus that literally stretches like an anime hero",
+      "blurb": "Scientists just named a bizarre new rove-beetle genus after One Piece's rubber-limbed pirate captain, because its mandibles and antennae are freakishly long and stretchy. Two brand-new species, Luffy schillhammeri and Luffy nika, turned up in the forests of China and Laos — with 'nika' borrowed straight from Luffy's legendary Gear 5 transformation.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260802223430.htm",
+      "title_key": "meet luffy new beetle genus literally stretches like anime hero",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -3663,6 +3699,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-05T01:53:21Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-05T07:08:34Z",
       "accepted": 3,
       "rejected": 2
     }
