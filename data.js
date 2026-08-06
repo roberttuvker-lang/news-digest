@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-06T07:09:39Z",
+  "updated": "2026-08-06T12:23:53Z",
   "stories": [
     {
       "stream": "ai",
@@ -3443,6 +3443,42 @@ window.NEWS_DATA = {
       "url_key": "wxyz.com/news/region/monroe-county/bartender-who-saved-6-year-old-boy-choking-at-mall-of-monroe-reunites-with-family",
       "title_key": "bartender peppermint family won t stop saying thank you",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-06",
+      "headline": "An AI just cracked an 87-year-old math mystery in hours",
+      "blurb": "Anthropic mathematician Levent Alpöge used Claude Fable 5 to produce a concrete counterexample to the Jacobian conjecture, showing it's false in three dimensions and above — a problem that had resisted mathematicians for nearly a century. Other mathematicians verified the polynomial map by hand within a day. AI isn't just writing proofs anymore, it's finding the elusive objects nobody else could see.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260804034634.htm",
+      "title_key": "ai just cracked 87 year old math mystery hours",
+      "topic": "AI"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-06",
+      "headline": "A hidden ocean of molten rock just turned up under Tuscany",
+      "blurb": "Using natural ground vibrations and high-resolution seismic sensors, researchers mapped a roughly 6,000-cubic-kilometer magma reservoir beneath Tuscany — comparable in scale to Yellowstone — that gave no surface hints it was there. It's not a hazard, but it is a huge new lead for geothermal power, lithium, and rare-earth exploration. A whole hidden energy resource, found just by listening to the Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260804034645.htm",
+      "title_key": "hidden ocean molten rock just turned up under tuscany",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-06",
+      "headline": "Astronomers just caught the Sun's secret whirlpools on camera",
+      "blurb": "The world's most powerful solar telescope, Hawaii's Inouye Solar Telescope, captured tiny swirling Kelvin-Helmholtz instabilities on the Sun's surface for the first time, matched to computer simulations. It may explain a decades-old puzzle: why the Sun's outer atmosphere runs so much hotter than its surface. Understanding that could sharpen predictions of solar storms before they ever reach Earth.",
+      "url": "https://phys.org/news/2026-08-tiny-vortices-sun-surface.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-tiny-vortices-sun-surface.html",
+      "title_key": "astronomers just caught sun s secret whirlpools camera",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -3835,6 +3871,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-06T07:09:39Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-06T12:23:53Z",
       "accepted": 3,
       "rejected": 2
     }
