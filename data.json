@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-06T01:54:32Z",
+  "updated": "2026-08-06T07:09:39Z",
   "stories": [
     {
       "stream": "ai",
@@ -3407,6 +3407,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260803080914.htm",
       "title_key": "scientists found immune cell self destructs save you",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-06",
+      "headline": "97 years old and still walking on wings",
+      "blurb": "One year after a stroke that still affects her speech, 97-year-old Betty Bromage strapped onto the wing of a biplane over Cirencester and broke her own Guinness World Record for oldest female wing walker, beating the mark she set at 93. The flight raised money for the stroke unit that cared for her.",
+      "url": "https://www.upi.com/Odd_News/2026/08/05/Guinness-World-Records-oldest-wing-walker-female/1651785946981/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/05/guinness-world-records-oldest-wing-walker-female/1651785946981",
+      "title_key": "97 years old still walking wings",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-06",
+      "headline": "The sky is about to pull a double feature",
+      "blurb": "On August 12 a total solar eclipse sweeps across Russia, Greenland, Iceland and Spain -- the first visible from mainland Europe since 1999 -- and hours later the Perseid meteor shower peaks in the very same moonless, dark sky. Astronomers say the timing is a gift: nothing will wash out the shooting stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260804034628.htm",
+      "title_key": "sky about pull double feature",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-06",
+      "headline": "A bartender, a peppermint, and a family that won't stop saying thank you",
+      "blurb": "When 6-year-old Oliver Webb started choking on a peppermint at a Michigan mall, his 10-year-old brother spotted it first, and bartender Devon Forrest, CPR-certified just a month earlier, dislodged it in seconds. The family has now reunited with Forrest in person just to hug him and say thanks.",
+      "url": "https://www.wxyz.com/news/region/monroe-county/bartender-who-saved-6-year-old-boy-choking-at-mall-of-monroe-reunites-with-family",
+      "source": "wxyz.com",
+      "url_key": "wxyz.com/news/region/monroe-county/bartender-who-saved-6-year-old-boy-choking-at-mall-of-monroe-reunites-with-family",
+      "title_key": "bartender peppermint family won t stop saying thank you",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -3792,6 +3828,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-06T01:54:32Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-06T07:09:39Z",
       "accepted": 3,
       "rejected": 2
     }
