@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-05T12:19:43Z",
+  "updated": "2026-08-06T01:54:32Z",
   "stories": [
     {
       "stream": "ai",
@@ -3371,6 +3371,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260803080917.htm",
       "title_key": "chewing gum just wiped out 93 cancer causing virus",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-06",
+      "headline": "A stranger handed his truck to a stranded rock band, no questions asked",
+      "blurb": "When Autumn Kings' tour van broke down in rural Wisconsin with 10 hours to reach their next show, 60-year-old Ernie Russell tossed them the keys to his own Ford Explorer for a 500-mile round trip. The band called it 'the single greatest show' of their career.",
+      "url": "https://www.goodnewsnetwork.org/midwest-stranger-lends-his-truck-to-band-with-broken-down-van/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/midwest-stranger-lends-his-truck-to-band-with-broken-down-van",
+      "title_key": "stranger handed his truck stranded rock band no questions asked",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-06",
+      "headline": "Seven more species just got a lifeline back to the wild",
+      "blurb": "The Colossal Foundation and Re:wild expanded their Species Reintroduction Fund to seven new projects across four continents, from rescuing one of Asia's largest wild cattle in Cambodia to restoring a keystone sea star to the Pacific seafloor.",
+      "url": "https://www.prnewswire.com/news-releases/colossal-foundation-and-rewild-expand-flagship-species-reintroduction-fund-to-seven-new-species-worldwide-302843220.html",
+      "source": "prnewswire.com",
+      "url_key": "prnewswire.com/news-releases/colossal-foundation-and-rewild-expand-flagship-species-reintroduction-fund-to-seven-new-species-worldwide-302843220.html",
+      "title_key": "seven more species just got lifeline back wild",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-06",
+      "headline": "Scientists found an immune cell that self-destructs to save you",
+      "blurb": "Researchers discovered 'ruptoblasts' in flatworms — immune cells that detonate within minutes to shatter invading bacteria, then vanish. Their fast, targeted attack could point toward new treatments for infections and cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260803080914.htm",
+      "title_key": "scientists found immune cell self destructs save you",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -3749,6 +3785,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-05T12:19:43Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-06T01:54:32Z",
       "accepted": 3,
       "rejected": 2
     }
