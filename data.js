@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-07T07:12:04Z",
+  "updated": "2026-08-07T12:38:39Z",
   "stories": [
     {
       "stream": "ai",
@@ -3551,6 +3551,42 @@ window.NEWS_DATA = {
       "url_key": "humaneworld.org/en/blog/10-us-states-ban-sale-of-puppy-mill-puppies",
       "title_key": "delaware just made 10 states slam door puppy mills",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-07",
+      "headline": "A star's violent death just unmasked a hidden black hole hiding in plain sight",
+      "blurb": "When a wandering star wandered too close and got shredded, it lit up a brilliant flare that outed a dormant supermassive black hole sitting 30,000 light-years from its galaxy's core — the first ever caught that far from the center. It's a wild reminder that the universe is dotted with sleeping giants we simply haven't spotted yet, and now we know exactly how to find them.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260805082457.htm",
+      "title_key": "star s violent death just unmasked hidden black hole hiding plain sight",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-07",
+      "headline": "Astronomers caught a star's death at the exact first instant of explosion",
+      "blurb": "A split-second flash of X-rays let scientists watch a massive star's supernova from its very first breakout moment, something confidently witnessed only once before in two decades. The catch reveals a missing link between ordinary stellar deaths and the universe's most powerful explosions, opening a new window on how giant stars really end their lives.",
+      "url": "https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-astronomers-massive-star-death-explosive.html",
+      "title_key": "astronomers caught star s death exact first instant explosion",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-07",
+      "headline": "Engineers just ran a turbine on pure detonation waves — no compressor needed",
+      "blurb": "German researchers powered a hydrogen turbine for a record 303 seconds using nothing but self-generating detonation waves, skipping the mechanical compressor that normally eats up half a turbine's output. Ditching that bottleneck could make hydrogen power dramatically more efficient, cheaper, and simpler — a genuine leap for clean electricity generation.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260803080919.htm",
+      "title_key": "engineers just ran turbine pure detonation waves no compressor needed",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -3964,6 +4000,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-07T07:12:04Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-07T12:38:39Z",
       "accepted": 3,
       "rejected": 2
     }
