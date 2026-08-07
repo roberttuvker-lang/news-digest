@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-07T01:53:29Z",
+  "updated": "2026-08-07T07:12:04Z",
   "stories": [
     {
       "stream": "ai",
@@ -3515,6 +3515,42 @@ window.NEWS_DATA = {
       "url_key": "goodnewsnetwork.org/herculean-effort-to-restore-mozambiques-rhino-population-succeeds-with-61-animals-moved-there",
       "title_key": "war emptied park mozambique rhinos again calves too",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-07",
+      "headline": "Capybaras Crash a Brazilian Government Meeting, Steal the Show",
+      "blurb": "A chill squad of capybaras wandered straight into Brazil's Mato Grosso Legislative Assembly this week, ambling through the halls while stunned staffers tried to shoo them back outside. Turns out the rodents are regulars there — they've been spotted bathing in the building's fountain and using the crosswalks. Democracy in action, capybara-style.",
+      "url": "https://www.upi.com/Odd_News/2026/08/06/latam-brazil-capybaras-Legislative-Assembly-Mato-Grosso/9241786025213/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/06/latam-brazil-capybaras-legislative-assembly-mato-grosso/9241786025213",
+      "title_key": "capybaras crash brazilian government meeting steal show",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-07",
+      "headline": "Driver Opens Glove Compartment, Finds a Very Large Roommate",
+      "blurb": "An Australian driver reached for something in the glove compartment and instead came face-to-face with a hefty python that had made itself right at home. Sunshine Coast Snake Catchers rolled up, calmly extracted the surprise passenger, and released it back into the wild — no drama, just a great story for the next road trip.",
+      "url": "https://www.upi.com/Odd_News/2026/08/05/australia-Sunshine-Coast-Snake-Catchers-glove-compartment/6061785952400/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/05/australia-sunshine-coast-snake-catchers-glove-compartment/6061785952400",
+      "title_key": "driver opens glove compartment finds very large roommate",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-07",
+      "headline": "Delaware Just Made It 10 States That Slam the Door on Puppy Mills",
+      "blurb": "Delaware became the 10th U.S. state to ban puppy-mill dogs and cats from being sold in pet shops, capping nearly a decade of statehouse pushes across the country. It's a real, tangible win for animal welfare — more shelter pets now get their shot at a home instead. Ten down, forty to go.",
+      "url": "https://www.humaneworld.org/en/blog/10-us-states-ban-sale-of-puppy-mill-puppies",
+      "source": "humaneworld.org",
+      "url_key": "humaneworld.org/en/blog/10-us-states-ban-sale-of-puppy-mill-puppies",
+      "title_key": "delaware just made 10 states slam door puppy mills",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -3921,6 +3957,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-07T01:53:29Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-07T07:12:04Z",
       "accepted": 3,
       "rejected": 2
     }
