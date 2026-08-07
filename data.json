@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-06T12:23:53Z",
+  "updated": "2026-08-07T01:53:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -3479,6 +3479,42 @@
       "url_key": "phys.org/news/2026-08-tiny-vortices-sun-surface.html",
       "title_key": "astronomers just caught sun s secret whirlpools camera",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-07",
+      "headline": "FDA approves the first drug that treats narcolepsy at its root",
+      "blurb": "Orzeyful (oveporexton) is the first medicine to target the actual cause of Type 1 narcolepsy, restoring lost orexin signaling instead of just masking symptoms. Trials showed it kept patients awake and curbed sudden muscle weakness far better than placebo.",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
+      "source": "fda.gov",
+      "url_key": "fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
+      "title_key": "fda approves first drug treats narcolepsy root",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-07",
+      "headline": "Rulers, Hot Wheels, and one kitten's wheels of fortune",
+      "blurb": "Gelato, a shelter kitten with a spinal injury, went viral in a DIY wheelchair built from rulers, zip ties, and toy cars. Strangers who fell for his story chipped in for a real 3D-printed wheelchair custom-fit to his frame.",
+      "url": "https://www.upi.com/Odd_News/2026/08/05/Cincinnati-Animal-CARE-kitten-Gelato-wheelchair/6561785943182/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/05/cincinnati-animal-care-kitten-gelato-wheelchair/6561785943182",
+      "title_key": "rulers hot wheels one kitten s wheels fortune",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-07",
+      "headline": "A war-emptied park in Mozambique has rhinos again, and calves too",
+      "blurb": "A decade-long effort has rebuilt Zinave National Park's rhino population from zero to 39 white and 22 black rhinos, with breeding already underway. It's the first viable founder population of both species in any Mozambican national park.",
+      "url": "https://www.goodnewsnetwork.org/herculean-effort-to-restore-mozambiques-rhino-population-succeeds-with-61-animals-moved-there/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/herculean-effort-to-restore-mozambiques-rhino-population-succeeds-with-61-animals-moved-there",
+      "title_key": "war emptied park mozambique rhinos again calves too",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -3878,6 +3914,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-06T12:23:53Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-07T01:53:29Z",
       "accepted": 3,
       "rejected": 2
     }
