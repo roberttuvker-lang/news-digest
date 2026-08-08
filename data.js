@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-08T01:53:28Z",
+  "updated": "2026-08-08T07:08:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -3623,6 +3623,42 @@ window.NEWS_DATA = {
       "url_key": "sunnyskyz.com/good-news/6274/father-and-son-surprise-woman-with-new-farm-stand-after-thieves-steal-hers-on-opening-day",
       "title_key": "thieves stole her bakestand strangers built her better one",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-08",
+      "headline": "Nepal's wild tigers just quadrupled — and it's not even close",
+      "blurb": "A new census puts Nepal's wild tiger population at 429, up from just 121 in 2010 — one of the biggest endangered-species comebacks anywhere. Decades of habitat protection plus support for thousands of local households (think predator-proof livestock pens) turned the tide for both tigers and their neighbors.",
+      "url": "https://www.worldwildlife.org/news/stories/wild-tiger-population-growth-highlights-the-critical-work-of-coexistence-in-nepal/",
+      "source": "worldwildlife.org",
+      "url_key": "worldwildlife.org/news/stories/wild-tiger-population-growth-highlights-the-critical-work-of-coexistence-in-nepal",
+      "title_key": "nepal s wild tigers just quadrupled s not even close",
+      "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-08",
+      "headline": "She tossed a 'losing' lottery ticket. It was worth $1.15 million.",
+      "blurb": "A woman in Bitonto, Italy binned her ticket after a machine flagged it 'non-payable' — only for family to realize her numbers had actually hit big. Garbage collectors spent two days sifting through six tons of trash and, against all odds, pulled the intact stub from a bag of ruined tickets.",
+      "url": "https://www.euronews.com/my-europe/2026/08/05/1-million-lottery-ticket-recovered-among-6-tonnes-of-rubbish-in-italy",
+      "source": "euronews.com",
+      "url_key": "euronews.com/my-europe/2026/08/05/1-million-lottery-ticket-recovered-among-6-tonnes-of-rubbish-in-italy",
+      "title_key": "she tossed losing lottery ticket worth 1 15 million",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-08",
+      "headline": "Meet Mayonesa: the Dallas raccoon busted out of a mayo jar",
+      "blurb": "For days, a raccoon wandered a Dallas neighborhood with a mayonnaise jar stuck over her head, dodging every rescue attempt. Animal Services officers finally cornered her in a tree, sedated her gently, and popped the jar free — turns out she was just dehydrated, full of energy, and now has a name.",
+      "url": "https://www.upi.com/Odd_News/2026/08/07/raccoon-mayonaisse-jar-Dallas-texas/6681786113237/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/07/raccoon-mayonaisse-jar-dallas-texas/6681786113237",
+      "title_key": "meet mayonesa dallas raccoon busted out mayo jar",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -4050,6 +4086,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-08T01:53:28Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-08T07:08:29Z",
       "accepted": 3,
       "rejected": 2
     }
