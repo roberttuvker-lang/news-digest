@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-08T07:08:29Z",
+  "updated": "2026-08-08T12:22:12Z",
   "stories": [
     {
       "stream": "ai",
@@ -3659,6 +3659,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/07/raccoon-mayonaisse-jar-dallas-texas/6681786113237",
       "title_key": "meet mayonesa dallas raccoon busted out mayo jar",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-08",
+      "headline": "Astronauts just cleared the ISS for its final power upgrade",
+      "blurb": "A 6.5-hour spacewalk on August 6 installed the last mounting hardware the station needs before its seventh and final roll-out solar array arrives. It completes the power system that keeps the ISS running today — and will bring it home safely in 2030.",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/08/06/spacewalk-begins-for-solar-array-modifications/",
+      "source": "nasa.gov",
+      "url_key": "nasa.gov/blogs/spacestation/2026/08/06/spacewalk-begins-for-solar-array-modifications",
+      "title_key": "astronauts just cleared iss final power upgrade",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-08",
+      "headline": "FDA clears the first-ever mRNA flu shot",
+      "blurb": "Moderna's mFlusiva just became the first influenza vaccine built on mRNA technology to win FDA approval, and in a late-stage trial it beat a standard flu shot by about 27%. The platform behind the COVID vaccines is now reshaping how we fight ordinary seasonal disease.",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
+      "source": "npr.org",
+      "url_key": "npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
+      "title_key": "fda clears first ever mrna flu shot",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-08",
+      "headline": "AI just squeezed years off drug discovery — and 99% off the cost",
+      "blurb": "A new wave of AI tools, from AlphaFold's 200-million-protein map to AlphaGenome's genomic predictions, is compressing pharma research into months: Insilico Medicine identified a drug candidate in under 18 months for just $2.6 million. The science of finding new medicines is getting radically faster.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340482/0/en/ai-disruption-reshapes-bioinformatics-record-investment-and-breakthrough-tools-signal-a-new-era-for-drug-discovery-and-precision-medicine.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/08/06/3340482/0/en/ai-disruption-reshapes-bioinformatics-record-investment-and-breakthrough-tools-signal-a-new-era-for-drug-discovery-and-precision-medicine.html",
+      "title_key": "ai just squeezed years off drug discovery 99 off cost",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -4093,6 +4129,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-08T07:08:29Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-08T12:22:12Z",
       "accepted": 3,
       "rejected": 2
     }
