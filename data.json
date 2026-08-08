@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-07T12:38:39Z",
+  "updated": "2026-08-08T01:53:28Z",
   "stories": [
     {
       "stream": "ai",
@@ -3587,6 +3587,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260803080919.htm",
       "title_key": "engineers just ran turbine pure detonation waves no compressor needed",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-08",
+      "headline": "DiCaprio and Bezos launch a $200 million lifeline for 100 vanishing species",
+      "blurb": "The Bezos Earth Fund and Re:wild, backed by Leonardo DiCaprio, just committed $200 million to the Phoenix Species Project — the largest single philanthropic effort ever aimed purely at pulling critically endangered animals back from extinction, from lemurs to pangolins to echidnas across 30 countries.",
+      "url": "https://www.bezosearthfund.org/news-and-insights/phoenix-species-project-launches-global-effort-to-bring-100-of-the-worlds-most-threatened-species-back-from-the-brink",
+      "source": "bezosearthfund.org",
+      "url_key": "bezosearthfund.org/news-and-insights/phoenix-species-project-launches-global-effort-to-bring-100-of-the-worlds-most-threatened-species-back-from-the-brink",
+      "title_key": "dicaprio bezos launch 200 million lifeline 100 vanishing species",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-08",
+      "headline": "Scientists found a brain switch that eases autism symptoms — even in adults",
+      "blurb": "Researchers blocking a single glycine transporter, SLC6A20, restored key brain signaling and improved social and communication behaviors in autism mouse models, and it worked even in fully grown mice. That suggests the adult brain stays more treatable than doctors thought.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260805082508.htm",
+      "title_key": "scientists found brain switch eases autism symptoms even adults",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-08",
+      "headline": "Thieves stole her bakestand. Strangers built her a better one.",
+      "blurb": "When someone stole pastry chef Katrina Blancaflor's brand-new bread stand less than a day after she opened it, a father-son duo and a wave of neighbors stepped in, surprising her with a sturdier replacement and a reminder that generosity still outnumbers theft.",
+      "url": "https://www.sunnyskyz.com/good-news/6274/Father-and-Son-Surprise-Woman-With-New-Farm-Stand-After-Thieves-Steal-Hers-on-Opening-Day",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6274/father-and-son-surprise-woman-with-new-farm-stand-after-thieves-steal-hers-on-opening-day",
+      "title_key": "thieves stole her bakestand strangers built her better one",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -4007,6 +4043,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-07T12:38:39Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-08T01:53:28Z",
       "accepted": 3,
       "rejected": 2
     }
