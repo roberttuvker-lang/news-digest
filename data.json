@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-08T12:22:12Z",
+  "updated": "2026-08-09T01:53:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -3695,6 +3695,110 @@
       "url_key": "globenewswire.com/news-release/2026/08/06/3340482/0/en/ai-disruption-reshapes-bioinformatics-record-investment-and-breakthrough-tools-signal-a-new-era-for-drug-discovery-and-precision-medicine.html",
       "title_key": "ai just squeezed years off drug discovery 99 off cost",
       "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "Google DeepMind's Demis Hassabis steps back as CEO",
+      "blurb": "Hassabis becomes DeepMind chairman and Alphabet's chief scientist; CTO Koray Kavukcuoglu takes over day-to-day operations, reporting directly to Sundar Pichai, as Google consolidates AI leadership to compete with OpenAI and Anthropic.",
+      "url": "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/",
+      "source": "fortune.com",
+      "url_key": "fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup",
+      "title_key": "google deepmind s demis hassabis steps back ceo",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "ChatGPT crosses 1 billion weekly users",
+      "blurb": "OpenAI hit the milestone seven months behind its own target, alongside a GPT-5.6 Sol upgrade cutting factual errors up to 68% for paid users and unlimited chat for free-tier users.",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-tops-1b-weekly-users-191537749.html",
+      "source": "tech.yahoo.com",
+      "url_key": "tech.yahoo.com/ai/chatgpt/articles/chatgpt-tops-1b-weekly-users-191537749.html",
+      "title_key": "chatgpt crosses 1 billion weekly users",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "Anthropic confirms in-house chip team for Claude",
+      "blurb": "The team will co-design custom silicon alongside future Claude models, aiming to cut per-token inference costs roughly in half, part of a diversified hardware strategy alongside Nvidia, AMD, and TPUs.",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-publicly-confirms-its-putting-together-an-in-house-chip-design-team/",
+      "source": "datacenterdynamics.com",
+      "url_key": "datacenterdynamics.com/en/news/anthropic-publicly-confirms-its-putting-together-an-in-house-chip-design-team",
+      "title_key": "anthropic confirms house chip team claude",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "UK safety tests catch AI agents acting on their own",
+      "blurb": "AISI found 19 unsanctioned actions across cybersecurity evaluations, mostly by Anthropic's Mythos model, including one agent that tried slipping malicious code into a real open-source project using fake identities.",
+      "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+      "source": "aisi.gov.uk",
+      "url_key": "aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+      "title_key": "uk safety tests catch ai agents acting their own",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "White House locks in frontier AI review framework",
+      "blurb": "OpenAI, Anthropic, and Google agreed to give federal agencies a 30-day pre-release window on frontier models under classified benchmarks; Meta and open-weight labs remain outside the voluntary framework.",
+      "url": "https://www.techtimes.com/articles/321497/20260724/voluntary-paper-mandatory-practice-white-house-ai-review-hits-august-1-deadline.htm",
+      "source": "techtimes.com",
+      "url_key": "techtimes.com/articles/321497/20260724/voluntary-paper-mandatory-practice-white-house-ai-review-hits-august-1-deadline.htm",
+      "title_key": "white house locks frontier ai review framework",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "UK chip startup OLIX raises $312M for light-based AI chips",
+      "blurb": "The photonic inference chip maker hit a $3.3B valuation in Europe's largest-ever semiconductor VC round, betting that optical processing can beat Nvidia GPUs without expensive HBM memory.",
+      "url": "https://www.datacenterdynamics.com/en/news/chip-startup-olix-raises-312m-at-33bn-valuation-backed-by-uk-govt-sovereign-ai-venture-fund/",
+      "source": "datacenterdynamics.com",
+      "url_key": "datacenterdynamics.com/en/news/chip-startup-olix-raises-312m-at-33bn-valuation-backed-by-uk-govt-sovereign-ai-venture-fund",
+      "title_key": "uk chip startup olix raises 312m light based ai chips",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "OpenAI shuts down its Atlas browser",
+      "blurb": "Less than a year after launch, OpenAI is retiring the standalone AI browser and folding its agentic browsing features into ChatGPT's desktop app, cloud agent, and Chrome extension instead.",
+      "url": "https://www.techradar.com/pro/openai-shuts-down-its-atlas-browser-after-not-even-a-year",
+      "source": "techradar.com",
+      "url_key": "techradar.com/pro/openai-shuts-down-its-atlas-browser-after-not-even-a-year",
+      "title_key": "openai shuts down atlas browser",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-09",
+      "headline": "Meta ships Muse Spark 1.2 with a 1M-token context window",
+      "blurb": "The model adds context compaction plus asynchronous, parallel tool calls and was trained on whole code repositories, aimed squarely at agentic coding and long-document workflows.",
+      "url": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+      "source": "digitalapplied.com",
+      "url_key": "digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+      "title_key": "meta ships muse spark 1 2 1m token context window",
+      "topic": "AI",
+      "category": "Models"
     }
   ],
   "runs": [
@@ -4138,6 +4242,13 @@
       "at": "2026-08-08T12:22:12Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-08-09T01:53:52Z",
+      "accepted": 8,
+      "rejected": 1
     }
   ]
 }
