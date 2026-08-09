@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-09T07:08:32Z",
+  "updated": "2026-08-09T12:23:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -3835,6 +3835,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/07/ontario-provincial-police-mother-cat-kittens-police-cruiser/1911786114360",
       "title_key": "mama cat set up house under police cruiser cue world s tiniest stakeout",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-09",
+      "headline": "India's Private Space Race Just Got a Rocket Engine to Match SpaceX's Best",
+      "blurb": "Bengaluru startup Astrobase unveiled 'Everest,' India's first fully private 80-ton-class full-flow staged combustion engine — the same ultra-efficient, reusable-ready propulsion class that powers SpaceX's Raptor. It puts India among a tiny handful of nations chasing next-generation reusable rocket tech, built by a private team backed by the national space regulator. The launch pad for India's homegrown space economy just got a lot closer.",
+      "url": "https://www.businesstoday.in/technology/startups/story/bengaluru-startups-rocket-engine-marks-a-first-can-it-become-indias-answer-to-spacexs-raptor-548081-2026-08-08",
+      "source": "businesstoday.in",
+      "url_key": "businesstoday.in/technology/startups/story/bengaluru-startups-rocket-engine-marks-a-first-can-it-become-indias-answer-to-spacexs-raptor-548081-2026-08-08",
+      "title_key": "india s private space race just got rocket engine match spacex s best",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-09",
+      "headline": "FDA Greenlights a Virus That Hunts Down Melanoma",
+      "blurb": "The FDA approved Tudriqev, an engineered herpes virus that seeks out and destroys melanoma cells, for patients whose cancer stopped responding to standard immunotherapy. In trials, one in four patients responded, with benefits lasting a median of nearly 14 months. It's proof that turning viruses into cancer-killing allies is moving from lab curiosity to real medicine.",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
+      "source": "fda.gov",
+      "url_key": "fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
+      "title_key": "fda greenlights virus hunts down melanoma",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-09",
+      "headline": "A Carbon Nanostructure Just Made Hydrogen Power Radically Cheaper",
+      "blurb": "Washington University engineers built a porous carbon scaffold that lets fuel cells run on a fraction of the platinum they normally need, while still holding 85% performance after 150,000 charge cycles. That mix of durability and low cost could finally make hydrogen fuel cells practical for powering data centers and vehicles at scale. Cheap, tough, clean power just got a lot more realistic.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807035140.htm",
+      "title_key": "carbon nanostructure just made hydrogen power radically cheaper",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -4290,6 +4326,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-09T07:08:32Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-09T12:23:42Z",
       "accepted": 3,
       "rejected": 2
     }
