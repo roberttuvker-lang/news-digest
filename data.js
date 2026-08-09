@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-09T01:53:52Z",
+  "updated": "2026-08-09T07:08:32Z",
   "stories": [
     {
       "stream": "ai",
@@ -3799,6 +3799,42 @@ window.NEWS_DATA = {
       "title_key": "meta ships muse spark 1 2 1m token context window",
       "topic": "AI",
       "category": "Models"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-09",
+      "headline": "He stole a book 40 years ago. He just mailed it back with $100 and an apology.",
+      "blurb": "A California bookstore called Booklegger got a package containing a rare Edward Gorey book lifted from its shelves four decades ago, plus a heartfelt note of contrition and a hundred-dollar bill. The thief said finding the book in a garage box — and the store still open after all these years — was the nudge he needed to finally make it right.",
+      "url": "https://www.upi.com/Odd_News/2026/08/06/stolen-book-returned-40-years-California-store/9041786037284/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/06/stolen-book-returned-40-years-california-store/9041786037284",
+      "title_key": "he stole book 40 years ago he just mailed back 100 apology",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-09",
+      "headline": "Locals thought it was a frog fossil. It's a 254-million-year-old armored fish.",
+      "blurb": "Paleontologists digging near South America's biggest meteorite crater unearthed a tiny, tank-plated fish — since named Leolepis matogrossensis — that swam the waters just before Earth's largest mass extinction, and somehow lived to be fossilized instead of frog-shaped folklore.",
+      "url": "https://phys.org/news/2026-08-ancient-armored-fish-narrowly-meteorite.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-ancient-armored-fish-narrowly-meteorite.html",
+      "title_key": "locals thought frog fossil s 254 million year old armored fish",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-09",
+      "headline": "A mama cat set up house under a police cruiser. Cue the world's tiniest stakeout.",
+      "blurb": "An Ontario Provincial Police officer discovered a mother cat and six five-day-old kittens nesting in the undercarriage of a parked cruiser. A two-day, multi-agency rescue op later, all seven furry suspects are safe, healthy, and headed for adoption.",
+      "url": "https://www.upi.com/Odd_News/2026/08/07/Ontario-Provincial-Police-mother-cat-kittens-police-cruiser/1911786114360/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/07/ontario-provincial-police-mother-cat-kittens-police-cruiser/1911786114360",
+      "title_key": "mama cat set up house under police cruiser cue world s tiniest stakeout",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -4249,6 +4285,13 @@ window.NEWS_DATA = {
       "at": "2026-08-09T01:53:52Z",
       "accepted": 8,
       "rejected": 1
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-09T07:08:32Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
