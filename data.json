@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-10T01:53:03Z",
+  "updated": "2026-08-10T07:13:30Z",
   "stories": [
     {
       "stream": "ai",
@@ -3907,6 +3907,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260807235243.htm",
       "title_key": "seven days meditation left visible mark brain",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-10",
+      "headline": "A Meteorite Crashed Through a Roof — And Brought the Building Blocks of Life With It",
+      "blurb": "The Hillsborough meteorite punched through a New Jersey home in a fireball, and scientists just found it's packed with rare extraterrestrial amino acids unlike anything on Earth. It's one of the rarest space rocks ever recovered — proof the universe sometimes delivers cosmic care packages straight to your living room.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807035145.htm",
+      "title_key": "meteorite crashed through roof brought building blocks life",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-10",
+      "headline": "Scientists Swapped Lasers for Sunshine — And Got Quantum Magic",
+      "blurb": "Physicists pointed a solar concentrator at the sky and used ordinary sunlight to create entangled photon pairs, a trick usually reserved for high-powered lasers. The entangled photons hit 94% fidelity, meaning cheap satellites could soon run quantum communication on pure daylight instead of expensive equipment.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807035133.htm",
+      "title_key": "scientists swapped lasers sunshine got quantum magic",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-10",
+      "headline": "Turns Out Full-Fat Dairy Was the Good Guy All Along",
+      "blurb": "A 12-week study found adults eating three servings of full-fat dairy a day showed no meaningful bump in weight, cholesterol, or insulin resistance — quietly upending decades of low-fat gospel. Cue the collective sigh of relief from cheese lovers everywhere.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260808234948.htm",
+      "title_key": "turns out full fat dairy good guy all along",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -4376,6 +4412,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-10T01:53:03Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-10T07:13:30Z",
       "accepted": 3,
       "rejected": 2
     }
