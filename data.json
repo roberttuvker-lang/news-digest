@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-10T07:13:30Z",
+  "updated": "2026-08-10T12:24:17Z",
   "stories": [
     {
       "stream": "ai",
@@ -3943,6 +3943,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260808234948.htm",
       "title_key": "turns out full fat dairy good guy all along",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-10",
+      "headline": "A New Transistor Just Pushed Chips Past Silicon's Limits",
+      "blurb": "Engineers solved a stubborn atomic-interface problem in ultra-thin semiconductors, shrinking working transistors to 0.42 nanometers while keeping strong electrical performance. It's a real path to computing power far beyond what silicon alone can deliver.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260808234943.htm",
+      "title_key": "new transistor just pushed chips past silicon s limits",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-10",
+      "headline": "Chemists Just Broke a Rule That's Governed Reactions for Decades",
+      "blurb": "A newly designed catalyst frees electrons in ways that defy a long-standing assumption about which molecules can accept them during chemical reactions. It hands chemists a new toolkit for building cleaner, more efficient industrial processes.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807035147.htm",
+      "title_key": "chemists just broke rule s governed reactions decades",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-10",
+      "headline": "Two Materials, One Chip, a New Way to Make Light",
+      "blurb": "Engineers fused two different materials onto a single photonic chip to generate new light frequencies directly on-board, no external laser needed. It's a step toward smaller, cheaper light sources for next-generation computing and sensing.",
+      "url": "https://phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html",
+      "title_key": "two materials one chip new way make light",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -4419,6 +4455,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-10T07:13:30Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-10T12:24:17Z",
       "accepted": 3,
       "rejected": 2
     }
