@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-09T12:23:42Z",
+  "updated": "2026-08-10T01:53:03Z",
   "stories": [
     {
       "stream": "ai",
@@ -3871,6 +3871,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260807035140.htm",
       "title_key": "carbon nanostructure just made hydrogen power radically cheaper",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-10",
+      "headline": "Global hunger has fallen for a third year running",
+      "blurb": "A new UN report finds 645 million people faced hunger in 2025 — 43 million fewer than in 2022 — with steady gains in Asia and Latin America. It's proof that coordinated global effort can bend a grim curve toward hope.",
+      "url": "https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en",
+      "source": "fao.org",
+      "url_key": "fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en",
+      "title_key": "global hunger fallen third year running",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-10",
+      "headline": "White storks are nesting in England again after 600 years",
+      "blurb": "Three white storks have taken up residence at a rewilded wetland in Derbyshire, the first of their kind in the Midlands since the 1400s. Alongside the region's first beavers in 800 years, it's a striking sign that lost landscapes can come back.",
+      "url": "https://www.derbyshirewildlifetrust.org.uk/news/white-storks-historic-return-midlands-takes-flight-derbyshire",
+      "source": "derbyshirewildlifetrust.org.uk",
+      "url_key": "derbyshirewildlifetrust.org.uk/news/white-storks-historic-return-midlands-takes-flight-derbyshire",
+      "title_key": "white storks are nesting england again after 600 years",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-10",
+      "headline": "Seven days of meditation left a visible mark on the brain",
+      "blurb": "UC San Diego researchers found an intensive week-long retreat boosted neuroplasticity, immune signaling, and natural pain relief, with brain scans showing genuinely stronger connectivity afterward. A reminder that quiet, low-cost practices can measurably change your biology.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807235243.htm",
+      "title_key": "seven days meditation left visible mark brain",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -4333,6 +4369,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-09T12:23:42Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-10T01:53:03Z",
       "accepted": 3,
       "rejected": 2
     }
