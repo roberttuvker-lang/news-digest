@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-11T07:11:24Z",
+  "updated": "2026-08-11T12:22:46Z",
   "stories": [
     {
       "stream": "ai",
@@ -4051,6 +4051,42 @@
       "url_key": "upi.com/odd_news/2026/08/10/pet-goose-goosey-barn-fire-hero-fort-bend-county-texas/1921786371082",
       "title_key": "meet goosey honking hero who saved his family barn fire",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-11",
+      "headline": "A once-a-day pill just matched the injectables at fighting obesity",
+      "blurb": "In a new phase 2b trial, the oral pill aleniglipron helped patients lose up to 12.1% of their body weight in 36 weeks — no needles required. A pill that works this well could make effective obesity treatment radically more accessible worldwide.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260810015717.htm",
+      "title_key": "once day pill just matched injectables fighting obesity",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-11",
+      "headline": "A skin patch can now nudge your brain into deeper, faster REM sleep",
+      "blurb": "Engineers built a soft wearable patch that combines ultrasound with brain-activity sensors to get wearers into REM sleep 43 minutes faster and keep them there longer, no drugs or surgery involved. Early signs also point to better stress regulation, hinting at a simple future fix for sleep and mood disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260806050709.htm",
+      "title_key": "skin patch can now nudge your brain into deeper faster rem sleep",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-11",
+      "headline": "A new quantum gate just cleared a major hurdle toward useful quantum computers",
+      "blurb": "D-Wave published a fast, high-fidelity two-qubit entangling gate that converts photon loss into detectable, correctable errors, a foundational step toward fault-tolerant machines. It's the kind of unglamorous engineering win that quietly moves quantum computing from lab curiosity to real-world tool.",
+      "url": "https://www.fastcompany.com/91469364/d-wave-quantum-computing-first-major-breakthrough-of-2026-scalable-technology",
+      "source": "fastcompany.com",
+      "url_key": "fastcompany.com/91469364/d-wave-quantum-computing-first-major-breakthrough-of-2026-scalable-technology",
+      "title_key": "new quantum gate just cleared major hurdle toward useful quantum computers",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -4548,6 +4584,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-11T07:11:24Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-11T12:22:46Z",
       "accepted": 3,
       "rejected": 2
     }
