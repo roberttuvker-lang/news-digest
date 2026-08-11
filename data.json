@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-11T01:52:08Z",
+  "updated": "2026-08-11T07:11:24Z",
   "stories": [
     {
       "stream": "ai",
@@ -4015,6 +4015,42 @@
       "url_key": "yaleclimateconnections.org/2026/08/the-state-thats-beating-dirty-electricity",
       "title_key": "new mexico flipped mostly fossil fuels mostly clean power five years",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-11",
+      "headline": "13-Year-Old 3D-Prints the Perfect Wheelchair — In Pink",
+      "blurb": "A Utah teen spent nearly 300 hours of his summer 3D-printing a custom wheelchair for a 21-month-old girl, complete with pink accents, a cupholder, and a tray table. His reason: it combines his two favorite things, printing and helping people in need.",
+      "url": "https://www.kxan.com/news/it-just-makes-sense-13-year-old-builds-3d-printed-wheelchair-for-21-month-old-girl/",
+      "source": "kxan.com",
+      "url_key": "kxan.com/news/it-just-makes-sense-13-year-old-builds-3d-printed-wheelchair-for-21-month-old-girl",
+      "title_key": "13 year old 3d prints perfect wheelchair pink",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-11",
+      "headline": "Alabama Deputies Trade Badges for Lassos to Wrangle a Runaway Bull",
+      "blurb": "A 1,500-pound longhorn went sightseeing through an Alabama neighborhood, so Pickens County deputies saddled up and roped it rodeo-style, all caught on video. Nobody — human or bull — got hurt, and the sheriff's office is already bracing for the next 'oversized escape artist.'",
+      "url": "https://www.upi.com/Odd_News/2026/08/10/Pickins-County-Sheriffs-Office-escaped-bull-Alabama/3971786369134/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/10/pickins-county-sheriffs-office-escaped-bull-alabama/3971786369134",
+      "title_key": "alabama deputies trade badges lassos wrangle runaway bull",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-11",
+      "headline": "Meet Goosey, the Honking Hero Who Saved His Family From a Barn Fire",
+      "blurb": "A usually quiet pet goose in Texas let out honks nobody had ever heard from him before, in the middle of the night, because he'd spotted a barn fire and refused to stop until his family woke up. Everyone and every animal made it out safe — and Goosey's getting a hero's welcome.",
+      "url": "https://www.upi.com/Odd_News/2026/08/10/pet-goose-Goosey-barn-fire-hero-Fort-Bend-County-Texas/1921786371082/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/10/pet-goose-goosey-barn-fire-hero-fort-bend-county-texas/1921786371082",
+      "title_key": "meet goosey honking hero who saved his family barn fire",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -4505,6 +4541,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-11T01:52:08Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-11T07:11:24Z",
       "accepted": 3,
       "rejected": 2
     }
