@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-11T12:22:46Z",
+  "updated": "2026-08-12T01:53:40Z",
   "stories": [
     {
       "stream": "ai",
@@ -4087,6 +4087,42 @@
       "url_key": "fastcompany.com/91469364/d-wave-quantum-computing-first-major-breakthrough-of-2026-scalable-technology",
       "title_key": "new quantum gate just cleared major hurdle toward useful quantum computers",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-12",
+      "headline": "A total solar eclipse just swept across Europe for the first time since 1999",
+      "blurb": "Today the Moon's shadow raced over Iceland, Spain and Portugal, plunging millions into daytime darkness as the Perseid meteor shower peaked overhead. A rare, wonder-filled reminder to look up.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260810015709.htm",
+      "title_key": "total solar eclipse just swept across europe first time since 1999",
+      "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-12",
+      "headline": "A 'super steel' just made green hydrogen up to 40 times cheaper to produce",
+      "blurb": "Hong Kong researchers built a stainless steel that resists corrosion as well as costly titanium, letting electrolyzers pull hydrogen straight from seawater. It could make clean fuel radically more affordable.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260811052717.htm",
+      "title_key": "super steel just made green hydrogen up 40 times cheaper produce",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-12",
+      "headline": "A college lifeguard reading by the lake saved three drowning girls",
+      "blurb": "Lillie Vehling looked up from her book at Seattle's Seafair festival, spotted three girls struggling near a buoy line, and swam them to safety — one unconscious. The city knighted her 'Lady Guardian of Lake Washington.'",
+      "url": "https://komonews.com/news/local/woman-saves-3-young-girls-from-drowning-in-lake-washington-during-seafair-weekend-united-states-navy-blue-angels-air-show-uc-davis-seattle-childrens-hospital",
+      "source": "komonews.com",
+      "url_key": "komonews.com/news/local/woman-saves-3-young-girls-from-drowning-in-lake-washington-during-seafair-weekend-united-states-navy-blue-angels-air-show-uc-davis-seattle-childrens-hospital",
+      "title_key": "college lifeguard reading lake saved three drowning girls",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -4591,6 +4627,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-11T12:22:46Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-12T01:53:40Z",
       "accepted": 3,
       "rejected": 2
     }
