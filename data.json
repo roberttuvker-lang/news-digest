@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12T01:53:40Z",
+  "updated": "2026-08-12T07:11:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -4123,6 +4123,42 @@
       "url_key": "komonews.com/news/local/woman-saves-3-young-girls-from-drowning-in-lake-washington-during-seafair-weekend-united-states-navy-blue-angels-air-show-uc-davis-seattle-childrens-hospital",
       "title_key": "college lifeguard reading lake saved three drowning girls",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-12",
+      "headline": "Six planets just lined up in one morning sky — for free, no ticket required",
+      "blurb": "Jupiter, Mercury, Mars, Uranus, Saturn, and Neptune are pulling off a rare parade across the pre-dawn sky around August 12. Mars and Saturn pop with the naked eye, and if you catch it 30-60 minutes before sunrise, you get a two-for-one with the Perseids peaking the same night. Set an alarm, it's worth it.",
+      "url": "https://www.foxweather.com/earth-space/august-12-2026-perseids-new-moon-solar-eclipse-planet-parade",
+      "source": "foxweather.com",
+      "url_key": "foxweather.com/earth-space/august-12-2026-perseids-new-moon-solar-eclipse-planet-parade",
+      "title_key": "six planets just lined up one morning sky free no ticket required",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-12",
+      "headline": "A box of 'junk' Nintendo cartridges turns out to be a $15-each miracle",
+      "blurb": "A Wisconsin retro shop nearly flipped 97 old Super Mario Bros./Duck Hunt carts for pocket change — until someone noticed the stickers, screws, and motherboards didn't match anything on record. Turns out it's a never-before-seen NES variant, five copies graded a perfect PSA 10, and they're headed to auction. One shop owner's jaw is still on the floor.",
+      "url": "https://www.upi.com/Odd_News/2026/08/11/Super-Mario-Bros-Duck-Hunt-unknown-variant-auction/4761786455877/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/11/super-mario-bros-duck-hunt-unknown-variant-auction/4761786455877",
+      "title_key": "box junk nintendo cartridges turns out 15 each miracle",
+      "topic": "Technology"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-12",
+      "headline": "A gut feeling at the gas station just paid out $100,000",
+      "blurb": "A Maryland man grabbed his usual Bingo scratch-off, then something told him to grab a Scratch & Match ticket too. Good call: two 'stack of cash' symbols later, he was staring at a $100,000 win. Sometimes the universe just wants you to buy the extra ticket.",
+      "url": "https://www.upi.com/Odd_News/2026/08/10/lotto-Maryland-Lottery-gut-feeling-scratch-off/5181786372523",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/10/lotto-maryland-lottery-gut-feeling-scratch-off/5181786372523",
+      "title_key": "gut feeling gas station just paid out 100 000",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -4634,6 +4670,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-12T01:53:40Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-12T07:11:52Z",
       "accepted": 3,
       "rejected": 2
     }
