@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-12T07:11:52Z",
+  "updated": "2026-08-12T12:23:11Z",
   "stories": [
     {
       "stream": "ai",
@@ -4159,6 +4159,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/10/lotto-maryland-lottery-gut-feeling-scratch-off/5181786372523",
       "title_key": "gut feeling gas station just paid out 100 000",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-12",
+      "headline": "The world quietly crossed 3 terawatts of solar power",
+      "blurb": "Global solar capacity just passed the 3-terawatt mark — a threshold that took a decade to reach the first time and under two years to reach the third. Analysts now expect over 9 terawatts by 2036, meaning the cheapest power on Earth is also becoming the fastest-growing by a wide margin.",
+      "url": "https://fortune.com/2026/08/10/solar-energy-china-milestone/",
+      "source": "fortune.com",
+      "url_key": "fortune.com/2026/08/10/solar-energy-china-milestone",
+      "title_key": "world quietly crossed 3 terawatts solar power",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-12",
+      "headline": "Scientists found the brain's hidden logic circuit — and it doesn't need words",
+      "blurb": "MIT neuroscientists showed that reasoning and language run on separate brain systems: people with severe language impairments from stroke solved logic puzzles just as well as anyone else, while language regions stayed quiet. It reframes how intelligence itself works, and opens new paths for helping people relearn to think clearly after brain injury.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260811011140.htm",
+      "title_key": "scientists found brain s hidden logic circuit doesn t need words",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-12",
+      "headline": "A hidden switch inside a common metal could make green hydrogen cheaper",
+      "blurb": "Researchers discovered that silver nanocatalysts flip which reaction sites they use depending on whether a solid oxide cell is generating power or splitting water for hydrogen. Understanding that switch means engineers can now design catalysts that exploit it on purpose, squeezing more efficiency out of clean power and green hydrogen alike.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260810015714.htm",
+      "title_key": "hidden switch inside common metal could make green hydrogen cheaper",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -4677,6 +4713,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-12T07:11:52Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-12T12:23:11Z",
       "accepted": 3,
       "rejected": 2
     }
