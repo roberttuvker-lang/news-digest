@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12T12:23:11Z",
+  "updated": "2026-08-13T01:52:27Z",
   "stories": [
     {
       "stream": "ai",
@@ -4195,6 +4195,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260810015714.htm",
       "title_key": "hidden switch inside common metal could make green hydrogen cheaper",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-13",
+      "headline": "Lebanon becomes the first Middle East country to abolish the death penalty",
+      "blurb": "Lebanon's parliament voted to end capital punishment, replacing it with life imprisonment with hard labor — a landmark human rights shift for the region. The law passed with broad support after years of advocacy, moving 85 people off death row toward new sentencing.",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/12/lebanon-abolish-death-penality/7381786514418/",
+      "source": "upi.com",
+      "url_key": "upi.com/top_news/world-news/2026/08/12/lebanon-abolish-death-penality/7381786514418",
+      "title_key": "lebanon becomes first middle east country abolish death penalty",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-13",
+      "headline": "Scientists just found the adult brain can repair itself better than anyone thought",
+      "blurb": "Researchers watching mouse brains in real time discovered special support cells that grow new nuclei and rebuild damaged neural networks after injury. If the same repair switch can be triggered in humans, it could open new paths to recovery from brain disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260812015158.htm",
+      "title_key": "scientists just found adult brain can repair itself better than anyone thought",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-13",
+      "headline": "Sheep's wool just became a bone-healing breakthrough",
+      "blurb": "Scientists at King's College London turned keratin from sheep's wool — an everyday farm byproduct — into a scaffold that helped animal bones regrow more naturally than standard materials. It's a cheap, renewable alternative that could reshape regenerative medicine.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260812015210.htm",
+      "title_key": "sheep s wool just became bone healing breakthrough",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -4720,6 +4756,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-12T12:23:11Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-13T01:52:27Z",
       "accepted": 3,
       "rejected": 2
     }
