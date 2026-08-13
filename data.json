@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-13T07:11:10Z",
+  "updated": "2026-08-13T12:24:14Z",
   "stories": [
     {
       "stream": "ai",
@@ -4267,6 +4267,42 @@
       "url_key": "upi.com/odd_news/2026/08/11/guinness-world-records-hula-hoops-suspended-upside-down/6711786463980",
       "title_key": "guy spun 33 hula hoops once upside down",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-13",
+      "headline": "Australia's battery fleet just shattered a clean-power record",
+      "blurb": "On August 11, Australia's grid-scale batteries hit a record 4,325 MW of discharge in a single evening, swinging from 4GW of charging to 4.3GW of discharge — an 8.3GW round trip that covered nearly 17% of one state's demand. It's proof the grid-scale storage puzzle is being solved in real time, at a scale that keeps compounding month over month.",
+      "url": "https://www.energy-storage.news/australia-battery-storage-systems-hit-record-4325mw-discharge-as-nem-cycling-swing-reaches-8-3gw/",
+      "source": "energy-storage.news",
+      "url_key": "energy-storage.news/australia-battery-storage-systems-hit-record-4325mw-discharge-as-nem-cycling-swing-reaches-8-3gw",
+      "title_key": "australia s battery fleet just shattered clean power record",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-13",
+      "headline": "JWST just caught a black hole disguised as a star, 13 billion years back",
+      "blurb": "Astronomers used James Webb to spot MoM-BH*-1, a supermassive black hole cocooned in gas just 660 million years after the Big Bang, glowing so much like a star that it hid in plain sight until now. It's the missing link explaining how billion-solar-mass black holes grew so fast in the universe's infancy — a genuine step toward cracking one of cosmology's biggest mysteries.",
+      "url": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+      "title_key": "jwst just caught black hole disguised star 13 billion years back",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-13",
+      "headline": "Scientists found the brain switch that stops overeating before it starts",
+      "blurb": "Researchers pinpointed a protein inside appetite-controlling brain cells that helps prevent overeating when high-fat food is everywhere, and found striking male-female differences in how it works. That could explain why obesity risk and weight-loss drug response vary by sex — pointing toward smarter, personalized treatments ahead.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260813045531.htm",
+      "title_key": "scientists found brain switch stops overeating before starts",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -4806,6 +4842,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-13T07:11:10Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-13T12:24:14Z",
       "accepted": 3,
       "rejected": 2
     }
