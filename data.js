@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-13T01:52:27Z",
+  "updated": "2026-08-13T07:11:10Z",
   "stories": [
     {
       "stream": "ai",
@@ -4231,6 +4231,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260812015210.htm",
       "title_key": "sheep s wool just became bone healing breakthrough",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-13",
+      "headline": "A postcard from Mom and Dad finally arrived — 26 years late",
+      "blurb": "Bob Sheppard opened his mailbox in Long Beach to find a postcard his parents mailed from Copenhagen in July 2000, apparently stuck under a postal desk for a quarter century. Both his parents have since passed away, so the message — 'Flying in, we saw lots of water and green, green land everywhere. Love, M&D' — landed like a hug from beyond. He's calling it his postcard from heaven, and honestly, so are we.",
+      "url": "https://abc7.com/post/long-beach-man-bob-sheppard-receives-denmark-postcard-mailed-late-parents-26-years-later/19642909/",
+      "source": "abc7.com",
+      "url_key": "abc7.com/post/long-beach-man-bob-sheppard-receives-denmark-postcard-mailed-late-parents-26-years-later/19642909",
+      "title_key": "postcard mom dad finally arrived 26 years late",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-13",
+      "headline": "The six-foot lizard on the loose in Tennessee is finally home",
+      "blurb": "An Asian water monitor — think dragon-sized pet lizard — spent nearly a month roaming Wartrace, Tennessee after slipping away from home. Animal control finally nabbed it just half a mile from where it escaped, posted its photo online, and tracked down its very relieved owner. A whole town on lizard watch, and a happy reptilian homecoming.",
+      "url": "https://www.upi.com/Odd_News/2026/08/11/Asian-water-monitor-captured-Wartrace-Tennessee/1251786465439/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/11/asian-water-monitor-captured-wartrace-tennessee/1251786465439",
+      "title_key": "six foot lizard loose tennessee finally home",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-13",
+      "headline": "This guy spun 33 hula hoops at once — upside down",
+      "blurb": "Yan Yanjia dangled upside down from playground equipment in Guilin, China while friends looped hoop after hoop over his head and hips, stacking up 33 of them for a new Guinness World Record — ten more than the previous champ. He picked up hula hooping eight years ago to lose weight and dropped 17 kilos in a month; now he's a record-holding, gravity-defying hoop wizard. Chef's kiss commitment to the bit.",
+      "url": "https://www.upi.com/Odd_News/2026/08/11/Guinness-World-Records-hula-hoops-suspended-upside-down/6711786463980/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/11/guinness-world-records-hula-hoops-suspended-upside-down/6711786463980",
+      "title_key": "guy spun 33 hula hoops once upside down",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -4763,6 +4799,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-13T01:52:27Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-13T07:11:10Z",
       "accepted": 3,
       "rejected": 2
     }
