@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-13T12:24:14Z",
+  "updated": "2026-08-14T01:54:16Z",
   "stories": [
     {
       "stream": "ai",
@@ -4303,6 +4303,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260813045531.htm",
       "title_key": "scientists found brain switch stops overeating before starts",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-14",
+      "headline": "A one-time newborn treatment may permanently clear HIV",
+      "blurb": "Oregon Health & Science University researchers found that giving newborns a single combination of three therapies — antibodies, standard antiretrovirals, and an experimental drug called leronlimab — within days of birth may permanently clear HIV, a result strong enough that the lead researcher says it could move straight to clinical trials. More than 120,000 babies contract HIV each year, so a one-time fix instead of lifelong treatment would be enormous.",
+      "url": "https://news.ohsu.edu/2026/08/10/study-triple-dose-regimen-may-permanently-clear-hiv-in-infected-newborns",
+      "source": "news.ohsu.edu",
+      "url_key": "news.ohsu.edu/2026/08/10/study-triple-dose-regimen-may-permanently-clear-hiv-in-infected-newborns",
+      "title_key": "one time newborn treatment may permanently clear hiv",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-14",
+      "headline": "A dropped bag of Froot Loops turned into a whole town's food network",
+      "blurb": "In Muskogee, Oklahoma, Alan Thompson watched a little boy do a two-minute happy dance over a spilled box of cereal during a grocery delivery — and it moved him to start asking neighbors to leave donated food on his porch instead of cash. That single porch grew into the Miracle Crew, now a full community resource center helping families across town.",
+      "url": "https://www.sunnyskyz.com/good-news/6276/A-Little-Boy-039-s-Joy-Over-a-Box-of-Froot-Loops-Inspired-One-Man-to-Change-His-Community",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6276/a-little-boy-039-s-joy-over-a-box-of-froot-loops-inspired-one-man-to-change-his-community",
+      "title_key": "dropped bag froot loops turned into whole town s food network",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-14",
+      "headline": "California just gave a shrinking little toad new legal protection",
+      "blurb": "The California Fish and Game Commission voted to make the western spadefoot a candidate species under the state's Endangered Species Act, granting the big-eyed amphibian full legal protections while a final decision is pending. The species has declined for decades across the Central Valley and coastal California from habitat loss, so this buys it real breathing room.",
+      "url": "https://biologicaldiversity.org/w/news/press-releases/california-grants-western-spadefoot-temporary-endangered-species-protections-2026-08-13/",
+      "source": "biologicaldiversity.org",
+      "url_key": "biologicaldiversity.org/w/news/press-releases/california-grants-western-spadefoot-temporary-endangered-species-protections-2026-08-13",
+      "title_key": "california just gave shrinking little toad new legal protection",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -4849,6 +4885,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-13T12:24:14Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-14T01:54:16Z",
       "accepted": 3,
       "rejected": 2
     }
