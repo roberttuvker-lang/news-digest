@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-14T09:07:25Z",
+  "updated": "2026-08-14T12:26:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -4375,6 +4375,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/13/guinness-world-records-mr-potato-head-blindfolded/3321786638141",
       "title_key": "he assembled mr potato head blindfolded under 8 seconds prove point",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-14",
+      "headline": "A 'double-punch' nanoparticle lets surgeons see brain cancer — then finish it off",
+      "blurb": "Researchers from UTS, Harvard, and Henan University built a light-activated nanoparticle that lights up glioblastoma tumor clusters as small as 44 micrometers during surgery, then gets reactivated afterward to kill leftover cancer cells. In mouse models, treated animals hit 100% survival at 60 days versus 42 days for surgery alone — a glimpse of a much better shot against the deadliest brain cancer.",
+      "url": "https://phys.org/news/2026-08-nanoparticles-surgeons-destroy-brain-cancer.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-nanoparticles-surgeons-destroy-brain-cancer.html",
+      "title_key": "double punch nanoparticle lets surgeons see brain cancer then finish off",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-14",
+      "headline": "A 300-megawatt battery just went live to keep San Diego's grid humming on sunshine",
+      "blurb": "Arevon Energy's Nighthawk project in Poway, California is now fully operational, storing 1,200 megawatt-hours — enough to power up to 385,000 homes for four hours when demand peaks. It's a concrete sign that grid-scale batteries are moving from pilot projects to real infrastructure, turning cheap daytime solar into reliable power around the clock.",
+      "url": "https://www.prnewswire.com/news-releases/arevons-300-megawatt-nighthawk-energy-storage-project-is-operational-in-poway-california-302849158.html",
+      "source": "prnewswire.com",
+      "url_key": "prnewswire.com/news-releases/arevons-300-megawatt-nighthawk-energy-storage-project-is-operational-in-poway-california-302849158.html",
+      "title_key": "300 megawatt battery just went live keep san diego s grid humming sunshine",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-14",
+      "headline": "GLP-1 drugs may be doing something nobody expected: cutting breast cancer risk",
+      "blurb": "A University of Pennsylvania-led study of over 110,000 women found GLP-1 medication users were about 30% less likely to develop breast cancer, likely thanks to the drugs' anti-inflammatory and metabolic effects. It's early and observational, but it hints that a medication already reshaping obesity and diabetes care could have a second life fighting cancer too.",
+      "url": "https://penntoday.upenn.edu/news/glp-1-use-linked-lower-breast-cancer-incidence-large-cohort-study",
+      "source": "penntoday.upenn.edu",
+      "url_key": "penntoday.upenn.edu/news/glp-1-use-linked-lower-breast-cancer-incidence-large-cohort-study",
+      "title_key": "glp 1 drugs may doing something nobody expected cutting breast cancer risk",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -4935,6 +4971,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-14T09:07:25Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-14T12:26:52Z",
       "accepted": 3,
       "rejected": 2
     }
