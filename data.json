@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-14T01:54:16Z",
+  "updated": "2026-08-14T09:07:25Z",
   "stories": [
     {
       "stream": "ai",
@@ -4339,6 +4339,42 @@
       "url_key": "biologicaldiversity.org/w/news/press-releases/california-grants-western-spadefoot-temporary-endangered-species-protections-2026-08-13",
       "title_key": "california just gave shrinking little toad new legal protection",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-14",
+      "headline": "Earth just vanished behind a potato-shaped moon — and NASA caught it on camera",
+      "blurb": "From the surface of Mars, NASA's Perseverance rover watched our home planet shrink to a single pixel and slip behind the moon Phobos — the first time humanity has filmed Earth disappearing from another world. It's the ultimate long-distance selfie: 195 million miles away, and still unmistakably us.",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
+      "source": "nasa.gov",
+      "url_key": "nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon",
+      "title_key": "earth just vanished behind potato shaped moon nasa caught camera",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-14",
+      "headline": "A 236-million-year-old fossil just rewrote the story of how mammals are born",
+      "blurb": "A Triassic critter called Chiniquodon may have given birth to live young some 90 million years earlier than scientists thought possible, pushing 'modern' mammal biology deep into prehistory. One of our species' signature traits, it turns out, has been quietly waiting in the fossil record the whole time.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260813045534.htm",
+      "title_key": "236 million year old fossil just rewrote story how mammals are born",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-14",
+      "headline": "He assembled Mr. Potato Head blindfolded in under 8 seconds — to prove a point",
+      "blurb": "Kentucky's Conor Shea snapped together a Mr. Potato Head in 7.92 seconds without seeing a single piece, smashing the Guinness World Record to spotlight Usher Syndrome, the condition that will one day take his sight. Fast fingers, faster message: blindness doesn't slow you down.",
+      "url": "https://www.upi.com/Odd_News/2026/08/13/Guinness-World-Records-Mr-Potato-Head-blindfolded/3321786638141/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/13/guinness-world-records-mr-potato-head-blindfolded/3321786638141",
+      "title_key": "he assembled mr potato head blindfolded under 8 seconds prove point",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -4892,6 +4928,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-14T01:54:16Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-14T09:07:25Z",
       "accepted": 3,
       "rejected": 2
     }
