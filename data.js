@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-14T12:26:52Z",
+  "updated": "2026-08-14T15:38:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -4411,6 +4411,42 @@ window.NEWS_DATA = {
       "url_key": "penntoday.upenn.edu/news/glp-1-use-linked-lower-breast-cancer-incidence-large-cohort-study",
       "title_key": "glp 1 drugs may doing something nobody expected cutting breast cancer risk",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-14",
+      "headline": "266 clan leaders just signed a deed that protects PNG's tree kangaroos forever",
+      "blurb": "In Papua New Guinea's Torricelli Mountains, 266 clan leaders from 41 villages signed a legally binding conservation deed covering 125,000 hectares of rainforest, banning commercial logging, mining and hunting of the critically endangered tenkile and weimang tree kangaroos. Thanks to a decades-long hunting ban, tenkile numbers have already tripled.",
+      "url": "https://news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea",
+      "title_key": "266 clan leaders just signed deed protects png s tree kangaroos forever",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-14",
+      "headline": "Taking the stairs could cut your risk of an early death",
+      "blurb": "A meta-analysis of nine studies covering more than 480,000 people found that regular stair climbers had a 39% lower risk of dying from cardiovascular disease and a 24% lower risk of death overall, over a 14-year average follow-up. A few flights a day, wherever you happen to be, may quietly be doing you good.",
+      "url": "https://medicalxpress.com/news/2026-08-stairs-early-death.html",
+      "source": "medicalxpress.com",
+      "url_key": "medicalxpress.com/news/2026-08-stairs-early-death.html",
+      "title_key": "taking stairs could cut your risk early death",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-14",
+      "headline": "When the grant money dried up, scientists put their marmots on OnlyFans",
+      "blurb": "After federal funding cuts threatened a 65-year-old marmot research project, UCLA ecologist Daniel Blumstein and his team launched 'OnlyMarms,' a subscription channel of family-friendly marmot videos. It's now raised thousands of dollars and won thousands of new fans for one of science's longest-running animal studies.",
+      "url": "https://www.insidehighered.com/news/faculty/research/2026/08/11/when-funding-gets-scarce-savvy-scientists-get-onlyfans",
+      "source": "insidehighered.com",
+      "url_key": "insidehighered.com/news/faculty/research/2026/08/11/when-funding-gets-scarce-savvy-scientists-get-onlyfans",
+      "title_key": "when grant money dried up scientists put their marmots onlyfans",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -4980,6 +5016,13 @@ window.NEWS_DATA = {
       "at": "2026-08-14T12:26:52Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-14T15:38:15Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 };
