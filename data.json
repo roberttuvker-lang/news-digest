@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-15T07:08:33Z",
+  "updated": "2026-08-15T07:29:16Z",
   "stories": [
     {
       "stream": "ai",
@@ -4555,6 +4555,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260814011036.htm",
       "title_key": "scientists caught dead nuclear reactor still glowing",
       "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-15",
+      "headline": "Two goats just staged Portland's most chaotic public transit debut",
+      "blurb": "A pair of loose goats wandered into a TriMet transit station and calmly boarded a bus, turning a routine commute into the best thing anyone saw all week.",
+      "url": "https://www.upi.com/Odd_News/2026/08/13/goats-board-bus-Portland-Oregon-TriMet/7881786637047/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/13/goats-board-bus-portland-oregon-trimet/7881786637047",
+      "title_key": "two goats just staged portland s most chaotic public transit debut",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-15",
+      "headline": "Scientists built a tiny engine that runs on the coldest heat in the universe",
+      "blurb": "Researchers at Aalto University coaxed a superconducting qubit into running a real thermodynamic engine cycle near absolute zero, a quirky quantum first that could one day slash the mountain of cables choking quantum computers.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814011041.htm",
+      "title_key": "scientists built tiny engine runs coldest heat universe",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-15",
+      "headline": "Your brain gets a surprise delivery of immune reinforcements as you age",
+      "blurb": "Stanford scientists discovered that, starting in middle age, immune cells hitchhike out of the bloodstream and settle into the human brain, quietly rewriting what we thought we knew about how the brain defends itself.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814011033.htm",
+      "title_key": "your brain gets surprise delivery immune reinforcements you age",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -5150,6 +5186,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-15T07:08:33Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-15T07:29:16Z",
       "accepted": 3,
       "rejected": 2
     }
