@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-15T01:53:13Z",
+  "updated": "2026-08-15T02:16:56Z",
   "stories": [
     {
       "stream": "ai",
@@ -4483,6 +4483,42 @@
       "url_key": "worldwildlife.org/news/stories/elephants-reach-new-heights-in-northeastern-india",
       "title_key": "elephants just turned up higher than any herd earth ever been recorded",
       "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-15",
+      "headline": "Rescued orangutans are now raising babies born wild and free",
+      "blurb": "In Indonesia's Jantho Pine Forest, nearly 200 rehabilitated Sumatran orangutans have been released back into the wild since 2011. Now the formerly captive females are giving birth on their own terms, with at least 10 babies confirmed growing up free in the reserve, a living proof that a rescued life can start an entirely new population.",
+      "url": "https://www.goodnewsnetwork.org/rescued-orangutans-released-into-empty-forest-now-raising-babies/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/rescued-orangutans-released-into-empty-forest-now-raising-babies",
+      "title_key": "rescued orangutans are now raising babies born wild free",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-15",
+      "headline": "A tiny butterfly with only nine left in America just came roaring back",
+      "blurb": "In 2022 there were only nine known Poweshiek skipperling butterflies left in the United States and researchers were caring for more of them in captivity than existed in the wild. Thanks to a captive-breeding push by Michigan State University and partners, over 1,300 have now been released into Michigan's prairie fens, and the same playbook is already helping two more endangered butterflies.",
+      "url": "https://phys.org/news/2026-08-butterflies-brink-extinction.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-butterflies-brink-extinction.html",
+      "title_key": "tiny butterfly only nine left america just came roaring back",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-15",
+      "headline": "Five secretarybird chicks just hatched, a first in the zoo's 95-year history",
+      "blurb": "Chester Zoo in England has successfully bred the striking, snake-hunting secretarybird for the first time ever, with five chicks hatching to parents John and Jolene. Fewer than 7,000 secretarybirds remain in the wild across Africa's grasslands, and conservationists hope the breeding breakthrough can help boost their numbers continent-wide.",
+      "url": "https://www.goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first",
+      "title_key": "five secretarybird chicks just hatched first zoo s 95 year history",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -5066,6 +5102,13 @@
       "at": "2026-08-15T01:53:13Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-15T02:16:56Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 }
