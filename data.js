@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-15T02:16:56Z",
+  "updated": "2026-08-15T07:08:33Z",
   "stories": [
     {
       "stream": "ai",
@@ -4519,6 +4519,42 @@ window.NEWS_DATA = {
       "url_key": "goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first",
       "title_key": "five secretarybird chicks just hatched first zoo s 95 year history",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-15",
+      "headline": "The Amazon Just Had Its Quietest Chainsaw Year in Over a Decade",
+      "blurb": "Satellite deforestation alerts over Brazil's Amazon fell to their lowest level in 13 years, down 36% from the year before. If the trend holds, Brazil could log its lowest deforestation rate since record-keeping began in 1988 — a very good report card for the planet's biggest rainforest.",
+      "url": "https://news.mongabay.com/2026/08/amazon-deforestation-alerts-fall-to-lowest-level-since-2013-brazilian-data-show/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/08/amazon-deforestation-alerts-fall-to-lowest-level-since-2013-brazilian-data-show",
+      "title_key": "amazon just had quietest chainsaw year over decade",
+      "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-15",
+      "headline": "This Robot Learned Bedside Manner From Real Physical Therapists",
+      "blurb": "MIT engineers built a dual-arm robot that uses the same AI tech behind image generators to learn how to gently, precisely assist stroke patients through physical therapy — nudging just enough to keep them challenged without overwhelming them. A shortage-fighting sidekick for the world's overstretched therapists.",
+      "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+      "source": "news.mit.edu",
+      "url_key": "news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+      "title_key": "robot learned bedside manner real physical therapists",
+      "topic": "AI"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-15",
+      "headline": "Scientists Caught a 'Dead' Nuclear Reactor Still Glowing",
+      "blurb": "Physicists in Germany detected antineutrinos — ghost particles that barely interact with anything — still streaming out of a shut-down reactor's spent fuel weeks after it went dark, exactly as predicted. First direct proof reactors keep a quiet particle 'afterglow,' which could let inspectors keep tabs on nuclear sites even while they're powered down.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814011036.htm",
+      "title_key": "scientists caught dead nuclear reactor still glowing",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -5109,6 +5145,13 @@ window.NEWS_DATA = {
       "at": "2026-08-15T02:16:56Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-15T07:08:33Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
