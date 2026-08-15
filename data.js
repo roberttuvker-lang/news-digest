@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-15T12:21:08Z",
+  "updated": "2026-08-15T12:43:25Z",
   "stories": [
     {
       "stream": "ai",
@@ -4627,6 +4627,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260812015216.htm",
       "title_key": "turns out your brain cells are secretly tiny supercomputers",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-15",
+      "headline": "One cheap blood draw could soon catch cancer, liver disease, and organ damage all at once",
+      "blurb": "UCLA scientists have built MethylScan, a blood test that reads chemical fingerprints on stray DNA fragments to spot liver, lung, ovarian and stomach cancers - and even tell liver diseases apart with 85% accuracy. Best part: it could cost less than $20 a test, putting a genuine game-changer for early detection within reach of everyday medicine.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015725.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260810015725.htm",
+      "title_key": "one cheap blood draw could soon catch cancer liver disease organ damage all once",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-15",
+      "headline": "Astronomers just dropped 3 million new snapshots of the galaxy, and the Southern Hemisphere finally got its turn",
+      "blurb": "The Sloan Digital Sky Survey's twentieth data release is a treasure chest: rare stars, glowing nebulae, hundreds of thousands of X-ray sources and shifting supermassive black holes, now including the first-ever SDSS-V optical spectra taken from Chile. It's a staggering new map for anyone who wants to understand our galaxy's full story.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045541.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260813045541.htm",
+      "title_key": "astronomers just dropped 3 million new snapshots galaxy southern hemisphere finally got turn",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-15",
+      "headline": "An unreleased OpenAI model just solved 10 math problems that stumped humans for decades",
+      "blurb": "OpenAI's next-generation Astra model cracked ten longstanding problems spanning group theory, cryptography and quantum complexity, including a question left open since 1999, producing fully machine-verified proofs for about $2,000 in compute. A thrilling glimpse of AI as a genuine partner in discovery, not just a tool.",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/03/openais-astra-solved-10-decades-old-math-problems-for-just-2000/",
+      "source": "forbes.com",
+      "url_key": "forbes.com/sites/jonmarkman/2026/08/03/openais-astra-solved-10-decades-old-math-problems-for-just-2000",
+      "title_key": "unreleased openai model just solved 10 math problems stumped humans decades",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -5238,6 +5274,13 @@ window.NEWS_DATA = {
       "at": "2026-08-15T12:21:08Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-15T12:43:25Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 };
