@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-15T07:29:16Z",
+  "updated": "2026-08-15T12:21:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -4591,6 +4591,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260814011033.htm",
       "title_key": "your brain gets surprise delivery immune reinforcements you age",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-15",
+      "headline": "Astronomers Just Found Three Black Holes Sharing One Galaxy — A Cosmic First",
+      "blurb": "Using JWST, astronomers spotted three actively feeding supermassive black holes crammed into a single galaxy just 1.2 billion years after the Big Bang — the first time this has ever been observed. Two are on a collision course and set to merge within a few hundred million years, giving scientists a front-row seat to how galaxies and monster black holes grow up together.",
+      "url": "https://phys.org/news/2026-08-supermassive-black-holes-galaxy.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-supermassive-black-holes-galaxy.html",
+      "title_key": "astronomers just found three black holes sharing one galaxy cosmic first",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-15",
+      "headline": "FDA Clears an Entirely New Kind of Cancer Drug — And It Works Better Than Hoped",
+      "blurb": "The FDA gave accelerated approval to Zenbexus, the first drug in a brand-new class called CELMoDs, for multiple myeloma patients as early as their first relapse. In trials, twice as many patients hit a deep, MRD-negative complete response compared to standard treatment — a genuinely new weapon against blood cancer, not just another variation on old ones.",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-iberdomide-daratumumab-and-hyaluronidase-fihj-and-dexamethasone",
+      "source": "fda.gov",
+      "url_key": "fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-iberdomide-daratumumab-and-hyaluronidase-fihj-and-dexamethasone",
+      "title_key": "fda clears entirely new kind cancer drug works better than hoped",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-15",
+      "headline": "Turns Out Your Brain Cells Are Secretly Tiny Supercomputers",
+      "blurb": "New research shows a single human cortical neuron can perform computations far more complex than scientists ever gave it credit for — more like a mini biological computer than a simple on-off switch. It may explain how our brains pull off language, imagination and math, and researchers say it could point the way to a new generation of brain-inspired AI.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015216.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260812015216.htm",
+      "title_key": "turns out your brain cells are secretly tiny supercomputers",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -5193,6 +5229,13 @@ window.NEWS_DATA = {
       "run": "local-midday-1027",
       "stream": "midday",
       "at": "2026-08-15T07:29:16Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-15T12:21:08Z",
       "accepted": 3,
       "rejected": 2
     }
