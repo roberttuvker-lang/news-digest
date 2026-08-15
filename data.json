@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-14T15:38:15Z",
+  "updated": "2026-08-15T01:53:13Z",
   "stories": [
     {
       "stream": "ai",
@@ -4447,6 +4447,42 @@
       "url_key": "insidehighered.com/news/faculty/research/2026/08/11/when-funding-gets-scarce-savvy-scientists-get-onlyfans",
       "title_key": "when grant money dried up scientists put their marmots onlyfans",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-15",
+      "headline": "Estrogen therapy linked to sharply lower Alzheimer's risk in women",
+      "blurb": "A Stanford-led study of over 21,000 postmenopausal women found estrogen-only hormone therapy tied to 39% lower odds of a dementia diagnosis and fewer Alzheimer's-related deposits in autopsied brains. It's the first study to connect hormone therapy directly to reduced disease pathology, not just symptoms.",
+      "url": "https://med.stanford.edu/news/all-news/2026/08/study-ties-estrogen-based-menopausal-hormone-therapy-to-lower-al.html",
+      "source": "med.stanford.edu",
+      "url_key": "med.stanford.edu/news/all-news/2026/08/study-ties-estrogen-based-menopausal-hormone-therapy-to-lower-al.html",
+      "title_key": "estrogen therapy linked sharply lower alzheimer s risk women",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-15",
+      "headline": "A stress hormone turns out to be the brain's own repair crew",
+      "blurb": "Researchers found that after a brain injury, precursor cells rush to release a burst of the stress hormone CRH, which times the rebuilding of the nerve insulation lost in the damage. The signal switches off within days, once repair is underway.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814011044.htm",
+      "title_key": "stress hormone turns out brain s own repair crew",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-15",
+      "headline": "Elephants just turned up higher than any herd on Earth has ever been recorded",
+      "blurb": "Wildlife surveys in India's Arunachal Pradesh documented wild Asian elephants living above 10,400 feet, the highest confirmed elevation for the species anywhere in the world. It's a striking sign of how adaptable the animals are even as their Himalayan habitat keeps changing.",
+      "url": "https://www.worldwildlife.org/news/stories/elephants-reach-new-heights-in-northeastern-india/",
+      "source": "worldwildlife.org",
+      "url_key": "worldwildlife.org/news/stories/elephants-reach-new-heights-in-northeastern-india",
+      "title_key": "elephants just turned up higher than any herd earth ever been recorded",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -5023,6 +5059,13 @@
       "at": "2026-08-14T15:38:15Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-15T01:53:13Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
