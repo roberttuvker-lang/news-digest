@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-15T12:43:25Z",
+  "updated": "2026-08-16T01:53:35Z",
   "stories": [
     {
       "stream": "ai",
@@ -4663,6 +4663,110 @@ window.NEWS_DATA = {
       "url_key": "forbes.com/sites/jonmarkman/2026/08/03/openais-astra-solved-10-decades-old-math-problems-for-just-2000",
       "title_key": "unreleased openai model just solved 10 math problems stumped humans decades",
       "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "OpenAI targets a September IPO at up to $1 trillion",
+      "blurb": "OpenAI has confidentially filed an S-1 with the SEC, aiming for a listing as soon as September with Goldman Sachs and Morgan Stanley leading a raise valuing the company between $852 billion and $1 trillion.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-confidentially-files-ipo-sec-223341186.html",
+      "source": "finance.yahoo.com",
+      "url_key": "finance.yahoo.com/markets/stocks/articles/openai-confidentially-files-ipo-sec-223341186.html",
+      "title_key": "openai targets september ipo up 1 trillion",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "DeepMind names a new head as Hassabis steps back",
+      "blurb": "Koray Kavukcuoglu now leads Gemini development and frontier AI research at Google DeepMind, while Demis Hassabis becomes Alphabet's chief scientist and DeepMind's chair.",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "title_key": "deepmind names new head hassabis steps back",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "xAI ships Grok 4.6, tuned for long-running AI agents",
+      "blurb": "The 500K-context model targets multi-step coding and agent work, and xAI says it now matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index at roughly half the price.",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "source": "venturebeat.com",
+      "url_key": "venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "title_key": "xai ships grok 4 6 tuned long running ai agents",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "EU starts enforcing AI Act transparency rules",
+      "blurb": "As of August 2, chatbots must disclose they're AI, deepfakes must be labeled, and AI-generated content needs machine-readable marks, with high-risk-system rules pushed back to 2027-2028.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "source": "digital-strategy.ec.europa.eu",
+      "url_key": "digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "title_key": "eu starts enforcing ai act transparency rules",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "Claude Code turns on auto mode by default",
+      "blurb": "Since August 14, Pro, Max and Team users get a classifier that screens each tool call for risky actions instead of constant approval prompts, useful for consultancies running Claude Code unattended.",
+      "url": "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+      "source": "9to5mac.com",
+      "url_key": "9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says",
+      "title_key": "claude code turns auto mode default",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "Claude Code can now run entirely on your own servers",
+      "blurb": "Anthropic's new self-hosted environments beta lets Team and Enterprise customers run Claude Code sessions on their own infrastructure, keeping repos, secrets and build artifacts off Anthropic's machines.",
+      "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "source": "claude.com",
+      "url_key": "claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "title_key": "claude code can now run entirely your own servers",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "AI agents can now query a 430-million-record research database directly",
+      "blurb": "Digital Science's new Dimensions MCP servers let Claude, ChatGPT and Gemini pull live publications, grants, patents and clinical trial data, handy for research-heavy consulting work.",
+      "url": "https://www.digital-science.com/press-releases/ai-agents-research-data-dimensions-mcp-servers/",
+      "source": "digital-science.com",
+      "url_key": "digital-science.com/press-releases/ai-agents-research-data-dimensions-mcp-servers",
+      "title_key": "ai agents can now query 430 million record research database directly",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-16",
+      "headline": "Google's Gemini Enterprise Agent Platform adds week-long agent runs",
+      "blurb": "New generally-available features let agents run continuously for up to seven days and give them structured, auto-updating memory profiles, aimed at long-running enterprise workflows.",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/release-notes",
+      "source": "docs.cloud.google.com",
+      "url_key": "docs.cloud.google.com/gemini-enterprise-agent-platform/release-notes",
+      "title_key": "google s gemini enterprise agent platform adds week long agent runs",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -5281,6 +5385,13 @@ window.NEWS_DATA = {
       "at": "2026-08-15T12:43:25Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-08-16T01:53:35Z",
+      "accepted": 8,
+      "rejected": 2
     }
   ]
 };
