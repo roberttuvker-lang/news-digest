@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-16T01:53:35Z",
+  "updated": "2026-08-16T02:16:48Z",
   "stories": [
     {
       "stream": "ai",
@@ -4767,6 +4767,102 @@ window.NEWS_DATA = {
       "title_key": "google s gemini enterprise agent platform adds week long agent runs",
       "topic": "AI",
       "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Palantir's commercial AI business grows 149% in a single quarter",
+      "blurb": "Palantir posted 93% overall revenue growth to $1.94 billion, driven by demand for AI sovereignty tools, and raised its 2026 guidance past $3.4 billion.",
+      "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+      "title_key": "palantir s commercial ai business grows 149 single quarter",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Anthropic hires its first chief global affairs officer",
+      "blurb": "Former California Supreme Court justice Mariano-Florentino Cuellar joins Anthropic to manage government relations as the company navigates export-control friction with Washington.",
+      "url": "https://www.cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+      "title_key": "anthropic hires first chief global affairs officer",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Google ships Gemini 3.7 Flash for coding and business agents",
+      "blurb": "The new model targets debugging and multi-step autonomous workflows, launching at half the price of its predecessor to undercut rivals on cost-sensitive enterprise deployments.",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "source": "venturebeat.com",
+      "url_key": "venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "title_key": "google ships gemini 3 7 flash coding business agents",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Meta launches Muse Code to challenge Claude Code and Codex",
+      "blurb": "Meta's first AI coding agent handles planning, writing and verifying software changes across large codebases, with a discounted tier for users who let Meta train on their prompts.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "title_key": "meta launches muse code challenge claude code codex",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Microsoft rolls out Copilot Checkout and Brand Agents for merchants",
+      "blurb": "Shoppers can now buy directly inside Copilot with PayPal, Shopify and Stripe, while brands deploy AI agents trained on their own product catalogs to handle sales conversations.",
+      "url": "https://searchengineland.com/microsoft-launches-copilot-checkout-and-brand-agents-467175",
+      "source": "searchengineland.com",
+      "url_key": "searchengineland.com/microsoft-launches-copilot-checkout-and-brand-agents-467175",
+      "title_key": "microsoft rolls out copilot checkout brand agents merchants",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Perplexity closes another $200 million at a $20 billion valuation",
+      "blurb": "The AI search company keeps raising as enterprise subscriptions to its Deep Research product grow faster than its consumer business.",
+      "url": "https://finance.yahoo.com/news/perplexity-finalizes-20-billion-valuation-232758524.html",
+      "source": "finance.yahoo.com",
+      "url_key": "finance.yahoo.com/news/perplexity-finalizes-20-billion-valuation-232758524.html",
+      "title_key": "perplexity closes another 200 million 20 billion valuation",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Twitch quietly opts every streamer into Amazon AI training",
+      "blurb": "A new setting lets creators block their streams and clips from training Amazon's generative AI models, but it arrived switched on for every account with no advance notice.",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out",
+      "title_key": "twitch quietly opts every streamer into amazon ai training",
+      "topic": "AI"
+    },
+    {
+      "stream": "ai",
+      "run": "local-morning-0515",
+      "date": "2026-08-16",
+      "headline": "Cohere pushes into Korea with a sovereign AI push and trillion-parameter target",
+      "blurb": "The enterprise AI company is opening a Seoul unit as its Asia-Pacific base while targeting a 1-trillion-parameter model, part of a broader sovereign-AI expansion strategy.",
+      "url": "https://techfundingnews.com/ohere-aleph-alpha-merger-20b-valuation-schwarz-group-600m/",
+      "source": "techfundingnews.com",
+      "url_key": "techfundingnews.com/ohere-aleph-alpha-merger-20b-valuation-schwarz-group-600m",
+      "title_key": "cohere pushes into korea sovereign ai push trillion parameter target",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -5390,6 +5486,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "ai",
       "at": "2026-08-16T01:53:35Z",
+      "accepted": 8,
+      "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "ai",
+      "at": "2026-08-16T02:16:48Z",
       "accepted": 8,
       "rejected": 2
     }
