@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-16T12:25:15Z",
+  "updated": "2026-08-16T12:41:37Z",
   "stories": [
     {
       "stream": "ai",
@@ -4971,6 +4971,42 @@ window.NEWS_DATA = {
       "url_key": "globenewswire.com/news-release/2026/08/10/3341792/0/en/pasqal-brings-qubit-control-on-chip-advancing-the-path-to-fault-tolerant-quantum-computing-at-scale.html",
       "title_key": "quantum computers just got lot smaller thanks chip",
       "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-16",
+      "headline": "SpaceX just launched two rockets 38 minutes apart, from opposite coasts",
+      "blurb": "On Saturday night, SpaceX fired a Falcon 9 out of Florida, then followed it 38 minutes later with another from California ù smashing its own turnaround record by nearly half an hour and pushing 2026's launch tally past 96. It's a glimpse of how routine and rapid spaceflight is becoming.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
+      "title_key": "spacex just launched two rockets 38 minutes apart opposite coasts",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-16",
+      "headline": "James Webb just revealed the secret life of a dying star's 'mane'",
+      "blurb": "Webb's new infrared portrait of the Lion Nebula shows exactly which shells of stellar dust survive a white dwarf's radiation blast and which get vaporized ù the clearest look yet at how dying stars seed the raw material for future solar systems.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260812015206.htm",
+      "title_key": "james webb just revealed secret life dying star s mane",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-16",
+      "headline": "Waymo just won the green light to blanket most of California in robotaxis",
+      "blurb": "California regulators approved Waymo to expand driverless rides across 18 counties from Sonoma to San Diego, opening brand-new markets in Sacramento and San Diego and putting autonomous, all-weather service within reach of the vast majority of the state's population.",
+      "url": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+      "source": "electrek.co",
+      "url_key": "electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties",
+      "title_key": "waymo just won green light blanket most california robotaxis",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -5624,6 +5660,13 @@ window.NEWS_DATA = {
       "at": "2026-08-16T12:25:15Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-16T12:41:37Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 };
