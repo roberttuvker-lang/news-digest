@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-16T07:30:28Z",
+  "updated": "2026-08-16T10:28:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -4899,6 +4899,42 @@ window.NEWS_DATA = {
       "url_key": "washingtonpost.com/lifestyle/2026/08/11/this-dad-beat-world-record-by-running-417-mile-pushing-stroller",
       "title_key": "dad casually beat world record while pushing his baby stroller",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-16",
+      "headline": "Grass was hiding kids at a bus stop from traffic — so a stranger just mowed it",
+      "blurb": "Driving through Houston, Mark Waters spotted moms and kids picking their way through grass taller than some of the toddlers, right next to a busy road. He didn't wait for the city — he grabbed a mower and cleared the whole bus stop himself. No fanfare, just a guy who saw a problem and fixed it on the spot.",
+      "url": "https://www.sunnyskyz.com/good-news/6281/Man-Cuts-Grass-After-Seeing-Students-Waiting-at-Bus-Stop-in-Dangerous-Conditions",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6281/man-cuts-grass-after-seeing-students-waiting-at-bus-stop-in-dangerous-conditions",
+      "title_key": "grass hiding kids bus stop traffic so stranger just mowed",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-16",
+      "headline": "Meet Poipoi: the pygmy hippo who's a genetic jackpot just by being born",
+      "blurb": "A Portuguese zoo just welcomed a pygmy hippo calf named Poipoi — and he's a big deal, because only about 1 in 10 pygmy hippo births is male. With as few as 2,000 left in the wild, this squishy new arrival is a real boost for the species' gene pool. He's already toddling around for visitors at Zoo Santo Inácio.",
+      "url": "https://www.theportugalnews.com/news/2026-08-15/zoo-celebrates-endangered-hippo-birth/1069804",
+      "source": "theportugalnews.com",
+      "url_key": "theportugalnews.com/news/2026-08-15/zoo-celebrates-endangered-hippo-birth/1069804",
+      "title_key": "meet poipoi pygmy hippo who s genetic jackpot just being born",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-16",
+      "headline": "Neptune's tiny moons turn out to be the wreckage of a 4.5-billion-year-old smashup",
+      "blurb": "The James Webb Space Telescope found clay minerals on Neptune's little inner moons that could only have formed with liquid water — evidence of an entire ancient moon system that got shattered when Neptune grabbed Triton out of deep space. The moons we see today are basically cosmic debris that pulled itself back together. Wild, and weirdly satisfying.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260813045545.htm",
+      "title_key": "neptune s tiny moons turn out wreckage 4 5 billion year old smashup",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -5538,6 +5574,13 @@ window.NEWS_DATA = {
       "at": "2026-08-16T07:30:28Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-16T10:28:08Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
