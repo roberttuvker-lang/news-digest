@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-16T10:28:08Z",
+  "updated": "2026-08-16T12:25:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -4935,6 +4935,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260813045545.htm",
       "title_key": "neptune s tiny moons turn out wreckage 4 5 billion year old smashup",
       "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-16",
+      "headline": "A black hole shredded a star — and something may have survived",
+      "blurb": "Astronomers announced \"the Whippet\": a black hole tearing apart a massive star in one of the most energetic stellar explosions ever recorded, briefly outshining hundreds of billions of suns. Months later, unexpectedly fast-moving helium hinted that some structure endured the destruction — a reminder of how much thrilling physics is still waiting to be found.",
+      "url": "http://www.sciencedaily.com/releases/2026/08/260814235849.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814235849.htm",
+      "title_key": "black hole shredded star something may survived",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-16",
+      "headline": "A 30-year-old fossil just revealed a possible new sea monster species",
+      "blurb": "Bones collected in Osaka more than three decades ago sat unstudied until researchers spotted four previously unrecognized bones from a giant Cretaceous mosasaur, including Japan's first identified premaxilla. The distinctive features point to an entirely new species — proof that discovery doesn't always need a new dig, sometimes just a fresh look at what's already on the shelf.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045555.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260813045555.htm",
+      "title_key": "30 year old fossil just revealed possible new sea monster species",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-16",
+      "headline": "Quantum computers just got a lot smaller, thanks to a chip",
+      "blurb": "Pasqal used a photonic integrated circuit to trap individual atoms for a neutral-atom quantum processor — a world first that could shrink the bulky optical hardware behind quantum computers by up to 50 times. The company is now aiming for machines with over 10,000 atoms and 100 logical qubits, a real step toward fault-tolerant quantum computing at scale.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/10/3341792/0/en/Pasqal-Brings-Qubit-Control-On-Chip-Advancing-the-Path-to-Fault-Tolerant-Quantum-Computing-at-Scale.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/08/10/3341792/0/en/pasqal-brings-qubit-control-on-chip-advancing-the-path-to-fault-tolerant-quantum-computing-at-scale.html",
+      "title_key": "quantum computers just got lot smaller thanks chip",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -5579,6 +5615,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-16T10:28:08Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-16T12:25:15Z",
       "accepted": 3,
       "rejected": 2
     }
