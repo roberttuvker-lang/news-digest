@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-16T02:16:48Z",
+  "updated": "2026-08-16T07:30:28Z",
   "stories": [
     {
       "stream": "ai",
@@ -4863,6 +4863,42 @@ window.NEWS_DATA = {
       "url_key": "techfundingnews.com/ohere-aleph-alpha-merger-20b-valuation-schwarz-group-600m",
       "title_key": "cohere pushes into korea sovereign ai push trillion parameter target",
       "topic": "AI"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-16",
+      "headline": "A Pennsylvania dad went looking for shells and found a 60-foot shark's tooth instead",
+      "blurb": "Mike Bowers was combing a New Jersey beach at low tide when he spotted something odd wedged in a rock. It turned out to be a 4-inch megalodon tooth from a prehistoric shark the size of a bus. He says the timing had to be exactly right, and after decades of scuba diving, he'd finally bagged his bucket-list find.",
+      "url": "https://www.cbsnews.com/pittsburgh/news/megalodon-tooth-new-jersey-elizabeth/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/pittsburgh/news/megalodon-tooth-new-jersey-elizabeth",
+      "title_key": "pennsylvania dad went looking shells found 60 foot shark s tooth instead",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-16",
+      "headline": "An 80-pound tortoise vanished from her yard and turned up 12 miles away like nothing happened",
+      "blurb": "Molly the African spurred tortoise went missing from her Manitoba home, and two weeks later staff at a nature marsh started getting oddly specific reports of a 'big turtle.' Turns out Molly had trekked 20 kilometers cross-country, Sahara-desert-species-in-the-Canadian-wild style, before being scooped up and reunited with her very relieved family.",
+      "url": "https://www.upi.com/Odd_News/2026/08/13/canada-Manitoba-tortoise-escaped-Molly-Oak-Hammock-Marsh/6971786641747/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/13/canada-manitoba-tortoise-escaped-molly-oak-hammock-marsh/6971786641747",
+      "title_key": "80 pound tortoise vanished her yard turned up 12 miles away like nothing happened",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-16",
+      "headline": "This dad casually beat a world record while pushing his baby in a stroller",
+      "blurb": "Stephen Biebelhausen signed up for a bridge race just hoping to break his own course best. Instead, with daughter Blake along for the ride, he blazed a 4:17 mile that would smash the Guinness record for fastest mile pushing a pram. He said he 'truly did not think' he was going for the record. Turns out he was.",
+      "url": "https://www.washingtonpost.com/lifestyle/2026/08/11/this-dad-beat-world-record-by-running-417-mile-pushing-stroller/",
+      "source": "washingtonpost.com",
+      "url_key": "washingtonpost.com/lifestyle/2026/08/11/this-dad-beat-world-record-by-running-417-mile-pushing-stroller",
+      "title_key": "dad casually beat world record while pushing his baby stroller",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -5495,6 +5531,13 @@ window.NEWS_DATA = {
       "at": "2026-08-16T02:16:48Z",
       "accepted": 8,
       "rejected": 2
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-16T07:30:28Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 };
