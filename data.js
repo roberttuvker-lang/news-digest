@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-17T02:18:05Z",
+  "updated": "2026-08-17T07:32:59Z",
   "stories": [
     {
       "stream": "ai",
@@ -5079,6 +5079,42 @@ window.NEWS_DATA = {
       "url_key": "goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough",
       "title_key": "scientists found what s really stealing sleep alzheimer s gave back",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-17",
+      "headline": "A turtle named Rhossi is about to complete the world's most extra ride home",
+      "blurb": "Rescued half-frozen on a Welsh beach in 2023, the critically endangered Kemp's ridley sea turtle just flew helicopter-to-cargo-jet across the Atlantic - 5,000 miles, business class for turtles - to be released back into the Gulf of Mexico near Padre Island.",
+      "url": "https://www.goodgoodgood.co/articles/kemps-ridley-sea-turtle-anglesey-sea-zoo-flies-home",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/kemps-ridley-sea-turtle-anglesey-sea-zoo-flies-home",
+      "title_key": "turtle named rhossi about complete world s most extra ride home",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-17",
+      "headline": "Ospreys just hatched in England for the first time since Queen Victoria was on the throne",
+      "blurb": "Three fuzzy chicks - Ash, Bowness Bobbi and Beau - hatched at an RSPB reserve in Cumbria, the first successful osprey breeding at an English nature reserve in over a century, and a local primary school got to name them.",
+      "url": "https://www.rspb.org.uk/whats-happening/news/first-ospreys-to-hatch-on-an-rspb-nature-reserve-in-england-since-victorian-times",
+      "source": "rspb.org.uk",
+      "url_key": "rspb.org.uk/whats-happening/news/first-ospreys-to-hatch-on-an-rspb-nature-reserve-in-england-since-victorian-times",
+      "title_key": "ospreys just hatched england first time since queen victoria throne",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-17",
+      "headline": "A man gave an otter mouth-to-mouth and it actually worked",
+      "blurb": "An otter tangled and strangled in a fishing net was seemingly a goner until a rescuer performed CPR on it right there on the riverbank - and brought it back.",
+      "url": "https://www.goodgoodgood.co/articles/otter-rescue-fishing-net-cpr",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/otter-rescue-fishing-net-cpr",
+      "title_key": "man gave otter mouth mouth actually worked",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -5753,6 +5789,13 @@ window.NEWS_DATA = {
       "at": "2026-08-17T02:18:05Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-17T07:32:59Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 };
