@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-17T01:53:52Z",
+  "updated": "2026-08-17T02:18:05Z",
   "stories": [
     {
       "stream": "ai",
@@ -5043,6 +5043,42 @@
       "url_key": "fox5atlanta.com/news/atlanta-actress-gail-bean-offers-22-local-grads-scholarships",
       "title_key": "actress turned her own scholarship fund into 22 futures",
       "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-17",
+      "headline": "A Wendy's shift turned into a scholarship to Yale",
+      "blurb": "Thalles DeSouza fled violence and poverty in Brazil and was working the counter at a Cape Cod Wendy's when his bosses quietly funded his community college tuition. He excelled, and now he's headed to Yale on a full ride to study political science and human rights. \"Sometimes all it takes is one person who believes in you,\" he says.",
+      "url": "https://www.goodnewsnetwork.org/wendys-worker-is-going-to-yale-after-his-bosses-fund-scholarship-for-the-immigrant-who-survived-violence/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/wendys-worker-is-going-to-yale-after-his-bosses-fund-scholarship-for-the-immigrant-who-survived-violence",
+      "title_key": "wendy s shift turned into scholarship yale",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-17",
+      "headline": "He secretly trained for two months just to run beside her",
+      "blurb": "Emma Kessler was dreading her first half-marathon and hoping for a running partner. At the starting line, her boyfriend Jason Burns showed up in running shoes, having quietly trained for two months to repay her years of cheering him on at his powerlifting meets. They crossed the finish line together.",
+      "url": "https://www.goodnewsnetwork.org/boyfriend-secretly-trains-for-two-months-to-surprise-girlfriend-and-run-alongside-her-in-dreaded-first-half-marathon/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/boyfriend-secretly-trains-for-two-months-to-surprise-girlfriend-and-run-alongside-her-in-dreaded-first-half-marathon",
+      "title_key": "he secretly trained two months just run beside her",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-17",
+      "headline": "Scientists found what's really stealing sleep in Alzheimer's - and gave it back",
+      "blurb": "University of Kentucky researchers discovered that it's the brain's own immune cells, not amyloid plaques directly, driving the sleepless nights common in Alzheimer's. By briefly clearing those cells in animal models, the team restored more than two hours of lost sleep a day, pointing to a promising new way to protect the brain's nightly repair work.",
+      "url": "https://www.goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough",
+      "title_key": "scientists found what s really stealing sleep alzheimer s gave back",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -5710,6 +5746,13 @@
       "at": "2026-08-17T01:53:52Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-17T02:18:05Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 }
