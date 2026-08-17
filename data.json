@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-17T12:23:16Z",
+  "updated": "2026-08-17T12:42:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -5187,6 +5187,42 @@
       "url_key": "caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
       "title_key": "chip redirects light faster than you can blink trillion times",
       "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-17",
+      "headline": "Scientists just built a memory chip that sips power like never before, by fusing DNA with semiconductors",
+      "blurb": "Researchers engineered a bio-hybrid memory device combining synthetic DNA with perovskite semiconductors, slashing power use a hundredfold and storing and processing information in the very same place. It's a glimpse of an energy-lean future for AI computing and everyday electronics.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044853.htm",
+      "title_key": "scientists just built memory chip sips power like never before fusing dna semiconductors",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-17",
+      "headline": "Astronomers just designed an array of 900 tiny telescopes that could spot a living planet in a single glance",
+      "blurb": "A proposed 'Life 2.0' constellation of 900 modest one-metre telescopes, working together like a giant 30-metre eye, could read an Earth-like planet's atmosphere for oxygen and water in just one transit, no decade-long stakeout required. Finding a second living world may be closer than we think.",
+      "url": "https://phys.org/news/2026-08-telescope-array-earth-exoplanet-atmosphere.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-telescope-array-earth-exoplanet-atmosphere.html",
+      "title_key": "astronomers just designed array 900 tiny telescopes could spot living planet single glance",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-17",
+      "headline": "Researchers found the molecule clogging Alzheimer's brains, and a compound that stops it cold",
+      "blurb": "ETH Zurich scientists discovered that an experimental compound blocks a protein called GRK2 from clumping inside brain cells, letting mitochondria work properly again and cutting amyloid buildup and cell death in mice. A single molecular fix could open a real path to treating Alzheimer's.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814235856.htm",
+      "title_key": "researchers found molecule clogging alzheimer s brains compound stops cold",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -5882,6 +5918,13 @@
       "at": "2026-08-17T12:23:16Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-17T12:42:41Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 }
