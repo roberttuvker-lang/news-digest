@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-16T12:41:37Z",
+  "updated": "2026-08-17T01:53:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -5007,6 +5007,42 @@
       "url_key": "electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties",
       "title_key": "waymo just won green light blanket most california robotaxis",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-17",
+      "headline": "Portugal ran mostly on sunshine last month, a first",
+      "blurb": "Solar became Portugal's single biggest source of electricity in July, supplying 19% of demand as renewables overall covered 53% of the country's power. It's a quiet milestone in a fast-moving shift away from fossil fuels — and Portugal isn't stopping there.",
+      "url": "https://www.euronews.com/2026/08/05/first-time-solar-power-is-portugals-main-source-of-electricity-in-july",
+      "source": "euronews.com",
+      "url_key": "euronews.com/2026/08/05/first-time-solar-power-is-portugals-main-source-of-electricity-in-july",
+      "title_key": "portugal ran mostly sunshine last month first",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-17",
+      "headline": "A little movement in your 50s could protect your brain decades later",
+      "blurb": "A new study of over 400 adults found that any amount of physical activity in midlife was linked to slower cognitive decline later in life, with especially strong benefits for Mexican American participants. Simple, low-cost, and available to almost everyone starting today.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814235839.htm",
+      "title_key": "little movement your 50s could protect your brain decades later",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-17",
+      "headline": "An actress turned her own scholarship fund into 22 futures",
+      "blurb": "Atlanta actress Gail Bean's nonprofit, Dream Above the Influence, awarded $1,913 scholarships to 22 graduating Metro Atlanta seniors who completed community service and showed academic commitment. A reminder that one person's success can become a whole community's leg up.",
+      "url": "https://www.fox5atlanta.com/news/atlanta-actress-gail-bean-offers-22-local-grads-scholarships",
+      "source": "fox5atlanta.com",
+      "url_key": "fox5atlanta.com/news/atlanta-actress-gail-bean-offers-22-local-grads-scholarships",
+      "title_key": "actress turned her own scholarship fund into 22 futures",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -5667,6 +5703,13 @@
       "at": "2026-08-16T12:41:37Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-17T01:53:52Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
