@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-17T07:48:58Z",
+  "updated": "2026-08-17T12:23:16Z",
   "stories": [
     {
       "stream": "ai",
@@ -5151,6 +5151,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260814235858.htm",
       "title_key": "dime day pill 1700s just got stunning comeback",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-17",
+      "headline": "Surgeons Just Replaced a Failing Aorta — Without Opening the Chest",
+      "blurb": "Doctors at The Christ Hospital in Cincinnati performed the world's first totally endoscopic robotic replacement of the ascending aorta, using a da Vinci 5 system instead of cracking open the breastbone. It's a glimpse of a future where even the riskiest heart surgeries leave patients walking out days sooner.",
+      "url": "https://www.thechristhospital.com/news-and-events/press-releases/worlds-first-endoscopic-robotic-replacement-of-the-ascending-aorta/",
+      "source": "thechristhospital.com",
+      "url_key": "thechristhospital.com/news-and-events/press-releases/worlds-first-endoscopic-robotic-replacement-of-the-ascending-aorta",
+      "title_key": "surgeons just replaced failing aorta without opening chest",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-17",
+      "headline": "Physicists Just Found the Hidden Glue Holding Matter Together",
+      "blurb": "Collision data from Brookhaven's RHIC reveal that a proton's stability may come not from its three quarks alone, but from a Y-shaped junction of gluons binding them — a finding that rewrites a decades-old textbook picture. It's the kind of fundamental discovery that reminds us how much wonder is still hiding inside ordinary matter.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260815064805.htm",
+      "title_key": "physicists just found hidden glue holding matter together",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-17",
+      "headline": "This Chip Redirects Light Faster Than You Can Blink — By a Trillion Times",
+      "blurb": "Caltech engineers built an ultrathin silicon metasurface that steers and reshapes laser beams in just 74 femtoseconds, using nanoscale pillars instead of bulky lenses. It's a building block for a new generation of blazing-fast optical computing and communications.",
+      "url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
+      "source": "caltech.edu",
+      "url_key": "caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
+      "title_key": "chip redirects light faster than you can blink trillion times",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -5837,6 +5873,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-17T07:48:58Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-17T12:23:16Z",
       "accepted": 3,
       "rejected": 2
     }
