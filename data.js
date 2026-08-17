@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-17T07:32:59Z",
+  "updated": "2026-08-17T07:48:58Z",
   "stories": [
     {
       "stream": "ai",
@@ -5115,6 +5115,42 @@ window.NEWS_DATA = {
       "url_key": "goodgoodgood.co/articles/otter-rescue-fishing-net-cpr",
       "title_key": "man gave otter mouth mouth actually worked",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-17",
+      "headline": "The zoo hadn't seen this in 75 years — then Han and Solo showed up",
+      "blurb": "First-time parents Ziggy and Lando just became the first bat-eared foxes to raise kits at the Smithsonian's National Zoo since 1951. The two pups — bigger, braver Han and shy little Solo — have finally left the den and spend their days chasing each other around the yard.",
+      "url": "https://nationalzoo.si.edu/animals/news/peek-inside-our-bat-eared-fox-familys-den",
+      "source": "nationalzoo.si.edu",
+      "url_key": "nationalzoo.si.edu/animals/news/peek-inside-our-bat-eared-fox-familys-den",
+      "title_key": "zoo hadn t seen 75 years then han solo showed up",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-17",
+      "headline": "A 1950s fossil sat in a drawer for 70 years. It was a whole new species.",
+      "blurb": "A paleontologist re-examining decades-old amphibian bones from the La Brea Tar Pits just identified an entirely new Ice Age toad, Spea labreae — only the second extinct Pleistocene amphibian ever found in North America. Turns out the tar pits had one more surprise buried in a museum drawer, not the tar.",
+      "url": "https://tarpits.org/press/new-species-ice-age-toad-discovered-la-brea-tar-pits-spadefoot-toad-spea-labreae",
+      "source": "tarpits.org",
+      "url_key": "tarpits.org/press/new-species-ice-age-toad-discovered-la-brea-tar-pits-spadefoot-toad-spea-labreae",
+      "title_key": "1950s fossil sat drawer 70 years whole new species",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-17",
+      "headline": "A dime-a-day pill from the 1700s just got a stunning comeback",
+      "blurb": "New research combining three trials found that low-dose digoxin — a heart medicine derived from foxglove and costing under 10 cents a day — cuts heart-failure hospitalizations by about 25%. A centuries-old, dirt-cheap drug is quietly proving itself all over again.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260814235858.htm",
+      "title_key": "dime day pill 1700s just got stunning comeback",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -5796,6 +5832,13 @@ window.NEWS_DATA = {
       "at": "2026-08-17T07:32:59Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-17T07:48:58Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
