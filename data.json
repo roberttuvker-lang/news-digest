@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-18T02:18:52Z",
+  "updated": "2026-08-18T07:09:44Z",
   "stories": [
     {
       "stream": "ai",
@@ -5295,6 +5295,42 @@
       "url_key": "goodnewsnetwork.org/97-year-old-is-overwhelmed-returns-to-med-school-to-attend-great-granddaughters-graduation-60-years-later",
       "title_key": "97 year old doctor just watched his great granddaughter graduate his own alma mater",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-18",
+      "headline": "Thieves stole her brand-new bread stand. Strangers built her a better one.",
+      "blurb": "A Rhode Island pastry chef's handmade farm stand was stolen just a day after she set it up to sell her homemade bread. A father-son construction duo she'd never met saw her story online, spent 12 hours building a replacement, and handed it over for free. Sweetest plot twist: business is now booming.",
+      "url": "https://www.washingtonpost.com/lifestyle/2026/08/17/chefs-handmade-bake-stand-was-stolen-strangers-made-her-new-one/",
+      "source": "washingtonpost.com",
+      "url_key": "washingtonpost.com/lifestyle/2026/08/17/chefs-handmade-bake-stand-was-stolen-strangers-made-her-new-one",
+      "title_key": "thieves stole her brand new bread stand strangers built her better one",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-18",
+      "headline": "Meet Rana, the piglet who might save her whole species",
+      "blurb": "Chester Zoo just welcomed a rare babirusa piglet, a wrinkly little 'deer-pig' found on only four Indonesian islands and teetering near extinction. Rana's mom was herself born at the zoo, so this tiny, snuffly newborn is a genuine win for a species that badly needed one.",
+      "url": "https://themanc.com/cheshire/rare-endangered-babirusa-piglet-born-at-chester-zoo/",
+      "source": "themanc.com",
+      "url_key": "themanc.com/cheshire/rare-endangered-babirusa-piglet-born-at-chester-zoo",
+      "title_key": "meet rana piglet who might save her whole species",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-18",
+      "headline": "This grandma just outran a Guinness record — on a treadmill, in under a day",
+      "blurb": "Ultrarunner Amy Palmiero-Winters knocked out 100 miles on a treadmill in under 22 hours, smashing the record while proving that 'super-fit gran' is very much a real job title. She says she just wants to show people what's possible at any age.",
+      "url": "https://www.guinnessworldrecords.com/news/2026/8/super-fit-gran-hopes-to-inspire-after-running-100-miles-on-a-treadmill-in-just-half-a-day",
+      "source": "guinnessworldrecords.com",
+      "url_key": "guinnessworldrecords.com/news/2026/8/super-fit-gran-hopes-to-inspire-after-running-100-miles-on-a-treadmill-in-just-half-a-day",
+      "title_key": "grandma just outran guinness record treadmill under day",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -6011,6 +6047,13 @@
       "at": "2026-08-18T02:18:52Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-18T07:09:44Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
