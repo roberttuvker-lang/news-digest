@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-17T12:42:41Z",
+  "updated": "2026-08-18T01:54:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -5223,6 +5223,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260814235856.htm",
       "title_key": "researchers found molecule clogging alzheimer s brains compound stops cold",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-18",
+      "headline": "A vegan diet just matched weight-loss drugs, without anyone counting a calorie",
+      "blurb": "A 16-week clinical trial found people eating a low-fat vegan diet lost an average of 13 pounds without deliberately cutting portions, because the food itself carried a third less energy density. The weight loss rivaled what trials have shown for semaglutide.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260815064825.htm",
+      "title_key": "vegan diet just matched weight loss drugs without anyone counting calorie",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-18",
+      "headline": "Nature invented biodegradable plastic long before we did, and animals have been eating it for eons",
+      "blurb": "Researchers at the Max Planck Institute found that dozens of animal species, from earthworms to starfish, carry enzymes that let them digest natural bioplastics made by bacteria, a talent once thought unique to microbes. It means a whole hidden food web has been running on nature's own compostable plastic for hundreds of millions of years.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260815064759.htm",
+      "title_key": "nature invented biodegradable plastic long before we did animals been eating eons",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-18",
+      "headline": "A volunteer coalition just gave Iowa its first real climbing destination",
+      "blurb": "The Iowa Climbers Coalition partnered with local conservation officials to open Prairie Creek Recreation Area, a limestone bluff with 31 bolted routes built and maintained by volunteers. It's already drawing climbers from Wisconsin, Minnesota, and Chicago to a state few would have picked for the sport.",
+      "url": "https://www.kcrg.com/2026/08/16/iowa-climbers-coalition-builds-new-climbing-destination-prairie-creek-recreation-area/",
+      "source": "kcrg.com",
+      "url_key": "kcrg.com/2026/08/16/iowa-climbers-coalition-builds-new-climbing-destination-prairie-creek-recreation-area",
+      "title_key": "volunteer coalition just gave iowa first real climbing destination",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -5925,6 +5961,13 @@ window.NEWS_DATA = {
       "at": "2026-08-17T12:42:41Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-18T01:54:41Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
