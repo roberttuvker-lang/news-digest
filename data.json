@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-18T12:19:50Z",
+  "updated": "2026-08-18T16:44:58Z",
   "stories": [
     {
       "stream": "ai",
@@ -5367,6 +5367,42 @@
       "url_key": "powermag.com/fuse-touts-highest-neutron-yield-by-any-fusion-company",
       "title_key": "fusion startup just posted biggest neutron yield any private company ever hit",
       "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-18",
+      "headline": "Scientists just filmed tiny tornadoes swirling across the Sun, hiding in plain sight for decades",
+      "blurb": "The sharpest images ever taken of the Sun's surface caught thousands of plasma whirlpools just 20 kilometers wide, spinning at the edges of solar granules. They may finally explain why the Sun's outer atmosphere runs a million degrees hotter than its surface, a mystery that has puzzled physicists for generations.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260807035142.htm",
+      "title_key": "scientists just filmed tiny tornadoes swirling across sun hiding plain sight decades",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-18",
+      "headline": "Water just turned up next to the most violent black hole in our galaxy, and it's thriving",
+      "blurb": "James Webb spotted water and dust surviving in a dying star's envelope barely half a light-year from Sagittarius A*, the four-million-solar-mass beast at our galaxy's core. It's proof that the raw ingredients for planets and life can persist even in the most extreme neighborhood the Milky Way has to offer.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
+      "title_key": "water just turned up next most violent black hole our galaxy s thriving",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-18",
+      "headline": "Scientists designed 16 brand-new viruses from scratch, and they hunt superbugs",
+      "blurb": "Stanford researchers used AI to invent 16 bacteriophages that don't exist anywhere in nature, then set them loose on drug-resistant bacteria. Mixtures of the synthetic viruses wiped out strains that had already learned to dodge their natural cousins, opening a fast new front against superbugs.",
+      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
+      "title_key": "scientists designed 16 brand new viruses scratch they hunt superbugs",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -6097,6 +6133,13 @@
       "at": "2026-08-18T12:19:50Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-18T16:44:58Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 }
