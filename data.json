@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-18T07:09:44Z",
+  "updated": "2026-08-18T12:19:50Z",
   "stories": [
     {
       "stream": "ai",
@@ -5331,6 +5331,42 @@
       "url_key": "guinnessworldrecords.com/news/2026/8/super-fit-gran-hopes-to-inspire-after-running-100-miles-on-a-treadmill-in-just-half-a-day",
       "title_key": "grandma just outran guinness record treadmill under day",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-18",
+      "headline": "A robot just out-sprinted and out-jumped Usain Bolt, and it took three months to build",
+      "blurb": "Unitree's new humanoid, nicknamed Superman, hit 12.66 meters per second and cleared a two-meter standing jump, edging past Bolt's peak sprint speed, all on legs engineers built in a little over three months. It's a striking marker of how fast humanoid robotics is advancing toward real-world jobs like manufacturing and disaster response.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/unitree-robot-hits-12-66-094529616.html",
+      "source": "finance.yahoo.com",
+      "url_key": "finance.yahoo.com/technology/ai/articles/unitree-robot-hits-12-66-094529616.html",
+      "title_key": "robot just out sprinted out jumped usain bolt took three months build",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-18",
+      "headline": "Fuel cells just got their 'freezing fire' upgrade, and cheap clean power got a lot closer",
+      "blurb": "UT San Antonio researchers borrowed a metallurgy trick to create disordered atomic clusters that let solid oxide fuel cells move oxygen ions freely at far lower temperatures than before. That could finally make these ultra-efficient, hydrogen-powered generators cheap and durable enough for everyday use instead of staying locked in the lab.",
+      "url": "https://news.utsa.edu/2026/08/freezing-fire-ut-san-antonio-scientists-discover-breakthrough-for-green-energy/",
+      "source": "news.utsa.edu",
+      "url_key": "news.utsa.edu/2026/08/freezing-fire-ut-san-antonio-scientists-discover-breakthrough-for-green-energy",
+      "title_key": "fuel cells just got their freezing fire upgrade cheap clean power got lot closer",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-18",
+      "headline": "A fusion startup just posted the biggest neutron yield any private company has ever hit",
+      "blurb": "Fuse Energy's TITAN system generated a record 1.27 trillion neutrons in a single shot, a major milestone for pulsed-power fusion technology. Paired with Commonwealth Fusion's record $1 billion funding round and ITER running months ahead of schedule, commercial fusion power is closing in faster than most expected.",
+      "url": "https://www.powermag.com/fuse-touts-highest-neutron-yield-by-any-fusion-company/",
+      "source": "powermag.com",
+      "url_key": "powermag.com/fuse-touts-highest-neutron-yield-by-any-fusion-company",
+      "title_key": "fusion startup just posted biggest neutron yield any private company ever hit",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -6052,6 +6088,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-18T07:09:44Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-18T12:19:50Z",
       "accepted": 3,
       "rejected": 2
     }
