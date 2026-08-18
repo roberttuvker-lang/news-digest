@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-18T01:54:41Z",
+  "updated": "2026-08-18T02:18:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -5259,6 +5259,42 @@
       "url_key": "kcrg.com/2026/08/16/iowa-climbers-coalition-builds-new-climbing-destination-prairie-creek-recreation-area",
       "title_key": "volunteer coalition just gave iowa first real climbing destination",
       "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-18",
+      "headline": "270,000 square miles of Pacific Ocean just got handed back to its original stewards",
+      "blurb": "The indigenous people of Rapa Nui will hold the voting majority on a new council governing a marine protected area around Easter Island bigger than most countries, one of the largest indigenous-managed ocean reserves on Earth.",
+      "url": "https://www.goodnewsnetwork.org/270000-square-miles-around-easter-island-to-become-indigenous-managed-ocean-reserve/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/270000-square-miles-around-easter-island-to-become-indigenous-managed-ocean-reserve",
+      "title_key": "270 000 square miles pacific ocean just got handed back original stewards",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-18",
+      "headline": "A woman threw out a million-euro ticket by mistake, so an entire garbage crew went looking for it",
+      "blurb": "In southern Italy, waste workers spent hours sifting through a full truckload of trash to recover a winning lottery ticket worth one million euros, finding it miraculously intact and handing a stranger her fortune.",
+      "url": "https://www.goodnewsnetwork.org/garbage-workers-in-italy-help-woman-find-her-million-jackpot/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/garbage-workers-in-italy-help-woman-find-her-million-jackpot",
+      "title_key": "woman threw out million euro ticket mistake so entire garbage crew went looking",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-18",
+      "headline": "A 97-year-old doctor just watched his great-granddaughter graduate from his own alma mater",
+      "blurb": "Sixty years after earning his own degree at the University of Kentucky's medical school, 97-year-old Dr. Westel Creager sat in the audience as his great-granddaughter received her white coat from the very same program.",
+      "url": "https://www.goodnewsnetwork.org/97-year-old-is-overwhelmed-returns-to-med-school-to-attend-great-granddaughters-graduation-60-years-later/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/97-year-old-is-overwhelmed-returns-to-med-school-to-attend-great-granddaughters-graduation-60-years-later",
+      "title_key": "97 year old doctor just watched his great granddaughter graduate his own alma mater",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -5968,6 +6004,13 @@
       "at": "2026-08-18T01:54:41Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-18T02:18:52Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 }
