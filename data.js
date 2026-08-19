@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-18T16:44:58Z",
+  "updated": "2026-08-19T01:53:56Z",
   "stories": [
     {
       "stream": "ai",
@@ -5403,6 +5403,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
       "title_key": "scientists designed 16 brand new viruses scratch they hunt superbugs",
       "topic": "AI"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-19",
+      "headline": "A border collie went missing in Oklahoma and turned up 1,000 miles away in North Carolina",
+      "blurb": "Rio, a 10-year-old border collie, vanished from Oklahoma in late July and was found as a stray at a Greensboro, NC shelter, where a microchip scan traced him to owner Melissa Burris. She booked the first flight out and drove him home after a two-week search.",
+      "url": "https://www.wral.com/news/state/homeward-bound-dog-reunited-greensboro-shelter-disappearing-oklahoma-august-2026/",
+      "source": "wral.com",
+      "url_key": "wral.com/news/state/homeward-bound-dog-reunited-greensboro-shelter-disappearing-oklahoma-august-2026",
+      "title_key": "border collie went missing oklahoma turned up 1 000 miles away north carolina",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-19",
+      "headline": "Rewriting a painful childhood memory, on purpose, eased adult fear of failure for months",
+      "blurb": "Researchers at SWPS University and the Nencki Institute had young adults imagine childhood criticism replaced with support, and the fear of failure and stress response it left behind measurably eased. The effect held up months later, published in Frontiers in Psychology.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260815064833.htm",
+      "title_key": "rewriting painful childhood memory purpose eased adult fear failure months",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-19",
+      "headline": "The bacteria that make artisan cheese taste good may also be quietly good for your gut",
+      "blurb": "University of Reading researchers tracked three maturing Oxfordshire cheeses and found their flavor-making microbes carry real probiotic potential, tied to lower inflammation and better cholesterol and appetite regulation. The cheese's fat and protein may even help shield the bacteria on their way to the gut.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044847.htm",
+      "title_key": "bacteria make artisan cheese taste good may also quietly good your gut",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -6140,6 +6176,13 @@ window.NEWS_DATA = {
       "at": "2026-08-18T16:44:58Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-19T01:53:56Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
