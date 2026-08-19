@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-19T12:19:17Z",
+  "updated": "2026-08-19T12:43:51Z",
   "stories": [
     {
       "stream": "ai",
@@ -5583,6 +5583,42 @@ window.NEWS_DATA = {
       "url_key": "qazinform.com/news/japans-tooth-regrowth-breakthrough-moves-closer-to-reality-c6b34a",
       "title_key": "japan s tooth regrowth drug just cleared first human safety test",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-19",
+      "headline": "Physicists just caught 'empty' space doing something Heisenberg predicted 90 years ago",
+      "blurb": "By training NASA's IXPE telescope on an ultra-magnetic neutron star, astrophysicists spotted X-rays polarized far beyond what standard physics allows, the strongest evidence yet that a vacuum isn't truly empty but fizzes with virtual particles, exactly as quantum theory predicted nearly a century ago.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260815065007.htm",
+      "title_key": "physicists just caught empty space doing something heisenberg predicted 90 years ago",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-19",
+      "headline": "Einstein's 'biggest blunder' just got a dramatic twist that could rewrite the universe's story",
+      "blurb": "The cosmological constant Einstein once regretted adding to his equations is back at the center of cosmology, but new dark-energy survey data hints it might not be constant at all, opening the door to a deeper understanding of how the universe evolves.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044835.htm",
+      "title_key": "einstein s biggest blunder just got dramatic twist could rewrite universe s story",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-19",
+      "headline": "Silver nanoparticles just made building custom DNA five times easier",
+      "blurb": "Japanese researchers found that PEG-coated silver nanoparticles can slice DNA into longer, stickier ends, boosting gene-assembly efficiency fivefold and pointing toward faster, cheaper gene therapies, cancer vaccines, and engineered crops.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044842.htm",
+      "title_key": "silver nanoparticles just made building custom dna five times easier",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -6355,6 +6391,13 @@ window.NEWS_DATA = {
       "at": "2026-08-19T12:19:17Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-19T12:43:51Z",
+      "accepted": 3,
+      "rejected": 3
     }
   ]
 };
