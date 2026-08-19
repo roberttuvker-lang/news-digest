@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-19T01:53:56Z",
+  "updated": "2026-08-19T02:18:10Z",
   "stories": [
     {
       "stream": "ai",
@@ -5439,6 +5439,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260816044847.htm",
       "title_key": "bacteria make artisan cheese taste good may also quietly good your gut",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-19",
+      "headline": "A tiny bird with curled-up feet just got a pair of custom casts, made from cardboard and cotton wool",
+      "blurb": "When a whitethroat was struck by a car in Leicestershire and found unable to grip with either foot, wildlife hospital staff improvised tiny casts to hold its feet in place while the nerves healed. Days later, the amber-listed bird is flying again and set for release back into the wild, good as new.",
+      "url": "https://www.goodnewsnetwork.org/threatened-bird-species-given-tiny-foot-casts-to-help-recovery-after-hit-by-car/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/threatened-bird-species-given-tiny-foot-casts-to-help-recovery-after-hit-by-car",
+      "title_key": "tiny bird curled up feet just got pair custom casts made cardboard cotton wool",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-19",
+      "headline": "Boston just laid out a $10 billion plan to keep the sea out of its streets",
+      "blurb": "Boston and the US Army Corps of Engineers have unveiled 20 coastal projects along 16 miles of shoreline, built in stages to match rising seas over the coming decades. The plan aims to spare the city's historic neighborhoods from an estimated $54 billion in flood damage, turning a slow-moving threat into a problem the city is actually solving.",
+      "url": "https://www.goodnewsnetwork.org/boston-aims-to-tackle-100-year-flood-risks-with-10-billion-in-infrastructure-projects/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/boston-aims-to-tackle-100-year-flood-risks-with-10-billion-in-infrastructure-projects",
+      "title_key": "boston just laid out 10 billion plan keep sea out streets",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-19",
+      "headline": "A five-year-old wandered toward a Florida pond, and an entire neighborhood dropped everything",
+      "blurb": "A driver's gut feeling that something was wrong about a blank-faced boy crossing the road set off a chain reaction of neighbors and officers who found him covered in fire ants near a retention pond and got him home safely. Nobody involved hesitated, and a frightening morning ended with a family reunited.",
+      "url": "https://cbs12.com/news/local/port-st-lucie-residents-rescue-autistic-child-retention-pond-preventing-drowning-fire-ants-florida-drownings-retention-pond-water-rescue-body-cam-officers-port-st-lucie-police-department",
+      "source": "cbs12.com",
+      "url_key": "cbs12.com/news/local/port-st-lucie-residents-rescue-autistic-child-retention-pond-preventing-drowning-fire-ants-florida-drownings-retention-pond-water-rescue-body-cam-officers-port-st-lucie-police-department",
+      "title_key": "five year old wandered toward florida pond entire neighborhood dropped everything",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -6183,6 +6219,13 @@
       "at": "2026-08-19T01:53:56Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-19T02:18:10Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 }
