@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-19T07:30:10Z",
+  "updated": "2026-08-19T12:19:17Z",
   "stories": [
     {
       "stream": "ai",
@@ -5547,6 +5547,42 @@
       "url_key": "cbc.ca/news/canada/calgary/grizzly-bear-escapes-enclosure-at-calgary-zoo-9.7309309",
       "title_key": "young grizzly bear scaled fence just see what other side zoo",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-19",
+      "headline": "Physicists just shattered the quantum internet's distance record — by 4x",
+      "blurb": "A team in Hefei entangled two quantum memories across 420 kilometers of ordinary optical fiber, more than quadrupling the previous record, using laser-cooled rubidium atoms nicknamed Alice and Bob. That's the entangling reach a real city-to-city quantum network needs — the unhackable internet just got a lot less theoretical.",
+      "url": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
+      "title_key": "physicists just shattered quantum internet s distance record 4x",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-19",
+      "headline": "Tiny light-powered robots just learned to hunt bacteria one by one",
+      "blurb": "Researchers at the University of Würzburg built nanorobots 50 times smaller than a human hair that steer through liquid on beams of light, executing sharp turns to chase down, grab, and relocate individual bacteria. It's a preview of medicine at the scale of the cell itself — precise cleanup crews smaller than anything we could build before.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044850.htm",
+      "title_key": "tiny light powered robots just learned hunt bacteria one one",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-19",
+      "headline": "Japan's tooth-regrowth drug just cleared its first human safety test",
+      "blurb": "Toregem BioPharma's antibody TRG035, which blocks a protein that normally keeps a hidden third set of teeth dormant, finished Phase 1 in Kyoto with no serious side effects. Phase 2 is funded and starting now, aimed first at children born without teeth — a real path toward regrowing your own instead of an implant.",
+      "url": "https://qazinform.com/news/japans-tooth-regrowth-breakthrough-moves-closer-to-reality-c6b34a",
+      "source": "qazinform.com",
+      "url_key": "qazinform.com/news/japans-tooth-regrowth-breakthrough-moves-closer-to-reality-c6b34a",
+      "title_key": "japan s tooth regrowth drug just cleared first human safety test",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -6312,6 +6348,13 @@
       "at": "2026-08-19T07:30:10Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-19T12:19:17Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
