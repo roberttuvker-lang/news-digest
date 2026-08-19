@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-19T02:18:10Z",
+  "updated": "2026-08-19T07:08:34Z",
   "stories": [
     {
       "stream": "ai",
@@ -5475,6 +5475,42 @@
       "url_key": "cbs12.com/news/local/port-st-lucie-residents-rescue-autistic-child-retention-pond-preventing-drowning-fire-ants-florida-drownings-retention-pond-water-rescue-body-cam-officers-port-st-lucie-police-department",
       "title_key": "five year old wandered toward florida pond entire neighborhood dropped everything",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-19",
+      "headline": "150 corgis stormed a Lithuanian park and it was glorious",
+      "blurb": "Vilnius just hosted its fifth annual Corgi Race, with 150 short-legged competitors from nine countries sprinting, barking, and strutting a costume parade in matching dinosaur suits. An American duo named GG (short for Gustave the Girl Dog) took the 25-meter dash, edging out Mr. Corgington in a photo finish that thousands turned out to watch.",
+      "url": "https://www.nbcnews.com/world/europe/corgi-race-vilnius-rcna592801",
+      "source": "nbcnews.com",
+      "url_key": "nbcnews.com/world/europe/corgi-race-vilnius-rcna592801",
+      "title_key": "150 corgis stormed lithuanian park glorious",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-19",
+      "headline": "A runaway monkey went walkabout in Scotland, then just... came home",
+      "blurb": "Luka, a Japanese macaque, slipped out of Highland Wildlife Park and spent a night wandering the Scottish Highlands, prompting a search with thermal-camera drones. He solved his own case, sauntering back through the gates on his own the next day, no bribery or net required.",
+      "url": "https://www.upi.com/Odd_News/2026/08/18/scotland-Highland-Wildlife-Park-escaped-monkey-returns/9551787069740/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/18/scotland-highland-wildlife-park-escaped-monkey-returns/9551787069740",
+      "title_key": "runaway monkey went walkabout scotland then just came home",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-19",
+      "headline": "Her chihuahua wouldn't stop pawing her arm. It was trying to save her life.",
+      "blurb": "Kristine Richards ignored her dog Flag's odd habit of hitting her armpit for months, until she found a lump underneath and got checked. It turned out to be aggressive breast cancer that had already spread, and Flag's early alert helped catch it in time; she's now cancer-free and he's an honorary town mayor.",
+      "url": "https://www.goodnewsnetwork.org/chihuahua-wont-stop-pawing-at-arm-until-owner-finds-the-breast-cancer/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/chihuahua-wont-stop-pawing-at-arm-until-owner-finds-the-breast-cancer",
+      "title_key": "her chihuahua wouldn t stop pawing her arm trying save her life",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -6226,6 +6262,13 @@
       "at": "2026-08-19T02:18:10Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-19T07:08:34Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
