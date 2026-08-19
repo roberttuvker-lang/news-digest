@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-19T07:08:34Z",
+  "updated": "2026-08-19T07:30:10Z",
   "stories": [
     {
       "stream": "ai",
@@ -5511,6 +5511,42 @@
       "url_key": "goodnewsnetwork.org/chihuahua-wont-stop-pawing-at-arm-until-owner-finds-the-breast-cancer",
       "title_key": "her chihuahua wouldn t stop pawing her arm trying save her life",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-19",
+      "headline": "A jackhammer hit something in a Belgian brewery basement, and it was $10 million in gold",
+      "blurb": "A student on a construction crew in Dendermonde thought the shiny discs under his jackhammer were one-euro coins. They turned out to be 40 gold bars and over 4,000 gold sovereigns, hidden beneath an old brewery for decades.",
+      "url": "https://www.goodnewsnetwork.org/construction-worker-discovers-gold-hoard-after-literally-striking-a-gold-bar-with-his-jackhammer/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/construction-worker-discovers-gold-hoard-after-literally-striking-a-gold-bar-with-his-jackhammer",
+      "title_key": "jackhammer hit something belgian brewery basement 10 million gold",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-19",
+      "headline": "A runaway piglet turned a West Hollywood Saturday into a full-on street chase",
+      "blurb": "A tiny escaped pig darted through alleys, dodged traffic and slipped between a would-be wrangler's legs before finally being caught, delighting hundreds of thousands of TikTok viewers who watched the pursuit unfold.",
+      "url": "https://ktla.com/news/local-news/pig-chased-through-west-hollywood/",
+      "source": "ktla.com",
+      "url_key": "ktla.com/news/local-news/pig-chased-through-west-hollywood",
+      "title_key": "runaway piglet turned west hollywood saturday into full street chase",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-19",
+      "headline": "A young grizzly bear scaled a fence just to see what was on the other side of the zoo",
+      "blurb": "Fitz, a one-year-old grizzly at Calgary Zoo, climbed a three-metre wire fence for an early-morning adventure before guests arrived. He was gently tranquilized and back in his habitat within 90 minutes, no worse for wear.",
+      "url": "https://www.cbc.ca/news/canada/calgary/grizzly-bear-escapes-enclosure-at-calgary-zoo-9.7309309",
+      "source": "cbc.ca",
+      "url_key": "cbc.ca/news/canada/calgary/grizzly-bear-escapes-enclosure-at-calgary-zoo-9.7309309",
+      "title_key": "young grizzly bear scaled fence just see what other side zoo",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -6269,6 +6305,13 @@
       "at": "2026-08-19T07:08:34Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-19T07:30:10Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 }
