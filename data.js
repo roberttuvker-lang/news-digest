@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-20T12:18:39Z",
+  "updated": "2026-08-20T12:42:26Z",
   "stories": [
     {
       "stream": "ai",
@@ -5799,6 +5799,42 @@ window.NEWS_DATA = {
       "url_key": "nature.com/articles/d41586-026-02495-4",
       "title_key": "ai agent just learned vibe code quantum computers",
       "topic": "AI"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-20",
+      "headline": "Astronomers just found a rocky 'mega-Earth' that shouldn't exist",
+      "blurb": "A newly discovered exoplanet, 2.5 times wider than Earth but packing 23 times its mass, is so dense it barely has an atmosphere, upending what scientists thought they knew about how giant rocky worlds form.",
+      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
+      "title_key": "astronomers just found rocky mega earth shouldn t exist",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-20",
+      "headline": "A star just clocked 15,500 miles per second whipping around our galaxy's black hole",
+      "blurb": "Astronomers using the Very Large Telescope Interferometer spotted S301, the fastest and closest star ever seen orbiting Sagittarius A*, a discovery that could let scientists directly measure the black hole's spin for the first time.",
+      "url": "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
+      "title_key": "star just clocked 15 500 miles per second whipping around our galaxy s black hole",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-20",
+      "headline": "Canada just bankrolled the biggest clean energy build in North American history",
+      "blurb": "Ottawa is putting nearly $70 billion behind a hydro and wind expansion in Labrador that will nearly triple Churchill Falls' output, generating 14,000 megawatts of clean power and 23,000 jobs along the way.",
+      "url": "https://qazinform.com/news/canada-unveils-70b-clean-energy-project-the-largest-in-north-american-history-882cdd",
+      "source": "qazinform.com",
+      "url_key": "qazinform.com/news/canada-unveils-70b-clean-energy-project-the-largest-in-north-american-history-882cdd",
+      "title_key": "canada just bankrolled biggest clean energy build north american history",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -6613,6 +6649,13 @@ window.NEWS_DATA = {
       "at": "2026-08-20T12:18:39Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-20T12:42:26Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 };
