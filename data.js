@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-20T07:08:02Z",
+  "updated": "2026-08-20T07:30:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -5727,6 +5727,42 @@ window.NEWS_DATA = {
       "url_key": "goodnewsnetwork.org/tiktoker-showers-doordash-driver-and-fiance-with-wedding-gifts-thanks-to-the-note-he-left-in-the-bag",
       "title_key": "wedding tip note left doordash bag turned into registry full strangers gifts",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-20",
+      "headline": "A lemur went full jailbreak in a Texas neighborhood, and police had to lasso him back",
+      "blurb": "Officers in Belton, Texas got a call for something 'fast, furry, and refusing to cooperate' - a runaway pet lemur on the loose. After a scrambling chase, he was captured and marched straight home, no worse for wear.",
+      "url": "https://www.upi.com/Odd_News/2026/08/19/Belton-Texas-escaped-lemur/6161787154776/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/19/belton-texas-escaped-lemur/6161787154776",
+      "title_key": "lemur went full jailbreak texas neighborhood police had lasso him back",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-20",
+      "headline": "White storks just landed in the English Midlands for the first time since King Henry VI",
+      "blurb": "That's a 600-year absence, ended overnight. A batch of storks is settling into new digs on the River Trent in Derbyshire, part of a rewilding push that already brought beavers back to the same river after 800 years away.",
+      "url": "https://www.goodnewsnetwork.org/white-storks-make-historic-return-to-the-english-midlands-after-600-year-absence/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/white-storks-make-historic-return-to-the-english-midlands-after-600-year-absence",
+      "title_key": "white storks just landed english midlands first time since king henry vi",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-20",
+      "headline": "A Chinese rocket just stuck its landing on legs for the first time ever, and it looked like magic",
+      "blurb": "LandSpace's Zhuque-3 booster fell back from orbit, flipped itself upright, fired its engines, and touched down on solid ground 390 kilometers from launch. It's the first time any Chinese orbital rocket has pulled off a leg landing.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+      "title_key": "chinese rocket just stuck landing legs first time ever looked like magic",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -6527,6 +6563,13 @@ window.NEWS_DATA = {
       "at": "2026-08-20T07:08:02Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-20T07:30:45Z",
+      "accepted": 3,
+      "rejected": 5
     }
   ]
 };
