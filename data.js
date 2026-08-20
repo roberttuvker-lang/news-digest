@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-19T12:43:51Z",
+  "updated": "2026-08-20T01:52:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -5619,6 +5619,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260816044842.htm",
       "title_key": "silver nanoparticles just made building custom dna five times easier",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-20",
+      "headline": "After 15 days lost in a flooded cave, a fisherman is found alive",
+      "blurb": "Erasto Crisanto Valdez vanished into a Mexican cenote while following a fish on July 23 — and survived over two weeks in a dry chamber deep underground on nothing but water and prayer. Specialist cave divers reached him on August 7 and guided him back through the flooded passage to his family.",
+      "url": "https://www.thescubanews.com/2026/08/17/cave-divers-find-fisherman-alive-mexican-cenote/",
+      "source": "thescubanews.com",
+      "url_key": "thescubanews.com/2026/08/17/cave-divers-find-fisherman-alive-mexican-cenote",
+      "title_key": "after 15 days lost flooded cave fisherman found alive",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-20",
+      "headline": "A federal court just shut down commercial fishing in a vast Pacific reserve",
+      "blurb": "A Hawai'i district judge ruled that a bid to open the Pacific Islands Heritage Marine National Monument to commercial fishing violated federal law, voiding the permit letter that allowed it. Fishing across the protected waters around Johnston Atoll, Jarvis Island and Wake Island must stop immediately.",
+      "url": "https://mauinow.com/2025/08/11/commercial-fishing-halted-in-pacific-islands-heritage-marine-national-monument-upon-us-district-court-ruling/",
+      "source": "mauinow.com",
+      "url_key": "mauinow.com/2025/08/11/commercial-fishing-halted-in-pacific-islands-heritage-marine-national-monument-upon-us-district-court-ruling",
+      "title_key": "federal court just shut down commercial fishing vast pacific reserve",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-20",
+      "headline": "Scientists turned a yogurt bacterium into a cancer-fighting drug factory",
+      "blurb": "University of Chicago researchers engineered a common probiotic, Bifidobacterium, to burrow into pancreatic tumors and release an immune-boosting molecule right where it's needed. In animal studies it woke up cancer-fighting T cells and slowed tumor growth, especially alongside existing treatments.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260816044830.htm",
+      "title_key": "scientists turned yogurt bacterium into cancer fighting drug factory",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -6398,6 +6434,13 @@ window.NEWS_DATA = {
       "at": "2026-08-19T12:43:51Z",
       "accepted": 3,
       "rejected": 3
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-20T01:52:08Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
