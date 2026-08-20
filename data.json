@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-20T01:52:08Z",
+  "updated": "2026-08-20T02:18:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -5655,6 +5655,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260816044830.htm",
       "title_key": "scientists turned yogurt bacterium into cancer fighting drug factory",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-20",
+      "headline": "A melanoma vaccine just passed its biggest test yet",
+      "blurb": "Moderna and Merck say their personalized mRNA cancer vaccine, built from a patient's own tumor, cut the risk of melanoma coming back or spreading when paired with standard immunotherapy in a trial of over 1,100 people. It's the first-ever positive late-stage result for an mRNA cancer treatment, a hopeful sign that vaccines tailored to a person's own cancer could become real medicine.",
+      "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/",
+      "source": "statnews.com",
+      "url_key": "statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna",
+      "title_key": "melanoma vaccine just passed biggest test yet",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-20",
+      "headline": "Eight teenagers turned their viral summer into a river cleanup",
+      "blurb": "A group of Idaho teens started an Instagram account just to document a fun summer, but after diving in the Boise River and finding it full of trash, they started hauling it out. Their videos grew a 200,000-strong following, and turned into a genuine, ongoing mission to keep the river clean.",
+      "url": "https://www.sunnyskyz.com/good-news/6284/8-Idaho-Teens-Turn-Their-Viral-Summer-Account-Into-a-Mission-to-Clean-Up-the-Boise-River",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6284/8-idaho-teens-turn-their-viral-summer-account-into-a-mission-to-clean-up-the-boise-river",
+      "title_key": "eight teenagers turned their viral summer into river cleanup",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-20",
+      "headline": "Coral experts pulled off a mass rescue of Florida's last wild corals",
+      "blurb": "Only about 150 elkhorn and 300 staghorn corals are left on Florida's reef, too scattered now to naturally find each other and spawn. So twelve organizations teamed up during this year's spawning event, hand-collecting gametes and creating over 1.5 million coral embryos, which will be raised and returned to the reef within two years.",
+      "url": "https://phys.org/news/2026-08-coral-experts-historic-effort-florida.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-coral-experts-historic-effort-florida.html",
+      "title_key": "coral experts pulled off mass rescue florida s last wild corals",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -6439,6 +6475,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-20T01:52:08Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-20T02:18:45Z",
       "accepted": 3,
       "rejected": 2
     }
