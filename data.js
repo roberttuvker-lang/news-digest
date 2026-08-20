@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-20T02:18:45Z",
+  "updated": "2026-08-20T07:08:02Z",
   "stories": [
     {
       "stream": "ai",
@@ -5691,6 +5691,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-08-coral-experts-historic-effort-florida.html",
       "title_key": "coral experts pulled off mass rescue florida s last wild corals",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-20",
+      "headline": "Zion National Park Just Got Its First-Ever Wheelchair Built for Rock and River",
+      "blurb": "Zion is now the first national park in the country to offer a free, all-terrain wheelchair for public use, letting visitors with mobility challenges roll right up to the canyon's rivers and red rock trails. The rugged 'Extreme Motus' chair has balloon tires built for slickrock and sand, and it's up for grabs first-come, first-served at the visitor center. One more person who couldn't see the canyon before, now can.",
+      "url": "https://www.ksl.com/article/51610594/zion-becomes-first-national-park-to-get-all-terrain-wheelchair-for-public-use",
+      "source": "ksl.com",
+      "url_key": "ksl.com/article/51610594/zion-becomes-first-national-park-to-get-all-terrain-wheelchair-for-public-use",
+      "title_key": "zion national park just got first ever wheelchair built rock river",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-20",
+      "headline": "After 30 Years of Silence, a Single Fuzzy Puffling Just Showed Up on a British Cliff",
+      "blurb": "Volunteers spent 15 weeks watching Dorset's last mainland puffin colony court, mate, and feed chicks in hidden crevices, hoping for a payoff — and a trail camera finally caught it: the first confirmed puffling in three decades. There are only three breeding pairs left on the Purbeck coast, down from 40 in the 1950s, so this one fluffy chick is a genuinely huge deal.",
+      "url": "https://www.nationaltrust.org.uk/services/media/2026/july/first-puffling-sighting-in-three-decades-gives-hope-for-dorsets-dwindling-puffin-colony",
+      "source": "nationaltrust.org.uk",
+      "url_key": "nationaltrust.org.uk/services/media/2026/july/first-puffling-sighting-in-three-decades-gives-hope-for-dorsets-dwindling-puffin-colony",
+      "title_key": "after 30 years silence single fuzzy puffling just showed up british cliff",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-20",
+      "headline": "A Wedding Tip Note Left in a DoorDash Bag Turned Into a Registry Full of Strangers' Gifts",
+      "blurb": "A delivery driver scrawled 'your tip is helping make our wedding possible' in a bag dropped off for a TikTok creator with millions of followers, so she went full internet-detective, tracked down the couple's registry, and quietly filled it with gifts. Hope and Tyler had no idea their little note would boomerang back as an entire wedding's worth of kindness.",
+      "url": "https://www.goodnewsnetwork.org/tiktoker-showers-doordash-driver-and-fiance-with-wedding-gifts-thanks-to-the-note-he-left-in-the-bag/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/tiktoker-showers-doordash-driver-and-fiance-with-wedding-gifts-thanks-to-the-note-he-left-in-the-bag",
+      "title_key": "wedding tip note left doordash bag turned into registry full strangers gifts",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -6482,6 +6518,13 @@ window.NEWS_DATA = {
       "run": "local-morning-0515",
       "stream": "morning",
       "at": "2026-08-20T02:18:45Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-20T07:08:02Z",
       "accepted": 3,
       "rejected": 2
     }
