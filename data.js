@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-20T07:30:45Z",
+  "updated": "2026-08-20T12:18:39Z",
   "stories": [
     {
       "stream": "ai",
@@ -5763,6 +5763,42 @@ window.NEWS_DATA = {
       "url_key": "space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
       "title_key": "chinese rocket just stuck landing legs first time ever looked like magic",
       "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-20",
+      "headline": "A Frenchwoman just made history 250 miles above Earth",
+      "blurb": "On August 18, ESA astronaut Sophie Adenot became the first French woman ever to step outside the International Space Station, spending over six hours working alongside NASA's Anil Menon to replace a failed communications antenna. It's another marker of how routine — and how international — living and working in orbit has become.",
+      "url": "https://phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html",
+      "title_key": "frenchwoman just made history 250 miles above earth",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-20",
+      "headline": "Scientists just caught evolution rewriting how babies are born",
+      "blurb": "Researchers at the University of Glasgow reconstructed, gene by gene, how a lizard species is shifting from laying eggs to live birth — not through one dramatic leap but thousands of small genetic changes accumulating in real time. Because both reproductive modes still exist side by side in the same species, it's a rare live window into the same evolutionary transition that once produced mammals.",
+      "url": "https://phys.org/news/2026-08-evolutionary-birth-lizards-uncovered.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-evolutionary-birth-lizards-uncovered.html",
+      "title_key": "scientists just caught evolution rewriting how babies are born",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-20",
+      "headline": "An AI agent just learned to 'vibe code' quantum computers",
+      "blurb": "A new tool from Paris quantum startup Pasqal turns plain-English prompts into working quantum code and runs it autonomously on real quantum hardware, collapsing a process that used to demand years of specialized training. It won't replace physicists yet, but it's putting quantum computing's steepest learning curve within reach of far more researchers.",
+      "url": "https://www.nature.com/articles/d41586-026-02495-4",
+      "source": "nature.com",
+      "url_key": "nature.com/articles/d41586-026-02495-4",
+      "title_key": "ai agent just learned vibe code quantum computers",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -6570,6 +6606,13 @@ window.NEWS_DATA = {
       "at": "2026-08-20T07:30:45Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-20T12:18:39Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
