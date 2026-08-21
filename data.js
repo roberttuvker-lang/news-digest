@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-21T12:20:58Z",
+  "updated": "2026-08-21T12:41:51Z",
   "stories": [
     {
       "stream": "ai",
@@ -5943,6 +5943,30 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260819041237.htm",
       "title_key": "honeybees been quietly solving their own nutrition crisis scientists just figured out how",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-21",
+      "headline": "Solar power just blew past 3 terawatts worldwide, and the pace is accelerating",
+      "blurb": "Global solar capacity has now topped 3 terawatts, with each successive terawatt arriving faster than the last, the jump from 2TW to 3TW took under two years. Growth is spreading well beyond China and wealthy nations too, with Pakistan, Nigeria, the Philippines and Cuba all ramping up fast, and forecasters now expect 9 terawatts by 2036.",
+      "url": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/",
+      "source": "cleantechnica.com",
+      "url_key": "cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker",
+      "title_key": "solar power just blew past 3 terawatts worldwide pace accelerating",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-21",
+      "headline": "Physicists just got time crystals to sync up across distances 1,000 times bigger than expected",
+      "blurb": "Researchers built time crystals in a semiconductor that spontaneously fell into rhythm with each other from 40 micrometers apart, a real-world echo of Christiaan Huygens' 17th-century pendulum clocks, but happening at the quantum level. The synchronization could become the foundation for networks of spin-based oscillators powering future quantum technology.",
+      "url": "https://phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
+      "title_key": "physicists just got time crystals sync up across distances 1 000 times bigger than expected",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -6785,6 +6809,13 @@ window.NEWS_DATA = {
       "at": "2026-08-21T12:20:58Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-21T12:41:51Z",
+      "accepted": 2,
+      "rejected": 5
     }
   ]
 };
