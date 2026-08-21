@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T07:09:13Z",
+  "updated": "2026-08-21T12:20:58Z",
   "stories": [
     {
       "stream": "ai",
@@ -5907,6 +5907,42 @@
       "url_key": "upi.com/odd_news/2026/08/18/african-serval-grundy-county-animal-control-illinois/2741787074668",
       "title_key": "escaped pet serval turned illinois county into real life safari happy ending",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-21",
+      "headline": "The FDA just approved the first gene therapy that cures the cause, not just the symptom, of a rare metabolic disease",
+      "blurb": "Ultragenyx's Genglycos is a one-time gene therapy for glycogen storage disease type Ia, and it works by fixing the underlying enzyme defect instead of just managing it with round-the-clock cornstarch dosing. Patients in trials cut their daily cornstarch dependence dramatically — a real shot at a normal life for people who've had to eat on a clock since childhood.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/19/3348019/20739/en/ultragenyx-announces-u-s-fda-approval-of-genglycos-gene-therapy-the-first-ever-fda-approved-treatment-designed-to-treat-the-underlying-cause-of-glycogen-storage-disease-type-ia-gsd.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/08/19/3348019/20739/en/ultragenyx-announces-u-s-fda-approval-of-genglycos-gene-therapy-the-first-ever-fda-approved-treatment-designed-to-treat-the-underlying-cause-of-glycogen-storage-disease-type-ia-gsd.html",
+      "title_key": "fda just approved first gene therapy cures cause not just symptom rare metabolic disease",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-21",
+      "headline": "Scientists just melted diamond under pressure three times fiercer than Earth's core, and solved a 20-year physics mystery",
+      "blurb": "At Lawrence Livermore's Omega laser facility, researchers finally nailed down exactly how diamond behaves as it melts under crushing pressure, ending a two-decade gap between theory and experiment. The payoff is bigger than trivia: the same physics could help push fusion reactions toward triple their current energy gain, while also showing us how diamond rain falls inside Neptune and Uranus.",
+      "url": "https://www.llnl.gov/article/54801/melting-diamond-could-unlock-triple-fusion-gain-secrets-ice-giant-planets",
+      "source": "llnl.gov",
+      "url_key": "llnl.gov/article/54801/melting-diamond-could-unlock-triple-fusion-gain-secrets-ice-giant-planets",
+      "title_key": "scientists just melted diamond under pressure three times fiercer than earth s core solved 20 year physics mystery",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-21",
+      "headline": "Honeybees have been quietly solving their own nutrition crisis, and scientists just figured out how",
+      "blurb": "Pollen often doesn't give bees the balanced diet they need, but researchers found colonies compensate by blending pollen from different plants and processing it through nurse bees to correct the mix. Understanding the trick opens the door to better bee nutrition support just as pollinators face mounting pressure — good news with a direct line to the food on our tables.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260819041237.htm",
+      "title_key": "honeybees been quietly solving their own nutrition crisis scientists just figured out how",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -6740,6 +6776,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-21T07:09:13Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-21T12:20:58Z",
       "accepted": 3,
       "rejected": 2
     }
