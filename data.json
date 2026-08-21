@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T01:54:54Z",
+  "updated": "2026-08-21T07:09:13Z",
   "stories": [
     {
       "stream": "ai",
@@ -5871,6 +5871,42 @@
       "url_key": "cnn.com/science/new-species-angola-the-wilderness-project-spc-c2e-intl",
       "title_key": "scientists just found dozens species new science remote african plateau",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-21",
+      "headline": "The Grand Canyon's 'missing' billion years might finally be found — a thousand miles wide",
+      "blurb": "Geologists just uncovered evidence of a colossal ancient cliff — far bigger than anything on Earth today — that sliced across the ancient American West when the supercontinent Rodinia broke apart 800 million years ago. It may have quietly shaved away a billion years of rock, solving one of geology's oldest 'who ate my strata' mysteries. The canyon just got its backstory.",
+      "url": "https://phys.org/news/2026-08-lost-mega-escarpment-ancient-usa.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-lost-mega-escarpment-ancient-usa.html",
+      "title_key": "grand canyon s missing billion years might finally found thousand miles wide",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-21",
+      "headline": "A golden retriever survived 72 days alone in the wilderness, then won an award for it",
+      "blurb": "Milo Bear bolted from his family's car on Christmas Day near Lake Tahoe and vanished up a ski trail — then spent 72 days living wild in the mountains before a shelter scanned his microchip. He came home skinny but otherwise unscathed, and just took home the 2026 Hambone Award for the year's most unbelievable pet story. Good boy. Incredible boy.",
+      "url": "https://www.upi.com/Odd_News/2026/08/20/Hambone-Award-Nationwide-golden-retriever-Lake-Tahoe/8851787249472/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/20/hambone-award-nationwide-golden-retriever-lake-tahoe/8851787249472",
+      "title_key": "golden retriever survived 72 days alone wilderness then won award",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-21",
+      "headline": "An escaped pet serval turned an Illinois county into a real-life safari — with a happy ending",
+      "blurb": "Helios, a house cat's much wilder African cousin, gave animal control the slip for nearly a month after escaping in rural Illinois. His own owner ended up walking right up and slipping a lead on him, and he's now home safe with nothing worse than a sore leg. Grundy County can go back to worrying about raccoons.",
+      "url": "https://www.upi.com/Odd_News/2026/08/18/African-serval-Grundy-County-Animal-Control-Illinois/2741787074668/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/18/african-serval-grundy-county-animal-control-illinois/2741787074668",
+      "title_key": "escaped pet serval turned illinois county into real life safari happy ending",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -6697,6 +6733,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-21T01:54:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-21T07:09:13Z",
       "accepted": 3,
       "rejected": 2
     }
