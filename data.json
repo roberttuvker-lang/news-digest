@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-20T12:42:26Z",
+  "updated": "2026-08-21T01:54:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -5835,6 +5835,42 @@
       "url_key": "qazinform.com/news/canada-unveils-70b-clean-energy-project-the-largest-in-north-american-history-882cdd",
       "title_key": "canada just bankrolled biggest clean energy build north american history",
       "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-21",
+      "headline": "A 16-year-old rookie lifeguard pulled a drowning boy out of a California rip current",
+      "blurb": "Ryder Williams had only just started the job when he spotted 10-year-old Nathaniel Rai being swept out by huge waves off Santa Cruz, and swam straight in after him. He got the boy to shore safely, and the two have since been celebrated as the kind of quiet heroism that shows up exactly when it's needed.",
+      "url": "https://www.goodnewsnetwork.org/16-yo-rookie-lifeguard-leads-heroic-ocean-rescue-with-viral-video-of-harrowing-effort/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/16-yo-rookie-lifeguard-leads-heroic-ocean-rescue-with-viral-video-of-harrowing-effort",
+      "title_key": "16 year old rookie lifeguard pulled drowning boy out california rip current",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-21",
+      "headline": "58 rescued wild animals just went home to a Philippine forest",
+      "blurb": "After months of rehabilitation, the Philippines' environment department released 58 endemic animals, including pythons, eagles and monitor lizards, back into the Quezon Protected Landscape this month. Every one of them had been recovered and nursed back to health before this homecoming.",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998489/denr-58-endemic-native-wildlife-animals-released-back-into-the-wild/story/",
+      "source": "gmanetwork.com",
+      "url_key": "gmanetwork.com/news/topstories/nation/998489/denr-58-endemic-native-wildlife-animals-released-back-into-the-wild/story",
+      "title_key": "58 rescued wild animals just went home philippine forest",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-21",
+      "headline": "Scientists just found dozens of species new to science on a remote African plateau",
+      "blurb": "An expedition to Angola's untouched Lisima plateau turned up eight new dragonflies, three new grasshoppers, around 60 new moths and butterflies, and even a spider with glowing blue markings. It's a reminder that whole pockets of the planet are still waiting to be properly seen.",
+      "url": "https://www.cnn.com/science/new-species-angola-the-wilderness-project-spc-c2e-intl",
+      "source": "cnn.com",
+      "url_key": "cnn.com/science/new-species-angola-the-wilderness-project-spc-c2e-intl",
+      "title_key": "scientists just found dozens species new science remote african plateau",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -6656,6 +6692,13 @@
       "at": "2026-08-20T12:42:26Z",
       "accepted": 3,
       "rejected": 5
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-21T01:54:54Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
