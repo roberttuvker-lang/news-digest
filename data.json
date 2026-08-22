@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T12:41:51Z",
+  "updated": "2026-08-22T01:53:34Z",
   "stories": [
     {
       "stream": "ai",
@@ -5967,6 +5967,42 @@
       "url_key": "phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
       "title_key": "physicists just got time crystals sync up across distances 1 000 times bigger than expected",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-22",
+      "headline": "Olivia Rodrigo quietly paid a stranger's way through college",
+      "blurb": "Pop star Olivia Rodrigo secretly wired $5,000 to University of Alabama senior Jamie Causey after seeing her worry online about affording her final semester. Causey kept the gift secret for over a year, and just graduated debt-free with a degree in public relations.",
+      "url": "https://consequence.net/2026/08/olivia-rodrigo-paid-fan-college-tuition/",
+      "source": "consequence.net",
+      "url_key": "consequence.net/2026/08/olivia-rodrigo-paid-fan-college-tuition",
+      "title_key": "olivia rodrigo quietly paid stranger s way through college",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-22",
+      "headline": "A mother and son crossed the graduation stage together",
+      "blurb": "Lissette Garcia started her degree in 2018, her son Jason picked his up in 2023, and this month the two walked across the same University of Maryland Global Campus stage on the very same day. \"To walk the stage with my son, it's just so great,\" Lissette said.",
+      "url": "https://www.cbsnews.com/baltimore/news/maryland-mother-son-graduate-together-umgc/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/baltimore/news/maryland-mother-son-graduate-together-umgc",
+      "title_key": "mother son crossed graduation stage together",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-22",
+      "headline": "A noisy neighbor turned into the granddaughter she never had",
+      "blurb": "Heidi Widmer went upstairs to complain about the racket from her 86-year-old neighbor Carole's walker, and found a woman with Parkinson's living alone with no family nearby. Heidi now helps her cook, clean, and navigate paperwork, and their friendship has drawn over $50,000 in support from strangers online.",
+      "url": "https://abc7.com/post/culver-city-woman-heidi-widmers-kindness-carole-neighbor-need-captures-millions-hearts-online/19700370/",
+      "source": "abc7.com",
+      "url_key": "abc7.com/post/culver-city-woman-heidi-widmers-kindness-carole-neighbor-need-captures-millions-hearts-online/19700370",
+      "title_key": "noisy neighbor turned into granddaughter she never had",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -6816,6 +6852,13 @@
       "at": "2026-08-21T12:41:51Z",
       "accepted": 2,
       "rejected": 5
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-22T01:53:34Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
