@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T01:53:34Z",
+  "updated": "2026-08-22T02:20:03Z",
   "stories": [
     {
       "stream": "ai",
@@ -6003,6 +6003,42 @@
       "url_key": "abc7.com/post/culver-city-woman-heidi-widmers-kindness-carole-neighbor-need-captures-millions-hearts-online/19700370",
       "title_key": "noisy neighbor turned into granddaughter she never had",
       "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-22",
+      "headline": "Two lifelong friends just found out they'd been sisters all along",
+      "blurb": "Meena Geltink and Minal Tijssen met as teenagers in the Netherlands and felt an instant bond, calling each other 'sis' as a joke. Fifteen years after losing touch, a DNA test came back with a 100% sibling match: both had been adopted from Indian orphanages as infants and raised 100 miles apart. This week they hugged, cried and took selfies together in person, sisters for real at last.",
+      "url": "https://www.unilad.com/news/us-news/meena-geltink-minal-tijssen-sisters-dna-test-netherlands-174767-20260813",
+      "source": "unilad.com",
+      "url_key": "unilad.com/news/us-news/meena-geltink-minal-tijssen-sisters-dna-test-netherlands-174767-20260813",
+      "title_key": "two lifelong friends just found out they d been sisters all along",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-22",
+      "headline": "She expected an empty house. She got a home, filled with love in three hours flat",
+      "blurb": "After completing over 300 hours of volunteer work through Habitat for Humanity, Carla Hamilton of Palm Beach County thought she was picking up the keys to a bare new house. Instead, 31 volunteers had spent the morning quietly filling every room with furniture and personal touches picked just for her, right down to song lyrics on the walls.",
+      "url": "https://www.wflx.com/2026/08/20/palm-beach-county-homeowner-surprised-with-fully-furnished-habitat-humanity-home/",
+      "source": "wflx.com",
+      "url_key": "wflx.com/2026/08/20/palm-beach-county-homeowner-surprised-with-fully-furnished-habitat-humanity-home",
+      "title_key": "she expected empty house she got home filled love three hours flat",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "local-morning-0515",
+      "date": "2026-08-22",
+      "headline": "A veteran's new home is about to be built in full view of the whole country",
+      "blurb": "Purple Heart Homes is bringing its mission to the National Mall this fall, building a fully accessible modular home over seven public days as part of America's 250th anniversary. When the sawdust settles, the finished house will travel to Glasgow, Virginia, to give a housing-insecure veteran a safe place to call their own.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/17/3346261/0/en/purple-heart-homes-launches-historic-national-mall-veteran-home-build-during-america-s-250th-anniversary.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/08/17/3346261/0/en/purple-heart-homes-launches-historic-national-mall-veteran-home-build-during-america-s-250th-anniversary.html",
+      "title_key": "veteran s new home about built full view whole country",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -6859,6 +6895,13 @@
       "at": "2026-08-22T01:53:34Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-morning-0515",
+      "stream": "morning",
+      "at": "2026-08-22T02:20:03Z",
+      "accepted": 3,
+      "rejected": 4
     }
   ]
 }
