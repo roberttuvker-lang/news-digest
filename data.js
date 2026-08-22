@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-22T02:20:03Z",
+  "updated": "2026-08-22T07:07:49Z",
   "stories": [
     {
       "stream": "ai",
@@ -6039,6 +6039,42 @@ window.NEWS_DATA = {
       "url_key": "globenewswire.com/news-release/2026/08/17/3346261/0/en/purple-heart-homes-launches-historic-national-mall-veteran-home-build-during-america-s-250th-anniversary.html",
       "title_key": "veteran s new home about built full view whole country",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-22",
+      "headline": "A 450-million-year-old sea creature just showed us its feet — and they're perfect",
+      "blurb": "Paleontologists cracked open a fossil older than the dinosaurs and found something that almost never survives: soft, squishy tube feet, still intact after 450 million years. Scientists are calling it a 'one in a million' find — nature basically left us a snapshot of prehistoric life mid-stride.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820002450.htm",
+      "title_key": "450 million year old sea creature just showed us feet they re perfect",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-22",
+      "headline": "SpaceX just blew past 100 launches for the year — and it's not even September",
+      "blurb": "For the third year running, SpaceX hit the 100-launch mark, but this time two months faster than ever before. A company that managed 25 launches total back in 2020 is now lifting off more than three times a week — rockets are basically catching buses now.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+      "title_key": "spacex just blew past 100 launches year s not even september",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-22",
+      "headline": "Boiling water and dying magnets are secretly following the same rulebook",
+      "blurb": "Physicists just confirmed that wildly different materials — from water hitting a boil to magnets losing their pull — snap into the exact same mathematical pattern the instant they change phase. It's called universality, and it means the universe has a few beautifully simple rules hiding under all its chaos.",
+      "url": "https://phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
+      "title_key": "boiling water dying magnets are secretly following same rulebook",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -6902,6 +6938,13 @@ window.NEWS_DATA = {
       "at": "2026-08-22T02:20:03Z",
       "accepted": 3,
       "rejected": 4
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-22T07:07:49Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
