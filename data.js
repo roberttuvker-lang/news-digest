@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-22T07:07:49Z",
+  "updated": "2026-08-22T07:30:53Z",
   "stories": [
     {
       "stream": "ai",
@@ -6075,6 +6075,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
       "title_key": "boiling water dying magnets are secretly following same rulebook",
       "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-22",
+      "headline": "An otter just showed up in the Bronx River for the first time in 100 years",
+      "blurb": "A motion-activated camera caught a juvenile river otter paddling through the Bronx River, the first sighting there in a century. Otters only show up where the water's clean, so this splashy cameo means decades of river cleanup work is actually paying off.",
+      "url": "https://www.cbsnews.com/newyork/news/otter-seen-bronx-river-nyc/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/newyork/news/otter-seen-bronx-river-nyc",
+      "title_key": "otter just showed up bronx river first time 100 years",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-22",
+      "headline": "20 tons of squid spilled across a Rhode Island road and shut it down for 8 hours",
+      "blurb": "A tractor-trailer flipped in Narragansett and unloaded a genuinely absurd amount of squid onto the intersection of Point Judith and Galilee Escape roads. Crews spent the day scraping up what locals are now calling the 'Squidpocalypse of '26.'",
+      "url": "https://www.upi.com/Odd_News/2026/08/19/squid-spill-Narragansett-Rhode-Island/7401787155685/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/19/squid-spill-narragansett-rhode-island/7401787155685",
+      "title_key": "20 tons squid spilled across rhode island road shut down 8 hours",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "local-midday-1027",
+      "date": "2026-08-22",
+      "headline": "A 2,200-year-old Roman shipwreck just gave up its waterproofing recipe",
+      "blurb": "Scientists cracked open the sticky coating on an ancient shipwreck off Croatia and found pine tar, beeswax, and a Greek-style adhesive called zopissa, plus pollen trapped inside that hints at exactly where the repairs were made. Turns out Roman shipbuilders were basically running a 2,000-year-old waterproofing lab.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820202907.htm",
+      "title_key": "2 200 year old roman shipwreck just gave up waterproofing recipe",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -6945,6 +6981,13 @@ window.NEWS_DATA = {
       "at": "2026-08-22T07:07:49Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-midday-1027",
+      "stream": "midday",
+      "at": "2026-08-22T07:30:53Z",
+      "accepted": 3,
+      "rejected": 7
     }
   ]
 };
