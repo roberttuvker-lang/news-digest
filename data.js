@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-22T07:30:53Z",
+  "updated": "2026-08-22T12:17:11Z",
   "stories": [
     {
       "stream": "ai",
@@ -6111,6 +6111,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260820202907.htm",
       "title_key": "2 200 year old roman shipwreck just gave up waterproofing recipe",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-22",
+      "headline": "A simple at-home test just proved it can cut colorectal cancer deaths by 43%",
+      "blurb": "A 14-year study of over 376,000 people in Sweden found that those who actually did their at-home stool screening test slashed their risk of dying from colorectal cancer by 43%. One of medicine's simplest tools, taken seriously, is saving lives at massive scale.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820202833.htm",
+      "title_key": "simple home test just proved can cut colorectal cancer deaths 43",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-22",
+      "headline": "Physicists just cracked a decades-old nuclear mystery — and it explains how stars forge gold",
+      "blurb": "An international team pinned down why atomic nuclei emit bursts of mysterious low-energy gamma rays, tracing it to hidden magnetism inside the nucleus. The find sharpens our models of exactly how supernovae and neutron-star collisions build the universe's heavy elements.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820202849.htm",
+      "title_key": "physicists just cracked decades old nuclear mystery explains how stars forge gold",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-22",
+      "headline": "AI can now tell if your vaccine will actually work — before you even get the shot",
+      "blurb": "Researchers fed AI the antibody 'fingerprints' of over 4,000 people and found it could predict who'd mount a strong vaccine response and who wouldn't, no genetic testing required. A fast, practical step toward vaccines tuned to each immune system instead of one-size-fits-all.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820202842.htm",
+      "title_key": "ai can now tell if your vaccine will actually work before you even get shot",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -6988,6 +7024,13 @@ window.NEWS_DATA = {
       "at": "2026-08-22T07:30:53Z",
       "accepted": 3,
       "rejected": 7
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-22T12:17:11Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
