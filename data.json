@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T12:17:11Z",
+  "updated": "2026-08-22T12:43:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -6147,6 +6147,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260820202842.htm",
       "title_key": "ai can now tell if your vaccine will actually work before you even get shot",
       "topic": "AI"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-22",
+      "headline": "Scientists just proposed rewriting the entire human family tree",
+      "blurb": "Researchers argue our fossil ancestors Australopithecus and Paranthropus belong inside our own genus, Homo, after new fossils blurred the old dividing lines. It's a bigger, more honest picture of where we came from - and it keeps rewriting itself as we learn more.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260820002413.htm",
+      "title_key": "scientists just proposed rewriting entire human family tree",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-22",
+      "headline": "A tiny satellite is about to eavesdrop on the universe's first whispers, from behind the Moon",
+      "blurb": "The UK-built CosmoCube will hide behind the far side of the Moon to catch a 13.5-billion-year-old radio signal from hydrogen atoms, using lunar rock as a shield against Earth's noise. It could finally reveal what happened before the very first stars switched on.",
+      "url": "https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
+      "title_key": "tiny satellite about eavesdrop universe s first whispers behind moon",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "local-afternoon-1539",
+      "date": "2026-08-22",
+      "headline": "A federal judge just saved a wild Alaskan refuge from a road, weeks before bulldozers were due",
+      "blurb": "A court threw out a backroom land swap that would have carved an 18.9-mile road straight through the Izembek National Wildlife Refuge's wetlands and migratory bird habitat. Construction crews were literally staged and ready to go - now the wilderness stays wild.",
+      "url": "https://alaskapublic.org/news/environment/2026-08-19/federal-judge-throws-out-land-swap-weeks-before-construction-was-set-to-start-on-cold-bay-road",
+      "source": "alaskapublic.org",
+      "url_key": "alaskapublic.org/news/environment/2026-08-19/federal-judge-throws-out-land-swap-weeks-before-construction-was-set-to-start-on-cold-bay-road",
+      "title_key": "federal judge just saved wild alaskan refuge road weeks before bulldozers due",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -7031,6 +7067,13 @@
       "at": "2026-08-22T12:17:11Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "local-afternoon-1539",
+      "stream": "afternoon",
+      "at": "2026-08-22T12:43:15Z",
+      "accepted": 3,
+      "rejected": 3
     }
   ]
 }
