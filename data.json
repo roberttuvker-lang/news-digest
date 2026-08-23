@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T07:06:09Z",
+  "updated": "2026-08-23T12:16:38Z",
   "stories": [
     {
       "stream": "ai",
@@ -6322,6 +6322,42 @@
       "url_key": "bloomberg.com/news/articles/2026-08-04/nyc-rat-sightings-fall-22-in-2026-with-more-trash-off-the-streets",
       "title_key": "new york city s rats are officially losing war",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-23",
+      "headline": "James Webb just found the universe's first galaxies are secretly way bigger than we thought",
+      "blurb": "New JWST spectra revealed a hidden population of small, faint stars in the earliest known galaxies, making some of them up to four times more massive than previous estimates. It means the universe was building enormous structures even faster and earlier than our best models predicted — and we're only now getting sharp enough eyes to see them.",
+      "url": "https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html",
+      "title_key": "james webb just found universe s first galaxies are secretly way bigger than we thought",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-23",
+      "headline": "Scientists just found a way to turn the ocean's carbon dioxide into stone",
+      "blurb": "Researchers at KAIST and MIT built a compact electrochemical device that pulls dissolved CO2 straight out of seawater and locks it away as solid calcium carbonate — permanently. Because the ocean absorbs about a third of humanity's carbon emissions, freeing it up to soak in more is one of the most scalable climate wins on the table, and the device is small enough to bolt onto ships.",
+      "url": "https://phys.org/news/2026-08-marine-carbon-technology-dioxide-seawater.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-08-marine-carbon-technology-dioxide-seawater.html",
+      "title_key": "scientists just found way turn ocean s carbon dioxide into stone",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-23",
+      "headline": "Speaking four languages could make your brain act 13 years younger",
+      "blurb": "A new study using AI-estimated 'brain age' found the effect scales with every extra language: bilingual brains looked six years younger, and people fluent in four languages looked a startling 13 years younger than monolinguals. It's some of the best evidence yet that a skill anyone can pick up at any age meaningfully protects the aging brain.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260821012226.htm",
+      "title_key": "speaking four languages could make your brain act 13 years younger",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -7225,6 +7261,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-23T07:06:09Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-23T12:16:38Z",
       "accepted": 3,
       "rejected": 2
     }
