@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-22T12:43:15Z",
+  "updated": "2026-08-23T01:54:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -6183,6 +6183,109 @@ window.NEWS_DATA = {
       "url_key": "alaskapublic.org/news/environment/2026-08-19/federal-judge-throws-out-land-swap-weeks-before-construction-was-set-to-start-on-cold-bay-road",
       "title_key": "federal judge just saved wild alaskan refuge road weeks before bulldozers due",
       "topic": "Environment"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "⚠ ACTION NEEDED — Red heat warning in Israel: up to 47°C through today",
+      "blurb": "The Israel Meteorological Service and Ministry of Health issued a red heat warning for the Jordan Valley, Sea of Galilee and Judean Desert areas, with temperatures peaking near 47°C (117°F) this weekend and elevated wildfire risk. Limit sun exposure and exertion, drink water often, stay in air-conditioned spaces, and never leave children, the elderly or pets in a parked car.",
+      "url": "https://ims.gov.il/en/IMSwarnings",
+      "source": "ims.gov.il",
+      "url_key": "ims.gov.il/en/imswarnings",
+      "title_key": "action needed red heat warning israel up 47 c through today",
+      "topic": "Health"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Anthropic posts a frontier-AI first: a profitable quarter",
+      "blurb": "Anthropic reported $11.5B in Q2 2026 revenue and its first positive operating income, a milestone no frontier AI lab had hit before. Analysts flag a temporary compute-deal discount behind part of the number; full-year profitability isn't guaranteed.",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
+      "source": "forbes.com",
+      "url_key": "forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue",
+      "title_key": "anthropic posts frontier ai first profitable quarter",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Anthropic freezes Sonnet 5 pricing, scraps the September hike",
+      "blurb": "Claude Sonnet 5's $2/$10-per-million-token pricing is now permanent — Anthropic cancelled the planned 50% increase to $3/$15 set for September 1, citing competitive pressure from OpenAI's GPT-5.6.",
+      "url": "https://enterprisedna.co/resources/news/anthropic-claude-sonnet-5-pricing-permanent-reversal-august-2026/",
+      "source": "enterprisedna.co",
+      "url_key": "enterprisedna.co/resources/news/anthropic-claude-sonnet-5-pricing-permanent-reversal-august-2026",
+      "title_key": "anthropic freezes sonnet 5 pricing scraps september hike",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Apple rejects OpenAI's bid to toss its trade-secrets suit",
+      "blurb": "Apple urged a judge to reject OpenAI's motion to dismiss its lawsuit over two ex-Apple hires, calling OpenAI's defense 'distortion, speculation, and improper evidence.' Arguments are set for October 1.",
+      "url": "https://9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation/",
+      "source": "9to5mac.com",
+      "url_key": "9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation",
+      "title_key": "apple rejects openai s bid toss trade secrets suit",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Etched doubles to a $21B valuation in a month",
+      "blurb": "AI-inference-chip startup Etched raised $700M led by trading firm Jane Street, which stress-tested the hardware and bought a rack before leading the round. The company has now booked over $1B in orders.",
+      "url": "https://techfundingnews.com/etched-raises-700m-21b-valuation-jane-street/",
+      "source": "techfundingnews.com",
+      "url_key": "techfundingnews.com/etched-raises-700m-21b-valuation-jane-street",
+      "title_key": "etched doubles 21b valuation month",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Higgsfield quadruples its valuation to $5.4B in 8 months",
+      "blurb": "AI video and image platform Higgsfield closed a $400M Series B led by DST Global, with annualized revenue jumping to $700M as it powers visual production for 390 Fortune 500 companies.",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b",
+      "title_key": "higgsfield quadruples valuation 5 4b 8 months",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Z.AI ships GLM-5.2 Turbo, undercutting GPT-5.5 on cost",
+      "blurb": "Chinese lab Z.AI released GLM-5.2 Turbo, a faster, cheaper variant of its open-weight flagship model that reportedly beats GPT-5.5 on several benchmarks at a fraction of the price.",
+      "url": "https://benchlm.ai/models/glm-5-2",
+      "source": "benchlm.ai",
+      "url_key": "benchlm.ai/models/glm-5-2",
+      "title_key": "z ai ships glm 5 2 turbo undercutting gpt 5 5 cost",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-23",
+      "headline": "Cloudflare builds a browser just for AI agents",
+      "blurb": "Cloudflare launched Kitesurf, a browser runtime for AI agents that strips out human-facing features and uses 3–7x less CPU and memory than Chromium for tasks like page extraction and screenshots.",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "source": "blog.cloudflare.com",
+      "url_key": "blog.cloudflare.com/kitesurf",
+      "title_key": "cloudflare builds browser just ai agents",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -7074,6 +7177,13 @@ window.NEWS_DATA = {
       "at": "2026-08-22T12:43:15Z",
       "accepted": 3,
       "rejected": 3
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-08-23T01:54:45Z",
+      "accepted": 8,
+      "rejected": 2
     }
   ]
 };
