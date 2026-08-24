@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-24T07:24:58Z",
+  "updated": "2026-08-24T12:17:19Z",
   "stories": [
     {
       "stream": "ai",
@@ -6430,6 +6430,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260822015208.htm",
       "title_key": "nobody planted thing nature turned dead field into orchid meadow anyway",
       "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-24",
+      "headline": "AI just cracked the hidden 'on switch' behind 60% of human genes",
+      "blurb": "UC San Diego scientists trained an AI model on half a million DNA sequences and decoded the exact signature of the 'initiator' — the spot where genes first flip on. It's a foundational win that could let researchers predict harmful mutations and even design custom gene switches, pushing precision medicine a big step closer.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823014943.htm",
+      "title_key": "ai just cracked hidden switch behind 60 human genes",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-24",
+      "headline": "NASA's next great observatory is nine months ahead of schedule and about to fly",
+      "blurb": "The Nancy Grace Roman Space Telescope just passed its Flight Readiness Review and is set to launch August 30 on a Falcon Heavy — with a Hubble-sized mirror but a field of view 100 times wider, built to map dark energy and hunt new worlds. Getting there early is rare for a flagship mission, and it means the discoveries start sooner.",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/21/teams-complete-flight-readiness-review-for-nasas-roman-telescope/",
+      "source": "science.nasa.gov",
+      "url_key": "science.nasa.gov/blogs/roman/2026/08/21/teams-complete-flight-readiness-review-for-nasas-roman-telescope",
+      "title_key": "nasa s next great observatory nine months ahead schedule about fly",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-24",
+      "headline": "A decades-old compound just showed it can melt fat without touching appetite",
+      "blurb": "UC Berkeley researchers found that TOFA pushes the body to burn up to 18% more energy, cutting fat mass in obese mice while sparing muscle and improving blood sugar and liver health — all without suppressing food intake. It's an entirely different lever than today's weight-loss drugs, and the team has already spun up a company to chase it into human trials.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823014953.htm",
+      "title_key": "decades old compound just showed can melt fat without touching appetite",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -7354,6 +7390,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-24T07:24:58Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-24T12:17:19Z",
       "accepted": 3,
       "rejected": 2
     }
