@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-24T01:53:17Z",
+  "updated": "2026-08-24T07:24:58Z",
   "stories": [
     {
       "stream": "ai",
@@ -6394,6 +6394,42 @@ window.NEWS_DATA = {
       "url_key": "thecooldown.com/green-home/oldest-cat-england-claims-mineral-water",
       "title_key": "meet tortoiseshell cat who might world s oldest 31",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-24",
+      "headline": "A Scottish estate just planted a whole beach's worth of sunflowers",
+      "blurb": "Fourteen acres of sunflowers are blazing away at Balgone Estate near North Berwick, turned into a full-blown trail with photo props, pick-your-own stems, and food trucks. Ten percent of every sunflower sold goes straight to brain tumour research, so the golden selfie also does some quiet good.",
+      "url": "https://www.goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland",
+      "title_key": "scottish estate just planted whole beach s worth sunflowers",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-24",
+      "headline": "Some stars shrug off a supermassive black hole and just... come back for more",
+      "blurb": "Astronomers watching 'repeating partial tidal disruption events' found stars that skim past a supermassive black hole, get a chunk stripped off, light up spectacularly — and then swing back around to do it again. New research even pins down why the flares fade a bit each lap: the star's own spin. Cosmic survivors with the receipts.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260822015119.htm",
+      "title_key": "some stars shrug off supermassive black hole just come back more",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-24",
+      "headline": "Nobody planted a thing — nature turned this dead field into an orchid meadow anyway",
+      "blurb": "A Norfolk field grew its last crop in 2005, and scientists just walked away and watched. Fifteen-ish years later it's a species-rich meadow thick with rare southern marsh orchids, plant diversity roughly doubled, no seeds sown by human hands. Sometimes the best restoration plan is simply leaving the door open.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015208.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260822015208.htm",
+      "title_key": "nobody planted thing nature turned dead field into orchid meadow anyway",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -7311,6 +7347,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-24T01:53:17Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-24T07:24:58Z",
       "accepted": 3,
       "rejected": 2
     }
