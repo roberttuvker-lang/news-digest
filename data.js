@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-23T12:16:38Z",
+  "updated": "2026-08-24T01:53:17Z",
   "stories": [
     {
       "stream": "ai",
@@ -6358,6 +6358,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260821012226.htm",
       "title_key": "speaking four languages could make your brain act 13 years younger",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-24",
+      "headline": "A yeast supplement just taught the immune system to fight cancer harder",
+      "blurb": "Trinity College researchers found that yeast beta-glucan, a fiber already sold as a food supplement, reprograms immune cells in the bone marrow to mount stronger, longer-lasting responses against colorectal, skin, and breast cancer cells in mice. It's the first proof this kind of 'trained immunity' can come from something you simply eat, not an injection.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260821012230.htm",
+      "title_key": "yeast supplement just taught immune system fight cancer harder",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-24",
+      "headline": "Japan just doubled how much lithium it can pull out of dead EV batteries",
+      "blurb": "A recycling plant in Tsuruga found it could hit 90% lithium recovery from used batteries just by swapping one chemical in its process, nearly double the old industry standard, while cutting the carbon footprint by 40%. It already beats Japan's 2030 recycling target, three years early.",
+      "url": "https://tech.yahoo.com/science/articles/japan-achieves-90-lithium-recovery-164753425.html",
+      "source": "tech.yahoo.com",
+      "url_key": "tech.yahoo.com/science/articles/japan-achieves-90-lithium-recovery-164753425.html",
+      "title_key": "japan just doubled how much lithium can pull out dead ev batteries",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-24",
+      "headline": "Meet the tortoiseshell cat who might be the world's oldest, at 31",
+      "blurb": "Leslie Greenhough of Greater Manchester says his cat Millie, born in 1995, has outlived every rival for the world's-oldest-living-cat title, and credits a decade of bottled mineral water and a very indulgent seafood diet. She'd be older than the current record holder, if the claim is verified.",
+      "url": "https://www.thecooldown.com/green-home/oldest-cat-england-claims-mineral-water/",
+      "source": "thecooldown.com",
+      "url_key": "thecooldown.com/green-home/oldest-cat-england-claims-mineral-water",
+      "title_key": "meet tortoiseshell cat who might world s oldest 31",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -7268,6 +7304,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-23T12:16:38Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-24T01:53:17Z",
       "accepted": 3,
       "rejected": 2
     }
