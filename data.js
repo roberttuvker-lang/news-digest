@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-24T12:17:19Z",
+  "updated": "2026-08-25T01:52:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -6466,6 +6466,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260823014953.htm",
       "title_key": "decades old compound just showed can melt fat without touching appetite",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-25",
+      "headline": "A cheap vitamin just gave aging brains a 13% boost",
+      "blurb": "Emory researchers found older adults with sleep trouble and mild cognitive impairment who took at least 5,000 IU of vitamin D daily scored over 13% higher on standard cognitive tests than those who didn't. It's a strikingly simple, low-cost lead for protecting memory as we age.",
+      "url": "https://news.emory.edu/stories/2026/08/high-dose-vitamin-d-may-improve-cognition-among-those-risk-dementia-emory-study",
+      "source": "news.emory.edu",
+      "url_key": "news.emory.edu/stories/2026/08/high-dose-vitamin-d-may-improve-cognition-among-those-risk-dementia-emory-study",
+      "title_key": "cheap vitamin just gave aging brains 13 boost",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-25",
+      "headline": "Dutch students just built the world's first solar-powered ambulance",
+      "blurb": "Twenty-three students at Eindhoven University of Technology built Stella Juva, a solar ambulance that can travel over 700km off-grid while running blood tests, ultrasounds and vaccinations on board. It heads to Kenya this month to bring hospital-grade care to places with no power grid at all.",
+      "url": "https://www.dutchnews.nl/2026/07/eindhoven-students-build-worlds-first-solar-powered-ambulance/",
+      "source": "dutchnews.nl",
+      "url_key": "dutchnews.nl/2026/07/eindhoven-students-build-worlds-first-solar-powered-ambulance",
+      "title_key": "dutch students just built world s first solar powered ambulance",
+      "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-25",
+      "headline": "A golden retriever barked her way out of three days buried in a landslide",
+      "blurb": "Lexa was trapped under mud and debris when a landslide hit her family's home in Cavite, Philippines, but a faint bark led volunteers to dig for hours with jackhammers until she crawled free. She emerged wagging her tail, smiling, and completely alive.",
+      "url": "https://www.themirror.com/news/world-news/golden-retriever-landslide-philippines-1989711",
+      "source": "themirror.com",
+      "url_key": "themirror.com/news/world-news/golden-retriever-landslide-philippines-1989711",
+      "title_key": "golden retriever barked her way out three days buried landslide",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -7397,6 +7433,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-24T12:17:19Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-25T01:52:41Z",
       "accepted": 3,
       "rejected": 2
     }
