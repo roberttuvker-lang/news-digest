@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T01:52:41Z",
+  "updated": "2026-08-25T07:27:25Z",
   "stories": [
     {
       "stream": "ai",
@@ -6502,6 +6502,42 @@
       "url_key": "themirror.com/news/world-news/golden-retriever-landslide-philippines-1989711",
       "title_key": "golden retriever barked her way out three days buried landslide",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-25",
+      "headline": "Scientists found a real dragon in Thailand and named it after Syrax",
+      "blurb": "Researchers combing the misty mountain forests of western Thailand turned up a brand-new species of horned lizard — and couldn't resist naming it Acanthosaura syrax, after Queen Rhaenyra's dragon in House of the Dragon. Same mustard-yellow glow, same small-but-mighty vibe, right down to being a prolific egg-layer. Nerdy, adorable, and 100% real.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823015005.htm",
+      "title_key": "scientists found real dragon thailand named after syrax",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-25",
+      "headline": "A 1905 wedding ring got flushed down a train toilet — and came back",
+      "blurb": "Julie Angelicola watched her century-old wedding band disappear down an NJ Transit bathroom drain mid-ride, and figured that was that. Instead, transit crews pulled the whole train off service, cracked open the toilet tank, and hand-searched a treatment plant until they found it. Heirloom: rescued.",
+      "url": "https://abc7ny.com/post/flush-found-antique-wedding-band-returned-owner-nj-transit-ride/19692481/",
+      "source": "abc7ny.com",
+      "url_key": "abc7ny.com/post/flush-found-antique-wedding-band-returned-owner-nj-transit-ride/19692481",
+      "title_key": "1905 wedding ring got flushed down train toilet came back",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-25",
+      "headline": "One town just found homes for a record 47 shelter animals in a day",
+      "blurb": "Six rescue groups teamed up at the Henrico Police Animal Shelter in Virginia for a single Clear the Shelters event — and sent home the most animals in the event's history. Dogs, cats, all of them adopted out in one joyful, chaotic afternoon.",
+      "url": "https://www.henricocitizen.com/henrico-clear-the-shelter-event-sets-record-with-47-animals-adopted/",
+      "source": "henricocitizen.com",
+      "url_key": "henricocitizen.com/henrico-clear-the-shelter-event-sets-record-with-47-animals-adopted",
+      "title_key": "one town just found homes record 47 shelter animals day",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -7440,6 +7476,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-25T01:52:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-25T07:27:25Z",
       "accepted": 3,
       "rejected": 2
     }
