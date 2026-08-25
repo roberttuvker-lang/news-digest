@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T07:27:25Z",
+  "updated": "2026-08-25T12:18:51Z",
   "stories": [
     {
       "stream": "ai",
@@ -6538,6 +6538,42 @@
       "url_key": "henricocitizen.com/henrico-clear-the-shelter-event-sets-record-with-47-animals-adopted",
       "title_key": "one town just found homes record 47 shelter animals day",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-25",
+      "headline": "CERN just triggered a 'Little Big Bang' with the smallest atoms yet",
+      "blurb": "Physicists at the Large Hadron Collider smashed oxygen and neon nuclei together at nearly light speed and still conjured quark-gluon plasma, the primordial soup that filled the universe microseconds after the Big Bang — proving this exotic state of matter emerges from far lighter nuclei than anyone expected. The particle patterns even let scientists map the literal shape of atomic nuclei, opening a new window onto both cosmic history and nuclear structure.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260822015143.htm",
+      "title_key": "cern just triggered little big bang smallest atoms yet",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-25",
+      "headline": "FDA clears an easier, faster-acting dose of a leading Alzheimer's drug",
+      "blurb": "The FDA approved a new subcutaneous starting dose of lecanemab, letting patients begin treatment with a simple injection instead of an infusion. It's a small logistical change with a big real-world payoff: faster access to a therapy shown to slow cognitive decline, for a disease where every month of delay matters.",
+      "url": "https://www.fda.gov/drugs/nda-and-bla-approvals/breakthrough-therapy-approvals",
+      "source": "fda.gov",
+      "url_key": "fda.gov/drugs/nda-and-bla-approvals/breakthrough-therapy-approvals",
+      "title_key": "fda clears easier faster acting dose leading alzheimer s drug",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-25",
+      "headline": "A rice-grain-sized 'rainbow on a chip' could unlock 6G",
+      "blurb": "Researchers built a tiny photonic chip that generates a stable, precisely spaced 'rainbow' of light frequencies all at once, solving a stability problem that's dogged microcomb technology for years. The design could hand future 6G networks dramatically more data channels while also enabling ultra-precise timing for quantum computers, navigation, and space systems.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014946.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823014946.htm",
+      "title_key": "rice grain sized rainbow chip could unlock 6g",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -7483,6 +7519,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-25T07:27:25Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-25T12:18:51Z",
       "accepted": 3,
       "rejected": 2
     }
