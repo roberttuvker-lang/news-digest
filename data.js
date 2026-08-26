@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-26T07:30:54Z",
+  "updated": "2026-08-26T12:23:57Z",
   "stories": [
     {
       "stream": "ai",
@@ -6646,6 +6646,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260824065514.htm",
       "title_key": "scientists just found secret highway system hiding inside every animal s dna",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-26",
+      "headline": "Scientists supercharge immune cells to finally break into solid tumors",
+      "blurb": "Stanford Medicine researchers engineered natural killer cells that can punch through the defenses of solid tumors and keep fighting once inside — a problem that has stumped cell therapy for years. It's a real step toward turning today's blood-cancer immunotherapy wins into treatments for the far more common solid cancers.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260824065546.htm",
+      "title_key": "scientists supercharge immune cells finally break into solid tumors",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-26",
+      "headline": "IBM just linked its first quantum 'refrigerators' into one giant cold engine",
+      "blurb": "IBM successfully joined and cooled two modular cryogenic systems into a single ultra-cold environment, the architecture it says will let hundreds of quantum chips be linked into one much more powerful machine. It's a concrete engineering step toward the fault-tolerant quantum computers the whole industry has been racing for.",
+      "url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+      "source": "newsroom.ibm.com",
+      "url_key": "newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+      "title_key": "ibm just linked first quantum refrigerators into one giant cold engine",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-26",
+      "headline": "China just finished the biggest fusion magnet ever built, and made every part at home",
+      "blurb": "A 582-tonne superconducting magnet — 1.3 times the volume and three times the stored energy of comparable ITER components — has passed final testing in Hefei, destined for the BEST tokamak aiming to demonstrate fusion power around 2030. Every piece, from the superconducting wire to the structural steel, was manufactured domestically.",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/04/china-finished-a-582-ton-magnet-ready-to-cage-its-artificial-sun/",
+      "source": "forbes.com",
+      "url_key": "forbes.com/sites/jonmarkman/2026/08/04/china-finished-a-582-ton-magnet-ready-to-cage-its-artificial-sun",
+      "title_key": "china just finished biggest fusion magnet ever built made every part home",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -7612,6 +7648,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-26T07:30:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-26T12:23:57Z",
       "accepted": 3,
       "rejected": 2
     }
