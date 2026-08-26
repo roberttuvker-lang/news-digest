@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-26T01:52:59Z",
+  "updated": "2026-08-26T07:30:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -6610,6 +6610,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260824065601.htm",
       "title_key": "single atom catalyst just turned stubborn plant waste into treasure",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-26",
+      "headline": "A stranger saw her fire story on the news — and rebuilt her family's life",
+      "blurb": "A Bronx mom lost nearly everything in an apartment fire and was struggling to feed her three kids. A man on Long Island saw her story on TV, handed her $3,000, and kept showing up — she's since gotten a new apartment and finished her degree.",
+      "url": "https://www.cbsnews.com/newyork/news/bronx-mother-displaced-fire-good-samaritan/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/newyork/news/bronx-mother-displaced-fire-good-samaritan",
+      "title_key": "stranger saw her fire story news rebuilt her family s life",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-26",
+      "headline": "The secret to living past 110? Your immune system might be hoarding superheroes",
+      "blurb": "Scientists studying supercentenarians found they carry way more of a rare cancer-killing immune cell than the rest of us — nearly 18% of their T-cells versus 4% in younger adults. These cells seem to spot tumors before they even show up on a scan.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014950.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823014950.htm",
+      "title_key": "secret living past 110 your immune system might hoarding superheroes",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-26",
+      "headline": "Scientists just found the secret highway system hiding inside every animal's DNA",
+      "blurb": "A massive comparison of 5,800 genomes across 4,454 species — from humans to octopuses to coral — found that chromosomes don't shuffle randomly as life evolves. They travel a small set of one-way 'evolutionary highways' laid down over 600 million years ago.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260824065514.htm",
+      "title_key": "scientists just found secret highway system hiding inside every animal s dna",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -7569,6 +7605,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-26T01:52:59Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-26T07:30:54Z",
       "accepted": 3,
       "rejected": 2
     }
