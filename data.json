@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T12:18:51Z",
+  "updated": "2026-08-26T01:52:59Z",
   "stories": [
     {
       "stream": "ai",
@@ -6574,6 +6574,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260823014946.htm",
       "title_key": "rice grain sized rainbow chip could unlock 6g",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-26",
+      "headline": "A common shingles shot may also be quietly protecting your memory",
+      "blurb": "A study of over 500,000 older adults found those who got the Shingrix shingles vaccine were 24% less likely to develop dementia within four years. Researchers estimate that's roughly one case of dementia prevented for every 17 people vaccinated — a hopeful bonus from a shot many already get.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260823015013.htm",
+      "title_key": "common shingles shot may also quietly protecting your memory",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-26",
+      "headline": "Your gut turns spinach and beets into tiny guardians for your heart",
+      "blurb": "Karolinska Institutet researchers discovered that gut bacteria convert nitrate and iron from vegetables like spinach and beetroot into protective molecules that lower blood pressure, steady blood sugar, and ease fat buildup in the liver. It's a quiet reminder that a simple salad is doing more for you than you knew.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260822015145.htm",
+      "title_key": "your gut turns spinach beets into tiny guardians your heart",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-26",
+      "headline": "A single-atom catalyst just turned stubborn plant waste into treasure",
+      "blurb": "University of Manchester scientists built a catalyst that breaks down lignin — the tough, woody part of plants that makes up over a third of agricultural waste — into valuable chemicals with near-complete efficiency, using mild conditions and no harsh chemicals. It's a real step toward replacing petroleum-based products with ones grown from leftover crops and wood.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260824065601.htm",
+      "title_key": "single atom catalyst just turned stubborn plant waste into treasure",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -7526,6 +7562,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-25T12:18:51Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-26T01:52:59Z",
       "accepted": 3,
       "rejected": 2
     }
