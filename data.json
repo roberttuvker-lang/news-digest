@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T01:53:40Z",
+  "updated": "2026-08-27T07:29:24Z",
   "stories": [
     {
       "stream": "ai",
@@ -6718,6 +6718,42 @@
       "url_key": "space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
       "title_key": "nasa taught satellites find themselves without gps",
       "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-27",
+      "headline": "Tonight's sky is putting on a show: a 96% 'almost blood moon'",
+      "blurb": "Grab a blanket — a deep partial lunar eclipse sweeps across the Americas, Europe and Africa tonight, with 96% of the Moon slipping into Earth's shadow and glowing a spooky red. No telescope needed, no glasses required, just look up.",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon",
+      "source": "space.com",
+      "url_key": "space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon",
+      "title_key": "tonight s sky putting show 96 almost blood moon",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-27",
+      "headline": "A robot just out-sprinted itself two days running at the 'Robot Olympics'",
+      "blurb": "At China's World Humanoid Robot Games, a bipedal bot shaved its own 100-meter record down to 8.64 seconds — its second record-breaking dash in as many days, capping five wild days of over 2,000 robots stumbling, sprinting and cheerfully faceplanting their way through Olympic-style events.",
+      "url": "https://www.ksat.com/business/2026/08/26/a-robot-sprinter-shatters-a-100-meter-record-again-as-sparks-fly-at-chinas-robot-competition/",
+      "source": "ksat.com",
+      "url_key": "ksat.com/business/2026/08/26/a-robot-sprinter-shatters-a-100-meter-record-again-as-sparks-fly-at-chinas-robot-competition",
+      "title_key": "robot just out sprinted itself two days running robot olympics",
+      "topic": "Technology"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-27",
+      "headline": "An 11-year-old and his dad cracked open a rock and found a shark's 3-million-year-old smile",
+      "blurb": "While hunting for shells on a Jersey Shore jetty, Bo Bowers and his father noticed something odd wedged inside a rock — and pulled out a megalodon tooth, only the sixth ever recorded on a New Jersey beach. Since it turned up on public sand, the family gets to keep their prehistoric jackpot.",
+      "url": "https://abc7ny.com/post/family-finds-prehistoric-megalodon-tooth-jersey-shore-beach-sea-isle-city-nj/19692468/",
+      "source": "abc7ny.com",
+      "url_key": "abc7ny.com/post/family-finds-prehistoric-megalodon-tooth-jersey-shore-beach-sea-isle-city-nj/19692468",
+      "title_key": "11 year old his dad cracked open rock found shark s 3 million year old smile",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -7698,6 +7734,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-27T01:53:40Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-27T07:29:24Z",
       "accepted": 3,
       "rejected": 2
     }
