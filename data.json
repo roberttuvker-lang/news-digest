@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T07:29:24Z",
+  "updated": "2026-08-27T12:18:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -6754,6 +6754,42 @@
       "url_key": "abc7ny.com/post/family-finds-prehistoric-megalodon-tooth-jersey-shore-beach-sea-isle-city-nj/19692468",
       "title_key": "11 year old his dad cracked open rock found shark s 3 million year old smile",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-27",
+      "headline": "A fusion startup just broke ground on the machine built to finally pay for itself",
+      "blurb": "Pacific Fusion started construction on a $1 billion demonstration facility in New Mexico aimed squarely at 'net facility gain' — producing more energy than the whole plant consumes, a milestone no fusion device has ever hit. Hit it, and the path from lab curiosity to power-grid reality gets dramatically shorter.",
+      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power",
+      "title_key": "fusion startup just broke ground machine built finally pay itself",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-27",
+      "headline": "Samsung just put a tiny brain inside your phone's memory chip",
+      "blurb": "Samsung unveiled LPDDR5X-PIM, low-power memory with logic built right into the DRAM, letting AI models run up to 3x faster on-device without waiting on a separate processor. Cheaper, snappier AI in your pocket — no giant data-center chip required.",
+      "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+      "source": "tomshardware.com",
+      "url_key": "tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+      "title_key": "samsung just put tiny brain inside your phone s memory chip",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-27",
+      "headline": "Scientists just found the immune switch that mimics fasting's anti-aging power",
+      "blurb": "A new study found that calorie restriction quiets a specific immune protein, C3, that fuels chronic inflammation as we age — and blocking it in mice reproduced the same anti-aging benefit. That opens the door to a pill that could deliver fasting's payoff without the fasting.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260826055508.htm",
+      "title_key": "scientists just found immune switch mimics fasting s anti aging power",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -7741,6 +7777,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-27T07:29:24Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-27T12:18:54Z",
       "accepted": 3,
       "rejected": 2
     }
