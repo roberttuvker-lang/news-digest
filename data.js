@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-26T12:23:57Z",
+  "updated": "2026-08-27T01:53:40Z",
   "stories": [
     {
       "stream": "ai",
@@ -6682,6 +6682,42 @@ window.NEWS_DATA = {
       "url_key": "forbes.com/sites/jonmarkman/2026/08/04/china-finished-a-582-ton-magnet-ready-to-cage-its-artificial-sun",
       "title_key": "china just finished biggest fusion magnet ever built made every part home",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-27",
+      "headline": "A 190-year-old museum specimen just solved a decades-old pangolin mystery",
+      "blurb": "Scientists at London's Natural History Museum extracted DNA from a pangolin collected in Nepal in 1836 and matched it to living Himalayan pangolins, confirming they're a distinct species that had been hiding in plain sight. The find gives conservationists a precise new tool to trace poached pangolin scales back to the exact species and region under threat.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260826055500.htm",
+      "title_key": "190 year old museum specimen just solved decades old pangolin mystery",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-27",
+      "headline": "Volunteers just handed Australia's rarest orchid its best shot at survival",
+      "blurb": "With only about 120 rosella spider orchids left in the wild in 2000, Royal Botanic Gardens Victoria and a team of volunteers grew a nursery stock twice that size, then planted 500 of them back into the wild, nearly doubling the species' wild population in one go. It's a rare, hands-on extinction reversal for a flower found nowhere else on Earth.",
+      "url": "https://www.goodnewsnetwork.org/scientists-and-volunteers-take-big-step-towards-saving-rare-cryptic-australian-orchid/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/scientists-and-volunteers-take-big-step-towards-saving-rare-cryptic-australian-orchid",
+      "title_key": "volunteers just handed australia s rarest orchid best shot survival",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-27",
+      "headline": "NASA taught its satellites to find themselves without GPS",
+      "blurb": "Using onboard cameras and a catalog of 20,000 known objects, NASA's Starling mission had spacecraft pinpoint their own position by spotting other satellites and debris, with no ground help needed. Over three days the system even improved the tracked orbits of 200-plus other objects on its own, a step toward reliable navigation on future Moon and Mars missions.",
+      "url": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
+      "title_key": "nasa taught satellites find themselves without gps",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -7655,6 +7691,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-26T12:23:57Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-27T01:53:40Z",
       "accepted": 3,
       "rejected": 2
     }
