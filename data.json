@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-28T07:28:03Z",
+  "updated": "2026-08-28T12:18:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -6862,6 +6862,42 @@
       "url_key": "upi.com/odd_news/2026/08/26/wallaby-loose-liskeard-cornwall-england/8921787754795",
       "title_key": "wallaby went 5 30am hop through sleepy cornish town",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-28",
+      "headline": "FDA approves the first drug built to target pancreatic cancer's driver gene — and it nearly doubles survival",
+      "blurb": "Daraxonrasib, cleared August 26, is the first targeted therapy for metastatic pancreatic adenocarcinoma, one of the hardest cancers to treat. In a 500-patient trial it pushed median survival to over 13 months versus 6.7 for standard chemo — a real foothold against a disease that has resisted precision medicine for decades.",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "source": "fda.gov",
+      "url_key": "fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "title_key": "fda approves first drug built target pancreatic cancer s driver gene nearly doubles survival",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-28",
+      "headline": "The UN just bankrolled restoration of 5 million hectares across three continents in one day",
+      "blurb": "On August 26, UNEP and FAO named new World Restoration Flagships in Brazil's Cerrado savannah, the Sahel, and Saudi Arabia — projects already covering hundreds of thousands of hectares and now committed to restoring nearly 5 million more by 2030, with Indigenous communities and farmers running the work on the ground.",
+      "url": "https://www.unep.org/news-and-stories/press-release/greening-lands-feeding-people-un-awards-three-restoration-flagships",
+      "source": "unep.org",
+      "url_key": "unep.org/news-and-stories/press-release/greening-lands-feeding-people-un-awards-three-restoration-flagships",
+      "title_key": "un just bankrolled restoration 5 million hectares across three continents one day",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-28",
+      "headline": "An AI tore through 100 million printer settings and handed NASA a cheaper way to make rocket engines",
+      "blurb": "Washington State University researchers used AI to navigate over 100 million possible 3D-printing configurations for NASA's ultra-tough GRCop-42 rocket alloy, needing just 40 real experiments to find six that work — including one that runs on ordinary commercial printers instead of specialized aerospace equipment.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260827010504.htm",
+      "title_key": "ai tore through 100 million printer settings handed nasa cheaper way make rocket engines",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -7870,6 +7906,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-28T07:28:03Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-28T12:18:08Z",
       "accepted": 3,
       "rejected": 2
     }
