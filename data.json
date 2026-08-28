@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T12:18:54Z",
+  "updated": "2026-08-28T01:53:22Z",
   "stories": [
     {
       "stream": "ai",
@@ -6790,6 +6790,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260826055508.htm",
       "title_key": "scientists just found immune switch mimics fasting s anti aging power",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-28",
+      "headline": "He lost his job protecting a homeless student. Now that student is his son.",
+      "blurb": "Ohio principal Rob Burnside let a homeless teenager keep attending his school against district rules and resigned rather than turn him away. He and his wife later adopted the boy, who graduated high school this spring — \"I had nothing to gain out of this other than this is a kid I care about,\" Burnside said.",
+      "url": "https://www.cbsnews.com/news/ohio-principal-lakota-east-high-school-begknows-america/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/news/ohio-principal-lakota-east-high-school-begknows-america",
+      "title_key": "he lost his job protecting homeless student now student his son",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-28",
+      "headline": "Astronomers finally got a clear photo of Betelgeuse's hidden companion star",
+      "blurb": "After a century of suspicion, ESO's Very Large Telescope captured the clearest image yet of Betelgeuse B, the small companion star long thought to explain the famous red supergiant's odd brightness cycles. A decades-long mystery, effectively solved.",
+      "url": "https://www.eso.org/public/news/eso2611/",
+      "source": "eso.org",
+      "url_key": "eso.org/public/news/eso2611",
+      "title_key": "astronomers finally got clear photo betelgeuse s hidden companion star",
+      "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-28",
+      "headline": "Scientists found the brain's own 'off switch' for chronic nerve pain",
+      "blurb": "Washington University researchers discovered that receptors in the brain's locus coeruleus act as a natural brake on chronic pain, and restoring them in mice reversed nerve-injury hypersensitivity entirely. It points toward pain treatments without whole-body opioid side effects.",
+      "url": "https://source.washu.edu/2026/08/scientists-identify-brains-brake-that-shuts-off-chronic-pain/",
+      "source": "source.washu.edu",
+      "url_key": "source.washu.edu/2026/08/scientists-identify-brains-brake-that-shuts-off-chronic-pain",
+      "title_key": "scientists found brain s own off switch chronic nerve pain",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -7786,6 +7822,13 @@
       "at": "2026-08-27T12:18:54Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-28T01:53:22Z",
+      "accepted": 3,
+      "rejected": 3
     }
   ]
 }
