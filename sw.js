@@ -12,7 +12,7 @@
  * data.js?v=. Never edit it by hand — a forgotten bump means the phone serves
  * yesterday's news forever, and it looks like the routine broke.
  */
-var CACHE = "brighter-20260828015322";
+var CACHE = "brighter-20260828072803";
 
 var SHELL = [
   "./",

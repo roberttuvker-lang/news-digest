@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-28T01:53:22Z",
+  "updated": "2026-08-28T07:28:03Z",
   "stories": [
     {
       "stream": "ai",
@@ -6826,6 +6826,42 @@ window.NEWS_DATA = {
       "url_key": "source.washu.edu/2026/08/scientists-identify-brains-brake-that-shuts-off-chronic-pain",
       "title_key": "scientists found brain s own off switch chronic nerve pain",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-28",
+      "headline": "Scientists built cancer-hunting nanoparticles that glow — and mice are living cancer-free",
+      "blurb": "A light-activated nanoparticle lights up hidden glioblastoma cells during surgery, then zaps whatever's left behind. Every treated mouse was still alive at 60 days, versus 42 for surgery alone — and zero recurrence. Early days, but a genuinely thrilling proof of concept.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260826060617.htm",
+      "title_key": "scientists built cancer hunting nanoparticles glow mice are living cancer free",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-28",
+      "headline": "A 324-million-year-old bug just rewrote how life crawled onto land",
+      "blurb": "Meet Chosha praecursor: a fossil insect from Texas still sporting paddle-like legs, proof that bugs didn't leap from water to land in one bound but spent ages splashing around the shoreline first. A tiny amphibious pioneer, frozen mid-adventure for 324 million years.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260827010455.htm",
+      "title_key": "324 million year old bug just rewrote how life crawled onto land",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-28",
+      "headline": "A wallaby went for a 5:30am hop through a sleepy Cornish town",
+      "blurb": "A pasty shop owner driving to work thought he'd spotted a dog — until it hopped. A loose wallaby bounded down the road in Liskeard, England, baffling police and delighting everyone with a dashcam. It vanished before anyone could catch it, last seen living its best life.",
+      "url": "https://www.upi.com/Odd_News/2026/08/26/wallaby-loose-Liskeard-Cornwall-England/8921787754795/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/26/wallaby-loose-liskeard-cornwall-england/8921787754795",
+      "title_key": "wallaby went 5 30am hop through sleepy cornish town",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -7829,6 +7865,13 @@ window.NEWS_DATA = {
       "at": "2026-08-28T01:53:22Z",
       "accepted": 3,
       "rejected": 3
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-28T07:28:03Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
