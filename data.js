@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-29T07:09:36Z",
+  "updated": "2026-08-29T12:17:27Z",
   "stories": [
     {
       "stream": "ai",
@@ -6970,6 +6970,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260827010501.htm",
       "title_key": "scientists buried 2 000 pairs underwear across switzerland science",
       "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-29",
+      "headline": "Curiosity just topped 1 kilometer of climbing on Mars — and sent back a stunning panorama to prove it",
+      "blurb": "On August 26, NASA's Curiosity rover marked a full kilometer of elevation gain since it began scaling Mount Sharp in 2014, capturing a 323-image panorama of the valley below. Fourteen years in and still breaking new ground — literally — it's a reminder of what patient engineering and curiosity (pun intended) can achieve millions of miles from home.",
+      "url": "https://science.nasa.gov/mars/curiosity-reaches-1-kilometer-elevation-gain/",
+      "source": "science.nasa.gov",
+      "url_key": "science.nasa.gov/mars/curiosity-reaches-1-kilometer-elevation-gain",
+      "title_key": "curiosity just topped 1 kilometer climbing mars sent back stunning panorama prove",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-29",
+      "headline": "Caltech just made ordinary silicon chips carry light almost as cleanly as fiber optic cable",
+      "blurb": "Using standard chip-making techniques, Caltech engineers built silicon waveguides with up to 20 times less light loss than before, closing the gap between clunky lab fiber optics and mass-producible chips. The breakthrough opens the door to faster AI data centers, ultra-precise atomic clocks, and chip-scale quantum computing, all riding on hardware that's cheap to manufacture at scale.",
+      "url": "https://www.caltech.edu/about/news/extending-optical-fibers-ultralow-loss-performance-to-photonic-chips",
+      "source": "caltech.edu",
+      "url_key": "caltech.edu/about/news/extending-optical-fibers-ultralow-loss-performance-to-photonic-chips",
+      "title_key": "caltech just made ordinary silicon chips carry light almost cleanly fiber optic cable",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-29",
+      "headline": "When Europe's grid buckled under record heat this summer, solar power was the thing that didn't break",
+      "blurb": "As heatwaves pushed electricity demand up as much as 28% and forced nuclear, gas, and hydro plants offline, solar generation actually rose by up to 17% and supplied a record 25% of EU electricity in June and July. It's the clearest sign yet that the clean-energy buildout isn't just decarbonizing the grid — it's making it tougher exactly when the climate stress-tests it hardest.",
+      "url": "https://ember-energy.org/latest-insights/solar-helps-europes-grid-withstand-extreme-heat/",
+      "source": "ember-energy.org",
+      "url_key": "ember-energy.org/latest-insights/solar-helps-europes-grid-withstand-extreme-heat",
+      "title_key": "when europe s grid buckled under record heat summer solar power thing didn t break",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -7999,6 +8035,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-29T07:09:36Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-29T12:17:27Z",
       "accepted": 3,
       "rejected": 2
     }
