@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-29T01:55:12Z",
+  "updated": "2026-08-29T07:09:36Z",
   "stories": [
     {
       "stream": "ai",
@@ -6934,6 +6934,42 @@
       "url_key": "abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436",
       "title_key": "dog missing week found clinging volcanic cliff rescued",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-29",
+      "headline": "A kitten fell into an excavator's engine bay — and became part of the crew",
+      "blurb": "An Ohio construction crew heard a mysterious beeping coming from inside their excavator's engine bay, and out popped a stray orange kitten they promptly named Sue, after the machine's brand. She spent two weeks in foster care, came back to a permanent home with the shop mechanic's family, and now has her own tiny high-vis vest and hard hat waiting for her at the job site.",
+      "url": "https://www.upi.com/Odd_News/2026/08/27/construction-kitten-RiverReach-Sue/3161787839205/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/27/construction-kitten-riverreach-sue/3161787839205",
+      "title_key": "kitten fell into excavator s engine bay became part crew",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-29",
+      "headline": "Rescued from a rusty pipe, this kitten landed the softest ending",
+      "blurb": "An animal control officer in Alameda, California pulled a terrified kitten out of a rusted metal pipe ten feet down in an abandoned field, rust-covered and limping on sore paws. After a warm bath and some TLC, the newly dubbed Rusty already has a foster home lined up — with the very dispatcher who took the call to save him.",
+      "url": "https://www.upi.com/Odd_News/2026/08/26/kitten-pipe-Alameda-California/8191787754293/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/26/kitten-pipe-alameda-california/8191787754293",
+      "title_key": "rescued rusty pipe kitten landed softest ending",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-29",
+      "headline": "Scientists buried 2,000 pairs of underwear across Switzerland — for science",
+      "blurb": "A thousand citizen scientists buried cotton underwear (and tea bags) at a thousand spots around Switzerland, then dug them up two months later to see how fast the fabric vanished — the faster it disappeared, the livelier the soil underneath. Turns out gardens are secretly bustling with microbial life while lawns are practically dead zones, giving researchers one of the country's richest-ever soil health datasets, undies and all.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010501.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260827010501.htm",
+      "title_key": "scientists buried 2 000 pairs underwear across switzerland science",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -7958,6 +7994,13 @@
       "at": "2026-08-29T01:55:12Z",
       "accepted": 3,
       "rejected": 3
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-29T07:09:36Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
