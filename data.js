@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-28T12:18:08Z",
+  "updated": "2026-08-29T01:55:12Z",
   "stories": [
     {
       "stream": "ai",
@@ -6898,6 +6898,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260827010504.htm",
       "title_key": "ai tore through 100 million printer settings handed nasa cheaper way make rocket engines",
       "topic": "AI"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-29",
+      "headline": "⚠ ACTION NEEDED — Home Front Command: Israel shifts to Essential Activity nationwide",
+      "blurb": "The IDF Home Front Command announced early Saturday that all of Israel has moved from Full Activity to Essential Activity, barring gatherings, schools, and non-essential workplaces after a situational assessment. Unless your work is essential, stay near a protected space today and follow the official guidelines at oref.org.il.",
+      "url": "https://www.oref.org.il/en",
+      "source": "oref.org.il",
+      "url_key": "oref.org.il/en",
+      "title_key": "action needed home front command israel shifts essential activity nationwide",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-29",
+      "headline": "Light-activated eye drops let blind mice see again",
+      "blurb": "A Barcelona-led team built photoswitchable drugs that mimic degenerated photoreceptor cells, restoring light-driven vision in completely blind mice within hours of an eye drop or injection. They work under ordinary daylight or indoor light, with no implants or gene therapy required.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260828005224.htm",
+      "title_key": "light activated eye drops let blind mice see again",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-29",
+      "headline": "A dog missing a week was found clinging to a volcanic cliff — and rescued",
+      "blurb": "Tyson the dog had been missing for a week around Mount Gambier's Blue Lake until SA Water crews spotted him on the crater's cliffs. Fire, emergency and drone teams worked for hours to bring him safely back to his family, who'd already recovered their other missing dog days earlier.",
+      "url": "https://www.abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436",
+      "source": "abc.net.au",
+      "url_key": "abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436",
+      "title_key": "dog missing week found clinging volcanic cliff rescued",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -7915,6 +7951,13 @@ window.NEWS_DATA = {
       "at": "2026-08-28T12:18:08Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-29T01:55:12Z",
+      "accepted": 3,
+      "rejected": 3
     }
   ]
 };
