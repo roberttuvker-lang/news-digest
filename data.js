@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-29T12:17:27Z",
+  "updated": "2026-08-30T01:53:49Z",
   "stories": [
     {
       "stream": "ai",
@@ -7006,6 +7006,110 @@ window.NEWS_DATA = {
       "url_key": "ember-energy.org/latest-insights/solar-helps-europes-grid-withstand-extreme-heat",
       "title_key": "when europe s grid buckled under record heat summer solar power thing didn t break",
       "topic": "Environment"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "Anthropic plans record $2T IPO for October, would eclipse SpaceX",
+      "blurb": "Anthropic is reportedly targeting an October IPO that could value it near $2 trillion, the largest ever. Annualized revenue reportedly hit about $65 billion by late July.",
+      "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/",
+      "source": "fortune.com",
+      "url_key": "fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex",
+      "title_key": "anthropic plans record 2t ipo october would eclipse spacex",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "OpenAI targets IPO as early as September, valued up to $1 trillion",
+      "blurb": "OpenAI confidentially filed its S-1 for a possible September debut, with reports putting the valuation band at $852 billion to over $1 trillion. It still loses money on every dollar of revenue.",
+      "url": "https://forgeglobal.com/openai_ipo/",
+      "source": "forgeglobal.com",
+      "url_key": "forgeglobal.com/openai_ipo",
+      "title_key": "openai targets ipo early september valued up 1 trillion",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "OpenAI cuts off Cursor after SpaceX's $60B buyout",
+      "blurb": "OpenAI is ending Cursor's direct model access on November 12, citing past contract violations by other Musk companies. Anthropic has already offered Cursor more Claude support.",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "title_key": "openai cuts off cursor after spacex s 60b buyout",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "Anthropic signs $45B compute deal with Nscale",
+      "blurb": "Anthropic will rent about 460 megawatts of Nvidia Vera Rubin compute from UK infrastructure firm Nscale over six years, starting late 2027 — its latest mega infrastructure deal.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+      "title_key": "anthropic signs 45b compute deal nscale",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "Anthropic lets Claude run lab robots",
+      "blurb": "Anthropic's new Model Hardware Standard lets AI agents safely operate microscopes, liquid handlers and robotic arms, cutting instrument integration from months to hours. Genentech and Carnegie Mellon are early users.",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "source": "anthropic.com",
+      "url_key": "anthropic.com/news/model-hardware-standard-research-preview",
+      "title_key": "anthropic lets claude run lab robots",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "AWS grounds agents in live web data, worldwide",
+      "blurb": "Amazon expanded Bedrock AgentCore's Web Search tool to Europe and Asia Pacific and added domain and date filtering, letting agents cite current web sources without data leaving AWS.",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "source": "aws.amazon.com",
+      "url_key": "aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock",
+      "title_key": "aws grounds agents live web data worldwide",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "Z.AI undercuts itself with GLM-5.3 Flash",
+      "blurb": "Z.AI's new open-weight GLM-5.3 Flash beats its own GLM-5.2 flagship on benchmarks at one-tenth the price, with a 1-million-token context window and MIT-licensed weights on Hugging Face.",
+      "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/amp/",
+      "source": "marktechpost.com",
+      "url_key": "marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context",
+      "title_key": "z ai undercuts itself glm 5 3 flash",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-08-30",
+      "headline": "DeepSeek adds vision to its cheapest flagship",
+      "blurb": "DeepSeek-V4-Flash-Vision-Exp adds image understanding to V4 Flash's text and agent capabilities, handling up to 600 images per request at $0.22/$0.66 per million tokens.",
+      "url": "https://api-docs.deepseek.com/news/news260821/",
+      "source": "api-docs.deepseek.com",
+      "url_key": "api-docs.deepseek.com/news/news260821",
+      "title_key": "deepseek adds vision cheapest flagship",
+      "topic": "AI",
+      "category": "Models"
     }
   ],
   "runs": [
@@ -8044,6 +8148,13 @@ window.NEWS_DATA = {
       "at": "2026-08-29T12:17:27Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-08-30T01:53:49Z",
+      "accepted": 8,
+      "rejected": 3
     }
   ]
 };
