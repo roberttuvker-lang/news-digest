@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T01:53:49Z",
+  "updated": "2026-08-30T07:07:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -7110,6 +7110,42 @@
       "title_key": "deepseek adds vision cheapest flagship",
       "topic": "AI",
       "category": "Models"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-30",
+      "headline": "Missing for 12 years, a tiny chihuahua just walked back into her owner's arms",
+      "blurb": "Flor vanished from Chicago in 2014 and turned up scampering near storm-damaged roads in Gary, Indiana, this week — found by a volunteer who was in town helping with cleanup. A microchip-tracing group ran down her decade-old chip, and Wednesday night her owner Vanessa Antonino was sobbing and hugging her at an Evanston shelter. Twelve years, and that dog still came home.",
+      "url": "https://www.nbcchicago.com/news/local/dog-missing-for-12-years-reunited-with-suburban-family-in-incredible-scene/3981415/",
+      "source": "nbcchicago.com",
+      "url_key": "nbcchicago.com/news/local/dog-missing-for-12-years-reunited-with-suburban-family-in-incredible-scene/3981415",
+      "title_key": "missing 12 years tiny chihuahua just walked back into her owner s arms",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-30",
+      "headline": "Turns out your dog's blood can hint at how long you'll live too",
+      "blurb": "The Dog Aging Project just found that the same tiny molecular 'fingerprints' tied to a shorter or longer life in dogs show up in people too — same metabolism, inflammation and cellular-stress signals, just running on a faster doggy clock. Because dogs age so much quicker than we do, that overlap means man's best friend could help scientists crack human longevity years sooner.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260828082341.htm",
+      "title_key": "turns out your dog s blood can hint how long you ll live too",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-30",
+      "headline": "800 trafficked turtles just got their lives back, one zoo enclosure at a time",
+      "blurb": "The Bronx Zoo and partner zoos like Kansas's Rolling Hills have now nursed more than 800 North American box turtles back to health after they were seized from illegal wildlife trafficking — dehydrated, injured, headed for the exotic pet trade. Vets triage, quarantine and rehab every one, working with federal wildlife agents to eventually get healthy turtles back where they belong: the wild.",
+      "url": "https://www.wibw.com/2026/08/27/kansas-zoo-cares-ornate-box-turtles-rescued-illegal-wildlife-trade/",
+      "source": "wibw.com",
+      "url_key": "wibw.com/2026/08/27/kansas-zoo-cares-ornate-box-turtles-rescued-illegal-wildlife-trade",
+      "title_key": "800 trafficked turtles just got their lives back one zoo enclosure time",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -8155,6 +8191,13 @@
       "at": "2026-08-30T01:53:49Z",
       "accepted": 8,
       "rejected": 3
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-30T07:07:29Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
