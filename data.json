@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T07:07:29Z",
+  "updated": "2026-08-30T12:18:00Z",
   "stories": [
     {
       "stream": "ai",
@@ -7146,6 +7146,42 @@
       "url_key": "wibw.com/2026/08/27/kansas-zoo-cares-ornate-box-turtles-rescued-illegal-wildlife-trade",
       "title_key": "800 trafficked turtles just got their lives back one zoo enclosure time",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-30",
+      "headline": "NASA's Roman Space Telescope just launched, and it's about to blow the doors off our map of the universe",
+      "blurb": "A SpaceX Falcon Heavy carried the Nancy Grace Roman Space Telescope off the pad on August 30, built around a Hubble-class mirror to survey cosmic expansion, dark energy, and thousands of exoplanets. It's the widest-field infrared eye we've ever put in space, and it's finally on its way.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
+      "title_key": "nasa s roman space telescope just launched s about blow doors off our map universe",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-30",
+      "headline": "Australia's red desert may be sitting on a hydrogen goldmine, and scientists just found the switch",
+      "blurb": "Edith Cowan University researchers discovered that the iron-rich magnetite formations under Western Australia's Pilbara naturally generate hydrogen when they react with hot water underground, and that injecting a solution can boost the reaction dramatically. If it scales, it's a homegrown, near-limitless clean fuel source hiding in plain sight.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260829035214.htm",
+      "title_key": "australia s red desert may sitting hydrogen goldmine scientists just found switch",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-30",
+      "headline": "One of the hardest plastics to recycle just became premium engine oil",
+      "blurb": "Virginia Tech chemists found a way to turn PVC, a plastic that mostly just piles up in landfills, into polyalphaolefin, a key ingredient in high-performance lubricants, by heating it with a solvent and alpha olefins. Two stubborn problems, waste plastic and dirty lubricant production, solved with one reaction.",
+      "url": "https://news.vt.edu/articles/2026/08/science-chemistry-liu-pvc-lubricant.html",
+      "source": "news.vt.edu",
+      "url_key": "news.vt.edu/articles/2026/08/science-chemistry-liu-pvc-lubricant.html",
+      "title_key": "one hardest plastics recycle just became premium engine oil",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -8196,6 +8232,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-30T07:07:29Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-30T12:18:00Z",
       "accepted": 3,
       "rejected": 2
     }
