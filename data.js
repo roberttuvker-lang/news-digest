@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-31T07:32:36Z",
+  "updated": "2026-08-31T12:19:26Z",
   "stories": [
     {
       "stream": "ai",
@@ -7254,6 +7254,42 @@ window.NEWS_DATA = {
       "url_key": "nbcnews.com/news/us-news/taylor-swift-donates-50000-injured-mom-rcna595037",
       "title_key": "she took car hit save two strangers taylor swift just quietly covered her hospital bill",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-31",
+      "headline": "IBM and UChicago just crossed the line into useful quantum computing",
+      "blurb": "A quantum computer ran a verified 70-logical-qubit calculation in about 15 minutes — a task that would take the best classical supercomputers infeasibly long, and this time the answer is trustworthy, not just fast. It's one of the clearest demonstrations yet that fault-tolerant quantum computing is arriving, not just theorized.",
+      "url": "https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum",
+      "source": "news.uchicago.edu",
+      "url_key": "news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum",
+      "title_key": "ibm uchicago just crossed line into useful quantum computing",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-31",
+      "headline": "Mars just turned out to be secretly molten on one side",
+      "blurb": "Gravity data reveals Mars's southern interior runs 200-400°C hotter than its north and may still be partially molten, solving decades-old mysteries about the planet's lopsided magnetism and seismic behavior. Every answer like this sharpens the map for the humans who'll eventually walk there.",
+      "url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
+      "source": "caltech.edu",
+      "url_key": "caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
+      "title_key": "mars just turned out secretly molten one side",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-08-31",
+      "headline": "Scientists cracked how to grow real, bioavailable B12 in algae",
+      "blurb": "Researchers finally coaxed spirulina into producing biologically active vitamin B12 at levels matching beef, using light control instead of animals or synthetic supplements. It's a carbon-neutral fix for a nutrient deficiency that affects a billion people worldwide.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260829035227.htm",
+      "title_key": "scientists cracked how grow real bioavailable b12 algae",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8325,6 +8361,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-08-31T07:32:36Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-08-31T12:19:26Z",
       "accepted": 3,
       "rejected": 2
     }
