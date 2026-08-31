@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-31T01:52:24Z",
+  "updated": "2026-08-31T07:32:36Z",
   "stories": [
     {
       "stream": "ai",
@@ -7218,6 +7218,42 @@
       "url_key": "news.mongabay.com/short-article/2026/08/costa-rica-to-require-wildlife-crossings-for-roads-when-they-impact-fauna",
       "title_key": "costa rica just made wildlife crossings law land",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-31",
+      "headline": "A tiny turtle washed up in Wales. He just went home to Texas — by helicopter, plane, and Gulf tide.",
+      "blurb": "Rhossi, a 2-pound Kemp's ridley — the world's rarest sea turtle — was found cold-stunned on a Welsh beach in 2023, 5,000 miles from home. Two years of rehab later he's a 46-pound success story who just flew back across the Atlantic to be released into the Gulf of Mexico where he belongs.",
+      "url": "https://www.goodnewsnetwork.org/rare-sea-turtle-near-death-on-uk-beach-gets-5000-mile-lift-to-texas/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/rare-sea-turtle-near-death-on-uk-beach-gets-5000-mile-lift-to-texas",
+      "title_key": "tiny turtle washed up wales he just went home texas helicopter plane gulf tide",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-31",
+      "headline": "This iguana had babies with zero help from a male. Zookeepers are losing their minds.",
+      "blurb": "A female casque-headed iguana at an English zoo just hatched eight healthy babies through parthenogenesis — basically a virgin birth where unfertilized eggs grow into genetic clones of mom. The zoo's director called it 'one of the rarest events in the animal kingdom,' and honestly, same.",
+      "url": "https://www.smithsonianmag.com/smart-news/once-in-a-lifetime-rare-virgin-birth-of-eight-iguana-babies-surprises-zookeepers-in-england-180987315/",
+      "source": "smithsonianmag.com",
+      "url_key": "smithsonianmag.com/smart-news/once-in-a-lifetime-rare-virgin-birth-of-eight-iguana-babies-surprises-zookeepers-in-england-180987315",
+      "title_key": "iguana had babies zero help male zookeepers are losing their minds",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-08-31",
+      "headline": "She took a car hit to save two strangers. Taylor Swift just quietly covered her hospital bill.",
+      "blurb": "Ashley Taunton pulled a teen out of a crashed car during a storm, then shoved a bystander clear as a second car hydroplaned toward them — taking the impact herself. She's facing a long recovery from her injuries, and Swift just dropped $50,000 into her fundraiser with a handwritten note of support.",
+      "url": "https://www.nbcnews.com/news/us-news/taylor-swift-donates-50000-injured-mom-rcna595037",
+      "source": "nbcnews.com",
+      "url_key": "nbcnews.com/news/us-news/taylor-swift-donates-50000-injured-mom-rcna595037",
+      "title_key": "she took car hit save two strangers taylor swift just quietly covered her hospital bill",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -8282,6 +8318,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-08-31T01:52:24Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-08-31T07:32:36Z",
       "accepted": 3,
       "rejected": 2
     }
