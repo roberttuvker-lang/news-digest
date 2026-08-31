@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-08-30T12:18:00Z",
+  "updated": "2026-08-31T01:52:24Z",
   "stories": [
     {
       "stream": "ai",
@@ -7182,6 +7182,42 @@ window.NEWS_DATA = {
       "url_key": "news.vt.edu/articles/2026/08/science-chemistry-liu-pvc-lubricant.html",
       "title_key": "one hardest plastics recycle just became premium engine oil",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-31",
+      "headline": "Nepal's wild tigers just hit an all-time high: 429",
+      "blurb": "Nepal's newest national census counted 429 wild tigers, up from just 121 in 2009 — one of the fastest tiger recoveries anywhere on Earth. Habitat protection, anti-poaching patrols, and cross-border cooperation with India's parks made it possible.",
+      "url": "https://english.nepalnews.com/s/explainers/nepals-tiger-population-reaches-record-429-what-the-new-national-survey-reveals/",
+      "source": "english.nepalnews.com",
+      "url_key": "english.nepalnews.com/s/explainers/nepals-tiger-population-reaches-record-429-what-the-new-national-survey-reveals",
+      "title_key": "nepal s wild tigers just hit all time high 429",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-31",
+      "headline": "He turned down $400 million — and gave his company away instead",
+      "blurb": "Eddie Smith Jr., 83, spent 58 years turning Grady-White Boats from near-bankrupt into a company worth hundreds of millions, then rejected a $400 million buyout to place it in a charitable trust sending over 90% of future profits to conservation, health care, and education. He says his workers and the company's mission mattered more than the payout.",
+      "url": "https://www.theoutdoorwire.com/features/2026/08/he-turned-down-400-million-for-grady-white-heres-why/",
+      "source": "theoutdoorwire.com",
+      "url_key": "theoutdoorwire.com/features/2026/08/he-turned-down-400-million-for-grady-white-heres-why",
+      "title_key": "he turned down 400 million gave his company away instead",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-08-31",
+      "headline": "Costa Rica just made wildlife crossings the law of the land",
+      "blurb": "Lawmakers unanimously passed a bill requiring wildlife crossings on any road, new or existing, shown to endanger animal movement, responding to more than 19,000 recorded roadkill incidents. It's a rare case of a country retrofitting its own infrastructure specifically to protect wildlife.",
+      "url": "https://news.mongabay.com/short-article/2026/08/costa-rica-to-require-wildlife-crossings-for-roads-when-they-impact-fauna/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/short-article/2026/08/costa-rica-to-require-wildlife-crossings-for-roads-when-they-impact-fauna",
+      "title_key": "costa rica just made wildlife crossings law land",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -8239,6 +8275,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-30T12:18:00Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-08-31T01:52:24Z",
       "accepted": 3,
       "rejected": 2
     }
