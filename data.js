@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-01T01:53:26Z",
+  "updated": "2026-09-01T07:30:13Z",
   "stories": [
     {
       "stream": "ai",
@@ -7326,6 +7326,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260828082330.htm",
       "title_key": "cancer therapy just put severe arthritis into remission",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-01",
+      "headline": "Monkeys Just Rewrote the Rulebook on How Your Ancestors Climbed Trees",
+      "blurb": "Scientists filming wild sooty mangabeys in an Ivory Coast forest caught them shimmying straight up skinny trunks by bending sharply at the midfoot — nearly 46 degrees, almost as flexible as a chimp's ankle. Evolution, it turns out, had a secret climbing trick hidden in monkey feet all along, and it just upended assumptions about how our own ancestors got around.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260829235942.htm",
+      "title_key": "monkeys just rewrote rulebook how your ancestors climbed trees",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-01",
+      "headline": "Physicists Built a 'Quantum Bath' and Entanglement Just... Happens Now",
+      "blurb": "Researchers at ISTA dunked distant qubits in a shared bath of correlated microwave photons and watched them tumble into entanglement all on their own — no constant babysitting, no active control, just physics doing the work. It confirms a 20-year-old prediction and could make wiring up future quantum computers dramatically simpler.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260830000002.htm",
+      "title_key": "physicists built quantum bath entanglement just happens now",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-01",
+      "headline": "A Store Owner's Hunch About the Number 13 Just Won a Man $1 Million",
+      "blurb": "An Ohio shopper wasn't planning to buy a pricey scratch-off — until the store owner pointed out the ticket was numbered 13, his lucky number. Two duds later, ticket three revealed a cool $1 million top prize from the Ohio Lottery's '$1,000,000 Stacked' game.",
+      "url": "https://www.upi.com/Odd_News/2026/08/31/lotto-Ohio-Lottery-lucky-number/4911788199150",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/31/lotto-ohio-lottery-lucky-number/4911788199150",
+      "title_key": "store owner s hunch about number 13 just won man 1 million",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -8411,6 +8447,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-01T01:53:26Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-01T07:30:13Z",
       "accepted": 3,
       "rejected": 2
     }
