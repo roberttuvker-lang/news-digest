@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-31T12:19:26Z",
+  "updated": "2026-09-01T01:53:26Z",
   "stories": [
     {
       "stream": "ai",
@@ -7290,6 +7290,42 @@
       "url_key": "sciencedaily.com/releases/2026/08/260829035227.htm",
       "title_key": "scientists cracked how grow real bioavailable b12 algae",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-01",
+      "headline": "Coal's Share of Europe's Power Just Hit an All-Time Low",
+      "blurb": "Coal generated just 9.2% of the EU's electricity in 2025, its lowest share on record and down from over a third in 1990, as wind and solar keep pushing fossil fuels off the grid. Renewables are now on track to overtake coal as the world's leading power source this year.",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260813-1",
+      "source": "ec.europa.eu",
+      "url_key": "ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260813-1",
+      "title_key": "coal s share europe s power just hit all time low",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-01",
+      "headline": "Scientists Found Seven Frog Species Hiding in Plain Sight",
+      "blurb": "Madagascar's shy 'diamond frogs' turned out to be far more diverse than anyone knew: researchers combined DNA from century-old museum specimens with wild-recorded frog calls to identify seven brand-new species. The find is already shaping how Madagascar plans its next wave of protected wild areas.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260828082347.htm",
+      "title_key": "scientists found seven frog species hiding plain sight",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-01",
+      "headline": "A Cancer Therapy Just Put Severe Arthritis Into Remission",
+      "blurb": "In the first trial of its kind, doctors at Charité in Berlin used CAR T-cell therapy, originally built to fight blood cancers, on six patients with severe, treatment-resistant rheumatoid arthritis, and three are now in sustained remission with no medication at all. Researchers think it works by giving the immune system a clean reset.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260828082330.htm",
+      "title_key": "cancer therapy just put severe arthritis into remission",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8368,6 +8404,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-08-31T12:19:26Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-01T01:53:26Z",
       "accepted": 3,
       "rejected": 2
     }
