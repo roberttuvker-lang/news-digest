@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-01T07:30:13Z",
+  "updated": "2026-09-01T12:21:02Z",
   "stories": [
     {
       "stream": "ai",
@@ -7362,6 +7362,42 @@
       "url_key": "upi.com/odd_news/2026/08/31/lotto-ohio-lottery-lucky-number/4911788199150",
       "title_key": "store owner s hunch about number 13 just won man 1 million",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-01",
+      "headline": "Century-Old Physics Just Got Overturned — By a Diamond",
+      "blurb": "Scientists at the University of Hong Kong bent an ultrathin diamond membrane and watched it generate electricity, something textbooks insisted diamonds could never do. The effect could power tiny implantable medical sensors with no battery at all — a whole new category of self-powered devices hiding in plain sight for a century.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260829035223.htm",
+      "title_key": "century old physics just got overturned diamond",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-01",
+      "headline": "One Shot, Weeks of Relief: The Injectable Gel Rewriting Arthritis Care",
+      "blurb": "Researchers built an injectable gel that turns liquid to a slow-release, joint-lubricating semisolid right inside the body, cutting how often arthritis patients need needles while easing pain and inflammation for weeks at a stretch. It's a disease-fighting approach, not just a painkiller — real progress toward joints that heal instead of just hurt less.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260829235947.htm",
+      "title_key": "one shot weeks relief injectable gel rewriting arthritis care",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-01",
+      "headline": "Clean Your Air, Sharpen Your Mind: The Surprising Power of a Home Air Purifier",
+      "blurb": "In a month-long trial, adults over 40 who ran a HEPA air purifier at home thought about 12% faster on cognitive tests than when breathing unfiltered air. A simple, affordable device that quietly protects the aging brain from everyday pollution — proof that some of the best health wins are the easiest ones.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260830000016.htm",
+      "title_key": "clean your air sharpen your mind surprising power home air purifier",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8454,6 +8490,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-01T07:30:13Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-01T12:21:02Z",
       "accepted": 3,
       "rejected": 2
     }
