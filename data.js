@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-01T12:21:02Z",
+  "updated": "2026-09-02T01:55:44Z",
   "stories": [
     {
       "stream": "ai",
@@ -7398,6 +7398,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/08/260830000016.htm",
       "title_key": "clean your air sharpen your mind surprising power home air purifier",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-02",
+      "headline": "A Few Weeks of Gratitude Training Could Lower Your Blood Pressure",
+      "blurb": "A new study found that practicing mindfulness, gratitude, and optimism for just 8 to 12 weeks measurably improved blood pressure, inflammation, and other heart-health markers. Researchers say the low-cost mental exercises could become a simple addition to standard cardiac care.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901010721.htm",
+      "title_key": "few weeks gratitude training could lower your blood pressure",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-02",
+      "headline": "A Once-Nightly Pill Just Gave Sleep Apnea Patients a Break From CPAP",
+      "blurb": "In a phase 3 trial of 646 adults, the pill AD109 cut breathing interruptions by 44%, and more than 40% of patients dropped to a milder disease category, researchers reported. It works by strengthening the throat muscles that collapse during sleep, offering a needle-free alternative to CPAP machines.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/08/260831015203.htm",
+      "title_key": "once nightly pill just gave sleep apnea patients break cpap",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-02",
+      "headline": "A Class Ring Lost in a New York Lake for 28 Years Just Found Its Way Home",
+      "blurb": "Metal-detecting hobbyists Michael Siegle and Dylan LaPort pulled a 1988 Red Creek High School class ring from Great Sacandaga Lake and tracked down its owner, Kim Rasbeck, who lost it there as a teenager. She has her ring back nearly three decades later.",
+      "url": "https://www.upi.com/Odd_News/2026/08/31/lost-ring-Red-Creek-High-School-Great-Sacandaga-Lake/1151788199743/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/31/lost-ring-red-creek-high-school-great-sacandaga-lake/1151788199743",
+      "title_key": "class ring lost new york lake 28 years just found way home",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -8497,6 +8533,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-01T12:21:02Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-02T01:55:44Z",
       "accepted": 3,
       "rejected": 2
     }
