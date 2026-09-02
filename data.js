@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-02T07:25:00Z",
+  "updated": "2026-09-02T12:21:46Z",
   "stories": [
     {
       "stream": "ai",
@@ -7470,6 +7470,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/31/canda-hydro-floating-island-williston-reservoir/1031788196078",
       "title_key": "forested island vanished canadian lake then turned up 19 miles away",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-02",
+      "headline": "Doctors Just Gave a Human Patient a Therapy Designed to Make Their Cells Young Again",
+      "blurb": "In a world first, Life Biosciences dosed a person with ER-100, a gene therapy that partially reprograms aging cells back toward a youthful state, starting with a trial for age-related vision loss. If it proves safe, it's a real step toward treating aging itself as a treatable condition rather than an inevitability.",
+      "url": "https://www.sciencealert.com/world-first-patient-receives-high-risk-therapy-to-make-cells-young-again",
+      "source": "sciencealert.com",
+      "url_key": "sciencealert.com/world-first-patient-receives-high-risk-therapy-to-make-cells-young-again",
+      "title_key": "doctors just gave human patient therapy designed make their cells young again",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-02",
+      "headline": "A Fusion Reactor Built to Actually Sell Power Just Finished Its Magnets",
+      "blurb": "Commonwealth Fusion Systems has now installed all 18 superconducting magnets on its SPARC reactor, clearing the way for the integrated tests that lead to first plasma in 2027. Backed by a record $1 billion funding round, it's one of the clearest signs yet that commercial fusion power is closing in on reality.",
+      "url": "https://www.prismnews.com/hobbies/nuclear-reactions/commonwealth-fusion-systems-installs-first-sparc-magnet-eyes-2026-plasma-milestone",
+      "source": "prismnews.com",
+      "url_key": "prismnews.com/hobbies/nuclear-reactions/commonwealth-fusion-systems-installs-first-sparc-magnet-eyes-2026-plasma-milestone",
+      "title_key": "fusion reactor built actually sell power just finished magnets",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-02",
+      "headline": "A 1,000-Kilometer EV Battery Is About to Roll Off the Line",
+      "blurb": "Dongfeng is moving its 350 Wh/kg solid-state battery into mass production this September, promising electric cars with over 1,000 km of range that still hold 72% of their charge at -30°C. Solid-state batteries have been 'almost here' for years — this is one of the first landing in real production vehicles.",
+      "url": "https://carnewschina.com/2025/11/13/dongfengs-350-wh-kg-solid-state-battery-to-exceed-1000-km-range-launching-in-2026/",
+      "source": "carnewschina.com",
+      "url_key": "carnewschina.com/2025/11/13/dongfengs-350-wh-kg-solid-state-battery-to-exceed-1000-km-range-launching-in-2026",
+      "title_key": "1 000 kilometer ev battery about roll off line",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -8583,6 +8619,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-02T07:25:00Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-02T12:21:46Z",
       "accepted": 3,
       "rejected": 2
     }
