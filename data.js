@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-02T01:55:44Z",
+  "updated": "2026-09-02T07:25:00Z",
   "stories": [
     {
       "stream": "ai",
@@ -7434,6 +7434,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/08/31/lost-ring-red-creek-high-school-great-sacandaga-lake/1151788199743",
       "title_key": "class ring lost new york lake 28 years just found way home",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-02",
+      "headline": "A Man Just Got Human-Cannonballed Into a Lake — On Purpose, For a World Record",
+      "blurb": "Robin Steiner got launched more than 92 feet into the air off a nine-story airbag, threw in some somersaults, and stuck the landing in a Swiss lake to set a new Guinness World Record for 'blobbing.' Peak human silliness, executed with Olympic precision.",
+      "url": "https://news.symplexia.com/2026/09/news/daily-news/video-blobbing-world-record-broken-guinness-world-records-says/",
+      "source": "news.symplexia.com",
+      "url_key": "news.symplexia.com/2026/09/news/daily-news/video-blobbing-world-record-broken-guinness-world-records-says",
+      "title_key": "man just got human cannonballed into lake purpose world record",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-02",
+      "headline": "Scientists Finally Solved Why Baby Snakes Curl Up Like Tiny Cinnamon Rolls",
+      "blurb": "After studying over 900 embryos across 39 limbless reptile species, researchers found snake embryos grow their bodies faster than their guts can keep up — so the body buckles and spirals right-handed inside the egg, like a top-fueled cinnamon roll. A delightfully weird mystery, cracked.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901070516.htm",
+      "title_key": "scientists finally solved why baby snakes curl up like tiny cinnamon rolls",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-02",
+      "headline": "A Forested Island Vanished From a Canadian Lake — Then Turned Up 19 Miles Away",
+      "blurb": "A tree-covered island bigger than a football field broke loose from the shore of a British Columbia reservoir, drifted out of sight, and was later spotted by satellite parked 19 miles up the lake. Nature, just quietly rearranging the furniture.",
+      "url": "https://www.upi.com/Odd_News/2026/08/31/canda-Hydro-floating-island-Williston-Reservoir/1031788196078/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/08/31/canda-hydro-floating-island-williston-reservoir/1031788196078",
+      "title_key": "forested island vanished canadian lake then turned up 19 miles away",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -8540,6 +8576,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-02T01:55:44Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-02T07:25:00Z",
       "accepted": 3,
       "rejected": 2
     }
