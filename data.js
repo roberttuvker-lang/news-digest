@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-02T12:21:46Z",
+  "updated": "2026-09-03T01:52:49Z",
   "stories": [
     {
       "stream": "ai",
@@ -7506,6 +7506,42 @@ window.NEWS_DATA = {
       "url_key": "carnewschina.com/2025/11/13/dongfengs-350-wh-kg-solid-state-battery-to-exceed-1000-km-range-launching-in-2026",
       "title_key": "1 000 kilometer ev battery about roll off line",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-03",
+      "headline": "A Bronx Pizzeria Owner's Sign Turned Into a Promise to Feed Anyone Who's Hungry",
+      "blurb": "Daniel Romano saw a woman eating from his trash outside D'Romano's Pizza, walked her inside, and handed her a hot slice — then hung a sign promising free pizza and water to anyone who needs it. The story has gone viral, with strangers nationwide now calling in to pay it forward.",
+      "url": "https://hoodline.com/2026/09/throggs-neck-pizzeria-owner-s-free-slice-sign-feeds-a-hungry-bronx/",
+      "source": "hoodline.com",
+      "url_key": "hoodline.com/2026/09/throggs-neck-pizzeria-owner-s-free-slice-sign-feeds-a-hungry-bronx",
+      "title_key": "bronx pizzeria owner s sign turned into promise feed anyone who s hungry",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-03",
+      "headline": "A Father-Son Garage Fixes Cars for Whatever Families Can Afford — No Questions Asked",
+      "blurb": "Michael Kuba and his teenage son Matthew run The Junkie Garage in Glendale, Arizona, repairing brakes, AC and batteries for veterans, seniors and single parents who bring their own parts and pay only what they can. No income checks, no paperwork — just families getting back on the road.",
+      "url": "https://929tomfm.iheart.com/featured/andi-and-bob/content/2026-09-02-daily-do-good-family-nonprofit-garage-lets-customers-pay-what-they-can-for-repairs/",
+      "source": "929tomfm.iheart.com",
+      "url_key": "929tomfm.iheart.com/featured/andi-and-bob/content/2026-09-02-daily-do-good-family-nonprofit-garage-lets-customers-pay-what-they-can-for-repairs",
+      "title_key": "father son garage fixes cars whatever families can afford no questions asked",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-03",
+      "headline": "A Simple Blood Test Can Now Tell a Heart Attack From 'Broken Heart Syndrome'",
+      "blurb": "Zurich researchers built the BioTAK score, a blood-biomarker test that correctly told the two conditions apart in nearly 90% of almost 1,800 patients. It could spare many people unnecessary invasive cardiac catheterization.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070518.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901070518.htm",
+      "title_key": "simple blood test can now tell heart attack broken heart syndrome",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8626,6 +8662,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-02T12:21:46Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-03T01:52:49Z",
       "accepted": 3,
       "rejected": 2
     }
