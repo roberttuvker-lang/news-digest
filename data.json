@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03T01:52:49Z",
+  "updated": "2026-09-03T07:22:12Z",
   "stories": [
     {
       "stream": "ai",
@@ -7542,6 +7542,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260901070518.htm",
       "title_key": "simple blood test can now tell heart attack broken heart syndrome",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-03",
+      "headline": "Saturn Just Grew a Second Weird Geometric Cloud Pattern — This One's a Decagon",
+      "blurb": "Astronomers using the Hubble Space Telescope spotted a massive 10-sided jet stream swirling around Saturn's south pole — a giant sibling to the planet's famous northern hexagon. It's roughly 104,000 miles wide and apparently formed sometime between 2017 and 2023 while nobody was looking. Turns out Saturn just likes geometry.",
+      "url": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
+      "title_key": "saturn just grew second weird geometric cloud pattern one s decagon",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-03",
+      "headline": "Nearly 2,000 People Downed the Same Terrible Shot at Once — For an Actual Guinness World Record",
+      "blurb": "A Chicago bar rallied 1,969 people to simultaneously knock back shots of Malört, the city's famously vile local liqueur, setting a new Guinness World Record. Illinois Gov. J.B. Pritzker hopped behind the bar to pour, and the stunt — billed as 'a bad decision for a good cause' — raised over $25,000 for a local community charity.",
+      "url": "https://blockclubchicago.org/2026/08/31/chicagoans-set-malort-record-for-most-people-to-down-a-shot-at-same-time/",
+      "source": "blockclubchicago.org",
+      "url_key": "blockclubchicago.org/2026/08/31/chicagoans-set-malort-record-for-most-people-to-down-a-shot-at-same-time",
+      "title_key": "nearly 2 000 people downed same terrible shot once actual guinness world record",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-03",
+      "headline": "A Baby Bear Decided It Was Time to See the City, Wandered Into Boise",
+      "blurb": "Southeast Boise residents got an unexpected morning visitor when a young black bear ambled through their neighborhood on what looked like a little sightseeing trip. Idaho Fish and Game showed up to safely usher the curious cub back to the wilderness, no drama, just one very good story for the block.",
+      "url": "https://1035kissfmboise.com/bear-boise-sighting-2026/",
+      "source": "1035kissfmboise.com",
+      "url_key": "1035kissfmboise.com/bear-boise-sighting-2026",
+      "title_key": "baby bear decided time see city wandered into boise",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -8669,6 +8705,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-03T01:52:49Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-03T07:22:12Z",
       "accepted": 3,
       "rejected": 2
     }
