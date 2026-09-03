@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-03T07:22:12Z",
+  "updated": "2026-09-03T12:23:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -7578,6 +7578,42 @@ window.NEWS_DATA = {
       "url_key": "1035kissfmboise.com/bear-boise-sighting-2026",
       "title_key": "baby bear decided time see city wandered into boise",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-03",
+      "headline": "A Quantum Assist Just Made Brutal Optimization Problems 100x Faster",
+      "blurb": "Rigetti Computing and Purdue University showed that a few passes through a quantum circuit can precondition notoriously hard optimization problems — like power-grid routing — so classical solvers crack them in under a second instead of hours. It's a rare case where today's noisy, near-term quantum hardware delivers a real speedup, no fault-tolerant future required. Smarter grids, logistics, and scheduling may be a lot closer than we thought.",
+      "url": "https://www.rigetti.com/research/optimization-via-quantum-preconditioning",
+      "source": "rigetti.com",
+      "url_key": "rigetti.com/research/optimization-via-quantum-preconditioning",
+      "title_key": "quantum assist just made brutal optimization problems 100x faster",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-03",
+      "headline": "Claude's Newest Model Just Got Smarter, Faster, and 75% Cheaper to Run",
+      "blurb": "Anthropic released Claude Fable 5.1, setting fresh records on coding and long-running problem-solving benchmarks while cutting the cost of cached prompts by 75%. More capable AI arriving hand-in-hand with lower cost means the tools scientists, developers, and businesses rely on keep getting more accessible, not less. That's the trend worth cheering for.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive",
+      "title_key": "claude s newest model just got smarter faster 75 cheaper run",
+      "topic": "AI"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-03",
+      "headline": "Rocket Lab Just Flew Its 15th Mission of the Year — Still a Perfect Streak",
+      "blurb": "Electron's 'Owl Around The World' mission lofted another radar-imaging satellite for Synspective, extending Rocket Lab's 100% mission-success record on the constellation and marking its 94th orbital launch overall. Each new satellite sharpens a growing global eye for disaster response, infrastructure monitoring, and climate tracking. With 16 more launches already booked through 2030, commercial space is only speeding up.",
+      "url": "https://spacenews.com/rocket-lab-launches-11th-synspective-satellite/",
+      "source": "spacenews.com",
+      "url_key": "spacenews.com/rocket-lab-launches-11th-synspective-satellite",
+      "title_key": "rocket lab just flew 15th mission year still perfect streak",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -8712,6 +8748,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-03T07:22:12Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-03T12:23:08Z",
       "accepted": 3,
       "rejected": 2
     }
