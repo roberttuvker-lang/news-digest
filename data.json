@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T07:23:48Z",
+  "updated": "2026-09-04T12:20:38Z",
   "stories": [
     {
       "stream": "ai",
@@ -7686,6 +7686,42 @@
       "url_key": "ksat.com/news/local/2026/08/31/alzheimers-patient-who-saw-brain-plaque-disappear-shares-story-in-national-campaign",
       "title_key": "her brain scans used show alzheimer s plaque now they don t",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-04",
+      "headline": "Scientists Just Filmed the Handshake That May Have Sparked Complex Life",
+      "blurb": "In Australia's Shark Bay, researchers caught the first direct images of an ancient archaeon physically linked to a bacterium, apparently swapping nutrients in real time — exactly the kind of partnership scientists think birthed the first complex cells billions of years ago. It's a rare living glimpse of one of evolution's biggest leaps, and it points to whole new chapters still hiding in Earth's oldest ecosystems.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260902234514.htm",
+      "title_key": "scientists just filmed handshake may sparked complex life",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-04",
+      "headline": "China's Solar Farms Just Out-Built Its Coal Plants",
+      "blurb": "China's installed solar capacity has officially overtaken coal-fired power for the first time, hitting 1.286 billion kilowatts — more than the US, India, Germany and the EU's solar fleets combined. From the world's biggest emitter, that's about as strong a signal as it gets that the energy transition has real momentum.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
+      "source": "bloomberg.com",
+      "url_key": "bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
+      "title_key": "china s solar farms just out built coal plants",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-04",
+      "headline": "A Brain Implant Just Got the FDA's Fast Lane for People Who Can't Move at All",
+      "blurb": "The FDA has granted CorTec's Brain Interchange implant a second Breakthrough Device Designation, this one aimed at letting people with severe, non-progressive quadriplegia control a computer cursor by thought alone. Paired with its earlier designation for stroke rehab, the same implant can now both help brains heal and restore digital independence to people who've lost movement entirely.",
+      "url": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation",
+      "source": "mobihealthnews.com",
+      "url_key": "mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation",
+      "title_key": "brain implant just got fda s fast lane people who can t move all",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8841,6 +8877,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-04T07:23:48Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-04T12:20:38Z",
       "accepted": 3,
       "rejected": 2
     }
