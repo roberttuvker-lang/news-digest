@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T01:52:30Z",
+  "updated": "2026-09-04T07:23:48Z",
   "stories": [
     {
       "stream": "ai",
@@ -7650,6 +7650,42 @@
       "url_key": "en.ilsole24ore.com/art/new-milanbrussels-european-sleeper-night-train-makes-its-debut-ajdt6o0",
       "title_key": "new overnight train just linked brussels milan without single flight",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-04",
+      "headline": "A Guy Went to His First Music Festival Alone — Strangers Adopted Him for the Weekend",
+      "blurb": "Adam James, a 23-year-old aspiring DJ with autism and ADHD, showed up at Boomtown Festival solo after saving all year to go. A group of lads from Bristol took him under their wing, camped with him, and gave him five days he called the best of his life — he later texted his dad, 'I think I've found my people.' The story went viral and Adam's now landed real DJ gigs.",
+      "url": "https://www.yahoo.com/news/us/articles/strangers-festival-help-autistic-man-151028093.html",
+      "source": "yahoo.com",
+      "url_key": "yahoo.com/news/us/articles/strangers-festival-help-autistic-man-151028093.html",
+      "title_key": "guy went his first music festival alone strangers adopted him weekend",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-04",
+      "headline": "A 19-Year-Old Surfer Just Pulled Off a Perfect 10 on One of the Gnarliest Waves in Fiji",
+      "blurb": "Erin Brooks opened the Fiji Pro at Cloudbreak with an 8.00, then topped herself with a flawless 10-point barrel ride for an 18 out of 20 heat total — calling it 'the best heat of my life.' It clinched her second Fiji Pro title, fresh off a Tahiti Pro win weeks earlier.",
+      "url": "https://www.theinertia.com/surf/erin-brooks-opens-fiji-pro-perfect-10/",
+      "source": "theinertia.com",
+      "url_key": "theinertia.com/surf/erin-brooks-opens-fiji-pro-perfect-10",
+      "title_key": "19 year old surfer just pulled off perfect 10 one gnarliest waves fiji",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-04",
+      "headline": "Her Brain Scans Used to Show Alzheimer's Plaque. Now They Don't.",
+      "blurb": "Gail Youngdale enrolled in a clinical trial for a plaque-clearing Alzheimer's therapy after her diagnosis — and scans that once showed nine areas of toxic amyloid buildup now show none. She's kept her independence, remarried a childhood sweetheart she reconnected with at a reunion, and is now sharing her story to push other families toward early screening.",
+      "url": "https://www.ksat.com/news/local/2026/08/31/alzheimers-patient-who-saw-brain-plaque-disappear-shares-story-in-national-campaign/",
+      "source": "ksat.com",
+      "url_key": "ksat.com/news/local/2026/08/31/alzheimers-patient-who-saw-brain-plaque-disappear-shares-story-in-national-campaign",
+      "title_key": "her brain scans used show alzheimer s plaque now they don t",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -8798,6 +8834,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-04T01:52:30Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-04T07:23:48Z",
       "accepted": 3,
       "rejected": 2
     }
