@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03T12:23:08Z",
+  "updated": "2026-09-04T01:52:30Z",
   "stories": [
     {
       "stream": "ai",
@@ -7614,6 +7614,42 @@
       "url_key": "spacenews.com/rocket-lab-launches-11th-synspective-satellite",
       "title_key": "rocket lab just flew 15th mission year still perfect streak",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-04",
+      "headline": "A Century-Old Rule of Physics Just Got a Surprise Update",
+      "blurb": "Carnegie Mellon physicists found that the Hall effect, discovered in 1879 and long assumed to work only with a perpendicular magnetic field, also shows up when the field runs sideways through a material. The find, published in Nature Materials, could lead to simpler, cheaper magnetic sensors for everything from cars to medical scanners.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901010659.htm",
+      "title_key": "century old rule physics just got surprise update",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-04",
+      "headline": "Scientists Found the Bat Trick That Lets Them Shrug Off Deadly Viruses",
+      "blurb": "Researchers discovered that vesper bats, more than 500 species strong, carry two separate sets of antibody genes, an immune setup never before seen in any mammal. It may explain how bats tolerate viruses that would devastate other animals, and could point the way to new tools for fighting disease.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901010713.htm",
+      "title_key": "scientists found bat trick lets them shrug off deadly viruses",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-04",
+      "headline": "A New Overnight Train Just Linked Brussels to Milan Without a Single Flight",
+      "blurb": "European Sleeper's new direct overnight service began running between Brussels and Milan via Cologne and the Gotthard Pass, giving travelers a low-carbon way to cross four countries while they sleep. It's the latest expansion in Europe's quiet night-train revival, running three times a week each direction.",
+      "url": "https://en.ilsole24ore.com/art/new-milanbrussels-european-sleeper-night-train-makes-its-debut-AJdt6O0",
+      "source": "en.ilsole24ore.com",
+      "url_key": "en.ilsole24ore.com/art/new-milanbrussels-european-sleeper-night-train-makes-its-debut-ajdt6o0",
+      "title_key": "new overnight train just linked brussels milan without single flight",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -8755,6 +8791,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-03T12:23:08Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-04T01:52:30Z",
       "accepted": 3,
       "rejected": 2
     }
