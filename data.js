@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-04T12:20:38Z",
+  "updated": "2026-09-05T01:53:23Z",
   "stories": [
     {
       "stream": "ai",
@@ -7722,6 +7722,42 @@ window.NEWS_DATA = {
       "url_key": "mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation",
       "title_key": "brain implant just got fda s fast lane people who can t move all",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-05",
+      "headline": "A Man Prayed for His Father for 55 Years. A DNA Kit From His Wife Found Him.",
+      "blurb": "Joshua Schneeloch grew up in a German Catholic orphanage never knowing his father; a genealogist traced an Ancestry DNA test to Arthur Colbert, a U.S. serviceman once stationed in Germany. The two finally met in Texas, where more than 60 relatives were waiting to welcome him home.",
+      "url": "https://www.sunnyskyz.com/good-news/6283/He-Grew-Up-Feeling-Unwanted-After-55-Years-He-Finally-Met-the-Father-He-Prayed-For",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6283/he-grew-up-feeling-unwanted-after-55-years-he-finally-met-the-father-he-prayed-for",
+      "title_key": "man prayed his father 55 years dna kit his wife found him",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-05",
+      "headline": "Harvard Turned Ordinary Knitting Into Shape-Shifting Smart Fabric",
+      "blurb": "Harvard researchers found a way to knit ordinary fiber into fabric that snaps between different shapes and performs useful mechanical functions, with no embedded electronics needed. It's a step toward soft robots and adaptive clothing built with a technique as old as sweaters.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260901070543.htm",
+      "title_key": "harvard turned ordinary knitting into shape shifting smart fabric",
+      "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-05",
+      "headline": "Scientists Just Overturned Decades of Thinking on Why Bonnethead Sharks Have Odd Heads",
+      "blurb": "Researchers studying bonnethead sharks found that the leading explanation for why males and females have differently shaped heads doesn't hold up, opening a new chapter in understanding the species. It's a reminder of how much is still left to learn about ordinary-seeming ocean life.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260902234508.htm",
+      "title_key": "scientists just overturned decades thinking why bonnethead sharks odd heads",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -8884,6 +8920,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-04T12:20:38Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-05T01:53:23Z",
       "accepted": 3,
       "rejected": 2
     }
