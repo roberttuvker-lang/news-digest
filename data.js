@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-05T07:06:19Z",
+  "updated": "2026-09-05T12:17:27Z",
   "stories": [
     {
       "stream": "ai",
@@ -7794,6 +7794,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-09-chile-penguins-sport-copper-vests.html",
       "title_key": "chile s injured penguins are recovering tiny copper vests",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-05",
+      "headline": "Scientists Just Finished the Largest Brain Map Ever Made",
+      "blurb": "Researchers at Janelia, Cambridge, and Google Research have completed the first full wiring diagram of an entire fly's central nervous system — 166,000 neurons and 125 million synapses, mapped down to every connection. It's the biggest connectome ever built, and the techniques behind it are the same ones scientists expect to eventually crack open how much bigger brains, including ours, actually work.",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "source": "research.google",
+      "url_key": "research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
+      "title_key": "scientists just finished largest brain map ever made",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-05",
+      "headline": "A Seafood Compound Just Reversed Aging Signs in Mice",
+      "blurb": "Stanford researchers found that plasmalogens, a fatty compound abundant in edible sea squirts, restored memory, rebuilt brain-cell connections, and even regrew thicker hair in older mice. Plasmalogen levels naturally crash as we age — this is the first strong evidence that topping them back up could turn some of that decline around.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260902234518.htm",
+      "title_key": "seafood compound just reversed aging signs mice",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-05",
+      "headline": "A Dark Matter Detector Just Caught Something It Can't Explain",
+      "blurb": "Deep under South Dakota, the LUX-ZEPLIN experiment recorded a single, unexplained particle collision with exactly the signature physicists expect from a dark-matter particle striking an atom. It's nowhere near proof yet, but with the detector running clean through 2028, it's the closest hint in years that we might finally see what 85% of the universe's matter actually is.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260904000313.htm",
+      "title_key": "dark matter detector just caught something can t explain",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -8970,6 +9006,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-05T07:06:19Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-05T12:17:27Z",
       "accepted": 3,
       "rejected": 2
     }
