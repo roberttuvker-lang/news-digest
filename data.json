@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T01:53:23Z",
+  "updated": "2026-09-05T07:06:19Z",
   "stories": [
     {
       "stream": "ai",
@@ -7758,6 +7758,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260902234508.htm",
       "title_key": "scientists just overturned decades thinking why bonnethead sharks odd heads",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-05",
+      "headline": "Nose-Blowing Aerodynamics Just Won a Nobel (Sort Of)",
+      "blurb": "The 2026 Ig Nobel Prizes handed out awards for gloriously weird science — splash-free urinal physics, cockroach milk's surprising calorie punch, and a serious study on why babies smell amazing but teens don't. Zurich's finest minds proved science can be brilliant and ridiculous at the exact same time.",
+      "url": "https://www.cnn.com/2026/09/03/science/ig-nobel-awards-2026-scli-intl",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/09/03/science/ig-nobel-awards-2026-scli-intl",
+      "title_key": "nose blowing aerodynamics just won nobel sort",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-05",
+      "headline": "91-Year-Old Falls 71 Times, Still Finishes the Entire Appalachian Trail",
+      "blurb": "Dale 'Grey Beard' Sanders set out to reclaim his title as the oldest person ever to thru-hike the 2,193-mile Appalachian Trail — and did it, hard falls and a hospital stopover included, topping out on Maine's Mount Katahdin. At 91. That's the whole trail.",
+      "url": "https://www.cnn.com/2026/09/01/travel/dale-sanders-grey-beard-oldest-appalachian-trail-hiker",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/09/01/travel/dale-sanders-grey-beard-oldest-appalachian-trail-hiker",
+      "title_key": "91 year old falls 71 times still finishes entire appalachian trail",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-05",
+      "headline": "Chile's Injured Penguins Are Recovering in Tiny Copper Vests",
+      "blurb": "Researchers at Buin Zoo custom-fit snug red vests laced with copper and zinc onto wounded Humboldt penguins, borrowing a healing trick already used on dogs and cats to fight off infection. The birds get faster-healing wounds and, frankly, an incredible outfit.",
+      "url": "https://phys.org/news/2026-09-chile-penguins-sport-copper-vests.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-09-chile-penguins-sport-copper-vests.html",
+      "title_key": "chile s injured penguins are recovering tiny copper vests",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -8927,6 +8963,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-05T01:53:23Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-05T07:06:19Z",
       "accepted": 3,
       "rejected": 2
     }
