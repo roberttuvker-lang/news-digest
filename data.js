@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-06T01:52:29Z",
+  "updated": "2026-09-06T07:06:37Z",
   "stories": [
     {
       "stream": "ai",
@@ -7908,6 +7908,42 @@ window.NEWS_DATA = {
       "title_key": "cisco rolls out personalized ai agents all 90 000 staff",
       "topic": "AI",
       "category": "Tools"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-06",
+      "headline": "Meet Thismia daemona, the tiny 'devil flower' that spent its whole life hiding underground",
+      "blurb": "Botanists in a Thai national park found a wildly rare flower with jet-black petals, horn-like spikes, and glowing orange 'eyes' — and it doesn't even bother with photosynthesis, mooching nutrients from underground fungi instead. Fewer than 50 are known to exist, and honestly, it looks like it was designed by a Halloween enthusiast with a botany degree.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260903064217.htm",
+      "title_key": "meet thismia daemona tiny devil flower spent whole life hiding underground",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-06",
+      "headline": "Ecuador's 'Turtle Women' just hatched 208 baby river turtles by hand",
+      "blurb": "Seven Siekopai women in the Amazon, who call themselves Tari Nomiowa'i — the turtle women — patrol riverbanks for nests, ferry the eggs to safety, and hand-raise the hatchlings on cassava and sweet potato until they're ready for the river. This season alone: 235 eggs collected, 208 hatchlings released, with local kids helping send them off.",
+      "url": "https://news.mongabay.com/short-article/2026/09/indigenous-turtle-women-help-vulnerable-reptiles-recover-in-ecuadorian-amazon/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/short-article/2026/09/indigenous-turtle-women-help-vulnerable-reptiles-recover-in-ecuadorian-amazon",
+      "title_key": "ecuador s turtle women just hatched 208 baby river turtles hand",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-06",
+      "headline": "UK prisoners are quietly hand-building hundreds of hedgehog homes",
+      "blurb": "In a carpentry class at Jersey's La Moye Prison, inmates are turning reclaimed pallet wood into floorless little hedgehog boxes that let the animals burrow safe from lawnmowers and traffic. It's not a one-off: since 2013 the program has churned out more than 3,000 wildlife boxes, and this batch of 20 just went straight to the Jersey Hedgehog Preservation Group.",
+      "url": "https://www.goodgoodgood.co/articles/jersey-hedgehog-preservation-group-la-moye-prison",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/jersey-hedgehog-preservation-group-la-moye-prison",
+      "title_key": "uk prisoners are quietly hand building hundreds hedgehog homes",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9100,6 +9136,13 @@ window.NEWS_DATA = {
       "at": "2026-09-06T01:52:29Z",
       "accepted": 6,
       "rejected": 6
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-06T07:06:37Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
