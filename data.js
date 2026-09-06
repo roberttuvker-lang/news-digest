@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-05T12:17:27Z",
+  "updated": "2026-09-06T01:52:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -7830,6 +7830,84 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260904000313.htm",
       "title_key": "dark matter detector just caught something can t explain",
       "topic": "Science"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "OpenAI ships GPT-6 Astra, its first 'Critical'-threshold cyber model",
+      "blurb": "OpenAI began rolling out GPT-6 Astra on Sept 3, its first model to cross OpenAI's internal 'Critical' cybersecurity threshold, with access limited to vetted Daybreak program partners. Sam Altman called it a new capability level.",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "title_key": "openai ships gpt 6 astra first critical threshold cyber model",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "Google launches Gemini 3.8 Flash with a cyber-focused variant",
+      "blurb": "Google shipped Gemini 3.8 Flash on Sept 2 at the same price as its predecessor, plus a Fairwind-gated 'Cyber' variant, as frontier labs race to ship security-specialized models.",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "blog.google",
+      "url_key": "blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "title_key": "google launches gemini 3 8 flash cyber focused variant",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "Meta releases Muse Spark 1.3 with a new contributor tier",
+      "blurb": "Meta shipped Muse Spark 1.3 on Sept 1, adding a contributor tier the same evening, part of the densest 48-hour run of frontier model launches since August.",
+      "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+      "source": "local-ai-zone.github.io",
+      "url_key": "local-ai-zone.github.io/blog/september_2026_ai_model_updates.html",
+      "title_key": "meta releases muse spark 1 3 new contributor tier",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "Nvidia reportedly nears $13B deal for Hugging Face",
+      "blurb": "Nvidia is reported to be closing a $13 billion acquisition of Hugging Face, the open-weight model hub agencies rely on for hosting and sharing models outside the frontier labs.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "title_key": "nvidia reportedly nears 13b deal hugging face",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "US pushes AI deregulation at G20 as EU tightens AI Act",
+      "blurb": "The US argued against AI-specific rules at a G20 meeting this week, while Brussels said it is 'ready to take all necessary steps' to enforce AI Act safety and copyright compliance.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
+      "source": "aljazeera.com",
+      "url_key": "aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
+      "title_key": "us pushes ai deregulation g20 eu tightens ai act",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-06",
+      "headline": "Cisco rolls out personalized AI agents to all 90,000 staff",
+      "blurb": "Cisco expanded its 'MyAgent' program company-wide, giving each of its roughly 90,000 employees a personal agent tuned to their role and recent activity — a template worth studying for client rollouts.",
+      "url": "https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/",
+      "source": "siliconangle.com",
+      "url_key": "siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies",
+      "title_key": "cisco rolls out personalized ai agents all 90 000 staff",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -9015,6 +9093,13 @@ window.NEWS_DATA = {
       "at": "2026-09-05T12:17:27Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-09-06T01:52:29Z",
+      "accepted": 6,
+      "rejected": 6
     }
   ]
 };
