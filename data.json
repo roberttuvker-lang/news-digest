@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T07:06:37Z",
+  "updated": "2026-09-06T12:17:02Z",
   "stories": [
     {
       "stream": "ai",
@@ -7944,6 +7944,42 @@
       "url_key": "goodgoodgood.co/articles/jersey-hedgehog-preservation-group-la-moye-prison",
       "title_key": "uk prisoners are quietly hand building hundreds hedgehog homes",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-06",
+      "headline": "A European rocket reached orbit from European soil for the first time ever",
+      "blurb": "German startup Isar Aerospace's Spectrum rocket lifted off from Andøya, Norway, on September 5th and delivered five satellites to orbit — the first orbital launch ever flown from European soil. It's a huge step toward a Europe that doesn't have to hitch a ride to space, with a homegrown, in-house-built launch vehicle now proven end to end.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "title_key": "european rocket reached orbit european soil first time ever",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-06",
+      "headline": "Life uses 4 DNA letters. Scientists just proved a cell's own machinery can read 8.",
+      "blurb": "UC San Diego researchers showed that RNA polymerase, the enzyme every cell uses to read DNA, can accurately transcribe a synthetic eight-letter genetic alphabet using its normal biological process. It's a foundational step toward genetically engineered systems, new diagnostics, and therapeutics built on an expanded code of life.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260904000310.htm",
+      "title_key": "life uses 4 dna letters scientists just proved cell s own machinery can read 8",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-06",
+      "headline": "Scientists found a weak spot in one of the deadliest brain cancers",
+      "blurb": "Researchers discovered that blocking a protein called SET stops glioblastoma tumors from forming in preclinical models, and that hitting related proteins makes the cancer cells far more vulnerable to treatment. It's designed to make existing therapies work better rather than replace them — real progress against a cancer that has had almost none.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260903064242.htm",
+      "title_key": "scientists found weak spot one deadliest brain cancers",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -9141,6 +9177,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-06T07:06:37Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-06T12:17:02Z",
       "accepted": 3,
       "rejected": 2
     }
