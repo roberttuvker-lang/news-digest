@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-07T01:54:32Z",
+  "updated": "2026-09-07T07:26:04Z",
   "stories": [
     {
       "stream": "ai",
@@ -8016,6 +8016,42 @@ window.NEWS_DATA = {
       "url_key": "news.mongabay.com/short-article/2026/09/genetic-road-map-offers-hope-for-threatened-visayan-spotted-deer",
       "title_key": "scientists mapped genome one philippines rarest deer",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-07",
+      "headline": "Astronomers just heard the universe whisper in hydrogen",
+      "blurb": "Using South Africa's MeerKAT telescope, astronomers directly caught an impossibly faint radio signal from hydrogen gas nearly 4.8 billion light-years away — gas that's been humming along since the universe was a fraction of its current age. It's proof a whole new way of mapping the cosmos actually works, and yes, that's basically eavesdropping on the early universe.",
+      "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+      "title_key": "astronomers just heard universe whisper hydrogen",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-07",
+      "headline": "A Florida buck let itself in, took a bath, then did a cannonball",
+      "blurb": "A wild deer wandered into a St. Johns County home, made itself comfortable in the bathroom, then bolted for the backyard pool for not one but two dramatic dips before hopping the fence to freedom. Deputies used a literal pool brush to shoo it along — 'first time I've had a deer in a house in 23 years,' one said on camera.",
+      "url": "https://www.upi.com/Odd_News/2026/09/04/deer-house-bathroom-pool-St-Johns-County-Florida/6851788532043/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/04/deer-house-bathroom-pool-st-johns-county-florida/6851788532043",
+      "title_key": "florida buck let itself took bath then did cannonball",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-07",
+      "headline": "An exotic lizard was found hiding in a car's wheel well — 3,000 miles from home",
+      "blurb": "A Burlington, Massachusetts animal control officer got called out for a 'lizard in a parking lot' and ended up wrangling a full-grown, distinctly unhappy mangrove monitor — a species native to Australia and Indonesia. She called in backup for 'moral support,' won the standoff, and the monitor's now safe at a reptile rescue.",
+      "url": "https://www.boston.com/news/local-news/2026/09/03/an-exotic-lizard-was-rescued-from-a-burlington-parking-lot/",
+      "source": "boston.com",
+      "url_key": "boston.com/news/local-news/2026/09/03/an-exotic-lizard-was-rescued-from-a-burlington-parking-lot",
+      "title_key": "exotic lizard found hiding car s wheel well 3 000 miles home",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9227,6 +9263,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-07T01:54:32Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-07T07:26:04Z",
       "accepted": 3,
       "rejected": 2
     }
