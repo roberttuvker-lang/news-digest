@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-06T12:17:02Z",
+  "updated": "2026-09-07T01:54:32Z",
   "stories": [
     {
       "stream": "ai",
@@ -7980,6 +7980,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260903064242.htm",
       "title_key": "scientists found weak spot one deadliest brain cancers",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-07",
+      "headline": "An AI now reacts to fusion plasma faster than any human could",
+      "blurb": "Princeton's new PACMAN AI framework predicted a damaging plasma instability 200 milliseconds before it formed and adjusted the reactor to stop it, something far too fast for a human operator to catch. It's a real step toward fusion power plants that can run themselves safely.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260903064215.htm",
+      "title_key": "ai now reacts fusion plasma faster than any human could",
+      "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-07",
+      "headline": "A gel injection helped mouse brains rebuild themselves after stroke",
+      "blurb": "Duke engineers created an injectable scaffold that turns the empty cavity left by a stroke into a hub for healing, helping new blood vessels and nerves grow back and restoring movement in mice. It's early and preclinical, but it points toward real brain repair, not just damage control.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260902234512.htm",
+      "title_key": "gel injection helped mouse brains rebuild themselves after stroke",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-07",
+      "headline": "Scientists mapped the genome of one of the Philippines' rarest deer",
+      "blurb": "Researchers sequenced the first-ever genome of the endangered Visayan spotted deer, down to fewer than 700 animals on two islands, to guide breeding decisions and undo decades of genetic damage. It's the country's first endangered species sequenced entirely by its own scientists.",
+      "url": "https://news.mongabay.com/short-article/2026/09/genetic-road-map-offers-hope-for-threatened-visayan-spotted-deer/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/short-article/2026/09/genetic-road-map-offers-hope-for-threatened-visayan-spotted-deer",
+      "title_key": "scientists mapped genome one philippines rarest deer",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9184,6 +9220,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-06T12:17:02Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-07T01:54:32Z",
       "accepted": 3,
       "rejected": 2
     }
