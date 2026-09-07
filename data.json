@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T07:26:04Z",
+  "updated": "2026-09-07T12:21:49Z",
   "stories": [
     {
       "stream": "ai",
@@ -8052,6 +8052,42 @@
       "url_key": "boston.com/news/local-news/2026/09/03/an-exotic-lizard-was-rescued-from-a-burlington-parking-lot",
       "title_key": "exotic lizard found hiding car s wheel well 3 000 miles home",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-07",
+      "headline": "A single shot just kept bad cholesterol down for a full year",
+      "blurb": "Cleveland Clinic and CRISPR Therapeutics reported one-year results from the first human trial of CTX310, a one-time CRISPR-Cas9 infusion that edits a liver gene to control lipids. LDL cholesterol and triglycerides stayed roughly halved a full year after the single dose, with no serious side effects — a real step toward curing stubborn cholesterol problems with one treatment instead of a lifetime of pills.",
+      "url": "https://medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
+      "source": "medicalxpress.com",
+      "url_key": "medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
+      "title_key": "single shot just kept bad cholesterol down full year",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-07",
+      "headline": "Taiwan just started mass-producing a solid-state battery that could reset EV range",
+      "blurb": "ProLogium began series production of its Gen 3.5 all-solid-state battery, independently verified at 381 Wh/kg and 903 Wh/L — far beyond today's best lithium-ion cells. Moving that energy density from the lab to a real factory line is the hard part of the battery story, and it just happened.",
+      "url": "https://www.electrive.com/2026/09/07/prologium-begins-series-production-of-next-generation-solid-state-batteries-in-taiwan/",
+      "source": "electrive.com",
+      "url_key": "electrive.com/2026/09/07/prologium-begins-series-production-of-next-generation-solid-state-batteries-in-taiwan",
+      "title_key": "taiwan just started mass producing solid state battery could reset ev range",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-07",
+      "headline": "Astronomers just caught an invisible black hole in the act",
+      "blurb": "A supermassive black hole was found drifting 30,000 light-years from the center of its galaxy — the farthest-flung dormant one ever spotted — after it briefly lit up by shredding a passing star. It's a rare glimpse of the wandering giants theorists predicted should be hiding throughout the universe, caught only because it happened to feed at just the right moment.",
+      "url": "https://www.earth.com/space/wandering-black-hole-found-30000-light-years-from-its-galaxys-center/",
+      "source": "earth.com",
+      "url_key": "earth.com/space/wandering-black-hole-found-30000-light-years-from-its-galaxys-center",
+      "title_key": "astronomers just caught invisible black hole act",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -9270,6 +9306,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-07T07:26:04Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-07T12:21:49Z",
       "accepted": 3,
       "rejected": 2
     }
