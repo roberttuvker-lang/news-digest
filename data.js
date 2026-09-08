@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-07T12:21:49Z",
+  "updated": "2026-09-08T01:54:28Z",
   "stories": [
     {
       "stream": "ai",
@@ -8088,6 +8088,42 @@ window.NEWS_DATA = {
       "url_key": "earth.com/space/wandering-black-hole-found-30000-light-years-from-its-galaxys-center",
       "title_key": "astronomers just caught invisible black hole act",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-08",
+      "headline": "New Zealand's rarest parrot just had its best year in 75 years",
+      "blurb": "The critically endangered kakapo population has climbed to 325 birds after a record breeding season produced 90 surviving chicks, New Zealand's Department of Conservation announced. It's the most of these flightless, nocturnal parrots alive at once in three-quarters of a century.",
+      "url": "https://www.doc.govt.nz/news/media-releases/2026-media-releases/kakapo-population-reaches-new-milestone/",
+      "source": "doc.govt.nz",
+      "url_key": "doc.govt.nz/news/media-releases/2026-media-releases/kakapo-population-reaches-new-milestone",
+      "title_key": "new zealand s rarest parrot just had best year 75 years",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-08",
+      "headline": "Scientists mapped cancer's hiding spots — and found a way to flush it out",
+      "blurb": "Researchers at Imperial College London and the MRC Laboratory of Medical Sciences found that dormant breast cancer cells hide inside protective 'shields' of surrounding tissue, which may explain why cancer can silently return years after treatment. Mapping those hideouts gives doctors a new target to stop relapse before it starts.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260904000326.htm",
+      "title_key": "scientists mapped cancer s hiding spots found way flush out",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-08",
+      "headline": "NPR asked readers about kindness. Their inboxes overflowed.",
+      "blurb": "From a woman with a lifelong spinal injury who still visits nursing homes weekly with her dogs, to strangers who simply used someone's name during a hard shift, NPR readers proved small gestures still carry real weight. It's a quiet reminder that kindness between strangers is alive and well.",
+      "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "source": "npr.org",
+      "url_key": "npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "title_key": "npr asked readers about kindness their inboxes overflowed",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -9313,6 +9349,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-07T12:21:49Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-08T01:54:28Z",
       "accepted": 3,
       "rejected": 2
     }
