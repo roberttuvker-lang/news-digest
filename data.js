@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-08T07:21:25Z",
+  "updated": "2026-09-08T12:19:48Z",
   "stories": [
     {
       "stream": "ai",
@@ -8160,6 +8160,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/09/03/ripleys-aquarium-myrtle-beach-penguin-baby-boom/5631788459551",
       "title_key": "meet lucky seven south carolina aquarium s penguin baby boom",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-08",
+      "headline": "The FDA just fast-tracked a one-shot CRISPR cure for a life-threatening swelling disease",
+      "blurb": "The FDA accepted Intellia Therapeutics' application for priority review of lonvoguran ziclumeran, a CRISPR gene-editing therapy for hereditary angioedema, which already carries Orphan Drug and Regenerative Medicine breakthrough status. A single edit could permanently spare patients from unpredictable, dangerous swelling attacks — proof gene editing is moving from lab curiosity to real medicine, fast.",
+      "url": "https://www.globenewswire.com/news-release/2026/09/08/3357599/0/en/intellia-therapeutics-announces-fda-acceptance-of-biologics-license-application-with-priority-review-for-lonvoguran-ziclumeran-lonvo-z-for-hereditary-angioedema-hae.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/09/08/3357599/0/en/intellia-therapeutics-announces-fda-acceptance-of-biologics-license-application-with-priority-review-for-lonvoguran-ziclumeran-lonvo-z-for-hereditary-angioedema-hae.html",
+      "title_key": "fda just fast tracked one shot crispr cure life threatening swelling disease",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-08",
+      "headline": "A drug for a blinding childhood disease with zero treatments just took its next big step",
+      "blurb": "Belite Bio submitted a new drug application in Japan for tinlarebant, aimed at Stargardt disease, a genetic condition that steals children's central vision and currently has no approved therapy anywhere. Roughly 9,500 people in Japan alone are waiting on exactly this kind of breakthrough.",
+      "url": "https://www.globenewswire.com/news-release/2026/09/08/3357419/0/en/belite-bio-announces-submission-of-new-drug-application-to-the-ministry-of-health-labour-and-welfare-in-japan-under-the-sakigake-designation-system-for-tinlarebant-for-the-treatmen.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/09/08/3357419/0/en/belite-bio-announces-submission-of-new-drug-application-to-the-ministry-of-health-labour-and-welfare-in-japan-under-the-sakigake-designation-system-for-tinlarebant-for-the-treatmen.html",
+      "title_key": "drug blinding childhood disease zero treatments just took next big step",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-08",
+      "headline": "Jersey just nearly quadrupled its protected seas overnight",
+      "blurb": "As of September 1, a sweeping new Marine Protected Area network banned destructive bottom-trawling and dredging across 21.7% of Jersey's waters, up from a sliver before — safeguarding kelp forests, seagrass meadows, and maerl beds so rich they can host 173 species in a single square meter. More coastline is set to join by 2030.",
+      "url": "https://ecomagazine.com/news/policy/jersey-nearly-quadruples-marine-protection/",
+      "source": "ecomagazine.com",
+      "url_key": "ecomagazine.com/news/policy/jersey-nearly-quadruples-marine-protection",
+      "title_key": "jersey just nearly quadrupled protected seas overnight",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9399,6 +9435,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-08T07:21:25Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-08T12:19:48Z",
       "accepted": 3,
       "rejected": 2
     }
