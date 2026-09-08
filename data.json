@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-08T01:54:28Z",
+  "updated": "2026-09-08T07:21:25Z",
   "stories": [
     {
       "stream": "ai",
@@ -8124,6 +8124,42 @@
       "url_key": "npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
       "title_key": "npr asked readers about kindness their inboxes overflowed",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-08",
+      "headline": "Buried Golden Retriever Barks Her Way Back to Her Family",
+      "blurb": "When a landslide crushed a family's home in the Philippines, their dog Lexa vanished under the rubble — until three days later, they heard barking. Volunteers jackhammered through rock and concrete to reach her, and she crawled out muddy, wagging, and very much alive.",
+      "url": "https://howzitkohala.com/2026/09/07/golden-retriever-rescued-after-being-buried-in-landslide-for-three-days/",
+      "source": "howzitkohala.com",
+      "url_key": "howzitkohala.com/2026/09/07/golden-retriever-rescued-after-being-buried-in-landslide-for-three-days",
+      "title_key": "buried golden retriever barks her way back her family",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-08",
+      "headline": "Tonight, the Moon Eats Jupiter — in Broad Daylight",
+      "blurb": "On September 8, skywatchers across North America get a rare treat: the Moon glides in front of Jupiter in the middle of the afternoon, swallowing the giant planet whole for about 50 minutes. Grab binoculars — it's the kind of cosmic coincidence you can actually watch happen.",
+      "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+      "source": "space.com",
+      "url_key": "space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+      "title_key": "tonight moon eats jupiter broad daylight",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-08",
+      "headline": "Meet the 'Lucky Seven': A South Carolina Aquarium's Penguin Baby Boom",
+      "blurb": "Ripley's Aquarium in Myrtle Beach just welcomed its seventh African penguin chick of the year, capping a banner hatching season for a critically endangered species. Staff are calling the crew the 'Lucky Seven' — and every fuzzy new arrival is a real win for a species running low on numbers in the wild.",
+      "url": "https://www.upi.com/Odd_News/2026/09/03/Ripleys-Aquarium-Myrtle-Beach-penguin-baby-boom/5631788459551/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/03/ripleys-aquarium-myrtle-beach-penguin-baby-boom/5631788459551",
+      "title_key": "meet lucky seven south carolina aquarium s penguin baby boom",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9356,6 +9392,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-08T01:54:28Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-08T07:21:25Z",
       "accepted": 3,
       "rejected": 2
     }
