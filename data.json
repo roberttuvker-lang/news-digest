@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T07:17:38Z",
+  "updated": "2026-09-09T12:20:16Z",
   "stories": [
     {
       "stream": "ai",
@@ -8268,6 +8268,42 @@
       "url_key": "cbsnews.com/losangeles/news/studio-city-coyote-swollen-face",
       "title_key": "whole la neighborhood spent year feeding mystery coyote now she s finally safe healing",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-09",
+      "headline": "Rattlesnakes just handed us the blueprint for a universal antivenom",
+      "blurb": "Scientists found that combinations of toxin-blocking proteins naturally circulating in rattlesnakes' own blood neutralize venom from several distantly related, dangerous snake species — about 10 times more potently than today's commercial antivenom. Because these proteins are conserved across viper families, they point toward a cheaper, safer, broadly effective antivenom that no longer depends on immunizing horses.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260907201605.htm",
+      "title_key": "rattlesnakes just handed us blueprint universal antivenom",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-09",
+      "headline": "A rocket startup just raised $1 billion to out-reuse SpaceX",
+      "blurb": "Stoke Space closed a $1 billion Series E to accelerate its fully reusable Nova rocket, whose upgraded Block 2 variant will carry 15-ton payloads to orbit with a first flight targeted for 2027. It's a huge bet that a genuinely new generation of reusable launch vehicles is about to make getting to space routine, not rare.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
+      "source": "space.com",
+      "url_key": "space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
+      "title_key": "rocket startup just raised 1 billion out reuse spacex",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-09",
+      "headline": "Europe just wrote its biggest tech check ever — on open AI",
+      "blurb": "Mistral raised €3 billion in a Series D at a €21 billion valuation, the largest equity round any European tech company has ever closed, to scale compute for frontier models it keeps open-weight. It's proof that sovereign, open AI development can compete for capital at the same scale as anyone else's.",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "title_key": "europe just wrote biggest tech check ever open ai",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -9528,6 +9564,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-09T07:17:38Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-09T12:20:16Z",
       "accepted": 3,
       "rejected": 2
     }
