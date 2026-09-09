@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-08T12:19:48Z",
+  "updated": "2026-09-09T01:53:02Z",
   "stories": [
     {
       "stream": "ai",
@@ -8196,6 +8196,42 @@
       "url_key": "ecomagazine.com/news/policy/jersey-nearly-quadruples-marine-protection",
       "title_key": "jersey just nearly quadrupled protected seas overnight",
       "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-09",
+      "headline": "A common weight-loss drug just showed a surprise mental health upside",
+      "blurb": "A nationwide Swedish study of nearly 15,000 people with bipolar disorder found that those on semaglutide (Ozempic/Wegovy) had a 21% lower risk of psychiatric hospitalization than non-users. Other GLP-1 drugs showed no such effect, suggesting semaglutide itself may help stabilize mood.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260907201601.htm",
+      "title_key": "common weight loss drug just showed surprise mental health upside",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-09",
+      "headline": "Scientists found a way to stop the deadliest prostate cancers from shapeshifting",
+      "blurb": "University of Michigan researchers discovered that combining two existing drugs can reverse the cellular changes aggressive prostate tumors use to dodge hormone therapy, sharply slowing tumor growth in preclinical tests. They're now exploring whether the same trick works on other shapeshifting cancers.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260904000324.htm",
+      "title_key": "scientists found way stop deadliest prostate cancers shapeshifting",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-09",
+      "headline": "Indigenous-run Amazon land is protecting the forest just as well as official reserves",
+      "blurb": "A new study found that Ecuadorian Amazon territories run by Indigenous communities, with no formal conservation contract at all, kept forests as healthy as government-protected land, and recovered better from drought. Researchers credit strong local governance, not paperwork, for the result.",
+      "url": "https://news.mongabay.com/short-article/2026/09/indigenous-territories-maintain-amazon-forest-just-as-well-as-protected-areas-study-finds/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/short-article/2026/09/indigenous-territories-maintain-amazon-forest-just-as-well-as-protected-areas-study-finds",
+      "title_key": "indigenous run amazon land protecting forest just well official reserves",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -9442,6 +9478,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-08T12:19:48Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-09T01:53:02Z",
       "accepted": 3,
       "rejected": 2
     }
