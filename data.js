@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-09T01:53:02Z",
+  "updated": "2026-09-09T07:17:38Z",
   "stories": [
     {
       "stream": "ai",
@@ -8232,6 +8232,42 @@ window.NEWS_DATA = {
       "url_key": "news.mongabay.com/short-article/2026/09/indigenous-territories-maintain-amazon-forest-just-as-well-as-protected-areas-study-finds",
       "title_key": "indigenous run amazon land protecting forest just well official reserves",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-09",
+      "headline": "She's the first-ever Down syndrome instructor at her gym — and 60 people showed up to sweat with her",
+      "blurb": "Aubry Alldredge, 22, spent years cheering along in the back row of barre class before she decided to grab the mic herself. She's now the first person with Down syndrome certified to teach UpBeat Barre, and her debut class packed the room with more than 60 people who came to move with her.",
+      "url": "https://www.ksl.com/article/51620257/22-year-old-kaysville-woman-with-down-syndrome-becomes-certified-fitness-instructor",
+      "source": "ksl.com",
+      "url_key": "ksl.com/article/51620257/22-year-old-kaysville-woman-with-down-syndrome-becomes-certified-fitness-instructor",
+      "title_key": "she s first ever down syndrome instructor her gym 60 people showed up sweat her",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-09",
+      "headline": "A cat rode a couch to the dump, got spotted seconds before the crusher, and made it home anyway",
+      "blurb": "Mike the cat curled up for a nap on a couch that his family then hauled to the curb — and straight to a landfill. A quick-eyed equipment operator caught him perched on a ledge over the dumping pit, coaxed him into a loader bucket, and after a four-day chase through a storage room, animal control got him home via his microchip.",
+      "url": "https://www.nbcwashington.com/news/local/cat-couch-landfill-family/4149012/",
+      "source": "nbcwashington.com",
+      "url_key": "nbcwashington.com/news/local/cat-couch-landfill-family/4149012",
+      "title_key": "cat rode couch dump got spotted seconds before crusher made home anyway",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-09",
+      "headline": "A whole LA neighborhood spent a year feeding a mystery coyote — now she's finally safe and healing",
+      "blurb": "For almost a year, a coyote with a badly swollen face wandered Studio City while a newspaper delivery kid texted photo updates and neighbors left her water and scraps. Rescuers finally caught 'Wendy' this week, and the same community chipped in thousands of dollars so she could start antibiotics and heal from what looks like an old jaw injury.",
+      "url": "https://www.cbsnews.com/losangeles/news/studio-city-coyote-swollen-face/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/losangeles/news/studio-city-coyote-swollen-face",
+      "title_key": "whole la neighborhood spent year feeding mystery coyote now she s finally safe healing",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9485,6 +9521,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-09T01:53:02Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-09T07:17:38Z",
       "accepted": 3,
       "rejected": 2
     }
