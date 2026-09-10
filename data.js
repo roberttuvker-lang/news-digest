@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-09T12:20:16Z",
+  "updated": "2026-09-10T01:55:07Z",
   "stories": [
     {
       "stream": "ai",
@@ -8304,6 +8304,42 @@ window.NEWS_DATA = {
       "url_key": "techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
       "title_key": "europe just wrote biggest tech check ever open ai",
       "topic": "AI"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-10",
+      "headline": "AI reads an ECG and spots hidden heart disease in under two seconds",
+      "blurb": "Imperial College London researchers, funded by the British Heart Foundation, trained an AI on 10.6 million ECGs and found it can flag signs of heart failure and valve disease that even expert cardiologists miss on a routine test. It's now being piloted with NHS patients in London and Bristol, aiming to cut the long waits for follow-up scans.",
+      "url": "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/september/ai-finds-hidden-heart-disease-in-under-two-seconds",
+      "source": "bhf.org.uk",
+      "url_key": "bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/september/ai-finds-hidden-heart-disease-in-under-two-seconds",
+      "title_key": "ai reads ecg spots hidden heart disease under two seconds",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-10",
+      "headline": "Your morning coffee may be flipping a 500-million-year-old anti-aging switch",
+      "blurb": "Queen Mary University of London scientists found that caffeine activates AMPK, an ancient cellular energy sensor that governs how cells repair DNA and respond to stress. The discovery helps explain coffee's long-observed links to healthier aging and points toward new ways to target the same pathway with medicine.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260907201609.htm",
+      "title_key": "your morning coffee may flipping 500 million year old anti aging switch",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-10",
+      "headline": "One shoutout from Ms. Rachel covered a bakery owner's rent in 24 hours",
+      "blurb": "Ashley La Bomme-Benson, who runs the Bomme Sweets bakery in LA and hadn't had a cookie order in over a year, was reposted by children's entertainer Ms. Rachel to her millions of followers. Orders poured in within minutes, and by the next day her $3,650 rent for the month was covered.",
+      "url": "https://thegrio.com/2026/09/04/bomme-sweets-sales-ms-rachel-black-owned-bakery/",
+      "source": "thegrio.com",
+      "url_key": "thegrio.com/2026/09/04/bomme-sweets-sales-ms-rachel-black-owned-bakery",
+      "title_key": "one shoutout ms rachel covered bakery owner s rent 24 hours",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -9571,6 +9607,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-09T12:20:16Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-10T01:55:07Z",
       "accepted": 3,
       "rejected": 2
     }
