@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-10T07:19:11Z",
+  "updated": "2026-09-10T12:21:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -8376,6 +8376,42 @@
       "url_key": "upi.com/odd_news/2026/09/09/snohomish-county-washington-escaped-goat/5371788965345",
       "title_key": "goat went full menace washington neighborhood deputies wrestled home horns first",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-10",
+      "headline": "A comet from another star system is bursting with alcohol — and scientists are thrilled",
+      "blurb": "ALMA just detected exceptionally high levels of methanol pouring off interstellar comet 3I/ATLAS, far more than almost any comet born in our own solar system. It's a real-time chemical fingerprint from a solar system not our own — proof we can now study alien worlds' building blocks without ever leaving home.",
+      "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-bursting-with-methanol-new-study-finds",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/comets/interstellar-comet-3i-atlas-is-bursting-with-methanol-new-study-finds",
+      "title_key": "comet another star system bursting alcohol scientists are thrilled",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-10",
+      "headline": "Scientists just found the switch that could reverse osteoporosis",
+      "blurb": "Researchers identified a receptor called GPR133 that, when activated by an experimental compound, made bones dramatically stronger in mice — even ones with osteoporosis-like bone loss. Because the same pathway also builds muscle, it points toward a single future treatment that keeps aging bodies strong instead of fragile.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260909005305.htm",
+      "title_key": "scientists just found switch could reverse osteoporosis",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-10",
+      "headline": "A hidden atomic structure just made industrial chemistry 10x more efficient",
+      "blurb": "Chinese researchers discovered that a fleeting atomic structure on nickel oxide, not the metallic nickel long assumed to do the work, is what actually drives methane conversion into syngas — letting a catalyst with a tenth of the nickel match ones using ten times more. That's a direct path to cheaper, greener fuel and chemical production worldwide.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260909005148.htm",
+      "title_key": "hidden atomic structure just made industrial chemistry 10x more efficient",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -9657,6 +9693,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-10T07:19:11Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-10T12:21:54Z",
       "accepted": 3,
       "rejected": 2
     }
