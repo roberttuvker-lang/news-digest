@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-10T01:55:07Z",
+  "updated": "2026-09-10T07:19:11Z",
   "stories": [
     {
       "stream": "ai",
@@ -8340,6 +8340,42 @@
       "url_key": "thegrio.com/2026/09/04/bomme-sweets-sales-ms-rachel-black-owned-bakery",
       "title_key": "one shoutout ms rachel covered bakery owner s rent 24 hours",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-10",
+      "headline": "A kitten got stuck 20 feet down a pipe — his rescuer adopted him on the spot",
+      "blurb": "An El Paso Animal Services officer lowered a rope 20 feet into a rainwater-filled utility pipe to pull out a trapped kitten clinging on for dear life. The person who spotted him and called it in couldn't say goodbye — she adopted him right there at the shelter.",
+      "url": "https://www.upi.com/Odd_News/2026/09/08/el-paso-officer-rescues-kitten-from-pipe/6581788895316",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/08/el-paso-officer-rescues-kitten-from-pipe/6581788895316",
+      "title_key": "kitten got stuck 20 feet down pipe his rescuer adopted him spot",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-10",
+      "headline": "Four guys just played an entire hole of disc golf in 44.31 seconds — a new world record",
+      "blurb": "Serial record-breaker David Rush teamed up with a dad and his two sons in Idaho and, after 60 tries, nailed a Guinness World Record for fastest hole of disc golf by a team of four. Pure, gloriously silly dedication to shaving fractions of a second off a Frisbee toss.",
+      "url": "https://www.upi.com/Odd_News/2026/09/09/Guinness-World-Records-David-Rush-disc-golf/8671788975951",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/09/guinness-world-records-david-rush-disc-golf/8671788975951",
+      "title_key": "four guys just played entire hole disc golf 44 31 seconds new world record",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-10",
+      "headline": "A goat went full menace on a Washington neighborhood — deputies wrestled it home horns-first",
+      "blurb": "An escaped, foot-horned goat spent its morning trying to ram residents in Snohomish County until two deputies grabbed it by the horns and marched it back to its pen. 'This thing is really strong, dude,' one deputy admitted on camera — nobody, human or goat, was hurt.",
+      "url": "https://www.upi.com/Odd_News/2026/09/09/Snohomish-County-Washington-escaped-goat/5371788965345",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/09/snohomish-county-washington-escaped-goat/5371788965345",
+      "title_key": "goat went full menace washington neighborhood deputies wrestled home horns first",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -9614,6 +9650,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-10T01:55:07Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-10T07:19:11Z",
       "accepted": 3,
       "rejected": 2
     }
