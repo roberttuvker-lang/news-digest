@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-11T01:54:38Z",
+  "updated": "2026-09-11T07:18:17Z",
   "stories": [
     {
       "stream": "ai",
@@ -8448,6 +8448,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260903064249.htm",
       "title_key": "mit built tiny injectable mini livers keep working inside body",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-11",
+      "headline": "A Boy's Final Gift Just Became His Brother's Wedding Vow",
+      "blurb": "23 years ago, 10-year-old Michael Waters became an organ donor after a tragic accident, saving 18-month-old Brooklyn Dotson's life with his liver. This month Brooklyn is marrying Michael's little brother Noah, the boy she grew up thanking. A story that went all the way full circle.",
+      "url": "https://www.sunnyskyz.com/good-news/6297/A-Boy-Saved-Her-Life-23-Years-Later-She-s-Marrying-His-Brother",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6297/a-boy-saved-her-life-23-years-later-she-s-marrying-his-brother",
+      "title_key": "boy s final gift just became his brother s wedding vow",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-11",
+      "headline": "Fort Worth Zoo Just Welcomed 8 of the World's Rarest Crocodile Cousins",
+      "blurb": "Gharials, with their impossibly skinny, snaggle-toothed snouts, have fewer than 1,000 adults left in the wild. Fort Worth Zoo just hatched a record eight of them, its biggest haul yet and its fourth good year running. It's now the only place in North America pulling this off again and again.",
+      "url": "https://www.cbsnews.com/texas/news/fort-worth-zoo-record-gharial-hatchlings-september-2026/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/texas/news/fort-worth-zoo-record-gharial-hatchlings-september-2026",
+      "title_key": "fort worth zoo just welcomed 8 world s rarest crocodile cousins",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-11",
+      "headline": "One Perfect Feather Just Rewrote the Story of How Birds Survived the Dinosaurs",
+      "blurb": "Scientists found the best-preserved feather ever recovered from the age of dinosaurs, a 66-million-year-old plume that may explain why some birds lived through the asteroid strike that wiped out T. rex and friends while others didn't. Tiny fossil, giant clue.",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
+      "source": "npr.org",
+      "url_key": "npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
+      "title_key": "one perfect feather just rewrote story how birds survived dinosaurs",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -9743,6 +9779,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-11T01:54:38Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-11T07:18:17Z",
       "accepted": 3,
       "rejected": 2
     }
