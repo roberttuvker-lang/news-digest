@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-10T12:21:54Z",
+  "updated": "2026-09-11T01:54:38Z",
   "stories": [
     {
       "stream": "ai",
@@ -8412,6 +8412,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260909005148.htm",
       "title_key": "hidden atomic structure just made industrial chemistry 10x more efficient",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-11",
+      "headline": "A common weight-loss shot just turned out to help you breathe easier too",
+      "blurb": "A large real-world study led by Imperial College London found semaglutide (Ozempic/Wegovy) linked to nearly 40% fewer asthma attacks and about 20% fewer COPD flare-ups. Researchers say the drug may be quietly protecting lungs on top of its known benefits for weight and blood sugar.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260909005155.htm",
+      "title_key": "common weight loss shot just turned out help you breathe easier too",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-11",
+      "headline": "NASA and IBM just built an AI that reads 30 layers of Moon data at once",
+      "blurb": "The new open-source Lunar Foundation Model was trained on decades of measurements from four NASA missions and can spot ice, hazards and safe landing zones up to 23% more accurately than older methods. It's a free, shared tool meant to help humanity's return to the Moon go safer and smoother.",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "source": "nasa.gov",
+      "url_key": "nasa.gov/2026-news-releases",
+      "title_key": "nasa ibm just built ai reads 30 layers moon data once",
+      "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-11",
+      "headline": "MIT built tiny injectable 'mini livers' that keep working inside the body",
+      "blurb": "Engineers packed liver cells with support cells into microscopic hydrogel spheres that, once injected, hook into the bloodstream and keep producing real liver proteins for months. It's an early but genuinely hopeful step toward helping people with failing livers avoid a transplant.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260903064249.htm",
+      "title_key": "mit built tiny injectable mini livers keep working inside body",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -9700,6 +9736,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-10T12:21:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-11T01:54:38Z",
       "accepted": 3,
       "rejected": 2
     }
