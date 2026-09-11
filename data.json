@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T07:18:17Z",
+  "updated": "2026-09-11T12:20:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -8484,6 +8484,42 @@
       "url_key": "npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
       "title_key": "one perfect feather just rewrote story how birds survived dinosaurs",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-11",
+      "headline": "After an 8-year, 5-billion-mile journey, BepiColombo is finally closing in on Mercury",
+      "blurb": "The joint ESA/JAXA spacecraft began its final descent toward Mercury this week, separating from its transfer module and starting the approach that leads to orbit insertion in November. Eight years of patient interplanetary sailing are about to pay off with the most detailed look at the solar system's smallest, strangest planet yet.",
+      "url": "https://www.universetoday.com/articles/bepicolombo-successfully-begins-its-final-descent-to-mercury",
+      "source": "universetoday.com",
+      "url_key": "universetoday.com/articles/bepicolombo-successfully-begins-its-final-descent-to-mercury",
+      "title_key": "after 8 year 5 billion mile journey bepicolombo finally closing mercury",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-11",
+      "headline": "Portugal, Spain, France, Italy and Germany all shattered their September solar records this week",
+      "blurb": "Five European countries hit new daily solar-generation highs within days of each other, with Spain alone producing 267 GWh in a single day. It is the clearest sign yet that solar power is no longer a summer-only story in Europe but a fast-scaling, year-round backbone of the grid.",
+      "url": "https://www.pv-magazine.com/2026/09/08/european-markets-set-daily-solar-records-for-september/",
+      "source": "pv-magazine.com",
+      "url_key": "pv-magazine.com/2026/09/08/european-markets-set-daily-solar-records-for-september",
+      "title_key": "portugal spain france italy germany all shattered their september solar records week",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-11",
+      "headline": "Physicists just found a tiny built-in 'glitch' in time itself",
+      "blurb": "A new theoretical study suggests time may carry a fundamental fuzziness, a hidden limit on how precisely any clock could ever measure it, tied to speculative 'collapse' models of quantum mechanics. It's the kind of finding that could eventually help physicists finally connect quantum theory and gravity into one picture of reality.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260910225251.htm",
+      "title_key": "physicists just found tiny built glitch time itself",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -9786,6 +9822,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-11T07:18:17Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-11T12:20:54Z",
       "accepted": 3,
       "rejected": 2
     }
