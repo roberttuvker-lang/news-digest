@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T12:20:54Z",
+  "updated": "2026-09-12T01:54:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -8520,6 +8520,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260910225251.htm",
       "title_key": "physicists just found tiny built glitch time itself",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-12",
+      "headline": "A laser 1,000 times smaller than a hair could cut your computer's power bill in half",
+      "blurb": "Engineers at the Technical University of Denmark built a nanolaser so small it traps light in a space once thought impossible, opening the door to chips that move data with photons instead of electricity. The breakthrough, published in Science Advances, could roughly halve the energy computers and data centers use.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911003858.htm",
+      "title_key": "laser 1 000 times smaller than hair could cut your computer s power bill half",
+      "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-12",
+      "headline": "A gene-edited pig kidney kept a man alive for 9 months — then handed off to a human one",
+      "blurb": "Surgeons at Massachusetts General Hospital report that a kidney from a genetically modified pig, nicknamed Wilma, kept patient Tim Andrews off dialysis for 271 days while he waited for a human organ, the longest a pig kidney has ever functioned as a 'bridge' in a person. He has since received a donor kidney, and the case is being hailed as a milestone for tackling the organ shortage.",
+      "url": "https://www.euronews.com/health/2026/09/04/man-lived-with-pig-kidney-for-nine-months-before-human-transplant",
+      "source": "euronews.com",
+      "url_key": "euronews.com/health/2026/09/04/man-lived-with-pig-kidney-for-nine-months-before-human-transplant",
+      "title_key": "gene edited pig kidney kept man alive 9 months then handed off human one",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-12",
+      "headline": "A flight attendant spotted an exhausted mom nodding off with her baby — and just took over",
+      "blurb": "On a United flight from Newark to Grand Rapids, Republic Airways attendant Monique Harris noticed a new mother struggling to stay awake while holding her infant, and quietly offered to hold the baby herself so the mom could finally rest. A fellow passenger's photo of the moment went viral, and both airlines have since publicly praised her.",
+      "url": "https://www.foxnews.com/us/united-flight-attendant-makes-quick-save-catching-baby-fall-exhausted-moms-lap",
+      "source": "foxnews.com",
+      "url_key": "foxnews.com/us/united-flight-attendant-makes-quick-save-catching-baby-fall-exhausted-moms-lap",
+      "title_key": "flight attendant spotted exhausted mom nodding off her baby just took over",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -9829,6 +9865,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-11T12:20:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-12T01:54:41Z",
       "accepted": 3,
       "rejected": 2
     }
