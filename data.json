@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T01:54:41Z",
+  "updated": "2026-09-12T07:05:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -8556,6 +8556,42 @@
       "url_key": "foxnews.com/us/united-flight-attendant-makes-quick-save-catching-baby-fall-exhausted-moms-lap",
       "title_key": "flight attendant spotted exhausted mom nodding off her baby just took over",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-12",
+      "headline": "Kids at the zoo got a front-row seat to a gibbon being born",
+      "blurb": "A group of cousins visiting the Santa Barbara Zoo noticed something odd happening in the gibbon enclosure — and realized they were watching mom Chanee give birth, live, a month early. The baby is the zoo's first white-handed gibbon in over 20 years, and an endangered species to boot, so the kids basically stumbled into a conservation milestone on a Saturday afternoon.",
+      "url": "https://www.independent.com/2026/09/03/santa-barbara-zoos-white-handed-gibbon-gives-birth-in-front-of-visitors/",
+      "source": "independent.com",
+      "url_key": "independent.com/2026/09/03/santa-barbara-zoos-white-handed-gibbon-gives-birth-in-front-of-visitors",
+      "title_key": "kids zoo got front row seat gibbon being born",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-12",
+      "headline": "A 20-meter dinosaur was hiding under a construction site in Brazil",
+      "blurb": "Workers building a road-rail terminal in Maranhão dug eight meters down and hit the fossils of a brand-new giant dinosaur species, now named Dasosaurus tocantinensis. Its family tree even hints its ancestors trekked from Europe through North Africa to South America 120 million years ago — a whole epic hiding under a job site.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260907201603.htm",
+      "title_key": "20 meter dinosaur hiding under construction site brazil",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-12",
+      "headline": "This guy solved 211 Rubik's Cubes while riding a pogo stick",
+      "blurb": "A Nova Scotia man just bagged a Guinness World Record by cracking 211 cubes without ever stopping his bounce, a feat of hand-eye coordination that sounds physically unreasonable. It is exactly the kind of gloriously pointless human achievement the world needs more of.",
+      "url": "https://www.upi.com/Odd_News/2026/09/11/canada-Guinness-World-Records-rubiks-cube-pogo-stick/5691789143596",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/11/canada-guinness-world-records-rubiks-cube-pogo-stick/5691789143596",
+      "title_key": "guy solved 211 rubik s cubes while riding pogo stick",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -9872,6 +9908,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-12T01:54:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-12T07:05:29Z",
       "accepted": 3,
       "rejected": 2
     }
