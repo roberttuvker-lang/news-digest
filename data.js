@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-12T07:05:29Z",
+  "updated": "2026-09-12T12:16:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -8592,6 +8592,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/09/11/canada-guinness-world-records-rubiks-cube-pogo-stick/5691789143596",
       "title_key": "guy solved 211 rubik s cubes while riding pogo stick",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-12",
+      "headline": "Your heart can heal itself — scientists just proved it",
+      "blurb": "A world-first study out of the University of Sydney shows adult human heart muscle cells can actually re-enter cell division and regrow after a heart attack, overturning decades of belief that this damage is permanent. It's faint on its own, but now that researchers know the repair switch exists, they're chasing ways to crank it up — a real shot at treating heart failure at the source.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260909231754.htm",
+      "title_key": "your heart can heal itself scientists just proved",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-12",
+      "headline": "One cord blood donation could now arm thousands of cancer fights",
+      "blurb": "UCLA engineered off-the-shelf T cells from donated cord blood stem cells that hunt solid tumors two ways at once, controlling ovarian cancer and melanoma in mice with a single dose and no dangerous side effects. Because it starts from scalable stem cells instead of custom cells per patient, this is exactly the kind of manufacturing leap that turns a boutique therapy into one anyone can access.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260909231723.htm",
+      "title_key": "one cord blood donation could now arm thousands cancer fights",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-12",
+      "headline": "Physicists just watched gravity touch the quantum world for the first time",
+      "blurb": "An international team including Nobel laureate Roger Penrose split a falling atom's quantum wave in two, let gravity act on it, and directly measured the tiny effect Einstein's equivalence principle predicts — the first time this has ever been seen at the quantum scale. It's basic physics at its most thrilling: confirming the bridge between gravity and quantum mechanics actually holds up when you go looking for it.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260907201552.htm",
+      "title_key": "physicists just watched gravity touch quantum world first time",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -9915,6 +9951,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-12T07:05:29Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-12T12:16:29Z",
       "accepted": 3,
       "rejected": 2
     }
