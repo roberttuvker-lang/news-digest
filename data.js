@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-12T12:16:29Z",
+  "updated": "2026-09-13T01:52:23Z",
   "stories": [
     {
       "stream": "ai",
@@ -8628,6 +8628,110 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260907201552.htm",
       "title_key": "physicists just watched gravity touch quantum world first time",
       "topic": "Science"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Nvidia locks in $12.9B deal for Hugging Face",
+      "blurb": "Nvidia signed a deal to buy Hugging Face for $12.9 billion, confirming earlier reports and giving it control of the top hub for open-source AI models and datasets.",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "title_key": "nvidia locks 12 9b deal hugging face",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Anthropic reveals Claude Code was used by a weapons-trafficking cell",
+      "blurb": "Anthropic's new threat report says a Yemen-based weapons network used Claude Code for its operations before being detected and shut down, underscoring dual-use risk in agentic coding tools.",
+      "url": "https://www.anthropic.com/news/threat-intelligence-report-september-2026",
+      "source": "anthropic.com",
+      "url_key": "anthropic.com/news/threat-intelligence-report-september-2026",
+      "title_key": "anthropic reveals claude code used weapons trafficking cell",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Senate drafts bipartisan 'duty of care' AI bill",
+      "blurb": "Negotiators are drafting legislation imposing a duty of care on frontier AI developers including Google, OpenAI, and Anthropic, aiming to hold them liable for serious harms their models cause.",
+      "url": "https://www.axios.com/2026/09/senate-ai-duty-of-care-bill",
+      "source": "axios.com",
+      "url_key": "axios.com/2026/09/senate-ai-duty-of-care-bill",
+      "title_key": "senate drafts bipartisan duty care ai bill",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "EU AI Act's first systemic-risk deadline lands this week",
+      "blurb": "Providers of general-purpose AI models trained above the EU's 10^25 FLOP threshold must submit their first systemic-risk evaluations to the European AI Office by September 15.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+      "source": "digital-strategy.ec.europa.eu",
+      "url_key": "digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+      "title_key": "eu ai act s first systemic risk deadline lands week",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Anthropic launches zero-retention enterprise safeguards",
+      "blurb": "Anthropic rolled out Enterprise Frontier Safeguards, letting business customers keep their own data storage with zero retention by Anthropic — a compliance win for agencies handling sensitive client data.",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source": "anthropic.com",
+      "url_key": "anthropic.com/news/enterprise-frontier-safeguards",
+      "title_key": "anthropic launches zero retention enterprise safeguards",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Claude's agent platform gets domain locks and budget caps",
+      "blurb": "Anthropic added allowed/blocked domain lists for Managed Agents' web tools plus budget controls and geo-pinned inference, giving agencies tighter guardrails when deploying autonomous Claude agents for clients.",
+      "url": "https://docs.claude.com/en/release-notes/agent-sdk",
+      "source": "docs.claude.com",
+      "url_key": "docs.claude.com/en/release-notes/agent-sdk",
+      "title_key": "claude s agent platform gets domain locks budget caps",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "Open-source coding agent OpenHands hits 1.0",
+      "blurb": "OpenHands reached a production-ready 1.0 with Docker sandboxing, built-in security policies, and a plugin system, completing about 68% of SWE-bench tasks autonomously as a free alternative to paid agents.",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "source": "github.com",
+      "url_key": "github.com/all-hands-ai/openhands",
+      "title_key": "open source coding agent openhands hits 1 0",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-13",
+      "headline": "GitHub Copilot Workspace runs multiple agents at once",
+      "blurb": "Copilot Workspace now runs separate coordinating agents for implementation, testing, and documentation on the same codebase, letting one engineer supervise parallel AI work instead of one thread at a time.",
+      "url": "https://github.blog/changelog/",
+      "source": "github.blog",
+      "url_key": "github.blog/changelog",
+      "title_key": "github copilot workspace runs multiple agents once",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -9960,6 +10064,13 @@ window.NEWS_DATA = {
       "at": "2026-09-12T12:16:29Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-09-13T01:52:23Z",
+      "accepted": 8,
+      "rejected": 4
     }
   ]
 };
