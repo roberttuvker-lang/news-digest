@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T07:04:19Z",
+  "updated": "2026-09-13T12:18:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -8768,6 +8768,42 @@
       "url_key": "cbsnews.com/minnesota/news/adult-tyrannosaurus-rex-trackway-north-dakota",
       "title_key": "schoolteacher just found first ever walking trail adult t rex",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-13",
+      "headline": "A hidden 'off switch' for chronic inflammation just got found",
+      "blurb": "UCL scientists discovered a natural braking system — fat-derived molecules called epoxy-oxylipins — that reins in the immune cells driving chronic inflammation. Boosting the pathway with a drug sped up pain relief and calmed harmful immune activity in the first human study of its kind, opening a real path to new treatments for arthritis, heart disease, and more.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911214306.htm",
+      "title_key": "hidden off switch chronic inflammation just got found",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-13",
+      "headline": "Sound waves just tripled how long a quantum bit can hold its memory",
+      "blurb": "Harvard engineers surrounded a diamond-based qubit with a continuous field of phonons — mechanical sound waves — and watched its coherence time roughly triple by shielding it from ambient noise. It's a genuinely new trick for quantum computing's biggest headache, and it hints at compact, sound-based quantum networks built right onto a chip.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911214245.htm",
+      "title_key": "sound waves just tripled how long quantum bit can hold memory",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-13",
+      "headline": "Mercury's crust just rewrote its own origin story",
+      "blurb": "New analysis shows Mercury's surface holds up to 25% less silicon dioxide than long assumed, meaning its ancient lava welled up from far deeper and hotter inside the planet than scientists thought. ESA's BepiColombo probe, closing in on Mercury now, will get to test the theory firsthand within weeks.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911003854.htm",
+      "title_key": "mercury s crust just rewrote own origin story",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -10112,6 +10148,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-13T07:04:19Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-13T12:18:15Z",
       "accepted": 3,
       "rejected": 2
     }
