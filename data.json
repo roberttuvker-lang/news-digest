@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T01:52:23Z",
+  "updated": "2026-09-13T07:04:19Z",
   "stories": [
     {
       "stream": "ai",
@@ -8732,6 +8732,42 @@
       "title_key": "github copilot workspace runs multiple agents once",
       "topic": "AI",
       "category": "Tools"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-13",
+      "headline": "A Marmot Rode Shotgun 200 Miles — Straight Into a San Francisco Backyard",
+      "blurb": "A yellow-bellied marmot somehow hitched a ride from the Sierra Nevada all the way into San Francisco's Mission District, likely snoozing in someone's car engine bay the whole trip. Rescuers say marmots love the smell of radiator fluid and often wake up hundreds of miles from home — this one, plus a second stowaway found in Antioch, is now recovering at a wildlife rescue while experts plot a ride back to the mountains.",
+      "url": "https://www.upi.com/Odd_News/2026/09/10/San-Francisco-mystery-marmot/2781789056914/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/10/san-francisco-mystery-marmot/2781789056914",
+      "title_key": "marmot rode shotgun 200 miles straight into san francisco backyard",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-13",
+      "headline": "Gojira the Lizard Just Wanted Out of a Missouri Storm Drain",
+      "blurb": "A large Asian water monitor lizard turned up in a St. Louis-area storm drain this week, and animal control pulled off a surprisingly gentle rescue. Nicknamed 'Gojira' for his size, the famously friendly reptile is now living it up in foster care while officials look for his owner — or someone new who knows how to properly spoil a giant lizard.",
+      "url": "https://www.firstalert4.com/2026/09/09/gojira-monitor-lizard-rescued-storm-drain-affton/",
+      "source": "firstalert4.com",
+      "url_key": "firstalert4.com/2026/09/09/gojira-monitor-lizard-rescued-storm-drain-affton",
+      "title_key": "gojira lizard just wanted out missouri storm drain",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-13",
+      "headline": "A Schoolteacher Just Found the First-Ever Walking Trail of an Adult T. Rex",
+      "blurb": "While scouting North Dakota badlands for fossils, high school teacher Kent Hups stumbled on something paleontologists had never confirmed before: an actual sequence of footprints left by a full-grown Tyrannosaurus rex mid-stride. The 66.5-million-year-old trackway lets scientists watch a T. rex move for the first time, instead of just studying its bones.",
+      "url": "https://www.cbsnews.com/minnesota/news/adult-tyrannosaurus-rex-trackway-north-dakota/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/minnesota/news/adult-tyrannosaurus-rex-trackway-north-dakota",
+      "title_key": "schoolteacher just found first ever walking trail adult t rex",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -10071,6 +10107,13 @@
       "at": "2026-09-13T01:52:23Z",
       "accepted": 8,
       "rejected": 4
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-13T07:04:19Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 }
