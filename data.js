@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-14T01:53:50Z",
+  "updated": "2026-09-14T07:19:43Z",
   "stories": [
     {
       "stream": "ai",
@@ -8840,6 +8840,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260906170145.htm",
       "title_key": "rare monkey nearly lost her foot now she s new mom",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-14",
+      "headline": "Christian Bale Just Opened a Whole Village So Foster Siblings Never Get Split Up",
+      "blurb": "After 17 years of planning (that started when his own daughter was three), Christian Bale cut the ribbon on Together California — an 11,000-square-foot foster care village in Palmdale with 12 furnished homes built around one rule: brothers and sisters stay together. It's the first village of its kind in the state, turning a huge gap in the system into an actual neighborhood.",
+      "url": "https://abc7.com/post/actor-christian-bale-opens-together-california-foster-care-village-palmdale-aimed-keeping-siblings/19816433/",
+      "source": "abc7.com",
+      "url_key": "abc7.com/post/actor-christian-bale-opens-together-california-foster-care-village-palmdale-aimed-keeping-siblings/19816433",
+      "title_key": "christian bale just opened whole village so foster siblings never get split up",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-14",
+      "headline": "Meet 'Mama Turtle': The Family That Just Set 3,500 Baby Sea Turtles Loose",
+      "blurb": "On a beach in Veracruz, the family behind a nonprofit started by a fisherman and his wife (lovingly nicknamed 'Mama Turtle' back in 1967) released up to 3,500 hand-protected hatchlings into the Gulf of Mexico. They'd spent the season rescuing nests from tourists who kept climbing on nesting turtles — sleepless nights that just paid off in one glorious wave of flippers.",
+      "url": "https://www.goodgoodgood.co/articles/sea-turtle-hatchlings-gulf-of-mexico",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/sea-turtle-hatchlings-gulf-of-mexico",
+      "title_key": "meet mama turtle family just set 3 500 baby sea turtles loose",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-14",
+      "headline": "Scientists Just Launched a World-First Trial to Stop Alzheimer's Before It Starts",
+      "blurb": "Forget treating symptoms — the PrevenTRON trial is testing whether a drug can stop Alzheimer's from ever showing up, by targeting a blood biomarker in healthy people who are at elevated risk. Earlier research already showed the same drug clearing amyloid plaques in 90% of early-stage patients, so this is science swinging for actual prevention.",
+      "url": "https://www.onlygoodnewsdaily.com/post/global-trial-for-drug-to-prevent-alzheimer-s",
+      "source": "onlygoodnewsdaily.com",
+      "url_key": "onlygoodnewsdaily.com/post/global-trial-for-drug-to-prevent-alzheimer-s",
+      "title_key": "scientists just launched world first trial stop alzheimer s before starts",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -10198,6 +10234,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-14T01:53:50Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-14T07:19:43Z",
       "accepted": 3,
       "rejected": 2
     }
