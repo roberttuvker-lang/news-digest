@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-13T12:18:15Z",
+  "updated": "2026-09-14T01:53:50Z",
   "stories": [
     {
       "stream": "ai",
@@ -8804,6 +8804,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260911003854.htm",
       "title_key": "mercury s crust just rewrote own origin story",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-14",
+      "headline": "A Headteacher's Instinct Saved 900 Kids When Nepal's Flood Alerts Failed",
+      "blurb": "When Nepal's official SMS warning system failed during August's flash floods, phone calls from neighbors got the message through faster — giving one headteacher just enough time to march all 900 of his students to higher ground before the water hit. It's a reminder that when the technology falls short, community ties can still outrun disaster.",
+      "url": "https://news.mongabay.com/2026/09/during-nepal-floods-decentralized-community-based-warning-saved-lives/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/09/during-nepal-floods-decentralized-community-based-warning-saved-lives",
+      "title_key": "headteacher s instinct saved 900 kids when nepal s flood alerts failed",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-14",
+      "headline": "A Family's Dog Came Home — Three Years and One Microchip Later",
+      "blurb": "Colby the Maltipoo vanished from his San Diego family in 2023, but when shelter workers found an abandoned, matted dog this month, a scan of his old microchip led them straight back to his mom and the boy who never stopped missing him. After a bath, a vet check and a joyful reunion, he's back where he belongs.",
+      "url": "https://hoodline.com/2026/09/maltipoo-missing-nearly-3-years-found-abandoned-reunited-with-san-diego-family/",
+      "source": "hoodline.com",
+      "url_key": "hoodline.com/2026/09/maltipoo-missing-nearly-3-years-found-abandoned-reunited-with-san-diego-family",
+      "title_key": "family s dog came home three years one microchip later",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-14",
+      "headline": "A Rare Monkey Nearly Lost Her Foot — Now She's a New Mom",
+      "blurb": "Masaya, one of fewer than 2,000 wild roloway monkeys left on Earth, faced amputation last year until zoo vets and surgeons pulled off a first-of-its-kind operation to save her foot. Months later, she gave birth to a healthy baby named Lagertha — a hopeful sign for one of the world's most endangered primates.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260906170145.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260906170145.htm",
+      "title_key": "rare monkey nearly lost her foot now she s new mom",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -10155,6 +10191,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-13T12:18:15Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-14T01:53:50Z",
       "accepted": 3,
       "rejected": 2
     }
