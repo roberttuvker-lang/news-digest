@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T07:19:43Z",
+  "updated": "2026-09-14T12:19:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -8876,6 +8876,42 @@
       "url_key": "onlygoodnewsdaily.com/post/global-trial-for-drug-to-prevent-alzheimer-s",
       "title_key": "scientists just launched world first trial stop alzheimer s before starts",
       "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-14",
+      "headline": "Plastic Bottles Just Got Baked Into Protein Cookies",
+      "blurb": "Scientists engineered yeast that turns PET plastic and leftover corn stalks into protein, fat, and even vanilla flavoring, then 3D-printed the result into snacks called µBites. It is a genuinely wild proof that our trash and our hunger might cancel each other out.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260912220033.htm",
+      "title_key": "plastic bottles just got baked into protein cookies",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-14",
+      "headline": "Scientists Are Building a Microscope Powered by a Quantum Computer",
+      "blurb": "Researchers at TU Wien are wiring an ion-based quantum computer into an electron microscope so every electron that passes by gets entangled and squeezed for maximum information. The payoff: sharp images of delicate proteins and biological samples using far fewer electrons than today's scopes need to avoid frying them.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260912220038.htm",
+      "title_key": "scientists are building microscope powered quantum computer",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-14",
+      "headline": "CERN Just Zoomed In Closer Than Ever Inside an Atomic Nucleus",
+      "blurb": "Physicists on the ALICE experiment measured particle production at a spatial resolution down to a quarter the size of a proton, catching gluons behaving collectively in a way standard theory can't fully explain. It's the kind of precision that rewrites textbook physics from the inside out.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911214303.htm",
+      "title_key": "cern just zoomed closer than ever inside atomic nucleus",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -10241,6 +10277,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-14T07:19:43Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-14T12:19:15Z",
       "accepted": 3,
       "rejected": 2
     }
