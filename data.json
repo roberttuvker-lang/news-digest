@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T12:19:15Z",
+  "updated": "2026-09-15T01:54:09Z",
   "stories": [
     {
       "stream": "ai",
@@ -8912,6 +8912,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260911214303.htm",
       "title_key": "cern just zoomed closer than ever inside atomic nucleus",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-15",
+      "headline": "A Man Took In Two Boys With Nowhere to Go — Then Strangers Nationwide Stepped Up",
+      "blurb": "Sam Restifo of Saginaw, Michigan opened his home to two boys dropped off by a woman he barely knew, caring for them even after his electricity and water were cut off. After their story got local coverage, a GoFundMe topped $15,000, restoring power and water and helping Sam pursue legal guardianship so the boys can stay together and get back in school.",
+      "url": "https://www.sunnyskyz.com/good-news/6305/A-Man-Took-In-Two-Boys-Who-Had-Nowhere-Else-To-Go-Then-Strangers-Across-The-Country-Stepped-Up",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6305/a-man-took-in-two-boys-who-had-nowhere-else-to-go-then-strangers-across-the-country-stepped-up",
+      "title_key": "man took two boys nowhere go then strangers nationwide stepped up",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-15",
+      "headline": "Captive-Raised Crocodiles Went Wild — Literally — And Scientists Are Thrilled",
+      "blurb": "Researchers satellite-tagged saltwater crocodiles released into Bangladesh's Sundarbans, expecting the captive-reared ones to try heading back to their breeding facility. Instead they settled into home ranges just like wild-born crocodiles, suggesting releasing mature captive animals could help rebuild the country's depleted population, estimated at just 140 mature adults.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260913081913.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260913081913.htm",
+      "title_key": "captive raised crocodiles went wild literally scientists are thrilled",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-15",
+      "headline": "Scientists Just Made Quantum Computers 1,000 Times Faster at Key Operations",
+      "blurb": "Researchers at Chalmers University of Technology found a way to collapse thousands of repeated control cycles into a single step, speeding up a broad range of quantum operations more than a thousandfold. Because errors build up the longer an operation takes, the shortcut brings fault-tolerant, reliable quantum computers meaningfully closer to reality.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260911003845.htm",
+      "title_key": "scientists just made quantum computers 1 000 times faster key operations",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -10284,6 +10320,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-14T12:19:15Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-15T01:54:09Z",
       "accepted": 3,
       "rejected": 2
     }
