@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T07:18:42Z",
+  "updated": "2026-09-15T12:18:39Z",
   "stories": [
     {
       "stream": "ai",
@@ -8984,6 +8984,42 @@
       "url_key": "upi.com/odd_news/2026/09/14/scotland-bat-scotrail-train-glasgow/6801789395779",
       "title_key": "bat boarded scottish train commuters had no idea what do",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-15",
+      "headline": "A Coral Reef Left for Dead 60 Years Ago Is Roaring Back to Life",
+      "blurb": "Off the coast of Benin, scientists sent an underwater drone into waters 1960s surveys had written off as barren — and found a thriving mesophotic reef with eight coral species and eight fish species living 54 meters down. It's a reminder that written-off ecosystems can still be hiding a second chance, and that there may be more unmapped reefs like it waiting along West Africa's coast.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260913081927.htm",
+      "title_key": "coral reef left dead 60 years ago roaring back life",
+      "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-15",
+      "headline": "The FDA Just Approved the First Drug That Targets Muscle Loss Itself in SMA",
+      "blurb": "Isembyld (apitegromab-mstn) just became the first-ever therapy for spinal muscular atrophy that goes after muscle loss directly, layering onto existing SMN2 treatments. In its Phase 3 trial, more than twice as many kids on the drug saw meaningful motor improvement compared to placebo — a genuinely new lever against a disease that used to have none.",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
+      "source": "fda.gov",
+      "url_key": "fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
+      "title_key": "fda just approved first drug targets muscle loss itself sma",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-15",
+      "headline": "Driverless Taxis Just Hit the Las Vegas Strip",
+      "blurb": "Waymo opened paid robotaxi service across nearly 24 square miles of Las Vegas this week, its 15th U.S. market, with a waitlist already past 100,000 people. Autonomous rides are quietly becoming boring, ordinary infrastructure in city after city — which is exactly how a technology goes from novelty to normal.",
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas",
+      "title_key": "driverless taxis just hit las vegas strip",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -10370,6 +10406,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-15T07:18:42Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-15T12:18:39Z",
       "accepted": 3,
       "rejected": 2
     }
