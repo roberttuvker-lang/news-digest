@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T01:54:09Z",
+  "updated": "2026-09-15T07:18:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -8948,6 +8948,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260911003845.htm",
       "title_key": "scientists just made quantum computers 1 000 times faster key operations",
       "topic": "Technology"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-15",
+      "headline": "Scientists Finally Found a Denisovan Arm — After 15 Years of Just DNA",
+      "blurb": "Buried among more than 60,000 bone fragments in a Chinese cave, researchers just identified the first-ever Denisovan forearm bone, plus teeth and skull pieces from at least three individuals who lived up to 170,000 years ago. For over a decade this mysterious human relative was known only from scraps of DNA — now we finally get a glimpse of what they actually looked like.",
+      "url": "https://archaeology.org/news/2026/09/14/denisovan-fossils-and-possible-tools-uncovered-in-china/",
+      "source": "archaeology.org",
+      "url_key": "archaeology.org/news/2026/09/14/denisovan-fossils-and-possible-tools-uncovered-in-china",
+      "title_key": "scientists finally found denisovan arm after 15 years just dna",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-15",
+      "headline": "An Emu Made a Break for It — and NY Police Had to Call in a Drone",
+      "blurb": "An emu escaped a petting zoo in Ramapo, New York, and led officers on a full sprint through backyards before a drone helped track it down. The police department's deadpan recap — 'the emu crossed the road because Sgt. Anton didn't give it an option' — turned a minor escape into the internet's new favorite local legend.",
+      "url": "https://www.upi.com/Odd_News/2026/09/14/emu-chase-petting-zoo-Ramapo-New-York/4691789392344",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/14/emu-chase-petting-zoo-ramapo-new-york/4691789392344",
+      "title_key": "emu made break ny police had call drone",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-15",
+      "headline": "A Bat Boarded a Scottish Train and Commuters Had No Idea What to Do",
+      "blurb": "A stowaway bat fluttered through a ScotRail commuter train between Gourock and Glasgow, sending passengers ducking while a conductor tried (and failed) to shoo it away with a flag. It finally got the hint and flew out the doors after one passenger waved his hat — the whole slapstick rescue caught on video.",
+      "url": "https://www.upi.com/Odd_News/2026/09/14/scotland-bat-ScotRail-train-Glasgow/6801789395779",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/14/scotland-bat-scotrail-train-glasgow/6801789395779",
+      "title_key": "bat boarded scottish train commuters had no idea what do",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -10327,6 +10363,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-15T01:54:09Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-15T07:18:42Z",
       "accepted": 3,
       "rejected": 2
     }
