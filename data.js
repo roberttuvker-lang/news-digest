@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-16T07:12:28Z",
+  "updated": "2026-09-16T12:18:15Z",
   "stories": [
     {
       "stream": "ai",
@@ -9092,6 +9092,42 @@ window.NEWS_DATA = {
       "url_key": "kltv.com/2026/09/08/she-is-my-hero-ut-health-east-texas-ems-honors-3-year-old-girls-bravery-during-mothers-seizure",
       "title_key": "3 year old calmly talks 911 through saving her own mom",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-16",
+      "headline": "NASA's Roman Space Telescope Just Doubled Its Own Mission — Before It Even Arrived",
+      "blurb": "A near-flawless first course-correction burn used barely a tenth of its planned fuel, and combined with a lighter-than-expected launch weight, NASA says the telescope could now observe the cosmos for 22 years instead of 10. It hasn't even reached its final orbit yet and it's already beating its own blueprint — a huge head start on the hunt for dark energy and thousands of new worlds.",
+      "url": "https://science.nasa.gov/blogs/roman/2026/09/14/fuel-savings-double-potential-lifetime-for-nasas-roman-mission/",
+      "source": "science.nasa.gov",
+      "url_key": "science.nasa.gov/blogs/roman/2026/09/14/fuel-savings-double-potential-lifetime-for-nasas-roman-mission",
+      "title_key": "nasa s roman space telescope just doubled own mission before even arrived",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-16",
+      "headline": "Scientists Just Mapped the Moment the Aging Brain Turns — and How to Maybe Stop It",
+      "blurb": "Using cutting-edge single-cell imaging, researchers pinpointed exactly how brain cells rewire their genomes starting around age 50, the biological pivot point that raises Alzheimer's risk. Knowing precisely what changes and when hands scientists a real target for future therapies that could intervene before disease ever takes hold.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260914102441.htm",
+      "title_key": "scientists just mapped moment aging brain turns how maybe stop",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-16",
+      "headline": "A Volcano Accidentally Discovered How to Clean Up Its Own Greenhouse Gas Mess",
+      "blurb": "Scientists found that the 2022 Hunga Tonga eruption didn't just spew methane, it triggered a chlorine reaction high in the stratosphere that actively destroyed a chunk of it, scrubbing roughly 900 tons a day. Researchers say the newly understood chemistry could inspire deliberate new methods for pulling methane out of the atmosphere and slowing near-term warming.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260915095750.htm",
+      "title_key": "volcano accidentally discovered how clean up own greenhouse gas mess",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -10499,6 +10535,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-16T07:12:28Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-16T12:18:15Z",
       "accepted": 3,
       "rejected": 2
     }
