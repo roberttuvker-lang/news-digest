@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-15T12:18:39Z",
+  "updated": "2026-09-16T01:52:43Z",
   "stories": [
     {
       "stream": "ai",
@@ -9020,6 +9020,42 @@ window.NEWS_DATA = {
       "url_key": "techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas",
       "title_key": "driverless taxis just hit las vegas strip",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-16",
+      "headline": "AI Just Cracked One of Math's Seven Millennium Prize Problems",
+      "blurb": "A team using an AI reasoning system produced a verified proof chipping away at one of the seven $1 million Millennium Prize Problems, a feat mathematicians have chased for decades. Quanta Magazine reports the proof has held up under expert scrutiny, opening a genuinely new tool for tackling math's hardest open questions.",
+      "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "source": "quantamagazine.org",
+      "url_key": "quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908",
+      "title_key": "ai just cracked one math s seven millennium prize problems",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-16",
+      "headline": "Detroit Farmers Just Bought a Grocery Store to Build a Food-Security Hub",
+      "blurb": "A coalition of Detroit urban farmers purchased a 9,000-square-foot former grocery store and is turning it into a solar-powered center with a commercial kitchen, food storage and a training space for local food businesses, backed by a state grant and community financing. It's the first of several planned resiliency hubs meant to give Detroiters more control over their own food supply.",
+      "url": "https://www.bridgedetroit.com/new-food-hub-taking-root-in-detroits-north-end/",
+      "source": "bridgedetroit.com",
+      "url_key": "bridgedetroit.com/new-food-hub-taking-root-in-detroits-north-end",
+      "title_key": "detroit farmers just bought grocery store build food security hub",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-16",
+      "headline": "Off-Duty Officer Spotted Trouble and Pulled an Unconscious Driver to Safety",
+      "blurb": "An off-duty NYPD officer noticed a car run a red light in Brooklyn's Sunset Park, realized the driver had passed out, and ran the moving vehicle to a stop before pulling him free and starting CPR on the spot. A local councilwoman said the quick thinking likely spared pedestrians too, in a rescue caught entirely on a nearby shop's camera.",
+      "url": "https://abc7ny.com/post/surveillance-video-shows-off-duty-nypd-officers-dramatic-rescue-unconscious-driver/19808558/",
+      "source": "abc7ny.com",
+      "url_key": "abc7ny.com/post/surveillance-video-shows-off-duty-nypd-officers-dramatic-rescue-unconscious-driver/19808558",
+      "title_key": "off duty officer spotted trouble pulled unconscious driver safety",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -10413,6 +10449,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-15T12:18:39Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-16T01:52:43Z",
       "accepted": 3,
       "rejected": 2
     }
