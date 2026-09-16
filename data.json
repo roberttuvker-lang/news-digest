@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T01:52:43Z",
+  "updated": "2026-09-16T07:12:28Z",
   "stories": [
     {
       "stream": "ai",
@@ -9056,6 +9056,42 @@
       "url_key": "abc7ny.com/post/surveillance-video-shows-off-duty-nypd-officers-dramatic-rescue-unconscious-driver/19808558",
       "title_key": "off duty officer spotted trouble pulled unconscious driver safety",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-16",
+      "headline": "Deep-Sea Explorers Caught a Real-Life 'Alien' Squid Just Floating There",
+      "blurb": "Scientists piloting a submersible near an underwater mountain off central California ran smack into a bigfin squid — a creature so rare only about 70 have ever been seen alive. It hung nearly two miles down, arms trailing like ribbons, utterly unbothered by its close-up.",
+      "url": "https://www.livescience.com/animals/squids/watch-the-first-ever-footage-of-a-rare-deep-sea-squid-in-the-northeastern-pacific",
+      "source": "livescience.com",
+      "url_key": "livescience.com/animals/squids/watch-the-first-ever-footage-of-a-rare-deep-sea-squid-in-the-northeastern-pacific",
+      "title_key": "deep sea explorers caught real life alien squid just floating there",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-16",
+      "headline": "A Guy With a Metal Detector Just Found Finland's Biggest Viking Treasure Ever",
+      "blurb": "Kalle Lappinen was out detecting near his hometown when his machine started screaming — turns out he'd found 4.5 kilograms of thousand-year-old silver coins, bracelets and jewelry, the largest Viking Age hoard Finland has ever recorded. He did the right thing and called the museum instead of pocketing it.",
+      "url": "https://www.livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
+      "source": "livescience.com",
+      "url_key": "livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
+      "title_key": "guy metal detector just found finland s biggest viking treasure ever",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-16",
+      "headline": "3-Year-Old Calmly Talks 911 Through Saving Her Own Mom",
+      "blurb": "When her mom had a seizure, tiny Emi Vatavuk in Rusk, Texas didn't panic — she called her grandma in another state, got 911 on the line, rolled her mom onto her side, and unlocked the door for paramedics. Local EMS gave her a stethoscope, a challenge coin and a hero's welcome.",
+      "url": "https://www.kltv.com/2026/09/08/she-is-my-hero-ut-health-east-texas-ems-honors-3-year-old-girls-bravery-during-mothers-seizure/",
+      "source": "kltv.com",
+      "url_key": "kltv.com/2026/09/08/she-is-my-hero-ut-health-east-texas-ems-honors-3-year-old-girls-bravery-during-mothers-seizure",
+      "title_key": "3 year old calmly talks 911 through saving her own mom",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -10456,6 +10492,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-16T01:52:43Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-16T07:12:28Z",
       "accepted": 3,
       "rejected": 2
     }
