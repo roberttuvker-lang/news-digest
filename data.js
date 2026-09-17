@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-16T12:18:15Z",
+  "updated": "2026-09-17T01:54:37Z",
   "stories": [
     {
       "stream": "ai",
@@ -9128,6 +9128,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260915095750.htm",
       "title_key": "volcano accidentally discovered how clean up own greenhouse gas mess",
       "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-17",
+      "headline": "A Songwriter Traded the Stage for a Fox Trap — and Became Nashville's Wildlife Hero",
+      "blurb": "Jerry Vandiver, a 78-year-old singer-songwriter, has spent seven years trapping mangy foxes around Nashville and driving them to Walden's Puddle for treatment, logging 234 volunteer hours in August alone. His before-and-after rescue videos have turned him into a local celebrity, growing his fan page from 325 to 5,000 followers and inspiring more people to help.",
+      "url": "https://www.goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange",
+      "title_key": "songwriter traded stage fox trap became nashville s wildlife hero",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-17",
+      "headline": "London Just Raised a 10-Story Tower Held Up by Volcanic Rock Instead of Steel",
+      "blurb": "Architects at Groupwork and engineers at Webb Yates completed Petra Heights, a London high-rise supported by a thousand tonnes of volcanic stone in place of concrete and steel. Load-bearing stone can cut a building's carbon footprint by up to 95 percent, making this a real step toward construction that doesn't cost the planet.",
+      "url": "https://freeyork.org/architecture/london-high-rise-revolution-london-high-rise-revol/",
+      "source": "freeyork.org",
+      "url_key": "freeyork.org/architecture/london-high-rise-revolution-london-high-rise-revol",
+      "title_key": "london just raised 10 story tower held up volcanic rock instead steel",
+      "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-17",
+      "headline": "Scientists Found a Way to Desalinate Seawater Without the Toxic Waste",
+      "blurb": "A University of Rochester team led by Professor Chunlei Guo built a solar-powered device using laser-etched black metal that turns seawater into fresh water while pulling out nearly all the salt as a solid, instead of the harmful brine that normal desalination dumps back into the ocean. It could even recover valuable minerals like lithium along the way.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260915100137.htm",
+      "title_key": "scientists found way desalinate seawater without toxic waste",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -10542,6 +10578,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-16T12:18:15Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-17T01:54:37Z",
       "accepted": 3,
       "rejected": 2
     }
