@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-17T01:54:37Z",
+  "updated": "2026-09-17T07:10:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -9164,6 +9164,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260915100137.htm",
       "title_key": "scientists found way desalinate seawater without toxic waste",
       "topic": "Environment"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-17",
+      "headline": "A Wild Kingfisher Just Landed on a Woman's Hand — and Stayed for 10 Whole Minutes",
+      "blurb": "A park ranger in Somerset, England had just silently asked the universe for a sign when a flash of electric blue came streaking toward her — and touched down right on her palm. Eurasian kingfishers are famously shy, so having one perch and linger for ten full minutes left onlookers (and the ranger) completely stunned. Sometimes the universe really does answer in technicolor.",
+      "url": "https://www.goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand",
+      "title_key": "wild kingfisher just landed woman s hand stayed 10 whole minutes",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-17",
+      "headline": "A Squirrel Crashed an Ohio State Football Game — Fans Fed It Pretzels Until Police Arrived",
+      "blurb": "During Saturday's Ohio State-Ball State game, a very overwhelmed squirrel wandered straight into the stands and refused to leave. Helpful fans tried to calm it down with pretzels while a police sergeant eventually scooped it up in a beer box and carried it to safety. Best halftime show all season.",
+      "url": "https://www.upi.com/Odd_News/2026/09/11/Perry-Township-Ohio-State-squirrel/9691789147583/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/11/perry-township-ohio-state-squirrel/9691789147583",
+      "title_key": "squirrel crashed ohio state football game fans fed pretzels until police arrived",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-17",
+      "headline": "A Moose Wandered Onto the Tracks in Poland and Just... Held Up the Trains",
+      "blurb": "Commuters near Warsaw got an unscheduled wildlife encounter this week when a moose decided the railway was exactly where it wanted to be, forcing operators to pause service until it ambled off. Nobody was hurt, the moose got its moment of main-character energy, and the trains ran again shortly after. Occasionally nature just wins the schedule.",
+      "url": "https://www.upi.com/Odd_News/2026/09/14/poland-moose-train-tracks-Warsaw-PLK/3621789398250",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/14/poland-moose-train-tracks-warsaw-plk/3621789398250",
+      "title_key": "moose wandered onto tracks poland just held up trains",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -10585,6 +10621,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-17T01:54:37Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-17T07:10:41Z",
       "accepted": 3,
       "rejected": 2
     }
