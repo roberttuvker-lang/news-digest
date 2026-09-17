@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-17T07:10:41Z",
+  "updated": "2026-09-17T12:19:52Z",
   "stories": [
     {
       "stream": "ai",
@@ -9200,6 +9200,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/09/14/poland-moose-train-tracks-warsaw-plk/3621789398250",
       "title_key": "moose wandered onto tracks poland just held up trains",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-17",
+      "headline": "Scientists Found a Way to Turn Cancer's Own Defenses Against It",
+      "blurb": "A new drug fights mesothelioma, one of the deadliest and most treatment-resistant cancers, by disabling PRX3, the antioxidant shield tumor cells rely on to survive. In an early trial it controlled disease progression in 67% of patients, and a second-generation oral version is already in development.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260915232136.htm",
+      "title_key": "scientists found way turn cancer s own defenses against",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-17",
+      "headline": "Your Skull Is Hiding a Secret Immune Organ That Fights Brain Cancer",
+      "blurb": "Researchers just discovered lymph-node-like immune structures tucked inside skull bone marrow that act as a rapid-response unit against brain tumors, and found the same structures in humans. A gel that boosts them let mice reject tumors and survive far longer, opening a whole new route to treating brain cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260915232134.htm",
+      "title_key": "your skull hiding secret immune organ fights brain cancer",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-17",
+      "headline": "One Brain Implant Just Gave Paralyzed Patients Speech AND Body Language Back",
+      "blurb": "A new brain-computer interface lets people with severe paralysis express both speech and gestures at once through a full-body avatar, the first system to combine them instead of offering just one. It is a huge leap toward restoring natural, expressive communication for people who lost it entirely.",
+      "url": "https://medicalxpress.com/news/2026-09-brain-interface-enables-avatar-speech.html",
+      "source": "medicalxpress.com",
+      "url_key": "medicalxpress.com/news/2026-09-brain-interface-enables-avatar-speech.html",
+      "title_key": "one brain implant just gave paralyzed patients speech body language back",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -10628,6 +10664,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-17T07:10:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-17T12:19:52Z",
       "accepted": 3,
       "rejected": 2
     }
