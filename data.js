@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-17T12:19:52Z",
+  "updated": "2026-09-18T01:52:53Z",
   "stories": [
     {
       "stream": "ai",
@@ -9236,6 +9236,42 @@ window.NEWS_DATA = {
       "url_key": "medicalxpress.com/news/2026-09-brain-interface-enables-avatar-speech.html",
       "title_key": "one brain implant just gave paralyzed patients speech body language back",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-18",
+      "headline": "Scientists Just Redrew a Century-Old Picture of Your Brain Cells",
+      "blurb": "Using cryo-preservation instead of the usual chemical processing, Johns Hopkins researchers discovered that axons aren't smooth cables at all — they're strung with tiny nano-pearls that may control how fast nerve signals travel. It's a rare case of textbook biology getting a genuine, joyful update.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260915232138.htm",
+      "title_key": "scientists just redrew century old picture your brain cells",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-18",
+      "headline": "A $100 Gadget Now Lets Anyone See the Cosmic Rays Passing Through Their Body",
+      "blurb": "Physicists built a pocket-sized muon detector that lights up every time an invisible cosmic particle zips through it, and it's cheap and simple enough for students and hobbyists to build themselves. What started as a teaching project is now turning ordinary people into real particle physicists.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260917003725.htm",
+      "title_key": "100 gadget now lets anyone see cosmic rays passing through their body",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-18",
+      "headline": "A 125-Million-Year-Old Crocodile Just Revealed Its Skin, Colors, and Senses",
+      "blurb": "A fossil that sat quietly in a Spanish museum for over a century turned out to hold exceptionally preserved skin, cartilage, claw sheaths, and even a banded color pattern once scientists shone UV light on it. It's the most detailed soft-tissue portrait of an ancient crocodile relative ever found.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260914102436.htm",
+      "title_key": "125 million year old crocodile just revealed skin colors senses",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -10671,6 +10707,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-17T12:19:52Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-18T01:52:53Z",
       "accepted": 3,
       "rejected": 2
     }
