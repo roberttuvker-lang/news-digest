@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-18T01:52:53Z",
+  "updated": "2026-09-18T07:14:21Z",
   "stories": [
     {
       "stream": "ai",
@@ -9272,6 +9272,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260914102436.htm",
       "title_key": "125 million year old crocodile just revealed skin colors senses",
       "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-18",
+      "headline": "Pluto Might Have Rivers Right Now — Just Not the Kind You'd Swim In",
+      "blurb": "New Horizons imagery just revealed dark streaks on Pluto's giant heart-shaped glacier that look exactly like meltwater darkening ice here on Earth — except this 'meltwater' is liquid nitrogen, rising through cracks from below. It's the first evidence anything has flowed on Pluto's surface in the recent past, turning a frozen world 3 billion miles away into somewhere quietly, weirdly alive.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260916232525.htm",
+      "title_key": "pluto might rivers right now just not kind you d swim",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-18",
+      "headline": "Astronomers Just Caught a Planet Being Born — Literally Mid-Delivery",
+      "blurb": "Meet Elias 2-24 b: a Jupiter-sized newborn less than a million years old, still hoovering up gas and dust from the disk around its baby star 450 light-years away. It's the youngest planet ever confirmed, found hiding in old telescope data — proof that sometimes the universe's biggest discoveries are just waiting for someone to look again.",
+      "url": "https://www.space.com/astronomy/exoplanets/scientists-find-youngest-exoplanet-on-record-a-newborn-named-elias",
+      "source": "space.com",
+      "url_key": "space.com/astronomy/exoplanets/scientists-find-youngest-exoplanet-on-record-a-newborn-named-elias",
+      "title_key": "astronomers just caught planet being born literally mid delivery",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-18",
+      "headline": "A Runaway Parade Horse Got the Full Santa Fe Police Escort — Motorcycles, Drones, and All",
+      "blurb": "Before Santa Fe's Desfile de La Gente parade even started, one horse decided it had other plans and bolted through downtown. Police answered with everything: motorcycle cops, bicycle cops, animal services, even a drone — and calmly walked it back in time for a celebratory water break before the parade rolled on without a hitch.",
+      "url": "https://www.upi.com/Odd_News/2026/09/17/santa-fe-parade-horse-chase/8301789655823",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/17/santa-fe-parade-horse-chase/8301789655823",
+      "title_key": "runaway parade horse got full santa fe police escort motorcycles drones all",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -10714,6 +10750,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-18T01:52:53Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-18T07:14:21Z",
       "accepted": 3,
       "rejected": 2
     }
