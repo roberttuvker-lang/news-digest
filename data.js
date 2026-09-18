@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-18T07:14:21Z",
+  "updated": "2026-09-18T12:18:56Z",
   "stories": [
     {
       "stream": "ai",
@@ -9308,6 +9308,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/09/17/santa-fe-parade-horse-chase/8301789655823",
       "title_key": "runaway parade horse got full santa fe police escort motorcycles drones all",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-18",
+      "headline": "A New Antimatter Beam Could Finally Test Whether Gravity Plays Favorites",
+      "blurb": "Physicists at ETH Zurich built and successfully tested a beam of muonium — an exotic atom pairing an antimuon with an electron — cooled to near absolute zero. It's the first step toward watching gravity act on second-generation matter, territory no experiment has ever reached, opening a genuinely new window on the laws that hold the universe together.",
+      "url": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-09-particle-einstein-theory-gravity.html",
+      "title_key": "new antimatter beam could finally test whether gravity plays favorites",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-18",
+      "headline": "Twins Separated at the Head Are Now Hitting Milestones Doctors Once Only Hoped For",
+      "blurb": "Six months after a 25-hour surgery in St. Louis separated two-year-old sisters Hiyab and Wuhbto — born craniopagus, a condition occurring in just one of 2.5 million births — the girls are recovering, rehabbing, and reaching new developmental milestones together. A rare, once-unthinkable operation is turning into two ordinary, thriving childhoods.",
+      "url": "https://www.kctv5.com/2026/09/17/conjoined-twins-separated-st-louis-hospital-are-reaching-new-milestones/",
+      "source": "kctv5.com",
+      "url_key": "kctv5.com/2026/09/17/conjoined-twins-separated-st-louis-hospital-are-reaching-new-milestones",
+      "title_key": "twins separated head are now hitting milestones doctors once only hoped",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-18",
+      "headline": "This AI-Powered Controller Just Let Blind Gamers Play Everything, Not Just the 0.001%",
+      "blurb": "Four grad students from the Royal College of Art and Imperial College London built Waypoint, a camera-and-AI system that reads any game's screen in real time and translates it into sound, touch, and vibration cues. It just won a student prize at Fast Company's Innovation by Design Awards — and it points toward a future where accessibility isn't an afterthought bolted onto a handful of titles.",
+      "url": "https://fastcompany.com/91590559/waypoint-innovation-by-design-2026",
+      "source": "fastcompany.com",
+      "url_key": "fastcompany.com/91590559/waypoint-innovation-by-design-2026",
+      "title_key": "ai powered controller just let blind gamers play everything not just 0 001",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -10757,6 +10793,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-18T07:14:21Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-18T12:18:56Z",
       "accepted": 3,
       "rejected": 2
     }
