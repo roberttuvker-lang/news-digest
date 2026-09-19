@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T01:52:45Z",
+  "updated": "2026-09-19T07:06:50Z",
   "stories": [
     {
       "stream": "ai",
@@ -9380,6 +9380,42 @@
       "url_key": "fisheries.noaa.gov/feature-story/knocking-help-pelicans-unlikely-rescue",
       "title_key": "pelican literally knocked lab door asking biologists help got",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-19",
+      "headline": "Scientists Just Found a Brand-New Wild Cat — and It's Kitten-Sized Forever",
+      "blurb": "A 'weird cat' brought into a Bolivian wildlife sanctuary turned out to be something nobody had ever formally described: a tiny new species just named the tilcayo, the first wild cat species named in over a century. It tops out around three pounds soaking wet — basically a permanent kitten — and researchers only caught on because it simply didn't match anything in the books.",
+      "url": "https://gizmodo.com/scientists-discover-first-new-cat-species-in-over-a-century-and-its-love-at-first-sight-2000812939",
+      "source": "gizmodo.com",
+      "url_key": "gizmodo.com/scientists-discover-first-new-cat-species-in-over-a-century-and-its-love-at-first-sight-2000812939",
+      "title_key": "scientists just found brand new wild cat s kitten sized forever",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-19",
+      "headline": "A Real Alligator Showed Up on a Long Island Trail — and a Group of Girls Handled It Like Pros",
+      "blurb": "Visitors at the Holtsville Ecology Center stumbled on a small alligator wandering the trail, and instead of panicking, a group of girls calmly kept it contained until wildlife officials arrived. The gator — clearly someone's abandoned pet — is now getting proper care from New York wildlife officials, no wrestling required.",
+      "url": "https://www.upi.com/Odd_News/2026/09/18/long-island-alligator-holtsville-ecology-center/8451789746179",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/18/long-island-alligator-holtsville-ecology-center/8451789746179",
+      "title_key": "real alligator showed up long island trail group girls handled like pros",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-19",
+      "headline": "Scientists Reconstructed Actual Video From a Mouse's Brain — Just From Its Neurons Firing",
+      "blurb": "Researchers at UCL recorded mouse brain-cell activity while the mice watched movies, then used that neural data alone to rebuild recognizable 10-second video clips of what the mice had seen. It's basically brain-to-screen playback, and it could help crack open how any brain — including ours — turns raw signals into the world we perceive.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260914102449.htm",
+      "title_key": "scientists reconstructed actual video mouse s brain just neurons firing",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -10843,6 +10879,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-19T01:52:45Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-19T07:06:50Z",
       "accepted": 3,
       "rejected": 2
     }
