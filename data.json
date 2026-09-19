@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T07:06:50Z",
+  "updated": "2026-09-19T12:17:18Z",
   "stories": [
     {
       "stream": "ai",
@@ -9416,6 +9416,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260914102449.htm",
       "title_key": "scientists reconstructed actual video mouse s brain just neurons firing",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-19",
+      "headline": "Scientists Just Found the Secret to Building Unbreakable Networks — More Mess, Not Less",
+      "blurb": "Northwestern physicists cracked a mathematical framework showing that carefully tuned variation, not uniformity, makes power grids, ecosystems, and materials far more stable. It flips a decades-old design assumption and opens the door to engineers deliberately building 'disorder' into the systems we depend on most.",
+      "url": "https://phys.org/news/2026-09-finely-tuned-mess-disorder-networks.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-09-finely-tuned-mess-disorder-networks.html",
+      "title_key": "scientists just found secret building unbreakable networks more mess not less",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-19",
+      "headline": "A Brand-New Frog Just Showed Up in the Amazon — Singing a Song No One Had Heard",
+      "blurb": "Researchers combing the flooded forests of western Acre identified Adenomera varcena, a frog distinguished by DNA, body shape, and a slow, lazy call unlike any relative's. It's a fresh reminder that entire species are still hiding in plain sight, waiting to be found.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260917003737.htm",
+      "title_key": "brand new frog just showed up amazon singing song no one had heard",
+      "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-19",
+      "headline": "Chattanooga Just Switched On a $22 Million Quantum Computer — and Businesses Can Use It Next Month",
+      "blurb": "EPB's new Quantum Center fired up an IonQ Forte Enterprise trapped-ion computer alongside photonic quantum-networking gear, making it the first commercial hub in the US to combine both under one roof. Local businesses get access within weeks, putting frontier computing power in reach far outside Silicon Valley.",
+      "url": "https://www.timesfreepress.com/news/2026/sep/18/epb-launches-22m-quantum-computer-to-solve-grid/",
+      "source": "timesfreepress.com",
+      "url_key": "timesfreepress.com/news/2026/sep/18/epb-launches-22m-quantum-computer-to-solve-grid",
+      "title_key": "chattanooga just switched 22 million quantum computer businesses can use next month",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -10886,6 +10922,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-19T07:06:50Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-19T12:17:18Z",
       "accepted": 3,
       "rejected": 2
     }
