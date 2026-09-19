@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18T12:18:56Z",
+  "updated": "2026-09-19T01:52:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -9344,6 +9344,42 @@
       "url_key": "fastcompany.com/91590559/waypoint-innovation-by-design-2026",
       "title_key": "ai powered controller just let blind gamers play everything not just 0 001",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-19",
+      "headline": "The First-Ever Treatment for 'Childhood Alzheimer's' Just Got the FDA's Green Light",
+      "blurb": "The FDA approved Fayuvi, the first gene therapy ever designed to treat Sanfilippo syndrome type A — a devastating rare disease that until now had no treatment beyond managing symptoms. For families who've had nothing to fight back with, a one-time therapy aimed at the disease itself is a genuine turning point.",
+      "url": "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/",
+      "source": "statnews.com",
+      "url_key": "statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval",
+      "title_key": "first ever treatment childhood alzheimer s just got fda s green light",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-19",
+      "headline": "Bhutan Just Became the First Country in South-East Asia to Wipe Out Dog-Transmitted Rabies",
+      "blurb": "The World Health Organization validated Bhutan for eliminating dog-mediated human rabies, only the third country on Earth to reach that milestone. It took over a decade of mass dog vaccinations and community volunteers, and the country hasn't recorded a single rabies death since 2023.",
+      "url": "https://www.who.int/news/item/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+      "source": "who.int",
+      "url_key": "who.int/news/item/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+      "title_key": "bhutan just became first country south east asia wipe out dog transmitted rabies",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-19",
+      "headline": "A Pelican Literally Knocked on a Lab Door Asking Biologists for Help — and Got It",
+      "blurb": "A brown pelican tangled in fishing line, with a hook buried in its wing, rapped its beak against the door of a NOAA Fisheries office in Panama City until staff let it in. Biologists calmly freed the bird, gave it a clean bill of health, and watched it fly straight back to the sky.",
+      "url": "https://www.fisheries.noaa.gov/feature-story/knocking-help-pelicans-unlikely-rescue",
+      "source": "fisheries.noaa.gov",
+      "url_key": "fisheries.noaa.gov/feature-story/knocking-help-pelicans-unlikely-rescue",
+      "title_key": "pelican literally knocked lab door asking biologists help got",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -10800,6 +10836,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-18T12:18:56Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-19T01:52:45Z",
       "accepted": 3,
       "rejected": 2
     }
