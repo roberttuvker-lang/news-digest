@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T01:51:51Z",
+  "updated": "2026-09-20T07:04:54Z",
   "stories": [
     {
       "stream": "ai",
@@ -9556,6 +9556,42 @@
       "title_key": "microsoft merges copilot apps expands reusable agent skills",
       "topic": "AI",
       "category": "Tools"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-20",
+      "headline": "A Newly Discovered Snake Just Got Named After Slash — Yes, THAT Slash",
+      "blurb": "Field Museum scientists confirmed a reddish-brown New Guinea groundsnake was a species nobody had ever formally described — so they named it Lielaphis slashi, after the Guns N' Roses guitarist, for his lifelong love of reptiles and museums. A rock star with a snake namesake. Iconic top hat, now an iconic species.",
+      "url": "https://www.fieldmuseum.org/about/press/welcome-to-the-jungle-newly-discovered-snake-named-after-slash-from-guns-n-roses",
+      "source": "fieldmuseum.org",
+      "url_key": "fieldmuseum.org/about/press/welcome-to-the-jungle-newly-discovered-snake-named-after-slash-from-guns-n-roses",
+      "title_key": "newly discovered snake just got named after slash yes slash",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-20",
+      "headline": "Five Generations of One Iowa Family Share the EXACT Same Birthday",
+      "blurb": "Great-great-grandfather, great-grandmother, grandmother, dad, and now his grandson — all born September 14th. Guinness just made it official, and the family swears the genders even alternate boy-girl-boy-girl-boy right down the line. Somebody check the calendar for witchcraft, or just enjoy the cake.",
+      "url": "https://www.upi.com/Odd_News/2026/09/17/Guinness-World-Records-five-generations-same-birthday/5611789656758",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/17/guinness-world-records-five-generations-same-birthday/5611789656758",
+      "title_key": "five generations one iowa family share exact same birthday",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-20",
+      "headline": "Conagra Just Built a 429-Foot Slim Jim and Smashed a World Record",
+      "blurb": "That's longer than a football field, nearly 70 pounds of cured, smoked meat snack, unspooled in Omaha and Guinness-certified as the longest ever made — beating the old record by 116 feet. They insist it tastes exactly like a regular one. Absolute unit energy.",
+      "url": "https://www.upi.com/Odd_News/2026/09/17/guinness-world-records-slim-jim/1191789667547/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/17/guinness-world-records-slim-jim/1191789667547",
+      "title_key": "conagra just built 429 foot slim jim smashed world record",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11041,6 +11077,13 @@
       "stream": "ai",
       "at": "2026-09-20T01:51:51Z",
       "accepted": 8,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-20T07:04:54Z",
+      "accepted": 3,
       "rejected": 2
     }
   ]
