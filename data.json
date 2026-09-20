@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T12:17:18Z",
+  "updated": "2026-09-20T01:51:51Z",
   "stories": [
     {
       "stream": "ai",
@@ -9452,6 +9452,110 @@
       "url_key": "timesfreepress.com/news/2026/sep/18/epb-launches-22m-quantum-computer-to-solve-grid",
       "title_key": "chattanooga just switched 22 million quantum computer businesses can use next month",
       "topic": "Technology"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "OpenAI ships GPT-6 'Astra', its most capable model yet",
+      "blurb": "OpenAI launched Astra, claiming a new frontier in computer and browser use with improved speed, accuracy and safety over prior models. It's rolling out as the new frontier tier across ChatGPT and the API.",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "title_key": "openai ships gpt 6 astra most capable model yet",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "Google ships Gemini 3.8 Flash with a gated 'Cyber' variant",
+      "blurb": "Google released Gemini 3.8 Flash alongside a cybersecurity-focused variant restricted to vetted government and enterprise customers, part of a push to regain ground after a rough summer for DeepMind.",
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "title_key": "google ships gemini 3 8 flash gated cyber variant",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "Anthropic: Claude now does 26% of its own R&D ahead of IPO",
+      "blurb": "Anthropic says Claude's share of its model research and development jumped from 1% in March to 26% in August, working under human supervision. The disclosure lands ahead of a planned fall IPO.",
+      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-version-rcna598494",
+      "source": "nbcnews.com",
+      "url_key": "nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-version-rcna598494",
+      "title_key": "anthropic claude now does 26 own r d ahead ipo",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "Cohere raises $2.5B Series D+ in a heavy funding week for AI labs",
+      "blurb": "Cohere closed a $2.5 billion round as part of an $11B week across 18 AI funding deals, underscoring continued investor appetite for enterprise-focused foundation model companies.",
+      "url": "https://www.startuphub.ai/ai-news/funding-round/2026/ai-funding-roundup-11b-across-18-rounds-sep-7-to-sep-13",
+      "source": "startuphub.ai",
+      "url_key": "startuphub.ai/ai-news/funding-round/2026/ai-funding-roundup-11b-across-18-rounds-sep-7-to-sep-13",
+      "title_key": "cohere raises 2 5b series d heavy funding week ai labs",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "AI-cited layoffs at US tech firms near 140,000 for 2026",
+      "blurb": "Amazon, Oracle, Meta and Microsoft account for nearly 50,000 of the cuts as companies redirect spending toward AI data centers, adding to a growing list of firms explicitly blaming AI for job reductions.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+      "title_key": "ai cited layoffs us tech firms near 140 000 2026",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "OpenAI launches Astra for Law and ships ChatGPT for Word",
+      "blurb": "Built on GPT-6 Astra, the new legal product adds case search, writing guidance and privacy controls; ChatGPT for Word is now generally available for drafting support, a direct play for professional services firms.",
+      "url": "https://openai.com/news/product-releases/",
+      "source": "openai.com",
+      "url_key": "openai.com/news/product-releases",
+      "title_key": "openai launches astra law ships chatgpt word",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "Cursor 3 brings full agentic workflows into the coding editor",
+      "blurb": "Cursor's latest release lets the assistant plan and execute multi-step tasks across an entire project rather than just autocompleting, pushing it further into direct competition with Claude Code and OpenAI Codex.",
+      "url": "https://www.developer-tech.com/news/cursorlaunches-agent-based-coding-workflows-amid-ai-agent-growth/",
+      "source": "developer-tech.com",
+      "url_key": "developer-tech.com/news/cursorlaunches-agent-based-coding-workflows-amid-ai-agent-growth",
+      "title_key": "cursor 3 brings full agentic workflows into coding editor",
+      "topic": "AI",
+      "category": "Tools"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-20",
+      "headline": "Microsoft merges its Copilot apps, expands reusable agent skills",
+      "blurb": "Microsoft folded its separate Copilot apps into one after killing underperforming AI features, while adding cross-app 'reusable skills' in SharePoint and OneDrive and new finance-focused Copilot tools in Excel.",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "techcrunch.com",
+      "url_key": "techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
+      "title_key": "microsoft merges copilot apps expands reusable agent skills",
+      "topic": "AI",
+      "category": "Tools"
     }
   ],
   "runs": [
@@ -10930,6 +11034,13 @@
       "stream": "afternoon",
       "at": "2026-09-19T12:17:18Z",
       "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-09-20T01:51:51Z",
+      "accepted": 8,
       "rejected": 2
     }
   ]
