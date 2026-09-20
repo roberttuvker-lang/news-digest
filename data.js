@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-20T07:04:54Z",
+  "updated": "2026-09-20T12:16:19Z",
   "stories": [
     {
       "stream": "ai",
@@ -9592,6 +9592,42 @@ window.NEWS_DATA = {
       "url_key": "upi.com/odd_news/2026/09/17/guinness-world-records-slim-jim/1191789667547",
       "title_key": "conagra just built 429 foot slim jim smashed world record",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-20",
+      "headline": "A 50-Year Blood Mystery, Solved — and Transfusions Just Got Safer",
+      "blurb": "Scientists pinned down the gene behind the elusive AnWj blood antigen, closing a case that began in 1972 and officially registering MAL as the 47th human blood group system. The find unlocks a genetic test to spot ultra-rare donors and patients before a transfusion ever goes wrong — five decades of mystery turned into everyday safety.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260918024828.htm",
+      "title_key": "50 year blood mystery solved transfusions just got safer",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-20",
+      "headline": "Scientists Found Cells That Cheat Death — Then Rebuild What Was Lost",
+      "blurb": "Researchers at the Weizmann Institute discovered 'DARE' cells that start down the path of dying, survive it, and then multiply to replace nearly half of damaged tissue within 48 hours. It's an early but thrilling clue toward a future where the body can be coaxed into healing itself far faster than anyone thought possible.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260917003722.htm",
+      "title_key": "scientists found cells cheat death then rebuild what lost",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-20",
+      "headline": "37,000 AI Scientists Just Designed a Cancer Drug — and a Real Pharma Company Built the Same One",
+      "blurb": "Stanford's all-AI 'virtual biotech' sifted through more than 50,000 clinical trials in under a week, flagged a promising cancer target, and proposed a therapy — which a major pharmaceutical company independently arrived at and pushed toward FDA breakthrough status. A genuine glimpse of AI compressing the drug pipeline from years down to days.",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+      "source": "med.stanford.edu",
+      "url_key": "med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+      "title_key": "37 000 ai scientists just designed cancer drug real pharma company built same one",
+      "topic": "AI"
     }
   ],
   "runs": [
@@ -11083,6 +11119,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-20T07:04:54Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-20T12:16:19Z",
       "accepted": 3,
       "rejected": 2
     }
