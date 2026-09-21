@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T12:16:19Z",
+  "updated": "2026-09-21T01:53:56Z",
   "stories": [
     {
       "stream": "ai",
@@ -9628,6 +9628,42 @@
       "url_key": "med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
       "title_key": "37 000 ai scientists just designed cancer drug real pharma company built same one",
       "topic": "AI"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-21",
+      "headline": "20,000 Salmon Are Reclaiming a River They Hadn't Swum in a Century",
+      "blurb": "Two years after the largest dam removal in U.S. history, Chinook salmon have already recolonized 88% of their historic range on California's Klamath River, scientists report. It's one of the fastest ecosystem recoveries researchers have ever documented — proof nature bounces back fast when given the chance.",
+      "url": "https://insideclimatenews.org/news/27082026/salmon-return-to-klamath-river-after-dam-removals/",
+      "source": "insideclimatenews.org",
+      "url_key": "insideclimatenews.org/news/27082026/salmon-return-to-klamath-river-after-dam-removals",
+      "title_key": "20 000 salmon are reclaiming river they hadn t swum century",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-21",
+      "headline": "Airbnb Just Put $250 Million Behind Fixing America's Housing Crunch",
+      "blurb": "The company launched a 'Housing Accelerator' this month to unlock up to $5 billion for stalled affordable housing projects, starting with 201 new units in Austin. It's a rare case of a tech giant putting real money toward the shortage it's often blamed for worsening.",
+      "url": "https://www.archpaper.com/2026/09/airbnb-announces-housing-accelerator/",
+      "source": "archpaper.com",
+      "url_key": "archpaper.com/2026/09/airbnb-announces-housing-accelerator",
+      "title_key": "airbnb just put 250 million behind fixing america s housing crunch",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-21",
+      "headline": "Phoenix Just Opened the First Off-Grid Village Built for Homeless Seniors",
+      "blurb": "Forty solar-and-battery-powered studio homes made from shipping containers now house seniors transitioning out of homelessness, each paired with a case manager to find permanent housing within 90 days. Fifty-four more supportive apartments are already on the way.",
+      "url": "https://www.goodgoodgood.co/articles/phoenix-arizona-senior-bridge-shipping-container-housing",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/phoenix-arizona-senior-bridge-shipping-container-housing",
+      "title_key": "phoenix just opened first off grid village built homeless seniors",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11126,6 +11162,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-20T12:16:19Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-21T01:53:56Z",
       "accepted": 3,
       "rejected": 2
     }
