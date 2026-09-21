@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-21T07:19:19Z",
+  "updated": "2026-09-21T12:18:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -9700,6 +9700,42 @@ window.NEWS_DATA = {
       "url_key": "ny1.com/nyc/all-boroughs/traffic_and_transit/2026/09/17/mamdani-helps-repair-city-s-200-000th-pothole-of-the-year-",
       "title_key": "nyc s mayor just personally filled pothole number 200 000",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-21",
+      "headline": "Australia's Power Grid Just Ran on 80% Clean Energy",
+      "blurb": "On a recent Saturday, renewables supplied a record 80.5% of electricity demand on Australia's main grid, edging past the 79.6% mark set only days earlier. It's a live preview of a fully renewable grid arriving years ahead of schedule.",
+      "url": "http://www.pv-magazine.com/2026/09/21/renewables-share-hits-record-high-in-nem-2/",
+      "source": "pv-magazine.com",
+      "url_key": "pv-magazine.com/2026/09/21/renewables-share-hits-record-high-in-nem-2",
+      "title_key": "australia s power grid just ran 80 clean energy",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-21",
+      "headline": "NASA's Next Telescope Could Spot an Ocean on Another World",
+      "blurb": "Researchers have worked out how the upcoming Habitable Worlds Observatory could catch the glint of sunlight off liquid water on a distant exoplanet, the same flash you see off a lake at sunset. If it works, it would be humanity's first direct evidence of an ocean beyond our solar system.",
+      "url": "https://phys.org/news/2026-09-nasa-great-observatory-oceans-distant.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-09-nasa-great-observatory-oceans-distant.html",
+      "title_key": "nasa s next telescope could spot ocean another world",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-21",
+      "headline": "This Chip Steers Light in Less Than a Trillionth of a Second",
+      "blurb": "Caltech engineers built a nanoscale silicon metasurface that redirects a beam of light by up to 13 degrees in just 74 femtoseconds, one beam of light controlling another. It's a glimpse of photonic computers and communications running at speeds electronics can't touch.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260918024823.htm",
+      "title_key": "chip steers light less than trillionth second",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -11212,6 +11248,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-21T07:19:19Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-21T12:18:42Z",
       "accepted": 3,
       "rejected": 2
     }
