@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-21T01:53:56Z",
+  "updated": "2026-09-21T07:19:19Z",
   "stories": [
     {
       "stream": "ai",
@@ -9664,6 +9664,42 @@ window.NEWS_DATA = {
       "url_key": "goodgoodgood.co/articles/phoenix-arizona-senior-bridge-shipping-container-housing",
       "title_key": "phoenix just opened first off grid village built homeless seniors",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-21",
+      "headline": "Scientists Just Found the Secret Code Hidden in Cat Pee",
+      "blurb": "Turns out your cat has been carrying an ID card the whole time — thirteen weirdly stable fatty acids in its urine that stay put for days while other smells fade. Researchers traced the source to fat pockets in the kidney, basically a built-in name tag factory. Cats really are extra, and now we have the receipts.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260919031033.htm",
+      "title_key": "scientists just found secret code hidden cat pee",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-21",
+      "headline": "A Dog Named Milo Flatlined in a Burning House — Then Came Back to Play Fetch",
+      "blurb": "Firefighters pulled an unconscious Milo from under a table in a smoke-filled Pasadena home and worked oxygen into him until he came back, five agonizing minutes later. Days later he was sprinting around the front lawn for a blue ball like nothing happened. Good boy energy, fully restored.",
+      "url": "https://www.firerescue1.com/animal-rescue/dog-reunites-with-firefighters-who-rescued-him-from-burning-calif-home",
+      "source": "firerescue1.com",
+      "url_key": "firerescue1.com/animal-rescue/dog-reunites-with-firefighters-who-rescued-him-from-burning-calif-home",
+      "title_key": "dog named milo flatlined burning house then came back play fetch",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-21",
+      "headline": "NYC's Mayor Just Personally Filled Pothole Number 200,000",
+      "blurb": "Zohran Mamdani grabbed a shovel in Bushwick to mark the 200,000th pothole patched this year — double the 100,000 milestone he hit back in April. Crews are now knocking out roughly 3,000 a week across the five boroughs. Petty complaint, oddly satisfying victory lap.",
+      "url": "https://ny1.com/nyc/all-boroughs/traffic_and_transit/2026/09/17/mamdani-helps-repair-city-s-200-000th-pothole-of-the-year-",
+      "source": "ny1.com",
+      "url_key": "ny1.com/nyc/all-boroughs/traffic_and_transit/2026/09/17/mamdani-helps-repair-city-s-200-000th-pothole-of-the-year-",
+      "title_key": "nyc s mayor just personally filled pothole number 200 000",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11169,6 +11205,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-21T01:53:56Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-21T07:19:19Z",
       "accepted": 3,
       "rejected": 2
     }
