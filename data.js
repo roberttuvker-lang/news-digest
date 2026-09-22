@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-22T01:53:45Z",
+  "updated": "2026-09-22T07:13:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -9772,6 +9772,42 @@ window.NEWS_DATA = {
       "url_key": "euronews.com/health/2026/09/15/from-bedtime-stories-to-book-clubs-reading-protects-your-brain-for-life",
       "title_key": "cambridge researchers found reading pleasure might protect your brain life",
       "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-22",
+      "headline": "A Tiny 'Goth' Bird Nearly Vanished Forever — Now It's New Zealand's Bird of the Year",
+      "blurb": "The karure, or black robin, came back from just five birds left on Earth in the 1980s to win New Zealand's Bird of the Year 2026 outright, beating out the kakapo and the falcon. Over 105,000 people voted — the biggest turnout in the contest's history. Extinction really can be optional.",
+      "url": "https://www.cnn.com/2026/09/21/travel/new-zealand-bird-of-the-year-2026-intl-scli",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/09/21/travel/new-zealand-bird-of-the-year-2026-intl-scli",
+      "title_key": "tiny goth bird nearly vanished forever now s new zealand s bird year",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-22",
+      "headline": "Something Just Smacked the Moon So Hard It Made the Biggest New Crater Ever Recorded",
+      "blurb": "A building-sized space rock punched a 728-foot-wide, 141-foot-deep crater into the Moon's edge, and scientists just confirmed it's the largest fresh crater humans have ever watched form. It even got a name: McGetchin Crater. A genuinely 'whoa, look up' moment.",
+      "url": "https://www.cnn.com/2026/09/21/science/mcgetchin-moon-crater-discovery",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/09/21/science/mcgetchin-moon-crater-discovery",
+      "title_key": "something just smacked moon so hard made biggest new crater ever recorded",
+      "topic": "Space"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-22",
+      "headline": "A Buck Got Stuck in a Backyard Hammock and Ohio Cops Had a Very Specific 'First' to Report",
+      "blurb": "North Canton police have rescued deer from fences, ponds, and nets over the years — but never, until this week, from a hammock. Officers and a state wildlife officer carefully cut the buck free and it bounded off unhurt. Wholesomely absurd, exactly as advertised.",
+      "url": "https://www.cleveland19.com/2026/09/20/unusual-rescue-north-canton-police-help-free-buck-stuck-backyard-hammock/",
+      "source": "cleveland19.com",
+      "url_key": "cleveland19.com/2026/09/20/unusual-rescue-north-canton-police-help-free-buck-stuck-backyard-hammock",
+      "title_key": "buck got stuck backyard hammock ohio cops had very specific first report",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -11300,6 +11336,13 @@ window.NEWS_DATA = {
       "at": "2026-09-22T01:53:45Z",
       "accepted": 3,
       "rejected": 1
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-22T07:13:41Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
