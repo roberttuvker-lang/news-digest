@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22T07:13:41Z",
+  "updated": "2026-09-22T12:16:51Z",
   "stories": [
     {
       "stream": "ai",
@@ -9808,6 +9808,42 @@
       "url_key": "cleveland19.com/2026/09/20/unusual-rescue-north-canton-police-help-free-buck-stuck-backyard-hammock",
       "title_key": "buck got stuck backyard hammock ohio cops had very specific first report",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-22",
+      "headline": "SpaceX Is About to Send Starship Into Actual Orbit for the First Time",
+      "blurb": "After 13 suborbital test flights, SpaceX rolled its Super Heavy booster to the pad this week for Starship's most ambitious try yet: a real orbit, six trips around Earth, and a batch of next-gen Starlink satellites deployed along the way. If it works, the fully reusable rocket that's supposed to make regular trips to the Moon and Mars just got a lot more real.",
+      "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
+      "source": "spaceflightnow.com",
+      "url_key": "spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch",
+      "title_key": "spacex about send starship into actual orbit first time",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-22",
+      "headline": "Stanford Just Discovered Your Brain Is Secretly Two Brains Fused Together",
+      "blurb": "New research shows the human brain grows from two entirely separate cellular systems that evolution welded together over hundreds of millions of years: an ancient part that just keeps you breathing, and a newer one that gave us poetry and math. Even better, the discovery let scientists grow human hindbrain neurons in a lab for the first time, opening a real path toward treating ALS and other brainstem diseases.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260920222352.htm",
+      "title_key": "stanford just discovered your brain secretly two brains fused together",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-22",
+      "headline": "The Amazon Just Told Scientists the Cheapest Way to Save It",
+      "blurb": "A massive study across three million hectares of Brazilian rainforest found that simply guarding standing forest from fire and logging delivers nearly as much climate benefit as stopping deforestation outright, and beats costly replanting on biodiversity. It's a clear, cost-effective playbook for protecting one of the planet's great carbon sinks right now, not decades from now.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222356.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260920222356.htm",
+      "title_key": "amazon just told scientists cheapest way save",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -11341,6 +11377,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-22T07:13:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-22T12:16:51Z",
       "accepted": 3,
       "rejected": 2
     }
