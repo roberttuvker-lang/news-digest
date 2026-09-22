@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-21T12:18:42Z",
+  "updated": "2026-09-22T01:53:45Z",
   "stories": [
     {
       "stream": "ai",
@@ -9736,6 +9736,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260918024823.htm",
       "title_key": "chip steers light less than trillionth second",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-22",
+      "headline": "England's NHS Just Ended a Years-Long Fight to Get a Life-Extending Cancer Drug to Patients",
+      "blurb": "After years of wrangling over cost, NICE has approved Enhertu for the NHS in England, giving around 1,000 women a year with HER2-low advanced breast cancer access to a drug shown to extend survival by months. It's been available in Scotland for two years — now patients across England finally get the same chance.",
+      "url": "https://www.itv.com/news/2026-09-17/life-extending-breast-cancer-drug-becomes-available-on-the-nhs-in-england",
+      "source": "itv.com",
+      "url_key": "itv.com/news/2026-09-17/life-extending-breast-cancer-drug-becomes-available-on-the-nhs-in-england",
+      "title_key": "england s nhs just ended years long fight get life extending cancer drug patients",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-22",
+      "headline": "A Simple At-Home Urine Test Just Caught 92% of Bladder Cancers",
+      "blurb": "In an NHS trial of nearly 1,000 patients, the Galeas urine test spotted more than nine in ten bladder cancer cases by scanning for tumor DNA — and when it came back clear, patients had better than a 99% chance of truly being in the clear. It could soon spare hundreds of people unnecessary invasive scopes.",
+      "url": "https://www.birmingham.ac.uk/news/2026/urine-test-identifies-more-than-9-in-10-bladder-cancers-clinical-study-finds",
+      "source": "birmingham.ac.uk",
+      "url_key": "birmingham.ac.uk/news/2026/urine-test-identifies-more-than-9-in-10-bladder-cancers-clinical-study-finds",
+      "title_key": "simple home urine test just caught 92 bladder cancers",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-22",
+      "headline": "Cambridge Researchers Found That Reading for Pleasure Might Protect Your Brain for Life",
+      "blurb": "A major Cambridge-led study links reading books to better mental health, greater empathy, and a lower risk of dementia later in life, with benefits showing up from childhood all the way into old age. Best part: it doesn't seem to matter much what you read, just that you do.",
+      "url": "https://www.euronews.com/health/2026/09/15/from-bedtime-stories-to-book-clubs-reading-protects-your-brain-for-life",
+      "source": "euronews.com",
+      "url_key": "euronews.com/health/2026/09/15/from-bedtime-stories-to-book-clubs-reading-protects-your-brain-for-life",
+      "title_key": "cambridge researchers found reading pleasure might protect your brain life",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -11257,6 +11293,13 @@
       "at": "2026-09-21T12:18:42Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-22T01:53:45Z",
+      "accepted": 3,
+      "rejected": 1
     }
   ]
 }
