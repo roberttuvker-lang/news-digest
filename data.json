@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23T01:52:37Z",
+  "updated": "2026-09-23T07:05:33Z",
   "stories": [
     {
       "stream": "ai",
@@ -9880,6 +9880,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260921081114.htm",
       "title_key": "mit s tiny flying robot just learned flip like actual insect",
       "topic": "Technology"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-23",
+      "headline": "Meet Pygoscelis Kerguelensis, Earth's Newest Penguin (Yes, Really)",
+      "blurb": "Scientists just did something almost no one gets to do this century: name a brand-new penguin species. Hiding among gentoo penguins on the wind-battered Kerguelen Islands, nearly 2,000 miles from anywhere, this distinct lineage just got its own name — the first new penguin species named in over 100 years. Turns out the 'one gentoo species' we all learned about was secretly four all along.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260920222410.htm",
+      "title_key": "meet pygoscelis kerguelensis earth s newest penguin yes really",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-23",
+      "headline": "A Baby Rhino Just Crashed World Rhino Day With Perfect Timing",
+      "blurb": "A Thai zoo got the best possible present for World Rhino Day: a healthy white rhino calf, born to mom Grietjie and dad Sudi after a marathon 16-month pregnancy. He's already standing and nursing, and the zoo is about to let the public vote on his name — because who wouldn't want to help name a rhino?",
+      "url": "https://www.khaosodenglish.com/life/2026/09/23/khao-kheow-zoo-welcomes-a-new-white-rhino-calf-on-rhino-day/",
+      "source": "khaosodenglish.com",
+      "url_key": "khaosodenglish.com/life/2026/09/23/khao-kheow-zoo-welcomes-a-new-white-rhino-calf-on-rhino-day",
+      "title_key": "baby rhino just crashed world rhino day perfect timing",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-23",
+      "headline": "Scientists Found Two Brand-New Bugs Hiding in an Australian Rainforest",
+      "blurb": "Researchers just identified two entirely new stick insect species tucked into Far North Queensland's rainforest canopy — one of which lives nowhere else on Earth but a single patch of the Atherton Tablelands. Proof that whole species are still out there waiting to be spotted, if you just look closely enough at a twig.",
+      "url": "https://www.abc.net.au/news/2026-09-22/stick-insect-species-discovered-far-north-queensland/107176446",
+      "source": "abc.net.au",
+      "url_key": "abc.net.au/news/2026-09-22/stick-insect-species-discovered-far-north-queensland/107176446",
+      "title_key": "scientists found two brand new bugs hiding australian rainforest",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -11427,6 +11463,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-23T01:52:37Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-23T07:05:33Z",
       "accepted": 3,
       "rejected": 2
     }
