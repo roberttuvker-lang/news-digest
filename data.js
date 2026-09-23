@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-22T12:16:51Z",
+  "updated": "2026-09-23T01:52:37Z",
   "stories": [
     {
       "stream": "ai",
@@ -9844,6 +9844,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260920222356.htm",
       "title_key": "amazon just told scientists cheapest way save",
       "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-23",
+      "headline": "A Camper's Google Earth Hobby Just Uncovered a 390-Million-Year-Old Crater",
+      "blurb": "Planning a Quebec camping trip on satellite maps, amateur astronomer Joel Lapointe spotted a strange circular scar in the landscape that turned out to be a massive ancient meteorite impact crater — the first public sighting ever confirmed as one by scientists. Researchers later found shatter cones proving a space rock blasted the 25-kilometer-wide structure 390 million years ago, long before dinosaurs existed.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260921081101.htm",
+      "title_key": "camper s google earth hobby just uncovered 390 million year old crater",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-23",
+      "headline": "Scientists Built a Concrete That's Both Stronger and Pulls CO2 From the Air",
+      "blurb": "Engineers blended zeolite with bamboo biochar to create a new concrete formula that boosted compressive strength by 7.5% and tensile strength by 15% over standard mixes — while actively absorbing carbon dioxide from the atmosphere. It's an early step toward sidewalks, barriers, and sewer pipes that clean the air simply by existing.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260921081105.htm",
+      "title_key": "scientists built concrete s both stronger pulls co2 air",
+      "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-23",
+      "headline": "MIT's Tiny Flying Robot Just Learned to Flip Like an Actual Insect",
+      "blurb": "A new AI-based control system let MIT's insect-sized flying robot boost its speed by 450% and pull off ten somersaults in eleven seconds, even while researchers tried to knock it off course with wind. The leap in agility could one day let tiny rescue robots slip into earthquake rubble that no drone can reach.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260921081114.htm",
+      "title_key": "mit s tiny flying robot just learned flip like actual insect",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -11384,6 +11420,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-22T12:16:51Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-23T01:52:37Z",
       "accepted": 3,
       "rejected": 2
     }
