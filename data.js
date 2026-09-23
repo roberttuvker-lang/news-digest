@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-23T07:05:33Z",
+  "updated": "2026-09-23T12:17:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -9916,6 +9916,42 @@ window.NEWS_DATA = {
       "url_key": "abc.net.au/news/2026-09-22/stick-insect-species-discovered-far-north-queensland/107176446",
       "title_key": "scientists found two brand new bugs hiding australian rainforest",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-23",
+      "headline": "Physicists Just Watched Sound Take a Quantum Leap — Literally",
+      "blurb": "Stanford researchers built a device sensitive enough to catch a single phonon, a quantum unit of sound, jumping between energy states in real time, closing a century-long quest that started with electrons and photons. The technique could power a new generation of ultra-sensitive quantum sensors and help error-correct future quantum computers. It's proof the weirdest rules of physics are becoming things we can watch, not just predict.",
+      "url": "https://news.stanford.edu/stories/2026/09/first-real-time-quantum-jump-sound",
+      "source": "news.stanford.edu",
+      "url_key": "news.stanford.edu/stories/2026/09/first-real-time-quantum-jump-sound",
+      "title_key": "physicists just watched sound take quantum leap literally",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-23",
+      "headline": "MIT Built a Battery You Swallow — and It Just Disappears",
+      "blurb": "MIT engineers created a rice-paper-thin battery that powers ingestible medical devices inside the body for days, then safely dissolves in the digestive tract, proven in animal testing. No surgery, no retrieval, no toxic waste left behind, just power that does its job and quietly biodegrades. It's a glimpse of a future where swallowable devices monitor and treat us from the inside, then vanish.",
+      "url": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
+      "source": "news.mit.edu",
+      "url_key": "news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
+      "title_key": "mit built battery you swallow just disappears",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-23",
+      "headline": "The World Just Added More Clean Power in a Year Than Ever Before",
+      "blurb": "A new IRENA report finds the world added a record 693 gigawatts of renewable power in 2025, more than half the entire installed capacity of the United States, with U.S. solar alone now powering the equivalent of over 50 million homes. Released as leaders gathered at the UN General Assembly, the report calls the shift to clean energy \"irreversible.\" The pace still needs to climb to hit 2030 targets, but the trendline is unmistakably up.",
+      "url": "https://www.courthousenews.com/renewables-hit-record-in-2025-but-world-must-move-faster-report/",
+      "source": "courthousenews.com",
+      "url_key": "courthousenews.com/renewables-hit-record-in-2025-but-world-must-move-faster-report",
+      "title_key": "world just added more clean power year than ever before",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -11470,6 +11506,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-23T07:05:33Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-23T12:17:41Z",
       "accepted": 3,
       "rejected": 2
     }
