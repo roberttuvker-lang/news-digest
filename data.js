@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-23T12:17:41Z",
+  "updated": "2026-09-24T01:53:28Z",
   "stories": [
     {
       "stream": "ai",
@@ -9952,6 +9952,42 @@ window.NEWS_DATA = {
       "url_key": "courthousenews.com/renewables-hit-record-in-2025-but-world-must-move-faster-report",
       "title_key": "world just added more clean power year than ever before",
       "topic": "Environment"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-24",
+      "headline": "A 12-Year-Old Turned Thrift-Store Rejects Into Comfort for Kids Who Lost Everything",
+      "blurb": "Sadie Hutson, 12, has been rescuing worn stuffed animals from thrift stores and hand-repairing every one before donating them to the American Red Cross, which hands them to children facing house fires and disasters. She's restored 114 so far, and the Red Cross gave her an award for it — proof one kid with a needle and thread can steady a lot of scared families.",
+      "url": "https://www.sunnyskyz.com/good-news/6312/12-year-old-Rescues-114-Stuffed-Animals-Repairs-Them-and-Gives-Them-to-Children-Affected-by-Home-Fires",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6312/12-year-old-rescues-114-stuffed-animals-repairs-them-and-gives-them-to-children-affected-by-home-fires",
+      "title_key": "12 year old turned thrift store rejects into comfort kids who lost everything",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-24",
+      "headline": "A Baby Elephant Swept 5km Down an Indian River Just Got Its Mother Back",
+      "blurb": "When a newborn calf was separated from its herd and carried miles downstream by the Teesta River in West Bengal, local fishermen jumped in and swam it to shore against the current. Forest officials then reunited it with its mother, turning a near-tragedy into one of the week's most-watched happy endings.",
+      "url": "https://www.tbsnews.net/world/south-asia/drowning-baby-elephant-rescued-teesta-river-fishermen-reunited-mother-remarkable",
+      "source": "tbsnews.net",
+      "url_key": "tbsnews.net/world/south-asia/drowning-baby-elephant-rescued-teesta-river-fishermen-reunited-mother-remarkable",
+      "title_key": "baby elephant swept 5km down indian river just got mother back",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-24",
+      "headline": "Two Dogs Went Missing in a Deadly Highway Crash — a Whole Town Brought Them Home",
+      "blurb": "After a rollover crash on I-95 in Virginia scattered a bonded pair of dogs into the woods, strangers, a retired state trooper, and a drone operator spent up to 16 days tracking Tobey and Bailey down. Both are now safely home with their owner, Annie, who is recovering from the crash herself.",
+      "url": "https://www.12onyourside.com/2026/09/22/how-is-he-going-survive-that-car-crash-dog-chase-strangers-unite-heartwarming-reunion/",
+      "source": "12onyourside.com",
+      "url_key": "12onyourside.com/2026/09/22/how-is-he-going-survive-that-car-crash-dog-chase-strangers-unite-heartwarming-reunion",
+      "title_key": "two dogs went missing deadly highway crash whole town brought them home",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11513,6 +11549,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-23T12:17:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-24T01:53:28Z",
       "accepted": 3,
       "rejected": 2
     }
