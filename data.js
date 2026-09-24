@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-24T01:53:28Z",
+  "updated": "2026-09-24T07:05:02Z",
   "stories": [
     {
       "stream": "ai",
@@ -9988,6 +9988,42 @@ window.NEWS_DATA = {
       "url_key": "12onyourside.com/2026/09/22/how-is-he-going-survive-that-car-crash-dog-chase-strangers-unite-heartwarming-reunion",
       "title_key": "two dogs went missing deadly highway crash whole town brought them home",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-24",
+      "headline": "A Whale Dodged Rescuers 50 Times — Then Let Them Save It",
+      "blurb": "An 18-foot minke whale got tangled in a buoy line off Cape Cod, rope wrapped clean through its mouth and around its head. Rescuers chased it for two hours as it slipped away nearly 50 times, until it finally surfaced close enough for a hook-knife save — and the second the rope came free, it just swam off, gear-free and unbothered.",
+      "url": "https://coastalstudies.org/news/center-for-coastal-studies-successfully-responds-to-difficult-entanglement/",
+      "source": "coastalstudies.org",
+      "url_key": "coastalstudies.org/news/center-for-coastal-studies-successfully-responds-to-difficult-entanglement",
+      "title_key": "whale dodged rescuers 50 times then let them save",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-24",
+      "headline": "One Bridge for Animals Just Cut Highway Crashes by 91%",
+      "blurb": "Colorado built the biggest wildlife overpass in North America over I-25, plus underpasses and fencing, so elk, deer, bears, mountain lions and pronghorn could stop playing chicken with traffic. Nine months in, wildlife-vehicle collisions on that stretch are down 91%, and it came in $15 million under its own budget.",
+      "url": "https://www.cbsnews.com/colorado/news/largest-wildlife-overpass-north-america-colorado-reduce-wildlife-collisions/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/colorado/news/largest-wildlife-overpass-north-america-colorado-reduce-wildlife-collisions",
+      "title_key": "one bridge animals just cut highway crashes 91",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-24",
+      "headline": "A Cat Vanished for 5 Years, Got 2 New Names and 2 New Families — Then Found Its First One Again",
+      "blurb": "Pie the cat went missing from his Maine owner over five years ago, quietly living a double life as 'Charlie' and then 'Phoenix' with two different families in between. After surviving a scary diabetic crash, a chain of rescuers traced him all the way back to Abby Palmer, the original owner who got him as a grieving 10-year-old — proof a good microchip and a lot of luck can close a five-year loop.",
+      "url": "https://www.cbs8.com/article/life/pets/woman-reunites-pet-cat-5-years-later/507-1fd0dd5b-27b0-4a30-b017-5bf1f64e649c",
+      "source": "cbs8.com",
+      "url_key": "cbs8.com/article/life/pets/woman-reunites-pet-cat-5-years-later/507-1fd0dd5b-27b0-4a30-b017-5bf1f64e649c",
+      "title_key": "cat vanished 5 years got 2 new names 2 new families then found first one again",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11556,6 +11592,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-24T01:53:28Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-24T07:05:02Z",
       "accepted": 3,
       "rejected": 2
     }
