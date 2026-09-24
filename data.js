@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-24T07:05:02Z",
+  "updated": "2026-09-24T12:17:27Z",
   "stories": [
     {
       "stream": "ai",
@@ -10024,6 +10024,42 @@ window.NEWS_DATA = {
       "url_key": "cbs8.com/article/life/pets/woman-reunites-pet-cat-5-years-later/507-1fd0dd5b-27b0-4a30-b017-5bf1f64e649c",
       "title_key": "cat vanished 5 years got 2 new names 2 new families then found first one again",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-24",
+      "headline": "An AI Just Discovered a Brand-New CRISPR-Like Molecular Toolkit — On Its Own",
+      "blurb": "Anthropic set 950 Claude agents loose on a giant database of DNA sequences with almost no human guidance, and after 21 hours they flagged a never-before-seen enzyme system that looks and behaves like the machinery behind CRISPR. Its exact function is still unknown, but it belongs to a rare family of programmable DNA-editing tools — meaning AI didn't just analyze biology this time, it found something new in it.",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "anthropic.com",
+      "url_key": "anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title_key": "ai just discovered brand new crispr like molecular toolkit own",
+      "topic": "AI"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-24",
+      "headline": "Scientists Just Found a 'Fire Amoeba' That Shattered the Heat Limit for Complex Life",
+      "blurb": "In a volcanic hot spring at Lassen National Park, researchers discovered Incendiamoeba cascadensis, a single-celled organism that keeps dividing at a scorching 63°C — smashing the old 60°C ceiling thought to cap all eukaryotic life. It's a reminder that the rulebook for where complex life can thrive, on this planet and maybe others, keeps getting rewritten.",
+      "url": "https://www.sci.news/biology/incendiamoeba-cascadensis-15086.html",
+      "source": "sci.news",
+      "url_key": "sci.news/biology/incendiamoeba-cascadensis-15086.html",
+      "title_key": "scientists just found fire amoeba shattered heat limit complex life",
+      "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-24",
+      "headline": "A Simple Skin Cream Just Made Old Wounds Heal Like Young Ones Again",
+      "blurb": "Scientists applied a topical drug that clears out worn-out 'zombie' cells from aged mouse skin, and wounds on treated elderly mice fully healed 80% of the time versus just 56% for untreated ones. The drug stayed put in the skin rather than spreading through the body, hinting at a low-risk path toward real treatments for slow-healing wounds in older people.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260922223008.htm",
+      "title_key": "simple skin cream just made old wounds heal like young ones again",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -11599,6 +11635,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-24T07:05:02Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-24T12:17:27Z",
       "accepted": 3,
       "rejected": 2
     }
