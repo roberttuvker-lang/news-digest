@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-24T12:17:27Z",
+  "updated": "2026-09-25T01:52:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -10060,6 +10060,42 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260922223008.htm",
       "title_key": "simple skin cream just made old wounds heal like young ones again",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-25",
+      "headline": "Astronomers Just Spotted a Ghostly Thread of Stars That Could Map Dark Matter",
+      "blurb": "Scientists have found the first-ever globular cluster stellar stream in a galaxy beyond the Milky Way, a faint ribbon of stars unraveling like thread from a ball of yarn. Because these streams bend under gravity's pull, they give researchers a brand-new tool to trace invisible dark matter in distant galaxies.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081110.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260921081110.htm",
+      "title_key": "astronomers just spotted ghostly thread stars could map dark matter",
+      "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-25",
+      "headline": "Engineers Just Solved a Decades-Old Puzzle About Arctic Sea Ice",
+      "blurb": "A team led by researchers at UC Riverside found that Arctic ice floes constantly colliding and trading energy explains long-standing mysteries about how the ice moves and spreads, something wind alone never could. The simple insight could sharpen forecasts of the Arctic's future as it keeps warming.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260917003708.htm",
+      "title_key": "engineers just solved decades old puzzle about arctic sea ice",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-25",
+      "headline": "Two Brand-New Snail Species Just Strengthened the Case for Saving a Canyon",
+      "blurb": "Scientists and citizen explorers discovered two tiny new snail species, each barely 6mm long, living on limestone cliffs in Montenegro's Komarnica Canyon. The find bolsters the push to protect the canyon from a proposed hydropower dam, showing there's still hidden life left to find in Europe's wild corners.",
+      "url": "https://www.universiteitleiden.nl/en/news/2026/07/discovery-of-new-snail-species-bolster-case-for-protecting-montenegros-biodiversity",
+      "source": "universiteitleiden.nl",
+      "url_key": "universiteitleiden.nl/en/news/2026/07/discovery-of-new-snail-species-bolster-case-for-protecting-montenegros-biodiversity",
+      "title_key": "two brand new snail species just strengthened case saving canyon",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -11642,6 +11678,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-24T12:17:27Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-25T01:52:41Z",
       "accepted": 3,
       "rejected": 2
     }
