@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-25T07:21:31Z",
+  "updated": "2026-09-25T12:18:29Z",
   "stories": [
     {
       "stream": "ai",
@@ -10132,6 +10132,42 @@ window.NEWS_DATA = {
       "url_key": "cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai",
       "title_key": "fat bear week 2026 kicked off literally broke internet",
       "topic": "Nature"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-25",
+      "headline": "Scientists Found Proof Uranus's Tiny Moon Ariel Once Hid a 100-Mile-Deep Ocean",
+      "blurb": "New modeling of Ariel's cracked, ridged terrain shows the little moon likely held a subsurface ocean over 100 miles deep as recently as a billion years ago. It's the latest sign the distant Uranian system could be hiding a whole family of ocean worlds we've barely begun to explore.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260923035951.htm",
+      "title_key": "scientists found proof uranus s tiny moon ariel once hid 100 mile deep ocean",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-25",
+      "headline": "A Gene Therapy Just Restored Real Vision in a Landmark Blindness Trial",
+      "blurb": "Beacon Therapeutics' one-time gene therapy hit its goal in a pivotal trial for X-linked retinitis pigmentosa, with nearly a third of treated patients reading multiple extra lines on an eye chart versus zero improvement in untreated patients. It's the first therapy ever to succeed this way for the disease, with a regulatory filing coming before year's end.",
+      "url": "https://www.globenewswire.com/news-release/2026/09/21/3365349/30580/en/beacon-therapeutics-reports-positive-topline-data-from-the-pivotal-vista-trial-of-laru-zova-for-the-treatment-of-x-linked-retinitis-pigmentosa-xlrp.html",
+      "source": "globenewswire.com",
+      "url_key": "globenewswire.com/news-release/2026/09/21/3365349/30580/en/beacon-therapeutics-reports-positive-topline-data-from-the-pivotal-vista-trial-of-laru-zova-for-the-treatment-of-x-linked-retinitis-pigmentosa-xlrp.html",
+      "title_key": "gene therapy just restored real vision landmark blindness trial",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-25",
+      "headline": "Physicists Found 'Time Crystals' Can Sync Up Like Clocks Across a Chip",
+      "blurb": "Researchers watched separate time crystals inside a semiconductor -- bizarre structures that repeat in time instead of space -- fall into the same rhythm even when they started out of sync, communicating across tens of micrometers through electron spins. It's a strange new rule of physics that could open the door to entirely new spin-based devices.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260923035934.htm",
+      "title_key": "physicists found time crystals can sync up like clocks across chip",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -11728,6 +11764,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-25T07:21:31Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-25T12:18:29Z",
       "accepted": 3,
       "rejected": 2
     }
