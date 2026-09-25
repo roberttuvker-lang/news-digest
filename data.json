@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T01:52:41Z",
+  "updated": "2026-09-25T07:21:31Z",
   "stories": [
     {
       "stream": "ai",
@@ -10096,6 +10096,42 @@
       "url_key": "universiteitleiden.nl/en/news/2026/07/discovery-of-new-snail-species-bolster-case-for-protecting-montenegros-biodiversity",
       "title_key": "two brand new snail species just strengthened case saving canyon",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-25",
+      "headline": "A Flock of Sheep Staged a Surprise Field Trip to Their New High School",
+      "blurb": "A dozen-odd sheep busted out of a nearby Episcopal Diocese pasture and wandered straight onto the grounds of Burlington, Vermont's brand-new high school — like they'd RSVP'd. Staff and students rounded up the fluffy trespassers with zero drama, and the school district couldn't resist gently roasting its new 'students' online.",
+      "url": "https://www.upi.com/Odd_News/2026/09/23/Burlington-High-School-sheep-Vermont/2081790176220",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/23/burlington-high-school-sheep-vermont/2081790176220",
+      "title_key": "flock sheep staged surprise field trip their new high school",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-25",
+      "headline": "78-Year-Old 'Grumpy Gran' Just Became the World's Oldest Female Fortnite Streamer",
+      "blurb": "Scotland's Cath Bowie picked up a controller in 2017 after watching her grandson play, and nearly nine years and up to six hours a day later, Guinness just made it official: oldest female Fortnite streamer on the planet. Her message to anyone who thinks gaming has an age limit — it absolutely does not.",
+      "url": "https://www.upi.com/Odd_News/2026/09/24/scotland-Guinness-World-Records-oldest-Fortnite-streamer/9581790273068/",
+      "source": "upi.com",
+      "url_key": "upi.com/odd_news/2026/09/24/scotland-guinness-world-records-oldest-fortnite-streamer/9581790273068",
+      "title_key": "78 year old grumpy gran just became world s oldest female fortnite streamer",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-25",
+      "headline": "Fat Bear Week 2026 Kicked Off and Literally Broke the Internet",
+      "blurb": "Alaska's beloved bracket of chonky brown bears launched this week with so many fans rushing to vote that organizers had to reopen the first round just to let everyone in. Park rangers say there are more cubs at Brooks Camp than in years, meaning a whole new generation of future champions is already bulking up.",
+      "url": "https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/",
+      "source": "cbsnews.com",
+      "url_key": "cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai",
+      "title_key": "fat bear week 2026 kicked off literally broke internet",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -11685,6 +11721,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-25T01:52:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-25T07:21:31Z",
       "accepted": 3,
       "rejected": 2
     }
