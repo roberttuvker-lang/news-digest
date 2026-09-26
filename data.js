@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-26T07:07:03Z",
+  "updated": "2026-09-26T12:17:21Z",
   "stories": [
     {
       "stream": "ai",
@@ -10240,6 +10240,42 @@ window.NEWS_DATA = {
       "url_key": "goodnewsnetwork.org/nonprofit-puts-ex-cons-to-work-with-paid-apprenticeships-as-machinists",
       "title_key": "san diego machine shop turns ex cons into certified machinists s working spectacularly",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-26",
+      "headline": "Physicists Just Proved Exotic Particles Can Run a Universal Quantum Computer",
+      "blurb": "Using 54 qubits on Quantinuum's H2 processor, researchers from UChicago, Harvard, Stony Brook and Quantinuum showed that braiding and fusing non-Abelian anyons can perform every operation a universal quantum computer needs, skipping the costly 'magic-state' prep that has slowed the field for years. It's a real shot at fault-tolerant, large-scale quantum machines arriving sooner than expected.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260924020403.htm",
+      "title_key": "physicists just proved exotic particles can run universal quantum computer",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-26",
+      "headline": "Scientists Just Turned Plastic Bags Into Gasoline at Barely 200 Degrees",
+      "blurb": "Oak Ridge National Lab, with UT Knoxville and Berkeley Lab, found a molten-salt method that converts everyday polyethylene into gasoline- and diesel-like fuel below 200°C with no added hydrogen, solvents, or precious metals, and a 60% gasoline yield. It's a cheap, scalable way to turn a waste problem into usable energy.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260920222405.htm",
+      "title_key": "scientists just turned plastic bags into gasoline barely 200 degrees",
+      "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-26",
+      "headline": "Stem Cells Just Rewired a Stroke-Damaged Mouse Brain Back to Working",
+      "blurb": "Transplanted human neural stem cells grew into new neurons that wired themselves into a stroke-damaged mouse brain's motor circuits, cutting inflammation and restoring lost movement within weeks. The cells were produced under clinical-manufacturing-ready conditions, putting a real human stroke therapy within sight.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260921081116.htm",
+      "title_key": "stem cells just rewired stroke damaged mouse brain back working",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -11857,6 +11893,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-26T07:07:03Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-26T12:17:21Z",
       "accepted": 3,
       "rejected": 2
     }
