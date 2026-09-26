@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T12:18:29Z",
+  "updated": "2026-09-26T01:54:01Z",
   "stories": [
     {
       "stream": "ai",
@@ -10168,6 +10168,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260923035934.htm",
       "title_key": "physicists found time crystals can sync up like clocks across chip",
       "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-26",
+      "headline": "Strangers Raised $661,000 for an 81-Year-Old Still Hauling Suitcases to Pay His Wife's Cancer Bills",
+      "blurb": "A Ring camera caught Don Johnson, 81, working 14-hour days delivering lost luggage in North Texas to cover his wife Josephine's cancer treatment, and a neighbor who saw the clip started a fundraiser. Over 10,000 strangers have since donated more than $661,000, enough for her care and for Don to finally stop working.",
+      "url": "https://www.sunnyskyz.com/good-news/6315/Strangers-Step-Up-to-Help-81-Year-Old-Man-Working-14-Hour-Days-Delivering-Heavy-Luggage-to-Help-Pay-for-His-Wife-s-Cancer-Treatment",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6315/strangers-step-up-to-help-81-year-old-man-working-14-hour-days-delivering-heavy-luggage-to-help-pay-for-his-wife-s-cancer-treatment",
+      "title_key": "strangers raised 661 000 81 year old still hauling suitcases pay his wife s cancer bills",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-26",
+      "headline": "Gene-Edited Donor Stem Cells Just Gave Doctors a Way to Hit Blood Cancer Without Hitting Healthy Cells",
+      "blurb": "In a 30-patient trial for high-risk leukemia, researchers used CRISPR to strip a marker called CD33 off donor stem cells before transplant, so a follow-up therapy can now target CD33 to kill lingering cancer cells while leaving the new, edited blood system untouched. It's an early but genuinely elegant fix for one of transplant medicine's oldest trade-offs.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260924020408.htm",
+      "title_key": "gene edited donor stem cells just gave doctors way hit blood cancer without hitting healthy cells",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-26",
+      "headline": "A Fish Written Off as Locally Extinct for a Century Just Turned Up Again in the Inn River",
+      "blurb": "Researchers at Germany's Technical University of Munich found the Danube gudgeon, a pollution-sensitive fish gone from that stretch of the Inn River for over 100 years, swimming through a newly built fish passage. Its return suggests the river's restoration work is paying off and the species may be reclaiming its old range.",
+      "url": "https://phys.org/news/2026-09-lost-fish-species-rediscovered-section.html",
+      "source": "phys.org",
+      "url_key": "phys.org/news/2026-09-lost-fish-species-rediscovered-section.html",
+      "title_key": "fish written off locally extinct century just turned up again inn river",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -11771,6 +11807,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-25T12:18:29Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-26T01:54:01Z",
       "accepted": 3,
       "rejected": 2
     }
