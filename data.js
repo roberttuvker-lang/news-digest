@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-26T01:54:01Z",
+  "updated": "2026-09-26T07:07:03Z",
   "stories": [
     {
       "stream": "ai",
@@ -10204,6 +10204,42 @@ window.NEWS_DATA = {
       "url_key": "phys.org/news/2026-09-lost-fish-species-rediscovered-section.html",
       "title_key": "fish written off locally extinct century just turned up again inn river",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-26",
+      "headline": "A Blind 54-Year-Old Chimp Got Cataract Surgery and Reunited With His Best Friend Within Days",
+      "blurb": "Pierre, a chimpanzee rescued from a research lab, had gone completely blind from cataracts — until Chimp Haven's vets performed the sanctuary's first-ever cataract surgery on him. Within hours he was responding to his longtime caregiver again, and within days he was back palling around with Jill, his closest chimp companion.",
+      "url": "https://www.goodnewsnetwork.org/cataract-surgery-restores-sight-for-54-year-old-chimpanzee-the-first-such-procedure-at-chimp-haven/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/cataract-surgery-restores-sight-for-54-year-old-chimpanzee-the-first-such-procedure-at-chimp-haven",
+      "title_key": "blind 54 year old chimp got cataract surgery reunited his best friend within days",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-26",
+      "headline": "Scientists Found Two Brand-New Sea Spiders and One Is Basically Nightmare Fuel (Affectionately)",
+      "blurb": "Divers off British Columbia's Salish Sea just turned up two sea spider species new to science — one with hairy legs, red eyes, and a triangular three-lipped mouth it uses to groom itself, the other named for an Indigenous village site. It's the first new sea spider species found there in almost a century, proof there's still wonderfully weird stuff hiding in the shallows.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005412.htm",
+      "title_key": "scientists found two brand new sea spiders one basically nightmare fuel affectionately",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-26",
+      "headline": "This San Diego Machine Shop Turns Ex-Cons Into Certified Machinists — and It's Working Spectacularly",
+      "blurb": "Rise Up Industries takes men fresh out of decades in prison and puts them through an 18-month paid apprenticeship building real aerospace and medical parts, complete with therapy and life-skills coaching. The payoff: a 3% reoffending rate versus a national average around 66% — that's not just a good news story, that's basically a magic trick.",
+      "url": "https://www.goodnewsnetwork.org/nonprofit-puts-ex-cons-to-work-with-paid-apprenticeships-as-machinists/",
+      "source": "goodnewsnetwork.org",
+      "url_key": "goodnewsnetwork.org/nonprofit-puts-ex-cons-to-work-with-paid-apprenticeships-as-machinists",
+      "title_key": "san diego machine shop turns ex cons into certified machinists s working spectacularly",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -11814,6 +11850,13 @@ window.NEWS_DATA = {
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-26T01:54:01Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-26T07:07:03Z",
       "accepted": 3,
       "rejected": 2
     }
