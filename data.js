@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-26T12:17:21Z",
+  "updated": "2026-09-27T01:52:20Z",
   "stories": [
     {
       "stream": "ai",
@@ -10276,6 +10276,84 @@ window.NEWS_DATA = {
       "url_key": "sciencedaily.com/releases/2026/09/260921081116.htm",
       "title_key": "stem cells just rewired stroke damaged mouse brain back working",
       "topic": "Health"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "Google, OpenAI and Anthropic form a joint 'Frontier AI Standards Agency'",
+      "blurb": "The three labs are setting up a shared standards body, reportedly courting Sriram Krishnan as CEO, to define safety and evaluation norms across the industry rather than leaving each lab to self-police.",
+      "url": "https://openai.com/news/",
+      "source": "openai.com",
+      "url_key": "openai.com/news",
+      "title_key": "google openai anthropic form joint frontier ai standards agency",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "Anthropic and OpenAI both ship cheaper flagship models",
+      "blurb": "Anthropic released Claude Opus 5.5, roughly 40% cheaper to run than Opus 5, while OpenAI shipped GPT-6 Sol and Luna the same week — the first releases since both labs called for an industry slowdown.",
+      "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "source": "cnbc.com",
+      "url_key": "cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "title_key": "anthropic openai both ship cheaper flagship models",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "Google says Gemini 4 could ship 'much earlier' than planned",
+      "blurb": "DeepMind's Koray Kavukcuoglu says Gemini 4 has entered post-training and Google wants an early version out fast, targeting coding and long-horizon agentic work after Gemini fell behind rivals on benchmarks.",
+      "url": "https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/",
+      "source": "9to5google.com",
+      "url_key": "9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible",
+      "title_key": "google says gemini 4 could ship much earlier than planned",
+      "topic": "AI",
+      "category": "Models"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "California's Newsom faces a September 30 deadline on frontier AI bill SB 1047",
+      "blurb": "The Safe and Secure Innovation for Frontier AI Models Act cleared both legislative chambers in late August; Newsom must sign or veto by month's end, a decision that will shape US state-level AI rules.",
+      "url": "https://cdt.org/insights/2026-state-and-federal-ai-legislation-updates/",
+      "source": "cdt.org",
+      "url_key": "cdt.org/insights/2026-state-and-federal-ai-legislation-updates",
+      "title_key": "california s newsom faces september 30 deadline frontier ai bill sb 1047",
+      "topic": "AI",
+      "category": "Policy"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "Coding-agent startup Factory raises $200M at a $5B valuation",
+      "blurb": "The round underscores investor appetite for autonomous coding agents even as major labs report 'model fatigue' from the pace of releases.",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "url_key": "aiagentstore.ai/ai-agent-news/this-week",
+      "title_key": "coding agent startup factory raises 200m 5b valuation",
+      "topic": "AI",
+      "category": "Companies"
+    },
+    {
+      "stream": "ai",
+      "run": "morning-0450",
+      "date": "2026-09-27",
+      "headline": "Legal-AI platform Legora raises $550M Series D at a $5.55B valuation",
+      "blurb": "Legora helps lawyers and in-house teams research, review documents and draft filings, part of a heavy funding week for vertical AI applications.",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "source": "news.crunchbase.com",
+      "url_key": "news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal",
+      "title_key": "legal ai platform legora raises 550m series d 5 55b valuation",
+      "topic": "AI",
+      "category": "Companies"
     }
   ],
   "runs": [
@@ -11902,6 +11980,13 @@ window.NEWS_DATA = {
       "at": "2026-09-26T12:17:21Z",
       "accepted": 3,
       "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "ai",
+      "at": "2026-09-27T01:52:20Z",
+      "accepted": 6,
+      "rejected": 6
     }
   ]
 };
