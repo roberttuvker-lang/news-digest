@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-27T01:52:20Z",
+  "updated": "2026-09-27T07:05:14Z",
   "stories": [
     {
       "stream": "ai",
@@ -10354,6 +10354,42 @@ window.NEWS_DATA = {
       "title_key": "legal ai platform legora raises 550m series d 5 55b valuation",
       "topic": "AI",
       "category": "Companies"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-27",
+      "headline": "Scientists Torched Their Own Scrolls On Purpose — And It Might Crack Vesuvius's Biggest Mystery",
+      "blurb": "To finally read the 2,000-year-old scrolls carbonized by Mount Vesuvius, researchers did something delightfully backwards: they wrote fresh passages in lead-based ink, then burned and sealed their own papyrus to match. The trick worked — lead soaks up 25x more X-rays than scorched papyrus, making hidden Herculaneum text pop on a scan without ever unrolling the fragile originals.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005414.htm",
+      "title_key": "scientists torched their own scrolls purpose might crack vesuvius s biggest mystery",
+      "topic": "Science"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-27",
+      "headline": "Sri Lanka Just Gave Its Railways a Sixth Sense for Elephants",
+      "blurb": "Thirteen crossing points on Sri Lanka's busiest elephant corridors now bristle with vibration sensors, radar and thermal cameras that feel an elephant's footsteps in the ground before a train ever sees it. An AI flags the animal, beams a warning straight to the driver's cab, and a decades-old, heartbreaking collision problem finally gets a fighting chance at zero.",
+      "url": "https://positron.today/posts/2026-09-18-smart-radar-sensors-are-protecting-migrating-elephants-from/",
+      "source": "positron.today",
+      "url_key": "positron.today/posts/2026-09-18-smart-radar-sensors-are-protecting-migrating-elephants-from",
+      "title_key": "sri lanka just gave railways sixth sense elephants",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-27",
+      "headline": "Toronto Just Built a Neighborhood Where the Street Is a Park",
+      "blurb": "Ookwemin Minising, a brand-new island district on Toronto's waterfront, is swapping asphalt for a half-mile, tree-lined pedestrian boulevard called Centre Commons — soon to be Canada's longest year-round car-free stretch. Four hundred trees, flood-absorbing 'sponge streets' and room for 21,000 future residents, all on land reshaped at the mouth of the Don River.",
+      "url": "https://www.fastcompany.com/91541738/ookwemin-minising-toronto-sponge-streets-green-corridors",
+      "source": "fastcompany.com",
+      "url_key": "fastcompany.com/91541738/ookwemin-minising-toronto-sponge-streets-green-corridors",
+      "title_key": "toronto just built neighborhood where street park",
+      "topic": "Environment"
     }
   ],
   "runs": [
@@ -11987,6 +12023,13 @@ window.NEWS_DATA = {
       "at": "2026-09-27T01:52:20Z",
       "accepted": 6,
       "rejected": 6
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-27T07:05:14Z",
+      "accepted": 3,
+      "rejected": 2
     }
   ]
 };
