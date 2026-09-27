@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-27T07:05:14Z",
+  "updated": "2026-09-27T12:19:06Z",
   "stories": [
     {
       "stream": "ai",
@@ -10390,6 +10390,42 @@ window.NEWS_DATA = {
       "url_key": "fastcompany.com/91541738/ookwemin-minising-toronto-sponge-streets-green-corridors",
       "title_key": "toronto just built neighborhood where street park",
       "topic": "Environment"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-27",
+      "headline": "Physicists Just Watched Matter Pop Into Existence Inside a Quantum Computer",
+      "blurb": "Duke researchers used a 13-ion quantum simulator to recreate 'string breaking,' the extreme process that normally needs a particle collider or the aftermath of the Big Bang to create new particles from pure energy. It's one of the first times this physics has been observed on a quantum simulator, and it's a preview of these machines becoming real tools for probing how the universe itself came to be.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005416.htm",
+      "title_key": "physicists just watched matter pop into existence inside quantum computer",
+      "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-27",
+      "headline": "Your Weight-Loss Shot May Be Doing Something Doctors Didn't Expect",
+      "blurb": "New research shows tirzepatide (Zepbound/Mounjaro) doesn't just curb appetite — it switches on calorie-burning brown fat, a metabolic effect separate from eating less. If it holds up in humans, it could point the way to even more powerful treatments for obesity and diabetes than we have today.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925093210.htm",
+      "title_key": "your weight loss shot may doing something doctors didn t expect",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-27",
+      "headline": "Scientists Think Fungi Could Turn Martian Dirt Into Farmland",
+      "blurb": "Researchers have identified beneficial fungi that partner with plant roots to help them survive the harsh, nutrient-poor soil of the Moon and Mars, extracting nutrients and buffering out toxic elements. It's early-stage work, but it's a real step toward self-sustaining farms on other worlds — a quietly huge deal for how far humans could eventually live and thrive off Earth.",
+      "url": "https://scitechdaily.com/scientists-think-fungi-could-turn-martian-dirt-into-farmland/",
+      "source": "scitechdaily.com",
+      "url_key": "scitechdaily.com/scientists-think-fungi-could-turn-martian-dirt-into-farmland",
+      "title_key": "scientists think fungi could turn martian dirt into farmland",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -12028,6 +12064,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-27T07:05:14Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-27T12:19:06Z",
       "accepted": 3,
       "rejected": 2
     }
