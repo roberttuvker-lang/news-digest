@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T01:52:42Z",
+  "updated": "2026-09-28T07:31:41Z",
   "stories": [
     {
       "stream": "ai",
@@ -10462,6 +10462,42 @@
       "url_key": "conservationfund.org/our-impact/news-insights/conserving-final-pieces-of-grand-teton-national-park",
       "title_key": "25 year land deal just finished protecting last private piece grand teton",
       "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-28",
+      "headline": "A Mom Heard Her Late Daughter's Heartbeat Again — Inside a Stranger's Chest",
+      "blurb": "A year after her daughter died, a mother finally met the woman who received her heart — and asked to listen. The beat was unmistakably familiar, and the reunion turned into the happy ending nobody saw coming.",
+      "url": "https://www.ksla.com/video/2026/09/27/mom-hears-late-daughters-heartbeat-again-when-she-meets-woman-who-got-donated-heart/",
+      "source": "ksla.com",
+      "url_key": "ksla.com/video/2026/09/27/mom-hears-late-daughters-heartbeat-again-when-she-meets-woman-who-got-donated-heart",
+      "title_key": "mom heard her late daughter s heartbeat again inside stranger s chest",
+      "topic": "Health"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-28",
+      "headline": "A Bird Missing Since 2013 Just Popped Back Up on a Footbridge in West Africa",
+      "blurb": "Ten minutes into a walk through Ivory Coast's Taï National Park, a birder glanced up and there it was: the Ghana cuckooshrike, unseen and feared fading for 13 years. Turns out it never really left, just got very good at hiding.",
+      "url": "https://news.mongabay.com/2026/09/lost-bird-reappears-in-west-africas-forests-after-more-than-a-decade/",
+      "source": "news.mongabay.com",
+      "url_key": "news.mongabay.com/2026/09/lost-bird-reappears-in-west-africas-forests-after-more-than-a-decade",
+      "title_key": "bird missing since 2013 just popped back up footbridge west africa",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-28",
+      "headline": "Scientists Taught an AI to Sniff Out Smells Bees Hate — On Purpose, to Save Them",
+      "blurb": "Researchers screened 50 million compounds with machine learning to find scents that shoo honeybees away from pesticide-treated crops without hurting them. Seven candidates worked perfectly in real field tests — a tiny stink that could be a big win for pollinators.",
+      "url": "https://news.ucr.edu/articles/2026/09/24/machine-learning-helps-identify-chemicals-repel-honey-bees-pesticides",
+      "source": "news.ucr.edu",
+      "url_key": "news.ucr.edu/articles/2026/09/24/machine-learning-helps-identify-chemicals-repel-honey-bees-pesticides",
+      "title_key": "scientists taught ai sniff out smells bees hate purpose save them",
+      "topic": "Science"
     }
   ],
   "runs": [
@@ -12114,6 +12150,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-28T01:52:42Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-28T07:31:41Z",
       "accepted": 3,
       "rejected": 2
     }
