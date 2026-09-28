@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-27T12:19:06Z",
+  "updated": "2026-09-28T01:52:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -10426,6 +10426,42 @@ window.NEWS_DATA = {
       "url_key": "scitechdaily.com/scientists-think-fungi-could-turn-martian-dirt-into-farmland",
       "title_key": "scientists think fungi could turn martian dirt into farmland",
       "topic": "Space"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-28",
+      "headline": "Scientists Just Found the Oldest Complex Life Ever Recorded, Hiding in a Forgotten Warehouse",
+      "blurb": "Researchers crushed decades-old rock cores stored in an open-air Darwin warehouse and found over 12,000 fossils of eukaryotes dating back 1.75 billion years, the oldest such fossils known on Earth. The find shows early complex cells were already thriving wherever oxygen reached, a big clue to how complex life first got going.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005447.htm",
+      "title_key": "scientists just found oldest complex life ever recorded hiding forgotten warehouse",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-28",
+      "headline": "Seven Teens Spotted a Stranded Driver on a Busy Highway and Just Pushed Her Car to Safety",
+      "blurb": "When Robin Gay's car died in traffic on a busy Massachusetts highway, seven high schoolers stopped, directed traffic, and pushed her vehicle to a nearby parking spot, refusing any payment. \"Just show kindness to whoever needs it,\" one of the teens said afterward.",
+      "url": "https://www.sunnyskyz.com/good-news/6314/-It-Was-Unbelievable-High-School-Students-Help-Woman-Stranded-In-Middle-Of-Busy-Highway",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6314/-it-was-unbelievable-high-school-students-help-woman-stranded-in-middle-of-busy-highway",
+      "title_key": "seven teens spotted stranded driver busy highway just pushed her car safety",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-28",
+      "headline": "A 25-Year Land Deal Just Finished Protecting the Last Private Piece of Grand Teton",
+      "blurb": "The National Park Service and The Conservation Fund closed the sixth and final parcel of a quarter-century effort, adding 210 acres of former ranchland back into Grand Teton National Park. The newly protected land is prime grizzly bear, moose, and elk habitat in the Greater Yellowstone Ecosystem.",
+      "url": "https://www.conservationfund.org/our-impact/news-insights/conserving-final-pieces-of-grand-teton-national-park/",
+      "source": "conservationfund.org",
+      "url_key": "conservationfund.org/our-impact/news-insights/conserving-final-pieces-of-grand-teton-national-park",
+      "title_key": "25 year land deal just finished protecting last private piece grand teton",
+      "topic": "Nature"
     }
   ],
   "runs": [
@@ -12071,6 +12107,13 @@ window.NEWS_DATA = {
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-27T12:19:06Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-28T01:52:42Z",
       "accepted": 3,
       "rejected": 2
     }
