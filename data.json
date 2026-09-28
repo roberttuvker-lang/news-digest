@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T07:31:41Z",
+  "updated": "2026-09-28T12:18:21Z",
   "stories": [
     {
       "stream": "ai",
@@ -10498,6 +10498,42 @@
       "url_key": "news.ucr.edu/articles/2026/09/24/machine-learning-helps-identify-chemicals-repel-honey-bees-pesticides",
       "title_key": "scientists taught ai sniff out smells bees hate purpose save them",
       "topic": "Science"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-28",
+      "headline": "A Single CRISPR Shot Cut 'Bad' Cholesterol in Half — and It's Still Working a Year Later",
+      "blurb": "In a first-in-human trial, one infusion of an experimental gene-editing therapy slashed LDL cholesterol by over 52% and triglycerides by nearly 48% in patients whose lipid disorders hadn't responded to drugs — with no serious side effects after a full year of follow-up. It's a real glimpse of heart disease's biggest risk factor being edited out for good instead of managed with a lifetime of pills.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005434.htm",
+      "title_key": "single crispr shot cut bad cholesterol half s still working year later",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-28",
+      "headline": "NASA Just Greenlit a New Space Telescope Built to Catch the Universe's Weirdest Objects",
+      "blurb": "NASA has moved its PRIMA far-infrared observatory into full design and development, setting it on track to explore how galaxies, stars, and planets have evolved since the early universe. It's the next great eye on the cosmos, tuned to catch light no telescope flying today can see.",
+      "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
+      "source": "spaceflightnow.com",
+      "url_key": "spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033",
+      "title_key": "nasa just greenlit new space telescope built catch universe s weirdest objects",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-28",
+      "headline": "Commercial Fusion Just Got Colder Than Pluto — On Purpose",
+      "blurb": "Commonwealth Fusion Systems ran the complete cryogenic plant for its SPARC tokamak down to its full 8-kelvin operating temperature, the exact chill its superconducting magnets need to hold a fusion plasma together. It's an unglamorous but huge milestone that puts real fusion power a big step closer to the grid.",
+      "url": "https://thefusionreport.substack.com/p/this-weeks-fusion-news-september-458",
+      "source": "thefusionreport.substack.com",
+      "url_key": "thefusionreport.substack.com/p/this-weeks-fusion-news-september-458",
+      "title_key": "commercial fusion just got colder than pluto purpose",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -12157,6 +12193,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-28T07:31:41Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-28T12:18:21Z",
       "accepted": 3,
       "rejected": 2
     }
