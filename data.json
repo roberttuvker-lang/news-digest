@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T12:18:21Z",
+  "updated": "2026-09-29T01:53:08Z",
   "stories": [
     {
       "stream": "ai",
@@ -10534,6 +10534,42 @@
       "url_key": "thefusionreport.substack.com/p/this-weeks-fusion-news-september-458",
       "title_key": "commercial fusion just got colder than pluto purpose",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-29",
+      "headline": "A New Pill Just Doubled Survival Time for Advanced Pancreatic Cancer",
+      "blurb": "In a major Phase 3 trial, the oral drug daraxonrasib pushed median survival for previously treated metastatic pancreatic cancer from 6.7 months to 13.2 months by targeting the mutated KRAS protein behind most cases. Doctors are already calling it a new standard of care for a disease that has seen almost no progress in decades.",
+      "url": "https://www.masseycancercenter.org/news/2026/massey-doctors-discuss-new-pancreatic-cancer-drug-that-doubles-survival-in-advanced-disease/",
+      "source": "masseycancercenter.org",
+      "url_key": "masseycancercenter.org/news/2026/massey-doctors-discuss-new-pancreatic-cancer-drug-that-doubles-survival-in-advanced-disease",
+      "title_key": "new pill just doubled survival time advanced pancreatic cancer",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-29",
+      "headline": "A 70-Year-Old Survived 11 Days Lost in the Wilderness — and a Trail Camera Helped Bring Him Home",
+      "blurb": "Craig Berg vanished on a solo backpacking trip through Michigan's remote Isle Royale, surviving on dirty water and scraps after falling into a swamp and losing his phone. A trail camera image and two kayakers he flagged down gave rescuers his location, and a Coast Guard helicopter crew hoisted him to safety.",
+      "url": "https://www.goodgoodgood.co/articles/craig-berg-missing-hiker-found-isle-royale-national-park",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/craig-berg-missing-hiker-found-isle-royale-national-park",
+      "title_key": "70 year old survived 11 days lost wilderness trail camera helped bring him home",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-29",
+      "headline": "An Anonymous Tip Line Just Stopped Its 20th School Shooting",
+      "blurb": "A tip through Sandy Hook Promise's anonymous reporting system led the FBI to a 14-year-old in Crawford County, Arkansas, who had posted detailed threats and had matching weapons at home. It's the 20th planned school shooting the nonprofit's tip line has helped prevent since it launched.",
+      "url": "https://campussecuritytoday.com/articles/2026/09/21/sandy-hook-promise-prevention-programs-stop-20-school-shootings.aspx",
+      "source": "campussecuritytoday.com",
+      "url_key": "campussecuritytoday.com/articles/2026/09/21/sandy-hook-promise-prevention-programs-stop-20-school-shootings.aspx",
+      "title_key": "anonymous tip line just stopped 20th school shooting",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -12200,6 +12236,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-28T12:18:21Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-29T01:53:08Z",
       "accepted": 3,
       "rejected": 2
     }
