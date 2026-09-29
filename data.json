@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T07:23:32Z",
+  "updated": "2026-09-29T12:19:53Z",
   "stories": [
     {
       "stream": "ai",
@@ -10606,6 +10606,42 @@
       "url_key": "smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443",
       "title_key": "truck driver spent 20 years building nyc his basement now s museum",
       "topic": "Society"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-29",
+      "headline": "Starship Just Reached Orbit for the First Time Ever",
+      "blurb": "SpaceX's giant Starship and Super Heavy rocket made it all the way to orbit on its 14th test flight, deploying 26 Starlink satellites along the way despite losing an engine en route. It's the clearest sign yet that fully reusable, orbital-class rockets are becoming routine — the kind of leap that makes cheap, frequent trips to space (and eventually the Moon and Mars) look genuinely close.",
+      "url": "https://www.cnn.com/2026/09/28/science/live-news/spacex-starship-flight-14-launch",
+      "source": "cnn.com",
+      "url_key": "cnn.com/2026/09/28/science/live-news/spacex-starship-flight-14-launch",
+      "title_key": "starship just reached orbit first time ever",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-29",
+      "headline": "A Cheap, Common Blood Thinner Just Cut Serious Heart Events by 69%",
+      "blurb": "A major trial found that people with atrial fibrillation at only 'intermediate' stroke risk saw a 69% drop in strokes, major bleeds, and cardiovascular death when given standard oral anticoagulants, with no added bleeding risk. It's a simple, already-available fix that could prevent thousands of strokes in people who doctors currently just watch and wait on.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925005439.htm",
+      "title_key": "cheap common blood thinner just cut serious heart events 69",
+      "topic": "Health"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-29",
+      "headline": "A Quantum Computing Bottleneck Just Got Solved With an Ordinary CPU",
+      "blurb": "IonQ demonstrated the first real-time quantum error-correction decoder that runs entirely on a single off-the-shelf CPU, handling over 31 million quantum operations across 408 logical qubits without slowing the machine down. Removing this bottleneck is exactly the kind of unglamorous engineering win that turns quantum computing from a lab curiosity into a practical tool.",
+      "url": "https://www.ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder",
+      "source": "ionq.com",
+      "url_key": "ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder",
+      "title_key": "quantum computing bottleneck just got solved ordinary cpu",
+      "topic": "Technology"
     }
   ],
   "runs": [
@@ -12286,6 +12322,13 @@
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-29T07:23:32Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-29T12:19:53Z",
       "accepted": 3,
       "rejected": 2
     }
