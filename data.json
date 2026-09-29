@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T01:53:08Z",
+  "updated": "2026-09-29T07:23:32Z",
   "stories": [
     {
       "stream": "ai",
@@ -10570,6 +10570,42 @@
       "url_key": "campussecuritytoday.com/articles/2026/09/21/sandy-hook-promise-prevention-programs-stop-20-school-shootings.aspx",
       "title_key": "anonymous tip line just stopped 20th school shooting",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-29",
+      "headline": "A Gannet Doing 50mph Straight Into the Ocean Just Won Bird Photo of the Year",
+      "blurb": "British photographer Henley Spiers caught a northern gannet breaking the ocean's surface off Shetland at diving speed — faster than an Olympic platform diver — and the shot, 'Sunball Rocket,' just topped 24,000 entries to win Bird Photographer of the Year 2026. Look at it and try not to gasp.",
+      "url": "https://www.cnn.com/travel/bird-photographer-of-the-year-2026-winning-images-c2e-spc",
+      "source": "cnn.com",
+      "url_key": "cnn.com/travel/bird-photographer-of-the-year-2026-winning-images-c2e-spc",
+      "title_key": "gannet doing 50mph straight into ocean just won bird photo year",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-29",
+      "headline": "A Shivering Bear Cub Swam Into the Middle of a Lake — Boaters Fished Him Out and Fed Him Cheese",
+      "blurb": "A B.C. family boating on Okanagan Lake spotted a tiny black shape struggling to keep its head above water, hauled the exhausted cub aboard, wrapped him in warmth and nicknamed him Boo Boo while he snacked on cheese in the sun. Conservation officers guided them to release him safely near shore, paws down on land.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bear-cub-rescue-okanagan-lake-9.7351238",
+      "source": "cbc.ca",
+      "url_key": "cbc.ca/news/canada/british-columbia/bear-cub-rescue-okanagan-lake-9.7351238",
+      "title_key": "shivering bear cub swam into middle lake boaters fished him out fed him cheese",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-29",
+      "headline": "A Truck Driver Spent 20 Years Building NYC in His Basement — Now It's in a Museum",
+      "blurb": "Joe Macken carved over 800,000 tiny buildings by hand out of balsa wood and foam board, starting with 30 Rock and working outward for two decades purely for the love of it. His daughter posted it to TikTok, it hit 10 million views in a week, and the Museum of the City of New York gave his basement masterpiece a real home.",
+      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+      "source": "smithsonianmag.com",
+      "url_key": "smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443",
+      "title_key": "truck driver spent 20 years building nyc his basement now s museum",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -12243,6 +12279,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-29T01:53:08Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-29T07:23:32Z",
       "accepted": 3,
       "rejected": 2
     }
