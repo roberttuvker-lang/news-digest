@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30T01:53:42Z",
+  "updated": "2026-09-30T07:20:30Z",
   "stories": [
     {
       "stream": "ai",
@@ -10678,6 +10678,42 @@
       "url_key": "sunnyskyz.com/good-news/6318/firefighters-who-helped-save-a-little-girl-039-s-life-continue-to-show-up-for-her",
       "title_key": "three years firefighters who saved her still show up",
       "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-30",
+      "headline": "Yosemite's Long-Lost Frog Just Hit Release Number 10,000",
+      "blurb": "Red-legged frogs vanished from Yosemite Valley about 50 years ago, wiped out by bullfrogs, habitat loss, and hungry raccoons. A decade-long breeding program run out of the San Francisco Zoo has been quietly sneaking tadpoles back in ever since — and this spring they released frog number 10,000, with multiple wild generations now thriving on their own.",
+      "url": "https://www.goodgoodgood.co/articles/yosemite-red-legged-frog-conservation-release",
+      "source": "goodgoodgood.co",
+      "url_key": "goodgoodgood.co/articles/yosemite-red-legged-frog-conservation-release",
+      "title_key": "yosemite s long lost frog just hit release number 10 000",
+      "topic": "Nature"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-30",
+      "headline": "He Free-Climbed a Mossy Cliff With No Gear to Save a Stranded Pilot — and Just Got a Medal For It",
+      "blurb": "When a hang glider crashed into a tree on Mount Prevost, 24-year-old electrician Matthew Clark shimmied up a slippery rock chimney by wedging his back against one wall and his feet against the other, no ropes involved, to reach the semiconscious 75-year-old pilot and cut him free. The pilot made a full recovery, and Clark just received the Carnegie Medal, North America's top civilian honor for heroism.",
+      "url": "https://www.timescolonist.com/local-news/victoria-electrician-wins-carnegie-medal-for-harrowing-cliff-rescue-12809291",
+      "source": "timescolonist.com",
+      "url_key": "timescolonist.com/local-news/victoria-electrician-wins-carnegie-medal-for-harrowing-cliff-rescue-12809291",
+      "title_key": "he free climbed mossy cliff no gear save stranded pilot just got medal",
+      "topic": "Society"
+    },
+    {
+      "stream": "midday",
+      "run": "midday-1002",
+      "date": "2026-09-30",
+      "headline": "NASA's Newest Telescope Just Opened Its 300-Megapixel Eye — and the First Picture Is Delightfully Blurry",
+      "blurb": "A million miles from Earth, the Nancy Grace Roman Space Telescope just powered up its giant Wide Field Instrument for the first time, and the debut test image shows stars as wobbly lime-green loops because the camera isn't focused yet. Once tuned, each shot will cover a swath of sky bigger than the full moon with Hubble-level sharpness — basically a cosmic selfie before the glow-up.",
+      "url": "https://scitechdaily.com/nasas-roman-telescope-opens-its-300-megapixel-eye-on-the-universe/",
+      "source": "scitechdaily.com",
+      "url_key": "scitechdaily.com/nasas-roman-telescope-opens-its-300-megapixel-eye-on-the-universe",
+      "title_key": "nasa s newest telescope just opened 300 megapixel eye first picture delightfully blurry",
+      "topic": "Space"
     }
   ],
   "runs": [
@@ -12372,6 +12408,13 @@
       "run": "morning-0450",
       "stream": "morning",
       "at": "2026-09-30T01:53:42Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "midday-1002",
+      "stream": "midday",
+      "at": "2026-09-30T07:20:30Z",
       "accepted": 3,
       "rejected": 2
     }
