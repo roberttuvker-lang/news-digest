@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T12:19:53Z",
+  "updated": "2026-09-30T01:53:42Z",
   "stories": [
     {
       "stream": "ai",
@@ -10642,6 +10642,42 @@
       "url_key": "ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder",
       "title_key": "quantum computing bottleneck just got solved ordinary cpu",
       "topic": "Technology"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-30",
+      "headline": "27 Years Later, Kosovo Is Officially Free of Landmines",
+      "blurb": "The mine-clearance charity Halo Trust announced its work in Kosovo is finally done, after nearly three decades clearing land that killed and maimed hundreds of returning refugees after the 1998-99 war. The cleared ground has already paved the way for farms, homes and roads to return to full use.",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+      "source": "positive.news",
+      "url_key": "positive.news/society/good-news-stories-from-week-39-of-2026",
+      "title_key": "27 years later kosovo officially free landmines",
+      "topic": "Society"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-30",
+      "headline": "Nepal's Wild Tiger Population Just Tripled in Under Two Decades",
+      "blurb": "A new national census found 429 wild tigers in Nepal, up from just 121 in 2009, thanks to sustained anti-poaching work, habitat protection and cross-border coordination with India. It's one of the most dramatic endangered-species recoveries anywhere in the world.",
+      "url": "https://iucn.org/story/202607/tiger-census-nepals-tiger-number-increases-429",
+      "source": "iucn.org",
+      "url_key": "iucn.org/story/202607/tiger-census-nepals-tiger-number-increases-429",
+      "title_key": "nepal s wild tiger population just tripled under two decades",
+      "topic": "Nature"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-09-30",
+      "headline": "Three Years On, the Firefighters Who Saved Her Still Show Up",
+      "blurb": "A Florida fire crew rushed to save 3-year-old Lila Pagan after she was critically injured in an accident, and they never stopped checking in. Now six, Lila still gets visits from the same firefighters for birthdays and holidays as she continues her recovery.",
+      "url": "https://www.sunnyskyz.com/good-news/6318/Firefighters-Who-Helped-Save-a-Little-Girl-039-s-Life-Continue-to-Show-Up-for-Her",
+      "source": "sunnyskyz.com",
+      "url_key": "sunnyskyz.com/good-news/6318/firefighters-who-helped-save-a-little-girl-039-s-life-continue-to-show-up-for-her",
+      "title_key": "three years firefighters who saved her still show up",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -12329,6 +12365,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-29T12:19:53Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-09-30T01:53:42Z",
       "accepted": 3,
       "rejected": 2
     }
