@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
   "version": 1,
-  "updated": "2026-09-30T07:20:30Z",
+  "updated": "2026-09-30T12:18:04Z",
   "stories": [
     {
       "stream": "ai",
@@ -10714,6 +10714,42 @@ window.NEWS_DATA = {
       "url_key": "scitechdaily.com/nasas-roman-telescope-opens-its-300-megapixel-eye-on-the-universe",
       "title_key": "nasa s newest telescope just opened 300 megapixel eye first picture delightfully blurry",
       "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-30",
+      "headline": "Saturn's Icy Moon May Be Concentrating the Building Blocks of Life — All By Itself",
+      "blurb": "New lab experiments show Enceladus's ice grains freeze and shatter in a way that naturally sorts and concentrates the salts and organics from its hidden ocean before they blast into space. That means the next spacecraft to fly through its geysers won't just sample the ocean — it'll get a pre-sorted chemistry kit pointing straight at whether the moon could host life.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260929053528.htm",
+      "title_key": "saturn s icy moon may concentrating building blocks life all itself",
+      "topic": "Space"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-30",
+      "headline": "A Solid-State Battery Breakthrough Just Promised Twice the Range at Half Today's Price",
+      "blurb": "VW-backed Gotion announced a solid-state battery pushing toward 400 Wh/kg — nearly double a typical EV pack today — while targeting a price of $150/kWh. If it holds up outside the lab, it's the kind of jump that makes longer-range, faster-charging, genuinely affordable EVs the default rather than the exception.",
+      "url": "https://carnewschina.com/2026/09/30/vw-backed-gotion-claims-solid-state-battery-breakthrough-aims-for-150-usd-kwh-400-wh-kg/",
+      "source": "carnewschina.com",
+      "url_key": "carnewschina.com/2026/09/30/vw-backed-gotion-claims-solid-state-battery-breakthrough-aims-for-150-usd-kwh-400-wh-kg",
+      "title_key": "solid state battery breakthrough just promised twice range half today s price",
+      "topic": "Technology"
+    },
+    {
+      "stream": "afternoon",
+      "run": "afternoon-1514",
+      "date": "2026-09-30",
+      "headline": "Scientists Resurrected 160-Million-Year-Old Molecules — and They're Already Beating Superbugs",
+      "blurb": "Researchers reconstructed ancient antimicrobial peptides from the earliest placental mammals and found some later versions punch holes in drug-resistant bacteria more effectively than the modern human version does. It's a genuinely new well to draw from just as antibiotic resistance becomes one of medicine's biggest looming threats.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260925093155.htm",
+      "title_key": "scientists resurrected 160 million year old molecules they re already beating superbugs",
+      "topic": "Health"
     }
   ],
   "runs": [
@@ -12415,6 +12451,13 @@ window.NEWS_DATA = {
       "run": "midday-1002",
       "stream": "midday",
       "at": "2026-09-30T07:20:30Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "afternoon-1514",
+      "stream": "afternoon",
+      "at": "2026-09-30T12:18:04Z",
       "accepted": 3,
       "rejected": 2
     }
