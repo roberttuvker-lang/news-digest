@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30T12:18:04Z",
+  "updated": "2026-10-01T01:53:18Z",
   "stories": [
     {
       "stream": "ai",
@@ -10750,6 +10750,42 @@
       "url_key": "sciencedaily.com/releases/2026/09/260925093155.htm",
       "title_key": "scientists resurrected 160 million year old molecules they re already beating superbugs",
       "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-10-01",
+      "headline": "Scientists Just Cracked a Quantum Entanglement Puzzle That Stumped Them for 25 Years",
+      "blurb": "Researchers at Kyoto University found a way to directly identify 'W state' quantum entanglement in a single step, a measurement problem that had resisted solutions since the 1990s. The breakthrough could make quantum teleportation, communication and computing dramatically easier to build.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+      "source": "sciencedaily.com",
+      "url_key": "sciencedaily.com/releases/2026/09/260929053550.htm",
+      "title_key": "scientists just cracked quantum entanglement puzzle stumped them 25 years",
+      "topic": "Science"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-10-01",
+      "headline": "Every A&E in England Is Getting a Button Families Can Press to Save a Life",
+      "blurb": "The NHS confirmed it is rolling out Martha's Rule — letting patients, relatives or staff call a dedicated number for an urgent second opinion — to every emergency department in England. It was born from one family's campaign after a 13-year-old died when doctors didn't act on her parents' concerns.",
+      "url": "https://www.nursingtimes.net/emergency-and-critical-care/marthas-rule-set-to-be-expanded-to-all-ae-departments-22-09-2026/",
+      "source": "nursingtimes.net",
+      "url_key": "nursingtimes.net/emergency-and-critical-care/marthas-rule-set-to-be-expanded-to-all-ae-departments-22-09-2026",
+      "title_key": "every e england getting button families can press save life",
+      "topic": "Health"
+    },
+    {
+      "stream": "morning",
+      "run": "morning-0450",
+      "date": "2026-10-01",
+      "headline": "Iceland Just Topped the World's Gender Equality Rankings for the 17th Year Running",
+      "blurb": "The World Economic Forum found Iceland has now closed 93% of its overall gender gap, the only country ever to pass 90%, with Finland and Norway close behind. It's a reminder that steady, boring policy work keeps paying off year after year.",
+      "url": "https://www.icelandreview.com/news/iceland-global-gender-gap-ranking-2026-17th-year/",
+      "source": "icelandreview.com",
+      "url_key": "icelandreview.com/news/iceland-global-gender-gap-ranking-2026-17th-year",
+      "title_key": "iceland just topped world s gender equality rankings 17th year running",
+      "topic": "Society"
     }
   ],
   "runs": [
@@ -12458,6 +12494,13 @@
       "run": "afternoon-1514",
       "stream": "afternoon",
       "at": "2026-09-30T12:18:04Z",
+      "accepted": 3,
+      "rejected": 2
+    },
+    {
+      "run": "morning-0450",
+      "stream": "morning",
+      "at": "2026-10-01T01:53:18Z",
       "accepted": 3,
       "rejected": 2
     }
